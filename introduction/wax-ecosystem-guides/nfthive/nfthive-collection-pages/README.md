@@ -1,0 +1,2 @@
+# NFTHive Collection Pages
+

@@ -1,0 +1,2 @@
+# 📈 Exchanges on Wax
+

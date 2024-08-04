@@ -1,0 +1,2 @@
+# WAXP Voting/Staking Rewards
+

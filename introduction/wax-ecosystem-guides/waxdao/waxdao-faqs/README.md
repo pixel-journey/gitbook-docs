@@ -1,0 +1,2 @@
+# WaxDAO FAQs
+

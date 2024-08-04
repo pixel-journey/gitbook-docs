@@ -1,0 +1,2 @@
+# NFTHive PFP Rarity Rankings
+

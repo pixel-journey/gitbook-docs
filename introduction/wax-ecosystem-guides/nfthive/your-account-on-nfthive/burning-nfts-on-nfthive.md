@@ -1,0 +1,2 @@
+# Burning NFTs on NFTHive
+
