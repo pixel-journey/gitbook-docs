@@ -10,15 +10,11 @@ coverY: 0
 [https://www.wuffi.io/](https://www.wuffi.io/)
 {% endembed %}
 
-WUFFI was launched in Q1 2024 as a major memecoin on the Wax blockchain, supported by the Wax.io team, with brand new CloudWallet Bridges connecting the Wax Blockchain with Solana, and the memecoin mania that have taken a fast hold in the Solana DeFi sector. As well as in the following months to release bridges between BASE and .. Soon more ecosystems to come! 👀
+WUFFI was launched in Q1 2024 as a major memecoin on the Wax blockchain, supported by the Wax.io team, with brand new CloudWallet Bridges connecting the Wax Blockchain with Solana, and the memecoin mania that have taken a fast hold in the Solana DeFi sector. As well as in the following months to release bridges between BASE, TON and .. Soon more ecosystems to come! 👀
 
 WUFFI Pawtnered up with +100 projects from the Wax and Solana ecosystems, where we've been lucky to be one of them as well!
 
 ### The Pawtner Pack
-
-(More info to come ..)
-
-
 
 > _"Every bark resonates with unity and every tail wag spells joy! In our pack, we romp through the fields of web3 with a spirit of adventure, led by alpha innovators and fueled by the positive energy of our like-minded, enthusiastic members. Each WUF enthusiast contributes to a lively, engaging, and positively upbeat journey."_
 
@@ -48,7 +44,8 @@ Over 10M of our pixeljourney PXJ have been added towards their LP Rewards, and t
 
 ## Our Pawtner Allocations
 
-In return as part of our Pawtner role with WUFFI, we've gotten some WUF to distribute towards the Pixel Journey community as well 🥳 In 3 allocations of 1.666B WUFFI, distributed \~every 2 months, for the first half year post WUFFI launch. [The first allocation we received May 10 2024](https://waxblock.io/transaction/530763dabb69a8d14d756c5b23871735d1bcfb02dd7de9745fdca67ab063a2f0)
+In return as part of our Pawtner role with WUFFI, we've gotten some WUF to distribute towards the Pixel Journey community as well 🥳 In 3 allocations of 1.666B WUFFI, distributed \~every 2 months, for the first half year post WUFFI launch. \
+[The first allocation we received May 10 2024](https://waxblock.io/transaction/530763dabb69a8d14d756c5b23871735d1bcfb02dd7de9745fdca67ab063a2f0). [And second allocation received July 11 2024.](https://waxblock.io/transaction/a0c23c2f92c553b6167e8f03b52d32cd63a6c1440a36010112ae65c964692723)
 
 These allocations have been discussed how to best put to use within the community, and after a series of interesting discussions and votes, we've ended up on the following:
 
@@ -139,6 +136,8 @@ Occasionally there may be extraordinary events where rates will be near equal or
 
 ## WUF allocation distribution:
 
+#### First Allocation (1.6B WUF):
+
 * 20% to pixals.pxj\
   [https://waxblock.io/transaction/41c2d57dbdd2b490cca44f9b0a4255fc9e0a365388e241ccd852b0aae150545f](https://waxblock.io/transaction/41c2d57dbdd2b490cca44f9b0a4255fc9e0a365388e241ccd852b0aae150545f)
 * 10% to council.pxj\
@@ -151,7 +150,20 @@ Occasionally there may be extraordinary events where rates will be near equal or
 * 10% to LSW/PXJ:\
   [https://waxblock.io/transaction/c7d92967fbdd6ba711660eafd2d4ef6eea5fb9b8afd6e1de4a4e2dfd226ff611](https://waxblock.io/transaction/c7d92967fbdd6ba711660eafd2d4ef6eea5fb9b8afd6e1de4a4e2dfd226ff611)
 
+#### Second Allocation (1.6B WUF):
+
+* 100% dedicated to our council.pxj and incentivizing our community in participating in our PixelDAO Governance:\
+  [https://waxblock.io/transaction/7e355a3bbedc553e30767d692f5fadb6b495dfe2b69c1b5a16215b2ac4008fac](https://waxblock.io/transaction/7e355a3bbedc553e30767d692f5fadb6b495dfe2b69c1b5a16215b2ac4008fac)
+  * 500M has been dedicated our PxJourney PXJ DeFi upon the release of WPIXAL
+  * [250M WUF has been dedicated our PxJourney WaxDAO Farm](https://waxblock.io/transaction/3ca3375990fb3905046b743a4820ac60c16e1b6126fb3b5b43a04d594e4d4e76) for NFT Collectibles
+
+Join our WaxRocks Council and help decide where our WUFs go next! :fire:\
+
+
 ### Pixeljourney WUF burns:
 
 * 10% of WUF purchases made of our Season 1 Pixal PFP sale:\
   [https://waxblock.io/transaction/3bd88254e58985993cd8f786c2c1142ce09bd39e3fadd1f0762c01696dde7f68](https://waxblock.io/transaction/3bd88254e58985993cd8f786c2c1142ce09bd39e3fadd1f0762c01696dde7f68)
+* 5% of WUF spent on (upcoming) WUFFI themed PixelJourney collectibles will be burned, with the remaining refilling our PixelDAOs WUF coffers to become allocated once again
+
+<figure><img src="../../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
