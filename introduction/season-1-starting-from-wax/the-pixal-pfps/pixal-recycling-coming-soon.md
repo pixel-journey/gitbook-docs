@@ -1,2 +1,0 @@
-# Pixal Recycling (Coming Soon)
-

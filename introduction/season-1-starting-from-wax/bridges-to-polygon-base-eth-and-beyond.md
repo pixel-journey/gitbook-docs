@@ -11,33 +11,44 @@ Certain schemas/series of the Pixel Journey collectibles and PFPs will become br
 This means that while our Pixals for example will originate from the Wax blockchain initially, they will become accessible from 'everywhere'.\
 And that there may end up being advantages to transfer them to different blockchains to be able to access their unique markets or ecosystem features.
 
-[Season 2 and onwards](../seasons-ahead/), will be about exploring more of the connected blockchains networks/ecosystems as well. And while the economy/features of each previous blockchain will continue, the main faucets or routes may shift from one place to another. (To be further decided upon in our [WaxRocks](the-waxrocks-council.md) votes)
+[Season 2 and onwards](../seasons-ahead/), will be about exploring more of the connected blockchains networks/ecosystems as well. And while the economy/features of each previous blockchain will continue, the main faucets or routes may shift from one place to another. \
+(To be further decided upon in our [WaxRocks](the-rock-council.md) votes)
 
 
 
-## Polygon
+## The Multi-Chain Journey is now!
 
-### Pixals are already now available to be bridged to Polygon via the [MyCloudWallet Bridge](../wax-ecosystem-guides/cloud-wallet-bridge/) 🥳🛸
+The Pixel Journey has already been bridged to multiple blockchains:
 
-{% embed url="https://opensea.io/collection/pixeljourney-xyz/overview" %}
-[https://opensea.io/collection/pixeljourney-xyz/overview](https://opensea.io/collection/pixeljourney-xyz/overview)
+* Polygon
+* Ethereum
+* Base
+* BNB Chain
+* (WAX Blockchain, from assets being briged back)
+
+All via the amazing [MyCloudWallet Bridge](../wax-ecosystem-guides/cloud-wallet-bridge/) 🥳🛸
+
+### Polygon (Opensea)
+
+{% embed url="https://opensea.io/collection/pixeljourney-polygon" %}
+[https://opensea.io/collection/pixeljourney-polygon](https://opensea.io/collection/pixeljourney-polygon)
 {% endembed %}
 
-Find us already now on OpenSea as well
+### BASE (OpenSea)
 
-Or bridge your Pixals back and forth via [https://bridge.mycloudwallet.com/](https://bridge.mycloudwallet.com/) today 🪅🎉&#x20;
+{% embed url="https://opensea.io/collection/pixeljourney-base" %}
+[\
+https://opensea.io/collection/pixeljourney-base](https://opensea.io/collection/pixeljourney-base)
+{% endembed %}
 
-More information on how to do that in our [NFT Bridge Transfers](../wax-ecosystem-guides/cloud-wallet-bridge/nft-bridge.md) sections
+### Ethereum (OpenSea)
 
+{% embed url="https://opensea.io/collection/pixeljourney-eth" %}
+[https://opensea.io/collection/pixeljourney-eth](https://opensea.io/collection/pixeljourney-eth)
+{% endembed %}
 
+### BNB Chain (Monbase)
 
-If you wish you read more about the Wax bridges, you can checkout Wax.io's Medium Articles here:
-
-* [NFT Bridge is Now Integrated into Cloud Wallet!](https://medium.com/wax-io/nft-bridge-is-now-integrated-into-cloud-wallet-51b906535db)
-* [Introducing the Polygon Bridge: Uniting NFTs on Cloud Wallet!](https://medium.com/wax-io/introducing-the-polygon-bridge-uniting-nfts-on-cloud-wallet-772be969d3e3)
-
-
-
-## BASE
-
-Coming soon ..
+{% embed url="https://nft.monbase.com/collections/66c4eb2ca339b05c5a660e44/detail" %}
+[https://nft.monbase.com/collections/66c4eb2ca339b05c5a660e44/detail](https://nft.monbase.com/collections/66c4eb2ca339b05c5a660e44/detail)
+{% endembed %}

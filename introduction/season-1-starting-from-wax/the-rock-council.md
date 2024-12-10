@@ -2,9 +2,9 @@
 description: The first phase of building towards a PixelDAO
 ---
 
-# 🏛️ The WaxRocks Council
+# 🏛️ The Rock Council
 
-The WaxRocks council will be the first/highest level to the planned community-governance mechanics, which we'll aim to build further out into a full PixelDAO as we progress and grow these aspects of the project along our Pixel Journey.
+The Rock/WaxRocks Council will be the first/highest level to the planned community-governance mechanics, which we'll aim to build further out into a full PixelDAO as we progress and grow these aspects of the project along our Pixel Journey.
 
 <figure><img src="../../.gitbook/assets/pixelspetrock-ackaliens.png" alt="" width="563"><figcaption><p>A Pixal PFP with a random WaxRock trait generated at mint</p></figcaption></figure>
 
@@ -74,27 +74,31 @@ At a later phase of Season 1, the WaxRocks themselves will be airdropped to hold
 \
 With the **tiny** 0.1% chance to get the WaxRock traits, we estimate there should be a total of approximately 100 WaxRock traits among our 10k Pixal PFPs, which will leave \~300 up to be acquired in other ways.
 
-* 25% via Pixal PFP WaxRock traits
-* 25% / \~100 will be made blendable and/or craftable for PXJ (half as WaxPebbles, and half directly as WaxRocks)
-* 25%/ \~100 will be distributed via our NFT-reward pools (to extra extra lucky event participants, LP-providers)
-* 25% / \~100 will be made allocated our dev.pxj vault (to be used as extra special rewards, for collabs/partners/VIPs/influencers or future dApp rewards)
+* 25% via Pixal PFP WaxRock traits (95 ended up being minted)
+* 25% / \~100 will be made blendable and/or craftable for PXJ (in form of WaxPebbles, to be further combined into a full WaxRock)
+* 25%/ \~100 will be distributed via Season 2s Core PFP Series (alike with Pixals)
+* 25% / \~100 will be made allocated our team.pxj/dao.pxj/dev.pxj vaults (to be used as extra special rewards, for collabs/partners/VIPs/influencers or future dApp contribution rewards, some in form of pebbles)
 
 <figure><img src="../../.gitbook/assets/logo.png" alt=""><figcaption><p>A clear blue basic WaxRock</p></figcaption></figure>
 
-
-
-
-
 ### WaxPebbles:
 
-Our WaxPebbles are "lite" versions of our WaxRocks running at approximately 9% their power with similar mechanics. 50 WaxRocks were fractured into 10 WaxPebbles each, leaving 500 WaxPebbles to be reassembled back into WaxRocks (or for them to be used as they are).
+Our WaxPebbles are "lite" versions of our WaxRocks running at approximately 9% their power with similar mechanics. 100 WaxRocks will be fractured into 10 WaxPebbles each, leaving 1000 WaxPebbles to be reassembled back into WaxRocks (or for them to be used as they are).
 
 The WaxPebbles come in the same variety of colors as the WaxRocks, but you'll need 10 of the same one to blend them into its matching WaxRock, and WaxRocks cannot be deconstructed back into WaxPebbles again once combined.&#x20;
 
-* 20% of WaxPebbles will be made available to be crafted for purely PXJ
-* 20% of WaxPebbles will be made available to be crafted with PXJ and Single Pixel NFTs
-* 40% of WaxPebbles will be added to our NFT Reward pools
-* 20% of WaxPebbles will be reserved for our dev.pxj vault
+* 40% of WaxPebbles will be made available to be crafted for purely PXJ
+* 40% of WaxPebbles will be made available to be crafted with PXJ and Pixel Ingredient NFTs
+* 10% of WaxPebbles will be added to our NFT Reward pools
+* 10% of WaxPebbles will be reserved for our dev.pxj/dao.pxj/team.pxj vaults
+
+
+
+The planned prices for pebbles are currently:
+
+* Estimated cost per Pebble \~250K PXJ
+* 10 Pebbles + 500K PXJ = 1 Rock
+* A total \~3M PXJ per Rock craft via Pebbles
 
 
 

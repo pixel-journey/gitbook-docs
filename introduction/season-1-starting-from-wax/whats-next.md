@@ -12,3 +12,13 @@ This Season 1 is planned to end with the release of our first dApp(s), with a ET
 A more detailed reveal of what we've got brewing will be released in towards the end of '24, however we can already tease that it'll be part of a social RPG WebApp that should allow for displaying and granting "utility" for most assets created along the journey.
 
 At which point a season-ending PFP craft will also become available, and a new season 2 will begin with new surprises planned, on the blockchains we can reach further beyond the Wax Blockchain itself.
+
+
+
+### Season 2 (pre-season)
+
+While Season 2, doesn't fully officially begin with new mechanics and new journey adventures, till the summer of 2025. Then the pre-season already begins in the Spring, where we'll keep expanding our journey horizons ahead towards the Web3 audiences beyond Wax.
+
+New bountybloks/contests to engage users from elsewhere, and hopefully lead more to explore the journey beginnings of season 1 that will continue to be running for seasons to come, and function as a guide and exploration tool for discovering the various features integrated on the Wax (and other future blockchains we expand to)
+
+Certain mechanics will be exclusive to each blockchain, for example the inter-blockchain bridging and Pixal recycling/blends will be unique to the Wax side of the journey.

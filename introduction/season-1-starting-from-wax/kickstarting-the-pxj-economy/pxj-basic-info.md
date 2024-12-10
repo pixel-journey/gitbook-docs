@@ -72,7 +72,7 @@ By following this model each Season along the way will slowly have a lower alloc
 
 
 
-### PixelJourney NB Drops page:
+### Pixel Journey NB Drops page:
 
 * NeftyBlocks Drops (to purchase $PXJ redeemable PXJ Token Coins for WAX or PXJ):&#x20;
 

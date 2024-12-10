@@ -26,7 +26,7 @@ The 10 trait categories are:
 * Glasses and Masks
 * Hats and Hair
 * Special Accessories
-* [WaxRock](../the-waxrocks-council.md) \*
+* [WaxRock](../the-rock-council.md) \*
 * [PixelPet](rock-pixelpet-trait-airdrops/) \*\*
 
 <figure><img src="../../../.gitbook/assets/pixels-ninja (1).png" alt="" width="563"><figcaption><p>A possible Pixal combination at minting</p></figcaption></figure>
@@ -38,13 +38,13 @@ You can find a list of many of our featured fellow ecosystem projects there down
 
 
 Certain of the trait groups/variations, may also automatically make holders eligible for certain extra special airdrops. Especifically the "WaxRocks and PixelPets" will eventually be airdropped as separate NFT assets, and may be Pixals worth keeping on to. \
-The [WaxRocks](../the-waxrocks-council.md) trait will be among the most desired, as these traits will grant access to our first phase and beginning of our upcoming PixelDAO.
+The [WaxRocks](../the-rock-council.md) trait will be among the most desired, as these traits will grant access to our first phase and beginning of our upcoming PixelDAO.
 
 <figure><img src="../../../.gitbook/assets/pixel_journey_pack_002_500x500 (2).gif" alt=""><figcaption><p>Our first Single Pixel packs. 3D animated by Fried 😍</p></figcaption></figure>
 
 Our Pixal PFPs are 'the first step' towards our upcoming [Pixel Journey-economy](../kickstarting-the-pxj-economy/), and will set off certain of our pixel-recycling and blending mechanics 🛸 Where up to 80% (8000) of our Pixals will be blendable into PixelPacks (displayed in the GIF above). \
 \
-These PixelPacks can then be either staked for our [$PXJ token](../kickstarting-the-pxj-economy/pxj-basic-info.md) (for the first \~month of recycling), or be unpacked for single pixel ingredients that will be needed later on along the journey for [crafts](../recycling-and-crafting/pixel-collectibles.md), [upgrades or special blends](../recycling-and-crafting/pixel-blends-and-upgrades.md).
+These PixelPacks can then be either staked for our [$PXJ token](../kickstarting-the-pxj-economy/pxj-basic-info.md) (for the first \~month of recycling), or be unpacked for single pixel ingredients that will be needed later on along the journey for [crafts](../recycling-and-crafting/pixel-collectibles.md), [upgrades or special blends](broken-reference).
 
 
 

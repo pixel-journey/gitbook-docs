@@ -22,4 +22,4 @@ _(these are % of the seasonal allocation of 1 bil, not of the total supply)_
 
 Apart from being useful for staking in the TacoSwap pools in itself, or for directly selling into our LPs, then the token will also be used in certain future drops/sales for special crafting ingredients (aside the single pixel NFTs from the packs after burning NFTs), [limited collectible drops](../recycling-and-crafting/pixel-collectibles.md) or possibly upgrades to other collectibles in the collection.\
 \
-I also hope to eventually incorporate the token into the PixelDAO aspect of the project (in later seasons, for season1 the [WaxRocks](../the-waxrocks-council.md) will mainly rule the initial 'DAO' aspects).
+I also hope to eventually incorporate the token into the PixelDAO aspect of the project (in later seasons, for season1 the [WaxRocks](../the-rock-council.md) will mainly rule the initial 'DAO' aspects).

@@ -1,8 +1,10 @@
 ---
-description: 'Here''s a quick overview of our basic current roadmap:'
+description: 'Here''s a detailed overview of our Season 1/current roadmap:'
 ---
 
-# 🗺️ Roadmap (summary)
+# 🗺️ Roadmap
+
+<figure><img src="../.gitbook/assets/freemium-microtransaction.gif" alt=""><figcaption></figcaption></figure>
 
 1. PXJ Token Launch: We'll kick things off by launching our PXJ token on the Wax network, initiate liquidity pools with various token pairs across the ecosystem from Alcor and TacoSwap.
 2. PXJ Liquidity Pool Rewards: 20(-25)% of our Season 1 PXJ token allocation will be added to LP and staking rewards across Alcor, TacoSwap and Pepperstake.
