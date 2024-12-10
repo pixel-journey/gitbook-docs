@@ -18,9 +18,7 @@ Each different type of collectible may end up having slightly different crafting
 
 
 
-For the main Season 1 collectibles series Piga's photography will come in 5 tiers.&#x20;
-
-* The Tier 1 Definition Base level, comes in 10k units at 200
+For the main Season 1 collectibles series Piga's photography will come in .. (soon)
 
 
 
@@ -32,9 +30,9 @@ As an extra special feature among certain of our [Pixal PFP](../the-pixal-pfps/)
 
 These pixelpromo/collectibles will be among the first of our upgradable NFTs, and you can read more about how that works in this following section.
 
-### Collectibles Upgrades
+## Collectibles Upgrades
 
-As part of our Pixel Journey mechanics, we'll have Pixel Upgrading of various collectibles/pixelpromo assets.
+As part of our Pixel Journey mechanics, we'll have Pixel Upgrading of various collectibles/pixelpromo assets (much alike with Ingredients themselves).
 
 <div><figure><img src="../../../.gitbook/assets/hills-pixel-example3 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/hills-pixel-example2 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/hills-pixel-example1.png" alt=""><figcaption></figcaption></figure></div>
 

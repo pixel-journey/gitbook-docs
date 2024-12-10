@@ -10,7 +10,7 @@ description: The very beginning of this new grand Pixel Journey 🛸🌱
 
 ## Where it all begins
 
-As mentioned up in [The Pixel Journey Begins](../pixel-journey-begins.md), this is much about exploration and creating a collective journey through the wide crypto/NFT where we showcase the various options and help each other / everybody get the best start possibly into this shared space.
+As mentioned up in [The Pixel Journey Begins](../the-pixel-journey-begins.md), this is much about exploration and creating a collective journey through the wide crypto/NFT where we showcase the various options and help each other / everybody get the best start possibly into this shared space.
 
 We plan to do the exploration by seasons, with each season lasting 6-12 months, and each season revolving (mostly) around adding onto our PixelJourney features/economy/collectibles, using the best features of each different blockchain.
 

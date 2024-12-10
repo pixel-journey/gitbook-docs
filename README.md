@@ -19,12 +19,12 @@ If you have any suggestions, feedback or discover any errors on this page, pleas
 Our sold out OG Pixal PFP drop on NFTHive
 {% endembed %}
 
-{% content-ref url="introduction/pixel-journey-begins.md" %}
-[pixel-journey-begins.md](introduction/pixel-journey-begins.md)
+{% content-ref url="introduction/the-pixel-journey-begins.md" %}
+[the-pixel-journey-begins.md](introduction/the-pixel-journey-begins.md)
 {% endcontent-ref %}
 
-{% content-ref url="introduction/roadmap.md" %}
-[roadmap.md](introduction/roadmap.md)
+{% content-ref url="introduction/roadmap-summary.md" %}
+[roadmap-summary.md](introduction/roadmap-summary.md)
 {% endcontent-ref %}
 
 {% content-ref url="introduction/season-1-starting-from-wax/" %}

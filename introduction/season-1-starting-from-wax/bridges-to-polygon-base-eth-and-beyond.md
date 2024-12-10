@@ -12,7 +12,7 @@ This means that while our Pixals for example will originate from the Wax blockch
 And that there may end up being advantages to transfer them to different blockchains to be able to access their unique markets or ecosystem features.
 
 [Season 2 and onwards](../seasons-ahead/), will be about exploring more of the connected blockchains networks/ecosystems as well. And while the economy/features of each previous blockchain will continue, the main faucets or routes may shift from one place to another. \
-(To be further decided upon in our [WaxRocks](the-rock-council.md) votes)
+(To be further decided upon in our [WaxRocks](the-waxrocks-council.md) votes)
 
 
 

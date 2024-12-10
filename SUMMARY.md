@@ -4,8 +4,8 @@
 
 ## Introduction
 
-* [💡 Pixel Journey Begins](introduction/pixel-journey-begins.md)
-* [🗺️ Roadmap](introduction/roadmap.md)
+* [💡 Pixel Journey Begins](introduction/the-pixel-journey-begins.md)
+* [🗺️ Roadmap](introduction/roadmap-summary.md)
 * [🏫 Discord Roles, LVL Ranks and Lounges](introduction/discord-roles-lvl-ranks-and-lounges/README.md)
   * [🧓 Pre-Season & OGs](introduction/discord-roles-lvl-ranks-and-lounges/pre-season-and-ogs.md)
 * [💫 Season 1 (Starting from Wax)](introduction/season-1-starting-from-wax/README.md)
@@ -20,14 +20,14 @@
       * [Pepperstake $PXJ Staking Farms](introduction/season-1-starting-from-wax/kickstarting-the-pxj-economy/staking-and-lp-rewards/pepperstake-usdpxj-staking-farms.md)
   * [👽 The Pixal PFPs](introduction/season-1-starting-from-wax/the-pixal-pfps/README.md)
     * [End-of-Month/Holder Airdrops](introduction/season-1-starting-from-wax/the-pixal-pfps/end-of-month-holder-airdrops.md)
-    * [Pixal Trait/Ranks Explorers](introduction/season-1-starting-from-wax/the-pixal-pfps/pixal-trait-ranks-explorers.md)
-    * [Pixal WAXDAO Staking](introduction/season-1-starting-from-wax/the-pixal-pfps/pixal-waxdao-staking.md)
+    * [Pixal Trait/Ranks Explorers](introduction/season-1-starting-from-wax/the-pixal-pfps/pixal-trait-explorer.md)
+    * [Pixal WAXDAO Staking](introduction/season-1-starting-from-wax/the-pixal-pfps/pixal-waxdao-farm.md)
     * [Rock/PixelPet (Trait) Airdrops](introduction/season-1-starting-from-wax/the-pixal-pfps/rock-pixelpet-trait-airdrops/README.md)
       * [🐇 PixelPets](introduction/season-1-starting-from-wax/the-pixal-pfps/rock-pixelpet-trait-airdrops/pixelpets.md)
   * [♻️ Recycling & Crafting](introduction/season-1-starting-from-wax/recycling-and-crafting/README.md)
     * [Pixel Ingredients & Pack Staking](introduction/season-1-starting-from-wax/recycling-and-crafting/pixel-ingredients-and-pack-staking.md)
     * [Pixel Collectibles](introduction/season-1-starting-from-wax/recycling-and-crafting/pixel-collectibles.md)
-  * [🏛️ The Rock Council](introduction/season-1-starting-from-wax/the-rock-council.md)
+  * [🏛️ The Rock Council](introduction/season-1-starting-from-wax/the-waxrocks-council.md)
   * [🌉 Bridges to Polygon, BASE, ETH and beyond](introduction/season-1-starting-from-wax/bridges-to-polygon-base-eth-and-beyond.md)
   * [🚀 What's next?](introduction/season-1-starting-from-wax/whats-next.md)
 * [🌌 Seasons ahead](introduction/seasons-ahead/README.md)

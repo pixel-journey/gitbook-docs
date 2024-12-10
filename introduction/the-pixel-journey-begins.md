@@ -2,7 +2,7 @@
 description: The goals, visions and first plans for the paths to come
 ---
 
-# 💡 The Pixel Journey Begins
+# 💡 Pixel Journey Begins
 
 So, what is this Pixel Journey, you ask? \
 \

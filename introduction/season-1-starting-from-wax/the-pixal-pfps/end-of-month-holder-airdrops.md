@@ -11,7 +11,7 @@ One of the first features of the Pixal PFPs will be an automatic airdrop chance 
 At the last minute of every month (UTC time) there's a series of snapshots of Pixal Holders that slightly vary in scope/rewards from month to month. By default we snapshot all Pixal Holders, and randomly draw a number of traits who get a bonus airdrop reward. \
 The details of each snapshot released a weeks time in advance on our Discord, alongside a reminder to unstake/bridge back the Pixal PFPs to ones own Wax Wallets - as bridging or custodial-staking utility might lead to the risk of missing out on these sweet airdrop rewards. Keep in mind certain staking platforms, such as Wombat Dungeon Master that has a +24 hours unstaking period, and requires the Pixals to be claimed back in time.
 
-This reward pool will contain NFTs from across the ecosystem, as well as a limited allocation of our own Pixel Journey NFTs. And will be refilled partly via collaboration agreements, donations or via community/[WaxRock Council](../the-rock-council.md) decisions.
+This reward pool will contain NFTs from across the ecosystem, as well as a limited allocation of our own Pixel Journey NFTs. And will be refilled partly via collaboration agreements, donations or via community/[WaxRock Council](../the-waxrocks-council.md) decisions.
 
 Currently you can get a look at the current status of the reward pools at:
 
