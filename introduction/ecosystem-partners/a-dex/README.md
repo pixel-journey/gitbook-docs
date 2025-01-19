@@ -10,7 +10,7 @@ description: Trade Anytime, Anywhere The A-DEX dApp allow you to start trading w
 
 ### Introduction:
 
-.. Coming soon ..!
+Coming soon ..!
 
 
 
@@ -61,13 +61,13 @@ Adding liquidity onto A-DEX is only a few simple steps!
 * Use the slider, or insert the amount desired to deposit/remove
 * Review the details, and click on the "Confirm" button to initiate the transaction
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### The Send Tab
 
 On the Send tab you can with a simple UI easily send any tokens from your Wax Wallet onto other accounts on the Wax Network.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -75,7 +75,7 @@ On the Send tab you can with a simple UI easily send any tokens from your Wax Wa
 
 On the last tab of the swap part of A-DEX, we have the Buy section, where you can exchange crypto with WAXP, or use a Credit Card directly without KYC necessary.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -85,4 +85,18 @@ A-DEX is also available for the EOS and Telos Networks from the Antelope Ecosyst
 
 Make sure you have entered the "https://**wax."** version of the platform, or change the network selected next to the wallet connect button in the top right corner.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Select Network by clicking the Network Icon to the left of "Connect Wallet"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Select Network by clicking the Network Icon to the left of "Connect Wallet"</p></figcaption></figure>
+
+### A-DEX Guild
+
+The A-DEX platform is created by the A-DEX Guild on Wax, which began in the end of 2024.
+
+If you like it, then vote for them in Wax Network governance, and add liquidity onto their platform to boost their network product ratings! 💪&#x20;
+
+
+
+### A-DEX on X/twitter
+
+{% embed url="https://x.com/a_dex_official" %}
+[https://x.com/a\_dex\_official](https://x.com/a_dex_official)
+{% endembed %}
