@@ -24,15 +24,7 @@ Swaps on Alcor are simple to do with a few simple steps:
 
 * **Price and Slippage**: Check the price impact and slippage tolerance. Adjust the slippage tolerance if necessary to avoid failed transactions.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>1.6% price impact swap</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>49% price impact swap</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>1.6% price impact swap</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>49% price impact swap</p></figcaption></figure></div>
 
 **4. Sign the Transaction**
 
@@ -48,7 +40,7 @@ Swaps on Alcor are simple to do with a few simple steps:
 
 ### Transaction Settings
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 In the Transaction Settings you can control your Slippage Tolerance % for using the swap.\
 This option allows you to allow your transactions to complete even though the price changes from the last data of the swap, to the time you get your TX signed/pushed to the chain.

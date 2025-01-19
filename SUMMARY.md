@@ -8,7 +8,7 @@
 * [🗺️ Roadmap](introduction/roadmap-summary.md)
 * [🏫 Discord Roles, LVL Ranks and Lounges](introduction/discord-roles-lvl-ranks-and-lounges/README.md)
   * [🧓 Pre-Season & OGs](introduction/discord-roles-lvl-ranks-and-lounges/pre-season-and-ogs.md)
-* [💫 Season 1 (Starting from Wax)](introduction/season-1-starting-from-wax/README.md)
+* [💫 Season 1 (starting from Wax)](introduction/season-1-starting-from-wax/README.md)
   * [🪙 Kickstarting the PXJ-Economy](introduction/season-1-starting-from-wax/kickstarting-the-pxj-economy/README.md)
     * [PXJ Basic Info](introduction/season-1-starting-from-wax/kickstarting-the-pxj-economy/pxj-basic-info.md)
     * [PXJ Redeemables](introduction/season-1-starting-from-wax/kickstarting-the-pxj-economy/pxj-redeemables.md)
@@ -28,6 +28,7 @@
     * [Pixel Ingredients & Pack Staking](introduction/season-1-starting-from-wax/recycling-and-crafting/pixel-ingredients-and-pack-staking.md)
     * [Pixel Collectibles](introduction/season-1-starting-from-wax/recycling-and-crafting/pixel-collectibles.md)
   * [🏛️ The Rock Council](introduction/season-1-starting-from-wax/the-waxrocks-council.md)
+  * [$KING of Pixals](introduction/season-1-starting-from-wax/usdking-of-pixals.md)
   * [🌉 Bridges to Polygon, BASE, ETH and beyond](introduction/season-1-starting-from-wax/bridges-to-polygon-base-eth-and-beyond.md)
   * [🚀 What's next?](introduction/season-1-starting-from-wax/whats-next.md)
 * [🌌 Seasons ahead](introduction/seasons-ahead/README.md)
@@ -220,6 +221,7 @@
   * [PFPWizard](introduction/ecosystem-partners/pfpwizard.md)
   * [WaxOnEdge](introduction/ecosystem-partners/waxonedge.md)
   * [Bountyblok](introduction/ecosystem-partners/bountyblok.md)
+  * [A-DEX](introduction/ecosystem-partners/a-dex.md)
 
 ## Important Links
 
