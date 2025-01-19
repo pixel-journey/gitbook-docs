@@ -14,7 +14,7 @@ The creator for the NFTs minted is restored the RAM cost they paid when minting 
 
 The Burn mechanic on Atomichub can accessed [from your inventory](your-inventory-on-atomichub.md).
 
-<div><figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 From there you can burn multiple NFTs with a multi-selection and the "Burn NFTs" option from the bulk-dropdown menu next to the orange "Bulk Listing" button. Or you can burn each individual NFT via their individual option-menu buttons.
 

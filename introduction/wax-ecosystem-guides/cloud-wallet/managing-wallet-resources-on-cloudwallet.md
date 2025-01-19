@@ -4,7 +4,7 @@ From the [⚡](https://fsymbols.com/signs/hazard/) icon on the top right of the 
 
 <figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-By clicking "Stake WAXP", you open the Resources Management Modal from where you can stake/buy more resources. It is not possible to unstake/sell resources via this mini-interface, so for that you need to visit the [staking-rewards-via-cloud-wallet.md](staking-rewards-via-cloud-wallet.md "mention") or [Waxblock.io](../waxblock.io/staking-unstaking-cpu-and-net-via-waxblock.io.md)
+By clicking "Stake WAXP", you open the Resources Management Modal from where you can stake/buy more resources. It is not possible to unstake/sell resources via this mini-interface, so for that you need to visit the [staking-rewards-via-cloud-wallet.md](staking-rewards-via-cloud-wallet.md "mention") or [Waxblock.io](../waxblock.io-explorer/staking-unstaking-cpu-and-net-via-waxblock.io.md)
 
 CPU/NET is staked and unstaked at no fees (oppositely, increasing the accounts voting weight/rewards), while RAM is bought and sold at a variable price rate + with a tiny conversion fee.&#x20;
 
