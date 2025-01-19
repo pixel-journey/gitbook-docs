@@ -1,17 +1,31 @@
 ---
+icon: crown
 description: >-
   Our historic Pixel Journey meme. First to the KING of Wax on wax.fun, and
   first to bond to reach Alcor!
-icon: crown
 ---
 
 # $KING of Pixals
 
 The original Wax.fun launch site for our $KING meme:
 
+<figure><img src="../../.gitbook/assets/image (190).png" alt="" width="375"><figcaption><p>$KING of Pixals</p></figcaption></figure>
+
 {% embed url="https://wax.fun/token/alpha.waxfun/KING" %}
 [https://wax.fun/token/alpha.waxfun/KING](https://wax.fun/token/alpha.waxfun/KING)
 {% endembed %}
+
+### Basic Token info
+
+* Symbol: KING
+* Decimals: 8
+* Total Supply: 1 Billion KING
+* Token Contract: alpha.waxfun
+* Token fully distributed, as a wax.fun (pumpfun type) fair launched meme token
+* Over 30% total supply burned into LP positions (20% of KING paired with wax.fun initial liquidity + 10% of KING supply from pixeljourney buys paired up alongside 60M PXJ)
+* Over 0.1% total supply already burned (within the first weeks since bonding and reaching Alcor Exchange)
+
+
 
 ## A Historic meme:
 
