@@ -223,18 +223,20 @@
     * [Storm Struggle (Website)](https://stormstruggle.space/Gateway/)
     * [Storm Struggle on X](https://x.com/Storm_Struggle)
   * [PFPWizard](introduction/ecosystem-partners/pfpwizard.md)
-  * [WaxOnEdge](introduction/ecosystem-partners/waxonedge/README.md)
+  * [WaxOnEdge](introduction/ecosystem-partners/waxonedge.md)
     * [WaxOnEdge (Website)](https://waxonedge.app/)
     * [WaxOnEdge (Discord)](https://discord.gg/7zUDwTj6n3)
     * [WaxOnEdge on X](https://x.com/WaxOnEdge)
-  * [Bountyblok](introduction/ecosystem-partners/bountyblok/README.md)
+  * [Bountyblok](introduction/ecosystem-partners/bountyblok.md)
     * [Bountyblok (Website)](https://www.bountyblok.io/)
     * [Bountyblok on X](https://x.com/bountyblok)
     * [Bountyblok (Telegram)](https://t.me/bountybloknft)
-  * [A-DEX](introduction/ecosystem-partners/a-dex/README.md)
+  * [A-DEX](introduction/ecosystem-partners/a-dex.md)
     * [A-DEX (Website - Wax Network)](https://wax.a-dex.io/)
     * [A-DEX on X](https://x.com/a_dex_official)
     * [A-DEX (Discord)](https://discord.gg/ch3fZ79FgK)
+    * [A-DEX (Medium)](https://medium.com/a-dex)
+    * [A-DEX Docs](https://docs.a-dex.io/)
 
 ## Important Links
 
