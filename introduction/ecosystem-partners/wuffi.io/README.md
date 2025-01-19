@@ -93,7 +93,7 @@ Aside from the WUF airdropped for these Trait Holder snapshots, we also airdropp
 We've opened a PXJ/WUF Spot Market on Alcor where Spot Market features can be utilized between our token and DeFi economies. Making it the 3rd WUFFI Spot Market on the Alcor Exchange! And it permits trading PXJ<>WUF entirely without fees!&#x20;
 
 {% embed url="https://alcor.exchange/trade/pxj-pixeljourney_wuf-wuffi" %}
-[https://alcor.exchange/trade/pxj-pixeljourney\_wuf-wuffi](https://alcor.exchange/trade/pxj-pixeljourney\_wuf-wuffi)
+[https://alcor.exchange/trade/pxj-pixeljourney\_wuf-wuffi](https://alcor.exchange/trade/pxj-pixeljourney_wuf-wuffi)
 {% endembed %}
 
 
@@ -167,3 +167,11 @@ Join our WaxRocks Council and help decide where our WUFs go next! :fire:\
 * 5% of WUF spent on (upcoming) WUFFI themed PixelJourney collectibles will be burned, with the remaining refilling our PixelDAOs WUF coffers to become allocated once again
 
 <figure><img src="../../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## WUFFI on X
+
+{% embed url="https://x.com/WUFFI_Inu" %}
+[https://x.com/WUFFI\_Inu](https://x.com/WUFFI_Inu)
+{% endembed %}

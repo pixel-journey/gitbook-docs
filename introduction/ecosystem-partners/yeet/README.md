@@ -44,7 +44,21 @@ Find it on WaxOnEdge here:
 
 ### YEET Partners:
 
-* Pixel Journey/PXJ
+* Pixel Journey (PXJ & KING)
 * Alpha World/TOOLs
 * NIMA Odyssey/NIMA
-* ?
+* Alpha World
+* PFPWizard
+* SHIL
+* WaxFEET
+* Funmangagalaxy
+* Galactic 123
+* Galaktika
+
+
+
+### YEET on X
+
+{% embed url="https://x.com/YEETwax" %}
+[https://x.com/YEETwax](https://x.com/YEETwax)
+{% endembed %}

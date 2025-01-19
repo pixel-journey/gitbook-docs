@@ -1,3 +1,7 @@
+---
+description: Your Wax Wallet in the online clouds!
+---
+
 # CloudWallet 101
 
 The first option for creating on Wax is Wax.io's own wallet solution: CloudWallet ([mycloudwallet.com](https://www.mycloudwallet.com/)). This wallet option is completely in-browser based, and does not require any downloads or installation.

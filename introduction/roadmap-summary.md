@@ -4,6 +4,10 @@ description: 'Here''s a detailed overview of our Season 1/current roadmap:'
 
 # 🗺️ Roadmap
 
+
+
+## Season 1 (starting from Wax)
+
 <figure><img src="../.gitbook/assets/freemium-microtransaction.gif" alt=""><figcaption></figcaption></figure>
 
 1. PXJ Token Launch: We'll kick things off by launching our PXJ token on the Wax network, initiate liquidity pools with various token pairs across the ecosystem from Alcor and TacoSwap.
@@ -22,3 +26,31 @@ description: 'Here''s a detailed overview of our Season 1/current roadmap:'
 Our approach to achieving these milestones is through careful project design at every step and layer, as well as thorough planning and active balancing of the projects burn/faucet mechanics to ensure we can maintain stability and sustainability.
 
 We believe that by working together, we can overcome any challenges and contribute to a healthier Web3 scene. Education is crucial to absolutely everybody entering into this Wax/crypto space, so let's try help everybody starting on this shared journey with all the knowledge and support that we can. And collectively make collecting JPEGs, NFTs and crypto a little greater again! 🛸
+
+
+
+## Season 2 (Solana/POL Meme SZN?!)
+
+### Exciting Updates for Season 2
+
+We're thrilled to announce that Season 2 is just around the corner, and we couldn't be more excited to share what's in store for our community! Our team has been hard at work, listening to your feedback and implementing a series of features and enhancements that promise to elevate your experience to new heights.
+
+#### What's Coming?
+
+In Season 2, you can expect:
+
+1. **New NFT Collections**: Dive into fresh and exclusive collections that showcase creativity and innovation, expanding your portfolio and offering exciting opportunities to explore unique assets.
+2. **Enhanced User Experience**: We've refined our platform's interface to be even more intuitive and user-friendly, ensuring that both newcomers and seasoned veterans can navigate with ease.
+3. **Community Events**: Engage with the community through a variety of events designed to foster interaction and collaboration. These events will provide opportunities to learn, share, and grow together.
+4. **Educational Resources**: Access a wealth of knowledge tailored for everyone—from beginners to advanced users—covering topics such as NFT creation, blockchain technology, and investment strategies.
+5. **New Ever More Surprises Ahead**: As part of our commitment to building a FUN web3 journey as well, we can't wait to reveal upcoming surprises (possibly involving new upcoming partners? and other events) in our Second Season of the journey, with details to be released as we go.
+
+#### Get Involved!
+
+Don't miss out on the chance to be part of this exciting new chapters to come. Join us as we continue to build and enhance our ecosystem. Stay connected through our social media channels and community forums for real-time updates, sneak peeks, and more information on how you can participate.
+
+In our Discords Community Contribution Sections we'll be bringing up some hot discussions in the pre-season over the Spring of '25, to help direct how our 2nd Season will end up taking shape.
+
+
+
+Thank you for being an integral part of our journey. The future looks pixel perfectly bright, and we can't wait to share this whole journey with all of you!
