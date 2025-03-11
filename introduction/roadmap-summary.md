@@ -4,52 +4,63 @@ description: 'Here''s a detailed overview of our Season 1/current roadmap:'
 
 # 🗺️ Roadmap
 
-
-
-## Season 1 (starting from Wax)
-
 <figure><img src="../.gitbook/assets/freemium-microtransaction.gif" alt=""><figcaption></figcaption></figure>
 
-1. PXJ Token Launch: We'll kick things off by launching our PXJ token on the Wax network, initiate liquidity pools with various token pairs across the ecosystem from Alcor and TacoSwap.
-2. PXJ Liquidity Pool Rewards: 20(-25)% of our Season 1 PXJ token allocation will be added to LP and staking rewards across Alcor, TacoSwap and Pepperstake.
-3. Partnerships and Community Growth: Months will be dedicated to forming partnerships, organizing events, and expanding our community.
-4. PFP Collection: Our collection of 10000 Profile Pictures (PFP) in the beginning of 2024, named Pixals will open up new optional paths to be taken in our Pixel Journey/economy.
-5. Pixel Recycling: We'll allow burning up to 80% of the PFPs to release their pixels via PixelPacks, which will be recycled into other collectibles using the Neftyblocks blends and NFThive crafts.
-6. Pixel Upgrading and Combining: Through blending contracts, we'll enable the upgrading of single pixels and combining them to create more advanced collectibles, or higher upgraded versions of other PJ assets.
-7. Airdrop and Collectibles: We'll airdrop rocks and pets based on random traits from the PFP drop sales. Other Pixel blenders and collectors will also have the opportunity to obtain them via Pixel crafting.
-8. Collectibles Staking: We'll create staking mechanisms for our collectibles to produce our PXJ token, up to certain shares of the \~20% Season 1 PXJ allocation dedicated towards NFT rewards (subject to voting by the WaxRocks/PixelDAO)
-9. WaxRocks Council: We'll establish our Council, an influential advisory community board consisting of a up to a few hundred potential users. They will participate in voting on community decisions.
-10. Next Drop/Blending Event: By the end of season 1, we'll conduct a drop or blending event featuring a decorative collectible that requires a PFP, individual pixels, and a third ingredient purchasable with our PXJ token.
-11. dApp Utility and Upgrade: In the spring-summer of '25 we'll reveal a planned dApp utility and an upgrade opportunity for the first season of assets, which will bind the entire project together and pave the way for future expansion.
-12. Season 2 and dApp Expansion: We'll kick off Season 2 of our PFPs with new art traits in mid '25, scheduled for our 2 year anniversary, while preparing to reveal our further plans for the routes through the Polygon/Ethereum ecosystems.
+### **Season 1 – Kicking Off from WAX**
 
-Our approach to achieving these milestones is through careful project design at every step and layer, as well as thorough planning and active balancing of the projects burn/faucet mechanics to ensure we can maintain stability and sustainability.
+#### **PXJ Token & Liquidity**
 
-We believe that by working together, we can overcome any challenges and contribute to a healthier Web3 scene. Education is crucial to absolutely everybody entering into this Wax/crypto space, so let's try help everybody starting on this shared journey with all the knowledge and support that we can. And collectively make collecting JPEGs, NFTs and crypto a little greater again! 🛸
+* **PXJ Token Launch**: Our PXJ token debuted on the WAX blockchain, with liquidity pools set up on **Alcor and TacoSwap**.
+* **Liquidity Pool Rewards**: **20-25%** of the Season 1 PXJ allocation was committed to LP staking rewards on **Alcor, TacoSwap, and Pepperstake**.
 
+#### **Community Growth & Partnerships**
 
+* Focused on **building partnerships, hosting events, and expanding our community** to create a strong, engaged ecosystem.
 
-## Season 2 (Solana/POL Meme SZN?!)
+#### **PFP Collection & Pixel Recycling**
 
-### Exciting Updates for Season 2
+* **Pixals PFP Collection**: Launched a **10,000 PFP collection** in early 2024, opening up optional economy paths in Pixel Journey.
+* **Pixel Recycling**: Up to **80% of Pixals can be burned** to release PixelPacks, which can be blended into new collectibles using **NeftyBlocks blends** and **NFThive crafts**.
 
-We're thrilled to announce that Season 2 is just around the corner, and we couldn't be more excited to share what's in store for our community! Our team has been hard at work, listening to your feedback and implementing a series of features and enhancements that promise to elevate your experience to new heights.
+#### **Upgrading & Staking**
 
-#### What's Coming?
+* **Pixel Upgrading & Combining**: Blending contracts allow **pixel upgrades and advanced collectible crafting**.
+* **Airdrops & Collectibles**: **Randomized pet and rock airdrops** based on PFP traits. Pixel crafters also get opportunities to acquire unique collectibles.
+* **Collectibles Staking**: PXJ token staking mechanics for collectibles, with up to **20% of Season 1’s PXJ allocation dedicated to NFT rewards** (governed by WaxRocks/PixelDAO).
 
-In Season 2, you can expect:
+#### **Governance & Community Involvement**
 
-1. **New NFT Collections**: Dive into fresh and exclusive collections that showcase creativity and innovation, expanding your portfolio and offering exciting opportunities to explore unique assets.
-2. **Enhanced User Experience**: We've refined our platform's interface to be even more intuitive and user-friendly, ensuring that both newcomers and seasoned veterans can navigate with ease.
-3. **Community Events**: Engage with the community through a variety of events designed to foster interaction and collaboration. These events will provide opportunities to learn, share, and grow together.
-4. **Educational Resources**: Access a wealth of knowledge tailored for everyone—from beginners to advanced users—covering topics such as NFT creation, blockchain technology, and investment strategies.
-5. **New Ever More Surprises Ahead**: As part of our commitment to building a FUN web3 journey as well, we can't wait to reveal upcoming surprises (possibly involving new upcoming partners? and other events) in our Second Season of the journey, with details to be released as we go.
+* **WaxRocks Council Formation**: A **community advisory board** of a few hundred members, helping shape key project decisions via voting.
 
-#### Get Involved!
+#### **Milestone Events & Expansion**
 
-Don't miss out on the chance to be part of this exciting new chapters to come. Join us as we continue to build and enhance our ecosystem. Stay connected through our social media channels and community forums for real-time updates, sneak peeks, and more information on how you can participate.
+* **Next Drop/Blending Event**: A **Season 1 finale event** featuring a **decorative collectible blend**, requiring a PFP, individual pixels, and PXJ for crafting.
+* **dApp Utility & Upgrade** (Spring-Summer 2025): Reveal of a **dApp upgrade path** connecting **Season 1 assets** and laying the foundation for future expansion.
+* **Season 2 & Multi-Chain Growth** (Mid-2025): **New PFP traits**, launching for Pixel Journey’s **2-year anniversary**, alongside expanded **Polygon/Ethereum integrations**.
 
-In our Discords Community Contribution Sections we'll be bringing up some hot discussions in the pre-season over the Spring of '25, to help direct how our 2nd Season will end up taking shape.
+Our journey is designed with **meticulous project mechanics** to ensure sustainability, proper burn/faucet balance, and long-term success. We believe in **community-driven education** and making **Web3 onboarding easy, fun, and rewarding** for everyone.
+
+***
+
+### **Season 2 – Entering the Multi-Chain Era (Solana/POL Meme SZN?!)**
+
+#### **Expanding the Journey**
+
+Season 2 is coming soon, bringing **new blockchain integrations, community-driven initiatives, and fresh experiences**!
+
+#### **What’s Coming?**
+
+🔹 **New NFT Collections** – Fresh, exclusive collectibles showcasing creativity and innovation.\
+🔹 **Enhanced User Experience** – A more **intuitive platform** for easier navigation.\
+🔹 **Community Events** – Interactive **giveaways, competitions, and collaborative opportunities**.\
+🔹 **Educational Resources** – More content covering **NFTs, blockchain tech, and investment strategies**.\
+🔹 **Surprises & New Partners** – Expect **big reveals** as we venture further into **Web3 gaming, memes, and multi-chain opportunities**!
+
+#### **Get Involved!**
+
+We’ll be gathering community feedback in **Discord’s Contribution Sections** during **Spring 2025** to shape **Season 2’s roadmap**. **Your input matters!**
+
+Thank you for being part of **Pixel Journey**. The future is **pixel-perfectly bright**, and we can’t wait to explore it **together**! 🚀🌎
 
 
 

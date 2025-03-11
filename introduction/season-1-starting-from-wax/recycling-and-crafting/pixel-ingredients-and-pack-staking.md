@@ -10,10 +10,28 @@ As part of season 1, we will introduce WaxDAO and the features there, from where
 
 These templates/schemas will initially be the Pixel Packs (that the Pixal PFPs blend into), and soon after their release to include the pixel ingredients that the packs unpack into, as well as later the Pixel collectibles we'll end up crafting with them along the journey.
 
-* Packs will initially generate at minimum 5 PXJ per hour
-* The base Primary Pixel Ingredients (Red - Blue - Yellow) generate PXJ at 0.45 PXJ per hour&#x20;
+* Packs initially generated 5 PXJ per hour
+* Primary Pixel Ingredients (Red - Blue - Yellow) generated PXJ at 0.45 PXJ per hour&#x20;
 * Secondary Pixel Ingredients (green - purple - orange) generate 2.05 PXJ an hour, and require 25K PXJ + 2 primary ingredients to be created
 * Tertiary Pixel Ingredients (amber, magenta, vermilion, chartreuse, teal and violet) stake for 12 PXJ an hour, and require 125K PXJ + a primary + secondary ingredient to be created
+
+{% hint style="success" %}
+**Current WaxDAO Pixeljourney NFT Farm rates are as following:**\
+\
+**Pixel Ingredient Packs generate 2.5 PXJ/H + 5 WUF/H**\
+\
+**Primary Pixel Ingredients generate 0.2 PXJ/H + 5 WUF/H**\
+\
+**Secondary Pixel Ingredient genrate 2.5 PXJ/H + 12 WUF/H**\
+\
+**Tertiary Pixel Ingredients generate 13.5 PXJ/H + 50 WUF/H**\
+\
+**Black Pixel Ingredients generate 124 PXJ/H + 124 WUF/H**\
+\
+**Stake your journey collectibles on WaxDAO here:** [**https://waxdao.io/v2/farm/pixeljourney**](https://waxdao.io/v2/farm/pixeljourney)
+{% endhint %}
+
+
 
 Pixel Ingredient Upgrades can happen via blends on NFTHive, WaxDAO and Neftyblocks, and will be quite intuitive (e.g. red + blue pixels produce purple pixels .. each step upgrading single pixels rarity)&#x20;
 

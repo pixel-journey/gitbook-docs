@@ -2,25 +2,45 @@
 description: The very beginning of this new grand Pixel Journey 🛸🌱
 ---
 
-# 💫 Season 1 (Starting from Wax)
+# 💫 Season 1 (starting from Wax)
 
 {% hint style="info" %}
 **If you're new to Wax:** [Check out our introductions to how to get set up on the Wax Blockchain here](../../fundamentals/getting-set-up-on-wax/).
 {% endhint %}
 
-## Where it all begins
+## **Where It All Begins**
 
-As mentioned up in [The Pixel Journey Begins](../the-pixel-journey-begins.md), this is much about exploration and creating a collective journey through the wide crypto/NFT where we showcase the various options and help each other / everybody get the best start possibly into this shared space.
+As we embark on **The Pixel Journey**, our mission is to explore the **NFT and crypto space together**, creating a shared experience that helps newcomers and veterans alike navigate the **vast Web3 landscape**.
 
-We plan to do the exploration by seasons, with each season lasting 6-12 months, and each season revolving (mostly) around adding onto our PixelJourney features/economy/collectibles, using the best features of each different blockchain.
+### **Seasonal Exploration**
 
-In this first season we'll go through "all about Wax", and set up the foundation to our Pixel Journey world/economy from here. We'll learn about Wax/EOS NFTs, the available services on the ecosystem (like TacoSwap, Nefty/NFTHive or WaxDAO features). We'll introduce our own ['$PXJ token'](kickstarting-the-pxj-economy/), and various (tactical) faucet/burn mechanics along the way. And we've already got a ton of surprises planned for the paths to come! 🥳🛸
+We structure our journey into **seasons**, each lasting **6–12 months** and focusing on **different blockchain ecosystems**. Every season builds upon the previous one, expanding **Pixel Journey’s features, economy, and collectibles** while leveraging the best tools and innovations from each blockchain.
 
-Later in the season we'll explore bridging to Polygon, and once season 2 begins we'll shift our focus to the possibilities there as well.\
-Each season is planned to start with a drop/craft/event, where people can join in for the journeys scheduled, and then again end with a season-finale event where participants will be able to craft/claim another PFP - if they are lucky or active enough to have secured the required collectibles along the journey up till then).
+### **Season 1 – The Wax Blockchain Foundation**
 
-We will initially aim for 10k Pixal PFPs, and those will be the first source of our Pixel ingredients.\
-From the total supply, up to 80% will be allowed to be burned/recycled for packs (further unpackable for craftable/stakable single-pixel ingredients).&#x20;
+Our first season is all about **mastering the WAX ecosystem** and laying the groundwork for our **Pixel Journey world and economy**:
+
+✅ **Learning about WAX & AtomicAsset NFTs** – Understanding their **unique advantages, marketplaces, and tools**.\
+✅ **Exploring Key Ecosystem Features** – Hands-on use of **WaxOnEdge, TacoSwap, Alcor, NFTHive, and WaxDAO**.\
+✅ **$PXJ Token Introduction** – Establishing **token utility, strategic burn/faucet mechanics, and staking opportunities**.\
+✅ **Surprise Events & Community Rewards** – Keeping engagement high with **unexpected twists and exclusive content**.
+
+### **Bridging to New Frontiers**
+
+Later in **Season 1**, we'll explore **bridging to Polygon**, setting the stage for **Season 2**, where our focus will shift toward **new ecosystems and expansion**.
+
+### **Season Structure & Participation**
+
+Each season begins with a **drop, crafting event, or interactive experience**, allowing participants to join in and start their journey. The season then **culminates in a grand finale event**, where active participants can **craft or claim a new PFP—if they’ve secured the necessary collectibles along the way!**
+
+### **Pixal PFPs & Ingredient System**
+
+🔹 **10,000 Pixal PFPs** – The **first source of Pixel Ingredients** in Pixel Journey.\
+🔹 **Recycling Mechanics** – Up to **80% of Pixals can be burned** to generate **PixelPacks**, which **unpack into craftable, stakable single-pixel ingredients**.
+
+Each step of the journey is designed to **empower collectors, traders, and enthusiasts** while ensuring that **our economy remains sustainable and rewarding**.
+
+Are you ready to **explore, craft, and adventure** with us? 🚀🎨
 
 
 

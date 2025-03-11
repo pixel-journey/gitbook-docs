@@ -27,6 +27,7 @@
   * [♻️ Recycling & Crafting](introduction/season-1-starting-from-wax/recycling-and-crafting/README.md)
     * [Pixel Ingredients & Pack Staking](introduction/season-1-starting-from-wax/recycling-and-crafting/pixel-ingredients-and-pack-staking.md)
     * [Pixel Collectibles](introduction/season-1-starting-from-wax/recycling-and-crafting/pixel-collectibles.md)
+  * [📊 Journey Leaderboard](introduction/season-1-starting-from-wax/journey-leaderboard.md)
   * [🏛️ The Rock Council](introduction/season-1-starting-from-wax/the-waxrocks-council.md)
   * [$KING of Pixals](introduction/season-1-starting-from-wax/usdking-of-pixals.md)
   * [🌉 Bridges to Polygon, BASE, ETH and beyond](introduction/season-1-starting-from-wax/bridges-to-polygon-base-eth-and-beyond.md)
