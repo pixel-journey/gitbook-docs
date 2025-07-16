@@ -14,7 +14,7 @@ Our OG sold out Pixal PFP drop on NFTHive
 
 Our Pixal PFPs came with a total of 10000 mints, each minted for 35 Wax / \~$2 each in WAXP tokens (or equal in other accepted secondary Wax tokens), and come with a total of \~323 different traits across 10 NFT-trait groups.
 
-<figure><img src="../../../.gitbook/assets/pixelgrey-noisebg4-gold-pet-rock.png" alt="" width="375"><figcaption><p>An example of a Pixal with a green BG, a stone WaxRock and an Ice Elemental Pet</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pixelgrey-noisebg4-gold-pet-rock.png" alt="" width="375"><figcaption><p>An example of a Pixal with a green BG, a stone WaxRock and an Ice Elemental Pet</p></figcaption></figure>
 
 The 10 trait categories are:
 
@@ -26,21 +26,21 @@ The 10 trait categories are:
 * Glasses and Masks
 * Hats and Hair
 * Special Accessories
-* [WaxRock](../the-waxrocks-council.md) \*
+* [WaxRock](../the-rock-council.md) \*
 * [PixelPet](rock-pixelpet-trait-airdrops/) \*\*
 
-<figure><img src="../../../.gitbook/assets/pixels-ninja (1).png" alt="" width="563"><figcaption><p>A possible Pixal combination at minting</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pixels-ninja (1).png" alt="" width="563"><figcaption><p>A possible Pixal combination at minting</p></figcaption></figure>
 
 Among this first PFP drops traits we have snuck in references, tributes, and easter-eggs, to represent \~42 projects in the wide/active Web3 space today/around the time of their creation here in the Autumn of 2023. An example of this can be seen just here above, where we have a headband/gold-necklace trait combo from the PocketPeople universe referencing their first Pixel PFPs traits.
 
-You can find a list of many of our featured fellow ecosystem projects there down in our [Ecosystem Partners](../../ecosystem-partners/) or in ["For Partners"](../../../journey-use-cases/for-partners.md). (soon .. still to be added)
+You can find a list of many of our featured fellow ecosystem projects there down in our [Ecosystem Partners](../../introduction/ecosystem-partners/) or in ["For Partners"](../../journey-use-cases/for-partners.md). (soon .. still to be added)
 
 
 
 Certain of the trait groups/variations, may also automatically make holders eligible for certain extra special airdrops. Especifically the "WaxRocks and PixelPets" will eventually be airdropped as separate NFT assets, and may be Pixals worth keeping on to. \
-The [WaxRocks](../the-waxrocks-council.md) trait will be among the most desired, as these traits will grant access to our first phase and beginning of our upcoming PixelDAO.
+The [WaxRocks](../the-rock-council.md) trait will be among the most desired, as these traits will grant access to our first phase and beginning of our upcoming PixelDAO.
 
-<figure><img src="../../../.gitbook/assets/pixel_journey_pack_002_500x500 (2).gif" alt=""><figcaption><p>Our first Single Pixel packs. 3D animated by Fried 😍</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pixel_journey_pack_002_500x500 (2).gif" alt=""><figcaption><p>Our first Single Pixel packs. 3D animated by Fried 😍</p></figcaption></figure>
 
 Our Pixal PFPs are 'the first step' towards our upcoming [Pixel Journey-economy](../kickstarting-the-pxj-economy/), and will set off certain of our pixel-recycling and blending mechanics 🛸 Where up to 80% (8000) of our Pixals will be blendable into PixelPacks (displayed in the GIF above). \
 \

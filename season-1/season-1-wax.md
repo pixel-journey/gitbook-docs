@@ -1,11 +1,12 @@
 ---
 description: The very beginning of this new grand Pixel Journey 🛸🌱
+icon: '1'
 ---
 
-# 💫 Season 1 (starting from Wax)
+# Season 1 (WAX)
 
 {% hint style="info" %}
-**If you're new to Wax:** [Check out our introductions to how to get set up on the Wax Blockchain here](../../fundamentals/getting-set-up-on-wax/).
+**If you're new to Wax:** [Check out our introductions to how to get set up on the Wax Blockchain here](../education/getting-set-up-on-wax/).
 {% endhint %}
 
 ## **Where It All Begins**
@@ -35,8 +36,8 @@ Each season begins with a **drop, crafting event, or interactive experience**, a
 
 ### **Pixal PFPs & Ingredient System**
 
-🔹 **10,000 Pixal PFPs** – The **first source of Pixel Ingredients** in Pixel Journey.\
-🔹 **Recycling Mechanics** – Up to **80% of Pixals can be burned** to generate **PixelPacks**, which **unpack into craftable, stakable single-pixel ingredients**.
+* &#x20;**10,000 Pixal PFPs** – The **first source of Pixel Ingredients** in Pixel Journey.
+* &#x20;**Recycling Mechanics** – Up to **80% of Pixals can be burned** to generate **PixelPacks**, which **unpack into craftable, stakable single-pixel ingredients**.
 
 Each step of the journey is designed to **empower collectors, traders, and enthusiasts** while ensuring that **our economy remains sustainable and rewarding**.
 
@@ -44,7 +45,7 @@ Are you ready to **explore, craft, and adventure** with us? 🚀🎨
 
 
 
-<figure><img src="../../.gitbook/assets/gm-red-stellar-pixel-pupper-eyess.png" alt="" width="375"><figcaption><p>A Pixal PFP featuring traits from the "Wold of Cryptopups" collection on the Wax Blockchain</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/gm-red-stellar-pixel-pupper-eyess.png" alt="" width="375"><figcaption><p>A Pixal PFP featuring traits from the "Wold of Cryptopups" collection on the Wax Blockchain</p></figcaption></figure>
 
 ## The Season 1 plan summarized:
 

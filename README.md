@@ -27,16 +27,16 @@ Our sold out OG Pixal PFP drop on NFTHive
 [roadmap-summary.md](introduction/roadmap-summary.md)
 {% endcontent-ref %}
 
-{% content-ref url="introduction/season-1-starting-from-wax/" %}
-[season-1-starting-from-wax](introduction/season-1-starting-from-wax/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="important-links/pixel-journey-collection-pages/" %}
 [pixel-journey-collection-pages](important-links/pixel-journey-collection-pages/)
 {% endcontent-ref %}
 
-{% content-ref url="introduction/season-1-starting-from-wax/the-pixal-pfps/" %}
-[the-pixal-pfps](introduction/season-1-starting-from-wax/the-pixal-pfps/)
+{% content-ref url="season-1/the-pixal-pfps/" %}
+[the-pixal-pfps](season-1/the-pixal-pfps/)
 {% endcontent-ref %}
 
 ## Getting Started On Wax
@@ -46,12 +46,12 @@ We've put together some helpful guides for you to get setup on the Wax Blockchai
 \
 If you should have any further questions, or need for help, feel free to reach out either on our own Pixel Journey Discord, or on the official Wax.io Discord where there's also always help to be found.
 
-{% content-ref url="fundamentals/getting-set-up-on-wax/" %}
-[getting-set-up-on-wax](fundamentals/getting-set-up-on-wax/)
+{% content-ref url="education/getting-set-up-on-wax/" %}
+[getting-set-up-on-wax](education/getting-set-up-on-wax/)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up-on-wax/wax-101.md" %}
-[wax-101.md](fundamentals/getting-set-up-on-wax/wax-101.md)
+{% content-ref url="education/getting-set-up-on-wax/wax-101.md" %}
+[wax-101.md](education/getting-set-up-on-wax/wax-101.md)
 {% endcontent-ref %}
 
 {% content-ref url="important-links/ecosystem-discords/" %}

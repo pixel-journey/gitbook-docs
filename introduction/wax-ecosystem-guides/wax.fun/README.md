@@ -27,8 +27,8 @@ WAX.FUN is in many ways similar to the very popular "pumpdotfun" platform from t
 
 Read about our KING of Pixals here, and all about how we conquered the first month of the WAX.FUN platforms initial release with our Pixel Journey Community showing strength after strengths, and carving in our journeys into Wax FUN History books forever!
 
-{% content-ref url="../../season-1-starting-from-wax/usdking-of-pixals.md" %}
-[usdking-of-pixals.md](../../season-1-starting-from-wax/usdking-of-pixals.md)
+{% content-ref url="../../../season-1/usdking-of-pixals.md" %}
+[usdking-of-pixals.md](../../../season-1/usdking-of-pixals.md)
 {% endcontent-ref %}
 
 
