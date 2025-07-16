@@ -14,3 +14,7 @@ Our goal is to **build a structured, engaging journey** through Web3 - setting c
 
 So, are you ready for an adventure like no other? 🚀🪨🚶‍♂️🚶‍♀️🚶\
 &#x20;Let’s embark on the **Pixel Journey** together!
+
+
+
+<figure><img src="../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>

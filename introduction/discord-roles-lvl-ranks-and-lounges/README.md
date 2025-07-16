@@ -137,8 +137,8 @@ If you see anything 'suspicious' around, don't hesitate to ping @piga or any mod
 
 For any other inquiries for the team, please refer to our support channel to create a ticket. Alternatively you can also email us at support@pixeljourney.xyz
 
-Our moderators on the Discord are:
+Our amazing Discord moderation team consists of:
 
-<figure><img src="../../.gitbook/assets/image (173).png" alt=""><figcaption><p>Our amazing Discord moderation team (+ and myself)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
 If you have interest in joining our Moderation team, [feel free to fill out this form](https://forms.gle/EU1LQ3SqekQ2TGT26). And we (piga) get back to you directly by need and/or at first opportunity 🫡
