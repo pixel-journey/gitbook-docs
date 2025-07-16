@@ -38,7 +38,7 @@
   * [🟧 Season 3 (Ordinals/Runes?)](introduction/future-seasons/season-3-ordinals-runes.md)
   * [👾 Season 42 (PixelNet?)](introduction/future-seasons/season-42-pixelnet.md)
 * [🏆 What is the goal?](introduction/what-is-the-goal.md)
-* [🛸 The PxJourney Team](introduction/the-pxjourney-team.md)
+* [🛸 The PXJourney Team](introduction/the-pxjourney-team.md)
 * [🏢 Wax Ecosystem Guides](introduction/wax-ecosystem-guides/README.md)
   * [PXJ WRITERS PROGRAM](introduction/wax-ecosystem-guides/pxj-writers-program.md)
   * [Common Questions From The Official WAX Discord FAQ](introduction/wax-ecosystem-guides/common-questions-from-the-official-wax-discord-faq/README.md)

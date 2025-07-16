@@ -15,16 +15,14 @@ Here's the breakdown:
 1. **Tokenization:** Head over to RWAX.io and tokenize your Pixal PFP. There's a small 1 WAX fee to cover the process, ensuring the long-term sustainability of the system.
 2. **$WPIXAL Received:** The amount of $WPIXAL you receive depends on the _type_ of Pixal PFP you tokenize:
 
-*   **Regular Pixal PFP:** 1 $WPIXAL
+* **Regular Pixal PFP:** 1 $WPIXAL
+  * **PixelPet Trait:** 1.1 $WPIXAL (Bonus!)
+  * **WaxRock Trait:** 25 $WPIXAL (Jackpot!)
 
-    * **PixelPet Trait:** 1.1 $WPIXAL (Bonus!)
-    * **WaxRock Trait:** 25 $WPIXAL (Jackpot!)
+3. **DeFi Unleashed:** Now that you have $WPIXAL, you can participate in various DeFi activities, such as:
 
-
-* **DeFi Unleashed:** Now that you have $WPIXAL, you can participate in various DeFi activities, such as:
-*   **Liquidity Pools:** Provide liquidity to pools like WPIXAL/PXJ, WPIXAL/WAX, WPIXAL/KING, or WPIXAL/WUF to earn rewards!
-
-    * **Farming:** Stake your $WPIXAL in farms to earn even more tokens. Keep an eye out for opportunities on platforms like Alcor Exchange and TacoSwap!
+* **Liquidity Pools:** Provide liquidity to pools like WPIXAL/PXJ, WPIXAL/WAX, WPIXAL/KING, or WPIXAL/WUF to liquidity provider rewards from volumes traded along the way!
+*   **Farming:** Stake your $WPIXAL in farms to earn even more tokens. Keep an eye out for opportunities on platforms like Alcor Exchange and TacoSwap!
 
 
 
@@ -33,7 +31,9 @@ Here's the breakdown:
 * **Liquidity:** $WPIXAL transforms previously illiquid NFTs into easily tradable tokens. This dramatically increases the accessibility and utility of Pixal PFPs.
 * **DeFi Opportunities:** Unlock a world of DeFi possibilities! Earn rewards, participate in governance, and contribute to the growth of the Pixel Journey ecosystem.
 * **Price Discovery:** $WPIXAL helps establish a clear price floor for Pixal PFPs, making it easier to value and trade your assets.
-* **Rarity Amplification:** The bonus $WPIXAL awarded for PixelPet and WaxRock traits incentivizes the collection of rare PFPs and rewards their holders.
+* **Rarity Amplification:** The bonus $WPIXAL awarded for PixelPet and WaxRock traits incentivizes the collection of rare PFPs and rewards their value proportionally.
+
+
 
 **Strategic Advantages: Pro Moves for $WPIXAL Masters**
 
