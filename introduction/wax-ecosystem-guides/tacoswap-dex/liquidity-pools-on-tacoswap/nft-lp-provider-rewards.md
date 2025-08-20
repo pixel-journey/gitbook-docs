@@ -12,7 +12,7 @@ description: >-
 
 On the Tacoswap NFT Rewards site you can find an overview over all the pairs with NFT rewards enabled:
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Each pair has their own dedicated NFT-reward pools, where the rewards can only be added to/filled up by the token creator wallet.&#x20;
 

@@ -6,7 +6,7 @@ description: >-
 
 # wax.bloks.io Explorer
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>wax.bloks.io frontpage</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>wax.bloks.io frontpage</p></figcaption></figure>
 
 
 

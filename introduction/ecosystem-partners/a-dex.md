@@ -61,13 +61,13 @@ Adding liquidity onto A-DEX is only a few simple steps!
 * Use the slider, or insert the amount desired to deposit/remove
 * Review the details, and click on the "Confirm" button to initiate the transaction
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### The Send Tab
 
 On the Send tab you can with a simple UI easily send any tokens from your Wax Wallet onto other accounts on the Wax Network.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -75,7 +75,7 @@ On the Send tab you can with a simple UI easily send any tokens from your Wax Wa
 
 On the last tab of the swap part of A-DEX, we have the Buy section, where you can exchange crypto with WAXP, or use a Credit Card directly without KYC necessary.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -85,7 +85,7 @@ A-DEX is also available for the EOS and Telos Networks from the Antelope Ecosyst
 
 Make sure you have entered the "https://**wax."** version of the platform, or change the network selected next to the wallet connect button in the top right corner.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Select Network by clicking the Network Icon to the left of "Connect Wallet"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Select Network by clicking the Network Icon to the left of "Connect Wallet"</p></figcaption></figure>
 
 ### A-DEX Guild
 

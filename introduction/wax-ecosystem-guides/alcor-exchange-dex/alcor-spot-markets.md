@@ -14,7 +14,7 @@ Where many LP Swaps take at minimum 0.05-1% in fees from Swaps, most Alcor Spot 
 A  few Spot Markets for pairs such as: WUF, TLM, VOID and a few others have Spot Order fees of 0.2%.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p><a href="https://alcor.exchange/trade/pxj-pixeljourney_wax-eosio.token">Our PXJ/WAX Alcor Spot Market on Alcor Exchange</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p><a href="https://alcor.exchange/trade/pxj-pixeljourney_wax-eosio.token">Our PXJ/WAX Alcor Spot Market on Alcor Exchange</a></p></figcaption></figure>
 
 ### Spot Market Tradeview Chart
 
