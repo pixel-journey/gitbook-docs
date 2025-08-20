@@ -169,7 +169,7 @@
     * [Your Wallet on Waxblock.io](introduction/wax-ecosystem-guides/waxblock.io-explorer/your-wallet-on-waxblock.io.md)
     * [Transferring tokens on Waxblock.io](introduction/wax-ecosystem-guides/waxblock.io-explorer/transferring-tokens-on-waxblock.io.md)
     * [WAXP Voting/Staking Rewards](introduction/wax-ecosystem-guides/waxblock.io-explorer/waxp-voting-staking-rewards.md)
-    * [Creating new Wax accounts via Waxblock.io](introduction/wax-ecosystem-guides/waxblock.io-explorer/creating-new-wax-accounts-via-waxblock.io.md)
+    * [Creating Wax accounts via Waxblock.io (and MCW Claims!)](introduction/wax-ecosystem-guides/waxblock.io-explorer/creating-wax-accounts-via-waxblock.io-and-mcw-claims.md)
     * [Staking/Unstaking CPU and NET via Waxblock.io](introduction/wax-ecosystem-guides/waxblock.io-explorer/staking-unstaking-cpu-and-net-via-waxblock.io.md)
     * [Buying/Selling RAM via Waxblock.io](introduction/wax-ecosystem-guides/waxblock.io-explorer/buying-selling-ram-via-waxblock.io.md)
     * [Using contracts/actions directly from Waxblock.io](introduction/wax-ecosystem-guides/waxblock.io-explorer/using-contracts-actions-directly-from-waxblock.io.md)
