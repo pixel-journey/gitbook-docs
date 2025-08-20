@@ -2,7 +2,7 @@
 description: Creating and Claiming WAX Accounts
 ---
 
-# Creating new Wax accounts via Waxblock.io
+# Creating Wax accounts via Waxblock.io (and MCW Claims!)
 
 This guide walks you through creating a brand new WAX account using WaxBlock.io and claiming control of an existing WAX account via MyCloudWallet.com. We'll cover key generation, account creation, importing accounts into your Anchor Wallet for easy management, and considerations for securing shorter account names.
 
@@ -140,7 +140,15 @@ This new key pair will be used to take ownership of your account.&#x20;
 
 Follow the same steps as in Part 1 to import the account into Anchor Wallet using the new private key you generated and claimed.
 
-#### Conclusion,
+
+
+#### YouTube Video Guide here from MikeD explaining how to Claim your Wax Accounts too:
+
+{% embed url="https://youtu.be/ZDHz7WP_uwI?t=5m27s" %}
+
+
+
+#### In Conclusion
 
 You now have the ability to both create new WAX accounts and claim existing ones, giving you full control over your digital assets. Using [Anchor Wallet](../anchor-wallet/) provides an additional layer of security and flexibility for managing your accounts. By following these steps, you can easily set up and manage your WAX accounts, ensuring you're always in control!
 
