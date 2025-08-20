@@ -6,14 +6,16 @@ description: Creating and Claiming WAX Accounts
 
 This guide walks you through creating a brand new WAX account using WaxBlock.io and claiming control of an existing WAX account via MyCloudWallet.com. We'll cover key generation, account creation, importing accounts into your Anchor Wallet for easy management, and considerations for securing shorter account names.
 
-## Understanding Keys on WAX Account Keys
+## Understanding WAX Account Keys
 
 Before diving in, it's essential to understand key pairs in blockchain technology. On EOSIO-based blockchains like WAX, each account is controlled by a pair of cryptographic keys: a public key and a private key.
 
 * **Private Key (PVT\_K1\_):** This is a secret, random string that acts as your account's password. **Never share your private key with anyone!** Losing access to your private key means losing access to your account.
 * **Public Key (PUB\_K1\_):** This is derived from its private key and is used to verify transactions. You can share your public key freely.
 
-The number of possible key combinations is astronomically large, making collisions (duplicate keys) practically impossible.
+The number of possible these key combinations is astronomically large, making collisions (duplicate keys) practically impossible.
+
+
 
 ## Part 1: Creating a New WAX Account via WaxBlock.io
 
@@ -138,7 +140,7 @@ This new key pair will be used to take ownership of your account.&#x20;
 
 ### 3. Import the Account into Anchor Wallet (Same as Before)&#x20;
 
-Follow the same steps as in Part 1 to import the account into Anchor Wallet using the new private key you generated and claimed.
+Follow the same steps as in Part 1 ([Understand Wax Account Keys](creating-wax-accounts-via-waxblock.io-and-mcw-claims.md#understanding-keys-on-wax-account-keys) &  [1. Generate a Key Pair](creating-wax-accounts-via-waxblock.io-and-mcw-claims.md#id-1.-generate-a-key-pair)) to import the account into Anchor Wallet using the new private key you generated and claimed.
 
 
 
