@@ -7,35 +7,32 @@ description: >-
 
 # 📊 Journey Leaderboard
 
-## **Pixel Journey Leaderboards: Track Your Staking Power & Rise to the Top!** 🚀🏆
+## Pixel Journey Leaderboards: Track Your Progress and Rise to the Top! 🚀🏆
 
-### **What Are the Leaderboards?**
+The **Pixel Journey Leaderboards** are our way of recognizing and celebrating the most dedicated adventurers in the ecosystem. They rank participants based on:
 
-The **Pixel Journey Leaderboards** track **every adventurer’s** journey by ranking:\
-✅ **Total staking power** from **Pixel Ingredients** and **crafted collectibles** 🔥\
-✅ **Pixel Ingredient upgrading & blending progress** 🛠️\
-✅ **Top collectors & holders shaping the Pixel economy** 🎨
+- **Total staking power** from Pixel Ingredients and crafted collectibles
+- **Pixel Ingredient upgrading and blending progress**
+- **Overall collection strength and strategic play**
 
-Every blend, every upgrade, and every **strategic move** **earns you a place among the best** in the **Pixel Journey universe**! 🌌
+Every blend, upgrade, and smart move you make helps you climb the ranks and stand out among the top Pixel Journey participants!
 
-### **How Do You Rank Up?**
+### How to Climb the Leaderboards
 
-📌 **Stake & Hold Pixel Ingredients** – The **more powerful your Pixels**, the higher your influence!\
-📌 **Upgrade Your Ingredients** – Combine **Primary Pixels** into **Secondary & Tertiary** for more **staking power**!\
-📌 **Blend for Advanced Collectibles** – Certain **rare upgrades** contribute even greater leaderboard weight!\
-📌 **Engage & Compete** – Watch **your ranking rise** as you out-stake, out-upgrade, and out-strategize others!
+- **Stake & Hold Pixel Ingredients** – The stronger and more upgraded your Pixels, the higher your influence.
+- **Upgrade Ingredients** – Combine Primary Pixels into Secondary and Tertiary colors for greater staking power.
+- **Blend for Advanced Collectibles** – Rare or high-tier upgrades contribute even more to your ranking.
+- **Stay Active** – Consistent participation and smart strategy will push you higher over time.
 
-### **Why Climb the Leaderboards?**
+### Why Climb the Leaderboards?
 
-🎖️ **Show Off Your Status** – Prove you’re among the top **Pixel Journey collectors & strategists**!\
-🎁 **Potential Future Perks** – **Leaderboard performance may unlock special bonuses, events, or exclusive collectibles**! 👀\
-🌍 **Shape the Pixel Economy** – The strongest collectors **drive the value and future of the ecosystem**!
+- **Showcase Your Status** – Prove you’re among the top collectors and strategists in the Pixel Journey universe.
+- **Potential Future Perks** – Leaderboard performance may unlock special bonuses, events, or exclusive collectibles in future phases.
+- **Shape the Ecosystem** – The strongest participants help drive value and direction in the Pixel economy.
 
-Are you ready to stake, blend, and **level up your Pixel Ingredients** to dominate the **Pixel Journey Leaderboards**? 🚀🔥
+Ready to stake, blend, upgrade, and dominate the leaderboards? 🚀
 
-Check out your rank now 👉 [lb.pixeljourney.xyz](https://lb.pixeljourney.xyz)
-
-
+Check your current rank here: [lb.pixeljourney.xyz](https://lb.pixeljourney.xyz)
 
 {% embed url="https://lb.pixeljourney.xyz/" %}
 [https://lb.pixeljourney.xyz/](https://lb.pixeljourney.xyz/)
