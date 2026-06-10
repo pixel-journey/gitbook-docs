@@ -1,34 +1,26 @@
 ---
-description: One mans dream .. A whole pixel worlds future adventure!
+description: One man's dream .. A whole pixel world's future adventure!
 ---
 
 # 🛸 The PxJourney Team
 
-The Pixel Journey is initially almost fully designed, developed, marketed and mostly launched by just 1-man .. myself, Henrik Piga. But you can just call me Piga 👋🫡🙋‍♂️&#x20;
+The Pixel Journey started as the vision of one person — **Henrik Piga** (you can call me Piga 👋). I’m an entrepreneur, designer, programmer, engineer, content creator, and photographer with a background in IT support, software engineering, and web design. This project lets me combine my biggest passions: Web3, crypto, NFTs, pixel art, and building things that bring people together.
 
-I'm an entrepreneur, designer, programmer, engineer, 'influencer' and photographer. So one might say a man of incredibly many hats.&#x20;
+What began as a solo endeavor has grown into something much bigger thanks to our amazing community. We’re actively expanding the team with passionate moderators, contributors, artists, and developers from within the Pixel Journey family.
 
-I have an education/background as IT-Support, certified in ICT/Software engineering, and Web-Design, which allows me to create this Pixel Journey, a place for all to take share many of my most enjoyed interests (web3, crypto and photography), and hopefully for us all to work together to reach a bit more of the wider web3 worlds.
+### Current Discord Moderation Team
 
-Feel free to follow my progress and journey around all of this on Twitter as well:
+- **MrAkai** – Top Great Mister!
+- **BanoshiNakamoto** – Top dev contributor!
+- **jons** – Top Pixal / PXJourney holder!
+- **Mathmos** – Top German Mod!
 
-[Henrik Piga on Twitter](https://twitter.com/HenrikPiga)
+These wonderful people help keep our Discord welcoming, helpful, and fun for everyone.
 
-Going forward we'll be expanding onto the team though, and will hope to 'bring on' a handful of (additional) support staff/moderators, artists and developers from within our community to help bring the whole projects future journeys to come to whole new levels!
+### Want to Join the Team?
 
-
-
-### Discord Moderators:
-
-* MrAkai (Top Great Mister!)
-* BanoshiNakamoto (Top dev contributor!)
-* jons (Top Pixal PXJourney holder!)
-* Mathmos (Top German Mod!)
-
-
-
-If you're interested in joining our Moderation team, make sure to first to get to know our community and project mechanics! And then find our Moderation Application form here below to send in your application when you're feeling well equipped and ready to step up the ranks! 👇
-
-### PXJourney Application Form:
+We’re always looking for dedicated community members who know the project well and want to help shape its future. If you’re active, helpful, and excited about what we’re building, check out our Moderation Application form below.
 
 {% embed url="https://forms.gle/EU1LQ3SqekQ2TGT26" %}
+
+Your energy and ideas are what make Pixel Journey special. Whether you want to moderate, create content, contribute ideas, or just be part of the conversation — you’re welcome here. Let’s keep building this pixel-perfect adventure together! 🚀

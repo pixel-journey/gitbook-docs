@@ -6,15 +6,18 @@ description: The goals, visions and first plans for the paths to come
 
 ### What is Pixel Journey?
 
-Pixel Journey is an interactive project where **crypto education and exploration** take center stage! 💗 While collecting and bonding over unique **NFTs and digital art** is a big part of our journey 🖼️🎨, our primary mission is to **guide users through the evolving Web3 landscape -** one blockchain at a time.
+Pixel Journey is an interactive, long-term project where **crypto education and meaningful exploration** are at the very center. 💙
 
-We started our adventure on the **WAX blockchain**, taking advantage of its powerful bridging capabilities to connect with other blockchain ecosystems. From there, we’ve expanded to **Ethereum, Polygon, Base, and BNB Chain** already, learning and integrating as we go.
+While collecting and bonding over unique **NFTs and digital pixel art** is a joyful and important part of the experience 🖼️🎨, our primary mission is to **guide explorers through the evolving Web3 landscape — one blockchain and one milestone at a time**.
 
-Our goal is to **build a structured, engaging journey** through Web3 - setting clear milestones, creating mechanics that make sense, and discovering **the best tools and opportunities** each ecosystem has to offer. By working together, we can **explore, innovate, and make incredible things happen!**
+We began our adventure on the **WAX blockchain**, leveraging its excellent bridging capabilities and vibrant NFT community. From this strong foundation we have already begun expanding our horizons to other ecosystems (Ethereum, Polygon, Base, and more), learning, integrating, and building as we go.
 
-So, are you ready for an adventure like no other? 🚀🪨🚶‍♂️🚶‍♀️🚶\
-&#x20;Let’s embark on the **Pixel Journey** together!
+Our approach is deliberate and community-driven: we set clear milestones, design mechanics that make sense and feel rewarding, discover the best tools each ecosystem offers, and focus on real utility and education. By exploring and building together, we create something greater than any single person could achieve alone.
 
+**Season 1** has been our extended foundational phase on WAX — a deep, thoughtful period of building the core (Pixal PFPs, PXJ economy, recycling & crafting systems, governance, education resources, and technical infrastructure including the major PxPackages framework). This phase has naturally taken longer than a single year because we prioritize quality, sustainability, and proper maturation over rushing forward.
 
+So — are you ready for an adventure that grows with you? 🚀
+
+Let’s embark on the **Pixel Journey** together!
 
 <figure><img src="../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
