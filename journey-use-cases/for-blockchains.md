@@ -6,15 +6,10 @@ description: >-
 
 # ⛓️ For Blockchains
 
-Without the blockchains to make our Web3 metaverse spin around, we wouldn't even be here! So the Pixel Journey will naturally help educate about blockchains, your networks, tokenomics and coins, as the general wider crypto onboarding as well.
+Without blockchains, there would be no Web3 metaverse. The Pixel Journey naturally includes education about blockchains, networks, tokenomics, and the wider crypto space as part of our onboarding focus.
 
-While the first few years of the Pixel Journey is already largely booked up with:
+While our early phases have focused heavily on WAX (and connections to EOS), we are already expanding through bridges to Polygon, Ethereum, Base, BNB Chain, and beyond. Future phases will continue this multi-chain exploration.
 
-* Wax (and EOS) in season 1
-* Polygon in season 2
-* ETH in season 3
-* (and possibly back to wider EOS for season 4)
+We welcome opportunities to highlight and educate about other blockchains along the way. If you're building on a chain you'd like us to feature or collaborate with, feel free to reach out!
 
-There may come plenty of opportunities to weave in side-quests on nearby/related blockchains as we go too, so feel free to reach out and make your case for why we should explore your paths, and/or incorporate educating about your blockchain along our Pixel Journey as well! 🗳️🫡
-
-Please create a ticket on our Discord, or send a mail to support@pixeljourney.xyz to get in direct contact with our team.
+**Get in touch:** Create a ticket in our Discord or email support@pixeljourney.xyz.
