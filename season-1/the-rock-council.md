@@ -4,9 +4,21 @@ description: The first phase of building towards a PixelDAO
 
 # 🏛️ The Rock Council
 
-The **Rock/WaxRocks Council** represents the first major step toward community-driven governance in Pixel Journey. It serves as the highest influence level in our current governance structure, with plans to evolve into a full **PixelDAO** as the project grows.
+The **Rock/WaxRocks Council** represents the first major step toward community-driven governance in Pixel Journey. It serves as the highest influence level in our current governance structure, with plans to evolve into a full **PixelDAO** as the project grows. This is your hands-on education in real Web3 governance — learning how communities make decisions, allocate resources, and shape the future together.
 
 <figure><img src="../../.gitbook/assets/pixelspetrock-ackaliens.png" alt="" width="563"><figcaption><p>A Pixal PFP with a random WaxRock trait generated at mint</p></figcaption></figure>
+
+### Why Governance Education Matters in Your Pixel Journey
+
+Understanding and participating in governance is one of the most powerful skills in Web3. The Rock Council gives you direct experience with voting systems, resource allocation, community incentives, and collective decision-making. These are the exact skills that will power future PixelDAO structures, PxPackages-powered tools, and the broader decentralized web. By engaging here, you're not just influencing Pixel Journey — you're building transferable expertise for any DAO or community project.
+
+### What You'll Learn Through the Rock Council
+
+- **Governance Mechanics**: How voting power, proposals, and consensus actually work in practice.
+- **Incentive Design**: How rewards, boosts, and allocations shape behavior and growth.
+- **Community Leadership**: The balance between core team vision and decentralized input.
+- **Long-term Visioning**: How early governance structures evolve into full DAOs.
+- **Foundation for PxPackages & PxLearn**: Early exposure to modular governance logic that will power future tools and educational content.
 
 ### Current Governance Structure (5 Levels)
 
@@ -48,7 +60,16 @@ Voting power is based on a combination of Discord level ranks and special owners
 
 **Total Voting Power = Base + All applicable role boosts**
 
-This system allows dedicated participants to reach very high voting power through a combination of activity and holdings.
+This system allows dedicated participants to reach very high voting power through a combination of activity and holdings. It rewards both engagement (Discord levels) and commitment (holdings + staking).
+
+### Pixel Journey Tips for Meaningful Council Participation
+
+- **Build Your Voice**: Climb Discord levels and engage actively — every contribution counts toward influence.
+- **Strategic Holdings**: Staking Pixals, ingredients, and other assets boosts your power and earns rewards simultaneously.
+- **Stay Informed**: Follow council discussions in Discord and review proposals carefully.
+- **Contribute Ideas**: Use the contribution channels — great ideas often become votes.
+- **Think Ecosystem-Wide**: Decisions affect the entire 1050+ day journey and future PxPackages tools.
+- **Learn by Doing**: Governance participation is one of the best ways to truly understand decentralized systems.
 
 ### WaxRocks
 
@@ -81,4 +102,6 @@ The WaxRocks Council controls a 25% share of creator market fees and a portion o
 - Rewarding community contributions
 - Suggesting partnerships and collaborations
 
-The Council plays a key role in shaping the direction of Pixel Journey while we build toward a more autonomous PixelDAO.
+The Council plays a key role in shaping the direction of Pixel Journey while we build toward a more autonomous PixelDAO. This is real governance education in action — preparing you for the decentralized future.
+
+*Part of our ongoing mission to create the best, most educational Web3 journey material in the space — over 1050 days strong and growing.*
