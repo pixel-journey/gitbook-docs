@@ -6,12 +6,12 @@ description: >-
 
 # Unintended Actions on the WAX Blockchain
 
-Due to the decentralized nature of the WAX blockchain, there are limitations to what support can assist with:
+Because WAX is a decentralized blockchain, there are important limitations to what support can do:
 
-* We **cannot** reverse transactions.
-* We **cannot** move assets in or out of your wallet.
-* We **cannot** ban, block, or erase any wallet addresses on the blockchain.
-* We **cannot** disclose non-public details about any account.
-* We **cannot** make changes or modifications to wallets/accounts.
+- Transactions **cannot** be reversed
+- Assets **cannot** be moved in or out of wallets by support
+- Wallet addresses **cannot** be banned or blocked
+- Non-public account details **cannot** be disclosed
+- Changes to wallets or accounts **cannot** be made by support
 
-Given these constraints, it's crucial to review and verify every transaction before confirming. Should you make an inadvertent transaction, support won't be in a position to rectify it. Always proceed with caution.
+**Always double-check every transaction before confirming.** If something goes wrong, support cannot undo it. Take your time and stay cautious with every action on-chain.
