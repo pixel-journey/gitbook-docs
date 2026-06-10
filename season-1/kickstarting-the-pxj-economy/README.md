@@ -1,64 +1,44 @@
+---
+description: The heart of the Pixel Journey economy
+---
+
 # 🪙 Kickstarting the PXJ-Economy
 
-## **$PXJ Token: The Heart of Pixel Journey**
+## $PXJ Token: The Heart of Pixel Journey
 
-The **$PXJ token** is the **core currency of the Pixel Journey ecosystem**, driving **collectibles, staking, rewards, and governance**.
+The **$PXJ token** is the core utility and governance token of the Pixel Journey ecosystem. It powers collectibles, staking, rewards, crafting, recycling, and future governance.
 
-### **Launch & Distribution Plan**
+### Token Release Mechanism (Updated Reality)
 
-We’ll introduce **$PXJ** during **Season 1 on WAX**, acting as our **main utility token** throughout the project.
+While we originally envisioned a per-season distribution model, the actual implementation has been a consistent **yearly mint at New Year’s Eve** of approximately **10% of the remaining unminted supply**. These new tokens are allocated across our five core pools:
 
-#### **Total Supply: 10 Billion PXJ**
+- **dao.pxj**
+- **team.pxj**
+- **dev.pxj**
+- **defi.pxj**
+- **craft.pxj**
 
-🔹 **Seasonal Distribution Model** – Approximately **10% of the remaining supply** will be distributed each season:
+This yearly cadence has been our practice for the past two years and will continue, providing predictable and sustainable support for the ecosystem.
 
-* **Season 1**: 1 billion PXJ
-* **Season 2**: 900 million PXJ
-* **Season 3**: 810 million PXJ
-* … and so on, gradually decreasing each season.
-* This results in a **built-in halving mechanism** that reduces distribution output after the **6th season**.
+### Season 1 Token Allocation Context
 
-### **Season 1 Token Allocation (\~1 Billion PXJ)**
+Season 1 has been our extended foundational phase (early 2024 through mid-2026+). A major focus during late 2025 – mid 2026 was the intensive development of our **PxPackages** framework (Alpha miniDApps experimentation → full rebuild with shared, robust functionality). This technical maturation has strengthened the entire backend and prepared us for smoother future expansions.
 
-The **Season 1** distribution follows a **carefully balanced model** to encourage engagement, sustainability, and growth:
+The initial Season 1 allocation supported:
 
-#### **1️⃣ Burnable NFT Rewards (10%)**
+- Liquidity provision and staking rewards (Alcor, TacoSwap, Pepperstake)
+- NFT/collectible incentives and WaxDAO crafting rewards
+- Governance via the WaxRocks Council (early PixelDAO)
+- Burnable NFT rewards and community events
+- Partnership and promotional allocations
 
-* Special **burnable NFTs** will provide **randomized PXJ amounts**.
-* Some will be **given away** via events & promotions, while others will be **sold for WAX or PXJ**.
+### $PXJ Token Utility
 
-#### **2️⃣ LP & Staking Rewards (20%)**
+- **Crafting & Recycling**: Required for special blends, upgrades, and obtaining new collectibles.
+- **Staking & Rewards**: Earn through LP provision, NFT staking, and governance participation.
+- **Burn Mechanics**: Used in recycling routes to create new assets.
+- **Future Governance**: Will play an increasing role in PixelDAO as the project evolves.
 
-* **Salsa/MEAL Pools & Alcor Farms** will distribute **PXJ staking rewards** for liquidity providers.
+The $PXJ economy is designed to be sustainable, with built-in burn/faucet balance and community-driven incentives. It forms the backbone that ties together Pixals, Pixel Ingredients, crafting, and long-term participation.
 
-#### **3️⃣ Initial Liquidity & Team Reserves (15-25%)**
-
-* **Liquidity Pools (LPs)** will receive an initial **PXJ allocation**, partially funded by **team sales revenue**.
-
-#### **4️⃣ WaxRocks Council Allocation (20%)**
-
-* **Governance-controlled allocation**, allowing the **WaxRocks Council** to decide on:\
-  ✅ **Boosting other incentives**\
-  ✅ **Airdrops for rare traits & collectibles**
-
-#### **5️⃣ WaxDAO Crafting Rewards (20%)**
-
-* Select **crafted collectibles** will be eligible for **PXJ staking rewards via WaxDAO**.
-
-#### **6️⃣ Partnership & Promo Allocations (5%)**
-
-* Reserved for **collaborations, promo events, and external NFT collections**.
-
-(_Note: All percentages are based on the seasonal allocation, not the total supply._)
-
-### **PXJ Token Utility**
-
-Beyond **staking, LP rewards, and governance**, PXJ will have **multiple use cases**:
-
-✅ **Crafting Ingredients** – Required for **special drops & collectible upgrades**.\
-✅ **Burn & Recycling Mechanics** – Used to **obtain new NFTs** by recycling **older assets**.\
-✅ **DAO & Governance (Future Seasons)** – Will play a larger role in **PixelDAO voting & decision-making**.
-
-For **Season 1**, governance will be primarily **handled by the WaxRocks Council**, with **PXJ integration into the PixelDAO** planned for later seasons.
-
-<figure><img src="../../../.gitbook/assets/pixels-PXJ-token3.png" alt="" width="375"><figcaption><p>A redeemable $PXJ token coin</p></figcaption></figure>
+We’re excited to see how the community continues to build and innovate with $PXJ as we move into future phases!
