@@ -1,12 +1,16 @@
 ---
-description: The Pixel Journey is here to help YOU 🫵
+description: The Pixel Journey is here to help YOU 🫡
 ---
 
 # 🤝 For You
 
-So let us know how we can best do so, if you feel like anything is missing along the way, and/or any ideas that might come to mind too.
+The Pixel Journey exists for the community — and over time it will become increasingly shaped *by* the community.
 
-The Pixel Journey is for the community, and will with time become more and more by the community as well. So have no fear, nor feel alienated here (in a bad way) .. Your voice and ideas matter quite a lot! 🛸
+Your voice, ideas, and feedback matter. Whether you have suggestions for new features, improvements to existing mechanics, or just want to share what you’re enjoying (or struggling with), we want to hear from you.
 
-You're always most welcome to let us know how we can improve via [our Discord servers suggestion/feedback channels, in private tickets, or even directly in the general chat.](https://discord.gg/vtqw3WRNms)
+**How to share feedback:**
+- Use the suggestion/feedback channels in our Discord
+- Open a private ticket for more detailed ideas
+- Chat directly in general channels
 
+We read and consider everything. This is your journey too — let’s build it together! 🛸
