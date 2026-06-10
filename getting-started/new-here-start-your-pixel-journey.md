@@ -129,24 +129,23 @@ It’s not just "points" — it’s real on-chain value tied to a living ecosyst
 
 ## ❓ Common Pixel Pitfalls (Learn From Others’ 8-Bit Mistakes)
 
-We’ve seen it all. Here’s how to avoid the classic newbie traps:
+We’ve seen it all. Here’s how to avoid the classic newbie traps so you can stay safe and have more fun:
 
-- **Never share your seed phrase** (12-24 words). Ever. With anyone. No exceptions.
-- Start small. You don’t need to buy 10 Pixals on day one.
-- Take your time with transactions. Blockchain is permanent.
-- Join Discord early — the community is incredibly helpful.
-- Don’t chase every hype. Pixel Journey moves at its own healthy pace.
-- Always double-check contract addresses (we’ll always provide verified ones).
+→ **[Common Pixel Pitfalls Guide](common-pixel-pitfalls.md)**
 
-**Full list with explanations:**  
-→ [Common Pixel Pitfalls](getting-started/common-pixel-pitfalls.md) *(coming soon)*
+Key highlights:
+- Never share your seed phrase
+- Start small and learn first
+- Double-check every transaction
+- Join Discord early for help
+- Beware of scams
 
 ---
 
 ## 🧭 Where to Go Next?
 
 **Option A (Recommended for total beginners):**  
-Follow the **[Your Pixel Journey — The 12-Step Progression Path](your-pixel-journey-12-step-progression.md)** below. It’s literally a guided quest line.
+Follow the **[Your Pixel Journey — The 12-Step Progression Path](your-pixel-journey-12-step-progression.md)**. It’s literally a guided quest line.
 
 **Option B:**  
 Jump straight into the mechanics you find most interesting in **Season 1**.
