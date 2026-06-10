@@ -1,24 +1,29 @@
-# 🚀 What's next?
+# 🚀 What's Next?
 
-We'll continue to bridge our collectibles/PFPs, as well as tokens/dApps, across multiple NFT-enabled blockchains as they become available, so we can continue to collectively explore what various other parts of the large crypto/Web3 metaverse has to offer.
+We will continue bridging our collectibles, PFPs, tokens, and dApps across multiple NFT-enabled blockchains as opportunities arise. This allows the community to collectively explore new parts of the Web3 metaverse while building on the strong WAX foundation established in Season 1.
 
-While most of the initial seasons Pixel economy will explore DeFi and NFT features on Wax; the first Pixel pioneers bridging over to new blockchains might find a few surprises making it well worth continuing the journey going forward as well.
+While Season 1 focused heavily on DeFi and NFT mechanics on WAX, future phases will bring new experiences, mechanics, and surprises as we expand. The first pioneers bridging to new chains may discover exciting opportunities that make continuing the journey even more rewarding.
 
-We'll work towards boosting crypto-onboarding best possibly by creating/curating guides, assisting and create a safe crypto learning space that everybody taking part of the journey can feel proud of contributing to. Once enough initial guides have been collected, and our onboarding progress smoothened most possibly, we'll shift our focus more from preparing those best crypto-beginnings, to shilling and inviting the world to take part of the journey.
+### Education & Onboarding
 
-Collaborations will be sought out and welcomed into the Pixel Journey worlds as we explore the space together. Community/team-selected projects and special assets may end up getting a role in the Pixel-economy. [Open a ticket, or reach out on our Discord if you're interested.](https://discord.gg/kQM6QGnGaH)
+We remain committed to making crypto onboarding as smooth and safe as possible. This includes curating guides, assisting newcomers, and maintaining a welcoming learning space. As our resources grow, we will gradually shift more focus toward inviting and onboarding new explorers from across Web3.
 
-This Season 1 is planned to end with the release of our first dApp(s), with a ETA of coinciding with our 2nd anniversary (meaning season 2 is planned to commence on \~18th of July 2025). \
-A more detailed reveal of what we've got brewing will be released in towards the end of '24, however we can already tease that it'll be part of a social RPG WebApp that should allow for displaying and granting "utility" for most assets created along the journey.
+### Collaborations & Community Input
 
-At which point a season-ending PFP craft will also become available, and a new season 2 will begin with new surprises planned, on the blockchains we can reach further beyond the Wax Blockchain itself.
+We actively welcome collaborations. Community and team-selected projects may gain roles in the Pixel economy. If you're building something interesting and would like to explore integration, open a ticket or reach out on Discord.
 
+### Future Phases
 
+Season 1 has been our extended foundational phase, with significant work on core mechanics, the Pixal collection, the $PXJ economy, and the major PxPackages technical framework (late 2025 – mid 2026). 
 
-### Season 2 (pre-season)
+As we complete Season 1 objectives, future phases will focus on:
 
-While Season 2, doesn't fully officially begin with new mechanics and new journey adventures, till the summer of 2025. Then the pre-season already begins in the Spring, where we'll keep expanding our journey horizons ahead towards the Web3 audiences beyond Wax.
+- Multi-chain expansion (starting with strong bridges to Polygon, Ethereum, and beyond)
+- New collectible series and mechanics
+- Enhanced dApps leveraging PxPackages
+- Deeper DeFi and crafting integrations
+- Continued education and community events
 
-New bountybloks/contests to engage users from elsewhere, and hopefully lead more to explore the journey beginnings of season 1 that will continue to be running for seasons to come, and function as a guide and exploration tool for discovering the various features integrated on the Wax (and other future blockchains we expand to)
+Specific timelines will remain flexible and milestone-driven rather than strictly calendar-based, allowing each phase to fully mature before we move forward. A more detailed reveal of upcoming features and the first major dApp(s) will be shared as we near the end of Season 1.
 
-Certain mechanics will be exclusive to each blockchain, for example the inter-blockchain bridging and Pixal recycling/blends will be unique to the Wax side of the journey.
+The journey continues — and we're excited to explore what's next together! 🚀🌎
