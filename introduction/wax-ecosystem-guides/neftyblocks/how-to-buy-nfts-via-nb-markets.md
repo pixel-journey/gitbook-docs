@@ -1,15 +1,22 @@
 # How to buy NFTs via NB markets
 
-To browse and buy from Wax NFT listings via the Neftyblocks Market visit:
+To browse and purchase WAX NFTs on Neftyblocks, visit the marketplace:
 
-{% embed url="https://neftyblocks.com/marketplace/listing" %}
+[https://neftyblocks.com/marketplace/listing](https://neftyblocks.com/marketplace/listing)
 
 <figure><img src="../../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
-From here you're met with an overview/feed over the latest listed NFTs on Wax, where you have a few options: Using the filter tools from the left of the feed, or changing the order/contents of the feed via the dropdown-selector just above that helps you switch between the following:
+### Browsing the Market
+
+You’ll see a feed of the latest listings. Use the filters on the left and the sorting dropdown above the feed to narrow down by collection, price, traits, etc.
 
 <figure><img src="../../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
-When you have found the desired NFTs, you can either choose to check them out individually with the "Buy" button, or to select multiple NFTs using their checkboxes, and completing your purchase with the NB-cyan "Buy Selected" button that appears.
+### Buying NFTs
+
+- Click **"Buy"** on any individual listing, or
+- Select multiple NFTs using the checkboxes and click the **"Buy Selected"** button at the top.
 
 <figure><img src="../../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+
+This is one of the most popular places to buy Pixals and other WAX NFTs. Always double-check prices and fees before confirming the transaction in your wallet.
