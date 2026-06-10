@@ -8,32 +8,28 @@
 
 ### Creating a Cloud Wallet
 
-On Cloud Wallet you have the options between choosing a Social Media Account to create a wallet, or with a fresh email/username + password input.\
-Both options have their pros/cons, with a possible risk of loss of access to the SoMe or Email used to signup. So it can come down to a choice between convenience and slightly higher security.
+You have two main options when creating a Cloud Wallet:
 
-If you're comfortable with creating a fresh new password (perhaps a randomly generated one stored on a password manager), then I generally advice doing that for maximum account security.
+1. **Social login** (Google, Facebook, or Discord) – Convenient and fast.
+2. **Email + strong password** – Slightly more secure if you use a unique, randomly generated password stored in a password manager.
 
-Or if you're concerned about losing your email/forgetting your details, then choosing the Social Media option can be a great choice as well.
+**Recommendation:** If security is your top priority, go with a fresh email + strong password. If convenience and not forgetting login details is more important, social login is fine.
 
+### Claiming Your Wallet Keys (Optional but Recommended)
 
+You can optionally claim your private keys. This allows you to import your account into other wallets like Anchor if you ever want more control.
 
-### Claiming your wallet keys (for optional importing of the account into other wallets such as Anchor Wallet or WombatApp)
+There are two levels:
 
-This is entirely optional, but a nice opportunity to have. There are two different claim levels:
+- **Soft Claim**: Get your keys while still being able to use Cloud Wallet normally.
+- **Hard Claim**: Get your keys and remove Cloud Wallet permissions (more advanced).
 
-* Soft Claim (get your keys, while continue to be able to use Cloud Wallet)
-* Hard Claim (get your keys, and your cancel Cloud Wallet permissions/benefits)
-
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
-
-Learn all about it here in the following page:
+Learn more on the dedicated page:
 
 {% content-ref url="claiming-your-cloud-wallet-account-keys.md" %}
 [claiming-your-cloud-wallet-account-keys.md](claiming-your-cloud-wallet-account-keys.md)
 {% endcontent-ref %}
 
+### Free Account Creation (Redemption Codes)
 
-
-### Redemption codes
-
-Are you a new user getting started on Wax? Then pass by our Discord, introduce yourself and we might be able to help you out with a redemption code for an entirely free account creation to get you started out 🛸👀&#x20;
+New to WAX? Join our Discord, introduce yourself in the welcome channel, and we may be able to provide a redemption code for a completely free Cloud Wallet account creation. 🚀

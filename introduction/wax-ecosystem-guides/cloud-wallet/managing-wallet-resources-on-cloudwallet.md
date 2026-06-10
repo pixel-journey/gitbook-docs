@@ -1,32 +1,24 @@
 # Managing Wallet Resources on CloudWallet
 
-From the [⚡](https://fsymbols.com/signs/hazard/) icon on the top right of the Cloud Wallet Dashboard, you can find easy access to inspecting the state of your accounts Network Resources on Wax.
+From the ⚡ icon in the top right of your Cloud Wallet dashboard, you can quickly check and manage your account's network resources (CPU, NET, and RAM).
 
 <figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-By clicking "Stake WAXP", you open the Resources Management Modal from where you can stake/buy more resources. It is not possible to unstake/sell resources via this mini-interface, so for that you need to visit the [staking-rewards-via-cloud-wallet.md](staking-rewards-via-cloud-wallet.md "mention") or [Waxblock.io](../waxblock.io-explorer/staking-unstaking-cpu-and-net-via-waxblock.io.md)
+Clicking **"Stake WAXP"** opens the Resources Management modal where you can easily stake or buy more resources.
 
-CPU/NET is staked and unstaked at no fees (oppositely, increasing the accounts voting weight/rewards), while RAM is bought and sold at a variable price rate + with a tiny conversion fee.&#x20;
+**Note:** You cannot unstake or sell resources directly from this mini-interface. For unstaking, use the dedicated Staking Rewards page or waxblock.io.
 
-{% hint style="info" %}
-You can check the RAM price history/movements [here on EOS Authority](https://eosauthority.com/wallet/ram?network=wax).\
-\
-As there's new RAM released to the RAM-WAX pool at every block, it is not recommended to lock up more WAXP as RAM resources than necessary.
-{% endhint %}
+**Quick tips:**
+- **CPU**: Aim for at least 100–300 WAX staked for comfortable daily use (very low CPU can limit you to just a few transactions per day).
+- **NET**: 1–5 WAX staked is usually plenty for most users.
+- **RAM**: Only buy what you need. RAM price tends to decrease over time. Staying around 60–90% usage is sufficient for most activities. Many platforms (like AtomicHub) have easy in-app RAM top-up options.
 
 <figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Network Resources Management Modal</p></figcaption></figure>
 
-We recommend:
+### Staking Rewards Page
 
-* CPU: Minimum 100-300 WAX staked (just 50 WAX in CPU per day may only offer 1-3 TX per day)
-* NET: 1-5 WAX staked to NET is plenty for most users
-* RAM: Don't buy more than you need, as price on RAM slowly declines over time. Staying around 60-90% RAM availability is sufficient for most users, and many RAM intensive platforms (such as AtomicHub) ofer easy RAM refilling interfaces when the situation should happen that you need to top it off.
+The Staking Rewards section in Cloud Wallet also lets you buy/sell RAM and stake/unstake CPU & NET (for yourself or others). This is often the most convenient place for full resource management.
 
-
-
-### Staking Rewards Page on Cloud Wallet
-
-Via the Staking Rewards UI on Cloud Wallet, which we'll take a deeper look into on the following page, you can also find controls to Buy/Sell RAM resources, or stake **and unstake** CPU/NET resources. Either for your own wallet, or for others' wallets.&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
-
+{% hint style="info" %}
+You can check current and historical RAM prices here: [EOS Authority RAM](https://eosauthority.com/wallet/ram?network=wax)
+{% endhint %}

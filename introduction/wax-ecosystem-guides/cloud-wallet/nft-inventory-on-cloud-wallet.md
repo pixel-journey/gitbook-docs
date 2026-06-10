@@ -12,4 +12,8 @@ description: >-
 
 <figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption><p>NFT Inventory searching for Pixals</p></figcaption></figure>
 
-The inventory offers options for searching, and filtering of your collection, making it easy to track down specific assets.
+Your NFT inventory in Cloud Wallet lets you easily view, search, filter, and manage all your WAX NFTs in one place.
+
+This is especially useful for tracking your Pixal collection, checking traits, and preparing for blending, crafting, or trading.
+
+Use the search and filter options to quickly find specific assets. It's one of the most convenient ways to stay on top of your collection while on the go.
