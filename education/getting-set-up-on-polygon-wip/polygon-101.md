@@ -1,94 +1,45 @@
 ---
 description: >-
-  Fast, cheap, and EVM-compatible. Polygon brings Ethereum power with WAX-like accessibility. The perfect bridge for Pixel Journey explorers.
+  Fast, low-cost EVM-compatible chain. Great balance of performance and accessibility for Pixel Journey explorers.
 ---
 
 # Polygon 101
 
+> **Shared EVM Fundamentals First**: Before diving into Polygon-specific details, make sure you've read the [EVM Hub](https://docs.pixeljourney.xyz/education/getting-set-up-on-evm) (especially [EVM 101](https://docs.pixeljourney.xyz/education/getting-set-up-on-evm/evm-101.md)). It covers the common concepts (gas, addresses, ERC standards, bridging, wallets) that apply across all EVM chains, including Polygon. This page focuses on what makes **Polygon** unique.
+
 **Welcome to Polygon on the Pixel Journey!** 🚀
 
-Polygon is one of the most popular Ethereum Layer 2 scaling solutions — fast, low-cost, and fully EVM-compatible. It brings the power and security of Ethereum with speeds and fees that feel much closer to WAX. As we expand our multi-chain adventure (WAX roots in 2023, Pixals Spring 2024, 1050+ days strong), Polygon is a natural and exciting next step.
+Polygon is a fast, low-cost EVM-compatible chain that brings Ethereum power with excellent accessibility. It offers a great balance of performance and familiarity, making it one of the most popular choices for NFT collectors and gamers coming from chains like WAX.
 
-Our journey is built on flexible milestone-driven Seasons and the growing power of **PxPackages** (modular multi-chain tools). Polygon fits beautifully into this vision, offering accessible high-performance experiences while we prepare for the standalone **PxLearn Portal**.
+As part of our multi-chain journey (WAX roots in 2023, 1050+ days strong), Polygon fits perfectly. With **PxPackages** enabling modular cross-chain tools, Polygon provides an affordable, high-speed environment for future experiences and community features leading toward the **PxLearn Portal**.
 
 ## What Makes Polygon Special
 
-Polygon is an **Ethereum-compatible sidechain / Layer 2** that processes transactions much faster and cheaper than Ethereum mainnet while inheriting strong security.
+- **EVM Compatible**: Works seamlessly with MetaMask and all Ethereum tools.
+- **Very Low Fees & Fast**: Transactions are cheap and quick — ideal for frequent interactions.
+- **Strong NFT & Gaming Ecosystem**: Mature marketplace support and many projects focused on collectibles and play.
+- **Good Accessibility**: Excellent bridge between WAX-style friendliness and deeper EVM ecosystem access.
+- **Multiple Solutions**: Polygon PoS (most popular) + zkEVM and other scaling options.
 
-**Key Advantages:**
-- **EVM Compatible**: Works with MetaMask and all your favorite Ethereum tools and dApps.
-- **Very Low Fees**: Transactions often cost just a fraction of a cent.
-- **High Speed**: Fast block times and quick finality.
-- **Mature Ecosystem**: Strong NFT and DeFi scene with many projects bridging from Ethereum.
-- **Multiple Solutions**: Includes Polygon PoS (most popular for NFTs), zkEVM, and more.
-
-For collectors and learners, this means:
-- Affordable minting and trading.
-- Smooth bridging to and from Ethereum.
-- A vibrant community and growing number of projects.
-
-**Why It Matters for Pixel Journey**: Polygon offers an excellent balance of performance and familiarity. It’s a great on-ramp for explorers coming from WAX who want more Ethereum ecosystem access without the high fees — and a perfect testing ground for future PxPackages-powered experiences.
+**Why Polygon Matters for Pixel Journey**: Its speed, low cost, and strong NFT focus make it a natural home for collectibles and community mechanics. It’s a great place to experiment with PxPackages-powered features.
 
 ---
 
-## How Polygon Works (Simplified)
+## Polygon-Specific Practical Notes
 
-Polygon PoS (the most common version) is a sidechain that runs parallel to Ethereum. It uses its own consensus but periodically commits checkpoints back to Ethereum for security.
-
-You interact with it almost exactly like Ethereum:
-- Use MetaMask (add the Polygon network).
-- Pay fees in MATIC (the native token).
-- Bridge assets between Ethereum and Polygon.
-
-It feels fast and cheap while still being connected to the broader Ethereum ecosystem.
-
-## MATIC / POL Token
-
-The native token is **MATIC** (now transitioning to **POL**). It’s used for:
-
-- Paying transaction fees.
-- Staking to secure the network.
-- Participating in governance.
-
-You’ll need a small amount of MATIC to use Polygon.
-
-## NFTs on Polygon
-
-Polygon uses standard EVM NFT standards (ERC-721, ERC-1155), so most tools and marketplaces from Ethereum work here too. Major platforms like OpenSea and Magic Eden support Polygon collections.
-
-**Pixel Journey Connection**: Many of our multi-chain inspirations and future bridging/crafting mechanics will feel very natural on Polygon — fast, affordable, and EVM-friendly.
+- **Native Token**: POL (previously MATIC).
+- **Marketplaces**: OpenSea, Magic Eden, and Polygon-native platforms.
+- **Bridging**: Official Polygon Bridge or Across Protocol for moving assets from Ethereum or other chains.
+- **Gas**: Very low — one of the more affordable EVM environments.
 
 ---
 
-## Polygon vs. WAX vs. Other Chains
+## Pixel Journey Tips for Polygon
 
-| Aspect       | WAX                  | Polygon (PoS)         | Base (Ethereum L2)   | Ethereum Mainnet    |
-|--------------|----------------------|-----------------------|----------------------|---------------------|
-| **Speed**    | Fast                | Very fast            | Very fast           | Slower (congestion) |
-| **Fees**     | Resource staking    | Very low             | Very low            | Can be high         |
-| **NFTs**     | AtomicAssets        | ERC standards        | ERC standards       | ERC standards       |
-| **Best For** | Easy onboarding     | Affordable Ethereum experience | Low-cost Ethereum | Deep liquidity & security |
+- Great choice if you want EVM access without high fees.
+- Use the shared EVM hub for wallet setup, security, and bridging basics.
+- Explore OpenSea and Magic Eden Polygon collections (including Pixel Journey drops).
+- Bridge small amounts first to get comfortable with the flow.
+- Join our Discord for Polygon-specific tips and events.
 
-Polygon strikes a great balance — fast and cheap like WAX, but with full access to the Ethereum ecosystem.
-
----
-
-## Pixel Journey Tips for Polygon Explorers
-
-- **Start with MetaMask**: Add the Polygon network (it’s easy in most wallets).
-- **Bridge Assets**: Use the official Polygon bridge to move ETH or tokens from Ethereum.
-- **Keep Some MATIC**: You’ll need it for gas — most wallets can swap for it easily.
-- **Explore Marketplaces**: OpenSea, Magic Eden, and Polygon-native platforms are great.
-- **Security First**: Always verify contracts and use official bridges. Read our security tips.
-- **Think Multi-Chain**: Polygon is excellent for moving between WAX-style accessibility and deeper Ethereum ecosystem projects.
-- **Learn by Doing**: Every bridge and transaction teaches you valuable multi-chain skills for future PxPackages experiences.
-
-## Quick Checklist: Before You Start on Polygon
-
-- [ ] Set up MetaMask and add the Polygon network
-- [ ] Get a small amount of MATIC for gas
-- [ ] Read the [Polygon Security Tips](polygon-security-tips.md)
-- [ ] Explore marketplaces and try bridging a small amount
-- [ ] Join our Discord for help and community support
-
-Polygon is a fantastic bridge between the friendly WAX experience and the broader Ethereum world. It’s another powerful tool in our multi-chain journey as we continue expanding with PxPackages and toward the PxLearn Portal. The adventure keeps getting better! 🚀🧩💙
+Polygon offers an excellent middle ground in our multi-chain adventure — fast, affordable, and well-connected. The best pixels are still ahead! 🚀🧩💙
