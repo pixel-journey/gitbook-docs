@@ -1,10 +1,14 @@
 ---
 description: >-
   Sub-second finality, fees under a cent, and one of the most active NFT
-  ecosystems in Web3. Here is how Solana works.
+  ecosystems in Web3. Here is how Solana works. - Px Perfected Educational Update
 ---
 
 # Solana 101
+
+**Welcome to Solana on the Pixel Journey!** 🚀
+
+As we expand our multi-chain adventure beyond our WAX roots (launched 2023, Pixals minted Spring 2024, 1050+ days strong), Solana represents one of the most exciting high-performance ecosystems for collectors, creators, and learners. With blazing speed and near-zero fees, it's a natural next step in our journey — and perfectly aligned with the modular power of **PxPackages** and the upcoming standalone **PxLearn Portal**.
 
 ## What Makes Solana Different
 
@@ -16,6 +20,8 @@ For NFT collectors and traders, this means:
 - Minting an NFT costs almost nothing in fees.
 - Buying and selling on marketplaces is near-instant.
 - On-chain gaming and interactive experiences are practical in a way they are not on Ethereum mainnet.
+
+**Why It Matters for Pixel Journey Explorers**: Solana's speed and low cost make advanced mechanics (like complex crafting, real-time interactions, and high-volume trading) feel seamless — exactly the kind of experience we're building toward with PxPackages.
 
 ---
 
@@ -92,6 +98,8 @@ Solana NFTs work differently from EVM:
 
 Solana NFTs are stored as **SPL tokens** (Solana Program Library tokens) with on-chain metadata managed by the Metaplex standard. Unlike EVM, each NFT is an individual on-chain account rather than a token ID inside a shared contract.
 
+**Pixel Journey Connection**: Many of our multi-chain collectibles and future PxPackages experiences will feel right at home on Solana's fast, low-cost environment.
+
 ---
 
 ## Solana vs. WAX
@@ -123,12 +131,23 @@ As a user, you interact with programs through your wallet — approving transact
 
 ---
 
+## Pixel Journey Tips for Solana Explorers
+
+- **Start Small**: Begin with a Phantom wallet and a tiny amount of SOL (0.1 SOL is plenty to start).
+- **Security First**: Always read our [Solana Security Tips](solana-security-tips.md). Never share seed phrases.
+- **Explore Marketplaces**: Magic Eden and Tensor are the go-to spots — similar vibe to AtomicHub/Neftyblocks but with Solana speed.
+- **Think Multi-Chain**: Use bridges to move assets between WAX, Solana, and other chains as our PxPackages ecosystem grows.
+- **Learn by Doing**: Every transaction teaches you about speed, fees, and on-chain interactions — perfect preparation for future PxLearn modules.
+- **Join the Community**: Ask in our Discord — we're all learning and building this multi-chain journey together.
+
 ## Quick Checklist: Before You Start on Solana
 
-- [ ] Install a wallet — Phantom is recommended for beginners (see [wallet guides](wallets/README.md))
+- [ ] Install a wallet — Phantom is recommended for beginners (see wallet guides)
 - [ ] Write down your seed phrase and store it offline
 - [ ] Get a small amount of SOL for fees and rent (0.1 SOL is more than enough to start)
 - [ ] Read the [Solana Security Tips](solana-security-tips.md) before interacting with any program or link
 - [ ] Check out [Magic Eden](https://magiceden.io) or [Tensor](https://tensor.trade) to browse the NFT landscape
 
 You are ready to explore. The Pixel Journey Discord is always open if you need help!
+
+This is part of our bigger vision: using high-performance chains like Solana alongside WAX to create richer, faster, more accessible experiences for collectors and learners everywhere. The best pixels are still ahead! 🚀🧩💙
