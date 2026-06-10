@@ -1,15 +1,18 @@
 ---
-description: >-
-  The "OG" (or top 2021 popular) Explorer .. Now no longer under development
-  (but still functional)
+description: The OG wax.bloks.io Explorer (still functional)
 ---
 
-# wax.bloks.io Explorer
+# wax.bloks.io Explorer Guide
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>wax.bloks.io frontpage</p></figcaption></figure>
+**Overview**: Classic WAX explorer, popular in early days. Still works for basic lookups although development has slowed.
 
+## Features
+- Block, transaction, account exploration.
+- Simple interface for quick checks.
 
+## PXJ Use
+- Historical data and legacy transaction verification.
 
-{% embed url="https://wax.bloks.io/" %}
-[https://wax.bloks.io/](https://wax.bloks.io/)
-{% endembed %}
+**Link**: [wax.bloks.io](https://wax.bloks.io/)
+
+Note: Prefer waxblock.io or WaxItems for modern 2026 usage.
