@@ -4,15 +4,15 @@ description: Pixels don't just appear out of nowhere on this journey (just yet, 
 
 # ♻️ Recycling & Crafting
 
-A recurring mechanic we'll be utilizing quite a lot will be "recycling" (or blending) of NFTs, and pixel JPEG collectibles. Most/all of our assets will be reusable, or upgradable, into new things as we move along each season to come.
+A core recurring mechanic in Pixel Journey is **recycling** (blending) of NFTs and pixel collectibles. Most assets are designed to be reusable or upgradable into new things as we progress through each phase.
 
-The Pixal PFPs will primarily be the key to open up for the Pixel Journeys economy via their early near-exclusive access to PixelPacks here for Season 1. Our $PXJ token will similarly be a core resource needed at every step of the recycling/crafting routes of our Pixel Journey.
+The Pixal PFPs serve as the primary key to unlock the Pixel Journey economy in Season 1 through their near-exclusive access to PixelPacks. Our $PXJ token is a core resource required at every step of the recycling and crafting routes.
 
 <figure><img src="../../../.gitbook/assets/pixel_journey_pack_002_500x500 (1).gif" alt=""><figcaption><p>Pixel Ingredient Pack</p></figcaption></figure>
 
-The Pixal PFPs are recyclable(blendable) into Pixel Ingredient Pack NFTs, unpackable to claim the 10 Pixel Ingredients NFTs within, and begin the crafting adventures ahead.
+Pixal PFPs can be recycled (blended) into Pixel Ingredient Pack NFTs. These packs can then be unpacked to claim 10 Pixel Ingredient NFTs, starting your crafting journey.
 
-Both the PixelPacks and these single ingredient pixels will be directly stakable for our $PXJ token via our WaxDao NFT Farm. They'll become upgradable to unlock higher/special pixel ingredient colors, and be a core ingredient for many of the craftables that will become available from the Wax Blockchain.
+Both PixelPacks and the single-pixel ingredients are directly stakable for $PXJ via our WaxDAO NFT Farm. They can be upgraded to unlock higher/special colors and serve as core ingredients for future crafts and collectibles on WAX.
 
 {% embed url="https://neftyblocks.com/collection/pixeljourney/blends/blend.nefty/37700" %}
 [https://neftyblocks.com/collection/pixeljourney/blends/blend.nefty/37700](https://neftyblocks.com/collection/pixeljourney/blends/blend.nefty/37700)
@@ -20,46 +20,42 @@ Both the PixelPacks and these single ingredient pixels will be directly stakable
 
 ### What are Pixel Ingredient Packs?
 
-Pixel Ingredient Packs are the next initial steps on the journey here towards Pixel Collectibles, that'll increasingly bind our whole pixel economy together as it becomes fully released step-by-step.
+Pixel Ingredient Packs are the next step toward Pixel Collectibles. They bind the pixel economy together as it rolls out progressively.
 
-They each contain 10x Primary colored Pixel Ingredients (randomly red, blue, yellow), and these primary Pixel Ingredients will become combinable/blendable alongside a splash of PXJ into secondary Pixel Ingredients (green, purple, orange). Specific amounts of various colored Ingredients will be required for Pixel Journey 'collectible crafts/upgrades' to come.
+Each pack contains 10 Primary colored Pixel Ingredients (randomly red, blue, or yellow). These can later be combined/blended with $PXJ into secondary colors (green, purple, orange). Specific combinations of colored ingredients will be required for future crafts, upgrades, and special blends.
 
-To begin with the Pixel Ingredient Packs are starting out exclusively acquired via Pixal PFP recycling.&#x20;
+Initially, Pixel Ingredient Packs are obtained exclusively via Pixal PFP recycling. After every ~2,000 recycled Pixals, we will add more packs to TacoSwap NFT Rewards and run special giveaway events. Eventually, up to 20,000 packs will be available through $PXJ in future phases.
 
-After every \~2000 recycled Pixals, we'll begin to add a few handful Pixel Ingredient Packs to our TacoSwap NFT Rewards, and run a few special Pixel Ingredient Pack giveaway/events, as well. And eventually allow for up to a grand total of 20000 Pixel Ingredient Packs to become available via PXJ in far future journeys to come.
+### PXJ Recycling Costs (Increase per 500 Pixals)
 
-So there will eventually be alternative ways to obtain these Pixel Ingredient Packs, if you're extra extra lucky (and remember to bring that PXJ along)!
+The recycling fee starts at 2,000 PXJ per recycle and increases by 2,000 PXJ for every 500 Pixals recycled:
 
-### PXJ Recycling Costs Increase per 500 Pixals Recycled
-
-the Recycling PXJ Fee starts at 2000 PXJ per recycle, with an incremental PXJ cost of 2000 PXJ for every 500 Pixals that are recycled.
-
-* (0-500: 100 PXJ initial WL recycling launch ->) 2000 PXJ per recycle
-* 500-999: 4000 PXJ per recycle
-* 1000-1499: 6000 PXJ per recycle
-* 1500-1999: 8000 PXJ per recycle
-* 2000-2499: 10,000 PXJ per recycle
-* 2500-2999: 12,000 PXJ per recycle
-* 3000-3499: 14,000 PXJ per recycle
-* 3500-3999: 16,000 PXJ per recycle
-* 4000-4499: 18,000 PXJ per recycle
-* 4500-4999: 20,000 PXJ per recycle
-* 5000-5499: 22,000 PXJ per recycle
-* 5500-5999: 24,000 PXJ per recycle
-* 6000-6499: 26,000 PXJ per recycle
-* 6500-6999: 28,000 PXJ per recycle
-* 7000-7499: 30,000 PXJ per recycle
-* 7500-8000: 32,000 PXJ per recycle
-
-### **Warning! Recycles are BURNS and CANNOT be undone!**
+- 0–499: 2,000 PXJ
+- 500–999: 4,000 PXJ
+- 1,000–1,499: 6,000 PXJ
+- 1,500–1,999: 8,000 PXJ
+- 2,000–2,499: 10,000 PXJ
+- 2,500–2,999: 12,000 PXJ
+- 3,000–3,499: 14,000 PXJ
+- 3,500–3,999: 16,000 PXJ
+- 4,000–4,499: 18,000 PXJ
+- 4,500–4,999: 20,000 PXJ
+- 5,000–5,499: 22,000 PXJ
+- 5,500–5,999: 24,000 PXJ
+- 6,000–6,499: 26,000 PXJ
+- 6,500–6,999: 28,000 PXJ
+- 7,000–7,499: 30,000 PXJ
+- 7,500–8,000: 32,000 PXJ
 
 {% hint style="danger" %}
-Make sure to be careful with your selections when choosing your Pixal burn selections. WaxRock / PixelPet trait owning Pixals could for example be less ideal choices to start out recycling, NFA!
+**Warning: Recycling is a permanent burn and cannot be undone!**
+
+Be very careful when selecting which Pixals to recycle. Pixals with rare traits (WaxRock or PixelPet) are generally less ideal to recycle early. NFA.
 {% endhint %}
 
 ### The Pixal Cemetery on Discord
 
-Our Champ Banoshi has created us a Pixal Cemetery on Discord where you can look back into the history of Pixal PFPs! Revisit all the past epic forever lost Pixals there, or keep up with the latest recycled being made along the way!
+Our community member Banoshi created a **Pixal Cemetery** on Discord where you can view the history of recycled Pixals and keep up with the latest burns.
 
 ### Unpacking Packs
 
@@ -67,10 +63,11 @@ Our Champ Banoshi has created us a Pixal Cemetery on Discord where you can look 
 [https://pixelpack.pixeljourney.xyz/](https://pixelpack.pixeljourney.xyz/)
 {% endembed %}
 
-**Unpack your Pixel Ingredient Packs!**\
-Contains 10 random Pixel Ingredients, with 10 slots that can each roll:
+**Unpack your Pixel Ingredient Packs!**
 
-* 33.2667% chance for a Blue Pixel Ingredient
-* 33.2667% chance for a Yellow Pixel Ingredient
-* 33.2667% chance for a Red Pixel Ingredient
-* 0.2% chance for a Black Pixel Ingredient
+Each pack contains 10 random Pixel Ingredients with the following probabilities:
+
+- 33.2667% Blue
+- 33.2667% Yellow
+- 33.2667% Red
+- 0.2% Black (rare)
