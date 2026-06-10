@@ -1,9 +1,11 @@
 # 🗺️ YOUR PIXEL JOURNEY — The Legendary 12-Step Progression Path
 
+{% hint style="success" %}
 **From Zero to Pixel Legend**  
 *One quest at a time. One pixel at a time.*
 
 This is your **personal quest log** — the ultimate guided adventure through Pixel Journey and Web3 at the same time.
+{% endhint %}
 
 Every step is designed to:
 - Teach you something meaningful about **Pixel Journey**
@@ -217,6 +219,7 @@ Every step is designed to:
 
 ---
 
+{% hint style="success" %}
 ## 🏆 CONGRATULATIONS, PIXEL LEGEND
 
 If you’ve made it through all 12 steps — you’ve done something special.
@@ -235,6 +238,7 @@ You now understand:
 
 Most people try to learn Web3 by reading Twitter threads.  
 **You learned by playing.**
+{% endhint %}
 
 ---
 
