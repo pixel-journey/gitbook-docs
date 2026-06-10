@@ -1,11 +1,18 @@
 # Your Inventory on Neftyblocks
 
-Neftyblocks.com offers you a page to get an overview of your Wax Wallets collected NFTs, Active listings or recent sale history from the same convenient page.\
-\
-To access your Wallet inventory on Neftyblocks you begin by clicking your account name in the top right corner of their website inventory, and entering into "My NFTs":
+Neftyblocks gives you a convenient overview of all your WAX NFTs, active listings, and recent sales history in one place.
+
+### How to Access Your Inventory
+
+1. Click your account name in the top right corner of Neftyblocks.com
+2. Select **"My NFTs"** from the menu
 
 <figure><img src="../../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
-From there you can use the profile navigation menu on the left to switch between different views or the filters below to narrow your desired NFT inventory display:
+### Navigating Your Inventory
+
+Use the left sidebar navigation and the filters at the top to switch between views (e.g., All NFTs, Listed, Sold, etc.) and narrow down your collection.
 
 <figure><img src="../../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+
+This is especially useful for Pixel Journey holders to quickly manage Pixals, check for blend eligibility, or prepare listings.

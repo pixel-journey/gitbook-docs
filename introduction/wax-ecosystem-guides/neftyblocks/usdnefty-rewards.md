@@ -6,15 +6,16 @@ description: Earn NEFTY Tokens by trading on NeftyBlocks Markets!
 
 ### NEFTY Basics
 
-* Provide NEFWAX Liquidity to earn NEFTY (476.19 NEFTY shared every hour)
-* 10000 NEFTY distributed every day between NB markets/drops participants
-* Stake NEFTY  to take part in the 25% share of secondary market platform fees generated
-*
+NeftyBlocks shares rewards with the community in several ways:
+
+* Provide **NEFWAX Liquidity** to earn NEFTY (476.19 NEFTY shared every hour)
+* **10,000 NEFTY** distributed every day between NB markets and drops participants
+* **Stake NEFTY** to earn a share of the 25% of secondary market platform fees
 
 {% hint style="info" %}
-#### From the Rewards page on NB:&#x20;
+#### From the Rewards page on NB:
 
-#### "Earn while trading?
+"Earn while trading?
 
 We at NeftyBlocks don’t like to keep our NEFTY and WAX for ourselves, so we decided to share it with the best community out there. Yes, that would be you!
 
@@ -29,13 +30,13 @@ What are you waiting for? Let’s become #1 together!"
 
 ### Locating Nefty Rewards on the website
 
-From their website navigation bar, you can find the $NEFTY rewards page for your account on Neftyblocks.com, by hovering the "Earn" tab and selecting "Rewards":
+From the NeftyBlocks navigation bar, hover over the **"Earn"** tab and select **"Rewards"** to see your personal rewards page.
 
 <figure><img src="../../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
 ### Learn More
 
-Learn about Neftyblocks $NEFTY rewards from their docs here:
+For full details on how $NEFTY rewards work, check the official NeftyBlocks FAQ:
 
 {% embed url="https://neftyblocks.com/faq#how-do-i-earn-while-trading-on-neftyblocks" %}
 
