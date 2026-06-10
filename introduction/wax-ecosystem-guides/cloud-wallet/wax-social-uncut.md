@@ -8,13 +8,12 @@ description: >-
 
 <figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-Uncut can be used much like Twitter, but is mainly focused towards NFT collectors/creators showing off their collections, and fully integrated with a lot of different blockchains.
+**WAX Social (powered by Uncut)** gives you direct access to a social platform tailored for NFT collectors and creators, right from inside Cloud Wallet.
 
+It works similarly to Twitter/X but is focused on showcasing collections, sharing drops, and connecting with the WAX community across multiple blockchains.
 
-
-Learn more about Uncut in our section dedicated that:
+For more details about Uncut and how to use it, see our dedicated guide:
 
 {% content-ref url="../uncut-nft-some-platform.md" %}
 [uncut-nft-some-platform.md](../uncut-nft-some-platform.md)
 {% endcontent-ref %}
-

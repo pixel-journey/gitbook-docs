@@ -10,16 +10,16 @@ description: Stake your WAXP, and gain ~8% APR via Voting Rewards!
 
 <figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-From the Staking Rewards: Stake, Vote and Earn-page, you can find the precise information about the current APR estimates, how much you have staked, which proxy you're voting through and how much voting strength you're at.&#x20;
+The **Staking Rewards** page is one of the most useful tools in Cloud Wallet. Here you can:
 
-The page comes in 3 steps:
+- Stake WAXP
+- Choose or change your proxy vote
+- See your current voting strength and estimated APR
+- Claim your staking rewards
 
-* Stake WAXP
-* Proxy voting
-* Claim staking rewards
+**Important tips:**
+- Refresh your votes periodically to maintain maximum voting efficiency (this directly affects how many rewards you earn).
+- Claiming rewards occasionally and re-staking them is a good way to grow your resources over time.
+- You can stake/unstake for yourself or for other accounts.
 
-If you already have your resources staked, you can skip the first step for the most part.
-
-Importantly you must refresh your votes every now and then, to maintain a maximum voting strength efficiency as that voting strength defines how many WAXP rewards you accumulate as well.
-
-Claiming WAXP occasionally (and perhaps restaking them), can also be well worth it to continue building up resources and future staking rewards.
+This page combines resource management with voting rewards in one clean interface.
