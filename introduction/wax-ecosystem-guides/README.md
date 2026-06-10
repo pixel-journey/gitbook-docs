@@ -16,15 +16,15 @@ Welcome to the **Wax Ecosystem Guides** — your comprehensive, up-to-date handb
 - Bridges to ETH, Solana, etc.
 
 ## Navigation
-- **Wallets**: Cloud Wallet, Anchor.
-- **Trade/Mint**: Marketplaces (AtomicHub, Neftyblocks, F12Key).
-- **DeFi**: DEXes (Alcor, TacoSwap).
-- **Explore**: Block explorers, WaxItems.
-- **Advanced**: Governance, Labs, PXJ guides.
+- **Wallets**: [Cloud Wallet](./cloud-wallet/), [Anchor Wallet](./anchor-wallet/).
+- **Trade/Mint**: [AtomicHub](./atomichub/), [Neftyblocks](./neftyblocks/), [F12Key](./f12key.md), [NFTHive](./nfthive/).
+- **DeFi**: [Alcor](./alcor-exchange-dex/), [TacoSwap](./tacoswap-dex/), [A-DEX](./a-dex/).
+- **Explore**: [Waxblock.io](./waxblock.io-explorer/), [WaxItems](./waxitems.com-explorer.md), others.
+- **Advanced**: [WAX Labs](./waxlabs.md), [Governance](./wax-governance/), [Wax.fun](./wax.fun/).
 
-**Start Here**: Wallets + Common Questions.
+**Start Here**: Wallets + [Common Questions](./common-questions-from-the-official-wax-discord-faq/).
 
-**Contribute**: PRs welcome or Discord!
+All guides are fully fleshed with steps, PXJ tips, and safety notes. **Contribute** via PRs or PXJ Discord!
 
 **Key Links**:
 - [wax.io](https://wax.io)
