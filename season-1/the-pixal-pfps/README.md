@@ -16,6 +16,10 @@ Our Pixal PFPs launched with a total supply of **10,000 mints**. Each was minted
 
 <figure><img src="../../.gitbook/assets/pixelgrey-noisebg4-gold-pet-rock.png" alt="" width="375"><figcaption><p>An example of a Pixal with a green BG, a stone WaxRock and an Ice Elemental Pet</p></figcaption></figure>
 
+### Why the Pixal PFPs Matter for Your Pixel Journey
+
+The Pixal PFPs are far more than just collectibles — they are your gateway into the entire Pixel Journey economy, governance, and educational experience. Holding a Pixal gives you direct access to Pixel Ingredients, staking rewards, airdrops, and community roles. This is hands-on Web3 education: learning about traits, utility, probability, and sustainable tokenomics while building something meaningful together. Every Pixal you hold or craft with strengthens your connection to the 1050+ day journey and prepares you for future PxPackages-powered experiences and the PxLearn Portal.
+
 ### The 10 Trait Categories
 
 - Background
@@ -41,6 +45,14 @@ Certain trait groups (especially WaxRocks and PixelPets) make holders eligible f
 
 The Pixal PFPs are the foundation of our [Pixel Journey economy](../kickstarting-the-pxj-economy/). Up to 80% (8,000) of the Pixals are designed to be recycled into PixelPacks. These can be staked for $PXJ or unpacked into single-pixel ingredients used for future crafting, upgrades, and special blends.
 
+### What You'll Learn from the Pixal PFPs
+
+- **Trait Systems & Rarity**: How different trait groups create value and utility.
+- **NFT Utility Design**: Real-world examples of roles, airdrops, staking, and governance access.
+- **Economy Participation**: How PFPs unlock recycling, crafting, and PXJ rewards.
+- **Community & Governance**: How ownership translates into influence via the Rock Council.
+- **Sustainable Design**: The burn-to-craft model and its connection to yearly PXJ minting mechanics.
+
 ### Pixal Utilities and Perks
 
 - Automatic Proof of Ownership roles on Discord for Pixal and WaxRocks holders
@@ -50,4 +62,15 @@ The Pixal PFPs are the foundation of our [Pixel Journey economy](../kickstarting
 - At 100% mint completion, a snapshot will trigger airdrops of PixelPets, WaxRocks, and other collectibles to holders
 - Staking opportunities on WaxDAO and Pepperstake farms
 
-The Pixal PFPs represent the first major step in building a sustainable, rewarding economy for the entire Pixel Journey. We’re excited to see how the community uses and evolves them!
+### Pixel Journey Tips for Pixal Holders
+
+- **Explore Your Traits**: Check trait explorers to see rarity and special perks.
+- **Participate Actively**: Stake your Pixals or ingredients to earn PXJ while supporting the economy.
+- **Engage in Governance**: WaxRocks holders have real influence — use it thoughtfully.
+- **Plan Your Recycling**: Be strategic about which Pixals to recycle for long-term collection value.
+- **Connect with Community**: Join discussions in Discord to learn from others and shape future drops.
+- **Document & Share**: Your journey with Pixals can inspire others and contribute to PxLearn content later.
+
+The Pixal PFPs represent the first major step in building a sustainable, rewarding economy for the entire Pixel Journey. We’re excited to see how the community uses and evolves them over these 1050+ days and beyond!
+
+*Part of our mission to create the best, most educational Web3 journey material in the space.*
