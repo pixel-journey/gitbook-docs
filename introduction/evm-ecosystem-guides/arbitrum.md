@@ -1,9 +1,10 @@
-# Arbitrum Guide
+# Arbitrum
 
-Arbitrum is a leading optimistic rollup L2 with deep DeFi liquidity.
+**Arbitrum** is a leading optimistic rollup L2.
 
-## Key Features
-- Low fees, fast confirmations.
-- Excellent for trading and NFTs.
+## Strengths
+- Deep DeFi liquidity.
+- Excellent for complex dApps.
 
-**Explorer**: arbiscan.io
+## Tips
+Use Arbitrum Bridge for transfers.

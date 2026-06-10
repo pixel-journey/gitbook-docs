@@ -1,9 +1,10 @@
-# Avalanche Guide
+# Avalanche
 
-Avalanche C-Chain is EVM-compatible with fast finality.
+**Avalanche** (C-Chain) provides fast finality and subnets.
 
-## Strengths
-- Subnets for custom chains.
-- Strong in DeFi and gaming.
+## Advantages
+- Sub-second finality.
+- Custom subnets for games.
 
-**Explorer**: snowtrace.io
+## Pixel Journey
+Suitable for high-performance pixel games.

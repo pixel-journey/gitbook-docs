@@ -1,17 +1,17 @@
 # EVM Ecosystem Guides
 
-Welcome to the **EVM Ecosystem Guides** — your practical handbook for major EVM-compatible blockchains.
+Comprehensive guides to major EVM-compatible blockchains relevant to Pixel Journey's Web3 pixel art, NFTs, staking, and gaming ecosystem.
 
-These guides cover key networks that complement the Pixel Journey ecosystem, helping you bridge, trade, stake, and explore across chains.
+## Table of Contents
+- [Ethereum 101](./ethereum.md)
+- [Polygon](./polygon.md)
+- [Base](./base.md)
+- [Arbitrum](./arbitrum.md)
+- [Optimism](./optimism.md)
+- [BNB Chain](./bnb-chain.md)
+- [Avalanche](./avalanche.md)
+- [zkSync](./zksync.md)
+- [Linea](./linea.md)
+- [Scroll](./scroll.md)
 
-## Major EVM Chains
-
-- [Ethereum 101](/introduction/evm-ecosystem-guides/ethereum-101.md)
-- [Polygon](/introduction/evm-ecosystem-guides/polygon.md)
-- [Base](/introduction/evm-ecosystem-guides/base.md)
-- [Arbitrum](/introduction/evm-ecosystem-guides/arbitrum.md)
-- [Optimism (OP Mainnet)](/introduction/evm-ecosystem-guides/optimism.md)
-- [BNB Chain](/introduction/evm-ecosystem-guides/bnb-chain.md)
-- [Avalanche](/introduction/evm-ecosystem-guides/avalanche.md)
-
-More guides will be added as the ecosystem evolves.
+These guides are designed to help our community navigate the EVM landscape for seamless integration with PxJourney projects.

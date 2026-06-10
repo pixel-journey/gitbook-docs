@@ -1,9 +1,10 @@
-# Optimism (OP Mainnet) Guide
+# Optimism (OP Mainnet)
 
-Optimism is an OP Stack L2 focused on scalability and governance.
+**Optimism** powers the Superchain with Base and others.
 
-## Highlights
-- Part of the Superchain.
-- Strong developer ecosystem.
+## Features
+- Retroactive public goods funding.
+- High performance.
 
-**Explorer**: optimism.io / optimistic.etherscan.io
+## Relevance
+Good for long-term ecosystem projects.

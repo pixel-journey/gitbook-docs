@@ -1,13 +1,14 @@
-# Polygon Guide
+# Polygon
 
-Polygon (PoS and zkEVM) offers fast, low-cost transactions while remaining EVM-compatible.
+**Polygon** (PoS and zkEVM) offers scalable EVM solutions.
 
-## Getting Started
-- Bridge from Ethereum or other chains.
-- Popular for NFTs and gaming.
+## Key Features
+- Low fees, high throughput.
+- Strong NFT and gaming ecosystem.
 
-## Pixel Journey Relevance
-- Active for certain collections and future expansions.
+## Useful Links
+- Explorer: polygonscan.com
+- Bridge: Polygon Bridge
 
-**Recommended Wallets**: MetaMask
-**Explorers**: polygonscan.com
+## For PxJourney
+Ideal for mass minting and community events.

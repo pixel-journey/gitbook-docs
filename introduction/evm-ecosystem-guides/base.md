@@ -1,12 +1,10 @@
-# Base Guide
+# Base
 
-Base (Coinbase's L2 on OP Stack) has become one of the fastest-growing EVM chains in 2026.
+**Base** (Coinbase L2 on OP Stack) is one of the fastest growing EVM chains.
 
-## Strengths
-- Low fees, high throughput.
-- Strong social and DeFi activity.
+## Highlights
+- Low costs, easy onboarding.
+- Strong social and NFT activity.
 
-## For Pixel Journey Users
-- Check bridges and NFT support on Base.
-
-**Explorer**: basescan.org
+## Pixel Journey Use
+Great for accessible pixel art drops and staking.

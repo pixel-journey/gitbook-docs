@@ -1,8 +1,9 @@
-# BNB Chain Guide
+# BNB Chain
 
-BNB Smart Chain offers low fees and high compatibility with Binance tools.
+**BNB Chain** offers high speed and low fees with Binance integration.
 
 ## Use Cases
 - High-volume trading and gaming.
 
-**Explorer**: bscscan.com
+## Explorer
+bscscan.com
