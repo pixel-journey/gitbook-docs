@@ -6,13 +6,16 @@ description: >-
 
 # 🛍️ For Collectors
 
-The journey wouldn't be the same, without collectibles memories for every to obtain all along the way! So of those we will aim to have plenty, in various levels of pixelated forms and shapes, and from artists of all sorts from all across the space!
+Collecting is at the heart of Pixel Journey. We aim to offer beautiful art, fun and sustainable mechanics, and meaningful utility across multiple chains.
 
-* Beautiful art!
-* Fun, sustainable, designed mechanics
-* Endless Pixels and JPEGs to be collected, discovered and shared
-* Utility in form of $PXJ token holder/staking rewards
-* Utility in future dApps
-* Utility in the gamified collection distribution mechanics, that combines just a bit of competition as well as perhaps strategy (in certain times)
-* In the future: Potentially opportunities to obtain redeemable versions of certain art-pieces (depending on the agreements with the individual artists)
-* A project that works for, and looks out for, its collectors foremost
+### What Collectors Can Expect
+
+- High-quality pixel art and collectibles from various artists
+- Progressive, sustainable mechanics (recycling, blending, crafting, upgrading)
+- Endless opportunities to discover, collect, and trade
+- Utility through $PXJ staking rewards and future dApp features
+- Gamified elements that combine collection with light strategy and competition
+- Potential future opportunities to redeem certain art pieces (subject to artist agreements)
+- A project that prioritizes its collectors and long-term value
+
+Whether you're here for the art, the mechanics, the community, or the rewards — there's something for every type of collector in the Pixel Journey.
