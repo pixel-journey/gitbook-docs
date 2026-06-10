@@ -1,14 +1,13 @@
 # Polygon
 
-**Polygon** (PoS and zkEVM) offers scalable EVM solutions.
+## Overview
+Layer 2 scaling solution for Ethereum.
 
 ## Key Features
-- Low fees, high throughput.
-- Strong NFT and gaming ecosystem.
+Low fees, fast transactions.
 
-## Useful Links
-- Explorer: polygonscan.com
-- Bridge: Polygon Bridge
+## Pixel Journey Relevance
+Affordable NFT minting and trading.
 
-## For PxJourney
-Ideal for mass minting and community events.
+## Getting Started
+Wallets, bridges from Ethereum.

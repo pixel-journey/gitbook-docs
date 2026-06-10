@@ -1,14 +1,17 @@
 # Ethereum 101
 
-**Ethereum** is the foundational L1 blockchain for the entire EVM ecosystem.
+## Why Ethereum Matters for Pixel Journey
+Ethereum is the foundation of Web3 with the largest NFT and DeFi ecosystem.
 
-## Why It Matters for Pixel Journey
-- Settlement layer for bridges and major NFT marketplaces.
-- High security but higher fees.
-
-## Key Resources
-- Official site: ethereum.org
+## Getting Started
 - Wallets: MetaMask, Rabby
-- Bridges: Official or trusted cross-chain solutions.
+- Explorer: etherscan.io
 
-**Gas fees**: Use during low network activity periods.
+## Pixel Journey Use Cases
+Minting pixel NFTs, staking on L2s, etc.
+
+## Fees and Bridging
+High gas on L1; use L2s.
+
+## Security Tips
+Use hardware wallets for large holdings.
