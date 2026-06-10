@@ -4,26 +4,31 @@ description: The period leading up to our first NFT drops (and our Pixal PFPs)
 
 # 🧓 Pre-Season & OGs
 
-The Season 1 Pre-Season was/has been the first months of lead up till our first drop, where the first early community members joined along on both our Discord and 𝕏 Social Media channels, and slowly already got a head start on this Journey to come.\
-\
-In this period we've shared much of the progress and status of how everything went along with the development, and sought out inputs/feedback on various aspects such as our art, and how to further improve various parts of the project, already from the very start.\
-\
-We've run a series of early ecosystem-giveaways (approximately twice a week), where \~10-20 NFTs from the Wax space were distributed to lucky winners on our Discords event channel.\
-\
-And the Discords leveling/user Rank system has been initiated, with a few handfuls of users reaching our first private lounges and their perks within.\
-\
-The most active, dedicated, contributing and lucky members, have in this period further had the opportunity to obtain our early **OG rank** by completing one of the following tasks:
+The **Pre-Season** was the exciting launchpad period leading up to our very first drops and the release of the Pixal PFPs. It was the time when the earliest community members joined our Discord and 𝕏 channels, helped shape the project through feedback, and got a true head start on the Pixel Journey.
 
-* _`Our levelling event: Reaching level 10 to unlock access to our level-restricted lounge as one of the first 10-35* to claim your OG role`_ <img src="https://cdn.discordapp.com/emojis/805611097229885491.gif?size=44&#x26;quality=lossless" alt=":typingcat:" data-size="line">
-* _`Our inviting event: The first ~5-`**`10`**` ``to refer +10 new members to the server with your own generated server invites can also obtain the OG role`_ <img src="https://cdn.discordapp.com/emojis/847587660356255765.gif?size=44&#x26;quality=lossless" alt=":megaphone:" data-size="line">
-* _`Content/art contribution event: Up to`` `**`10`**` ``to contribute to the project with Pixel Journey themed graphics or content (emoijs, stickers, gifs, promo-banner-ideas, blogposts or memes), may be lucky to be granted the OG role`_ <img src="https://cdn.discordapp.com/emojis/1130748552285528066.webp?size=44&#x26;quality=lossless" alt=":allthethings:" data-size="line">
-* _`Collab-finder event: Up to`` `**`10`**` ``to aid/refer to the Pixel Journey in securing new partnerships/collabs (either already pre-launch, or for the future journey), may have a chance of obtaining this OG role as well!`_ <img src="https://cdn.discordapp.com/emojis/1132630424129126400.webp?size=44&#x26;quality=lossless" alt=":mafiahat:" data-size="line">
-* _`OG-Event-participant bonus reward chance: Top/random ~`**`5-15`**` ``winners of our initial Carl-bot giveaways may also have a chance at a bonus OG-role in the end (if they haven't already obtained it elsewise) .. So make sure to enter all of those!`_ <img src="https://cdn.discordapp.com/emojis/927943797403443200.webp?size=44&#x26;quality=lossless" alt=":BebeGift:" data-size="line"> <img src="https://cdn.discordapp.com/emojis/1130748552285528066.webp?size=44&#x26;quality=lossless" alt=":allthethings:" data-size="line">
+During Pre-Season we:
 
-These OG-roles were meant to mainly end up being for bragging rights, however they may occasionally be used as special whitelists or as target of bonus airdrops, along the future journey to come as well.
+- Shared regular development updates and progress
+- Asked for community input on art, mechanics, and direction
+- Ran frequent ecosystem giveaways (roughly twice a week), distributing WAX NFTs to lucky participants
+- Launched our Discord leveling system, with many early members already unlocking the first private lounges
 
+### How to Earned the OG Role
 
+The most dedicated early supporters could earn the special **OG role** by completing one of these activities:
+
+- **Leveling Event**: Be among the first 10–35 to reach Level 10 and unlock the private lounge
+- **Inviting Event**: Be among the first ~5–10 to successfully refer 10+ new members using your invite link
+- **Content / Art Contribution**: Create Pixel Journey-themed graphics, emojis, stickers, gifs, banners, memes, or blog posts (up to 10 contributors)
+- **Collab / Partnership Help**: Help us secure new partnerships or collabs (pre-launch or for the future)
+- **Giveaway Participant Bonus**: Top or random winners of our early Carl-bot giveaways had a chance at the OG role
+
+The OG role was primarily for bragging rights and recognition of early support, but it also came with occasional whitelist access and bonus airdrop eligibility along the way.
 
 {% hint style="info" %}
-The Pre-Season officially ended on the 31st of December 2023, and it's at this latest update no longer possible to obtain the OG-role 👀🛸
+The Pre-Season officially ended on December 31st, 2023. It is no longer possible to earn the OG role.
 {% endhint %}
+
+Even though the OG role is now closed, our earliest supporters and OGs remain a foundational part of the Pixel Journey. Their early feedback, energy, and contributions helped build the strong community and vision we have today. We’re incredibly grateful for everyone who was there from the very beginning! 🙏
+
+If you joined later, don’t worry — there are still plenty of ways to become a valued and active part of the journey through leveling, contributing, and participating in events and governance.

@@ -5,140 +5,100 @@ description: Where the magic happens
 # 🏫 Discord Roles, LVL Ranks and Lounges
 
 {% hint style="info" %}
-Collecting Discord roles along the Pixel Journey can help you unlock access to more paths/parts of our project, and will in many cases be a key to obtain early WL perks to future crafts/drops
+Collecting Discord roles and climbing the leveling system is one of the most fun and rewarding parts of the Pixel Journey. Roles unlock special channels, voting power, XP boosts, and often early access or whitelist perks for future crafts, drops, and events.
 {% endhint %}
 
-Our main communication platform of Pixel Journey will from this very beginning be **Discord** for most daily/on-going community activity, while we will make sure relay all our most important information, certain community votes, and promotional material further out to the world via Twitter(X), as well.
+Our main hub for daily community life, discussions, events, and collaboration is **Discord**. Important announcements, votes, and big updates are also shared on 𝕏, but Discord is where the real Pixel Journey magic happens day-to-day.
 
-The Pixel Journey Discord is and will further become a place:
+The Pixel Journey Discord is a place to:
 
-* for community members to meet, connect and discuss
-* to learn more about all the aspects of this shared Pixel Journey of ours
-* to reach out for help, or to help out others in need
-* to participate in events, giveaways and occasional token faucet/airdrop functionalities
-* to share and get feedback on each others ideas, art, DYOR or work
-* to help influence the paths we take all along our Pixel Journey
-* to get the latest news about movements in both our own journey, and what else is moving around in the ecosystem
-* to become a better creator as well
-* to have fun with other individuals from across the Web3 space, and learn new things together
+- Meet fellow explorers, connect, and build friendships
+- Learn about every part of the project and the ecosystems we journey through
+- Get help or help others (we’re all learning together)
+- Participate in events, giveaways, and occasional airdrops/faucets
+- Share ideas, art, DYOR, and feedback
+- Help shape the direction of the project through discussions and votes
+- Stay up to date with Pixel Journey news and the wider Web3 space
+- Grow as a creator and community member
+- Have fun while exploring Web3 with like-minded people
 
 ## NFT-Wallet Linking & Verification
 
-On our Discord we utilize a few bots/tools to allow our community to link up their Discord accounts with their wallets, to be able to verify identities, ownership and where to send your occasional giveaway/event rewards!
+To unlock ownership-based roles (Proof of Possession) and receive rewards, you can link your wallet(s) to Discord.
 
-These will come in a few different forms/shapes, depending on which blockchain you'll be linking to, but initially we will have two: Wax linking via Honeycomb, and ETH/Polygon linking via _(Vulcan?? Might be changed still)_
+We currently support:
+- **WAX** linking via Honeycomb (the main method right now)
+- ETH/Polygon linking (coming soon / being finalized)
 
 {% hint style="warning" %}
-Setting up Honeycomb costs \~8.8Wax/$0.5 at the time of writing, as it'll require you to [buy a Honeycomb from the sixpm drop here](https://neftyblocks.com/collection/sixpm/drops/109538), which needs to be transferred/burned to an account with your unique memo.
+Setting up Honeycomb currently costs around ~8.8 WAX. You’ll need to purchase a Honeycomb from the sixpm drop on Neftyblocks and transfer/burn it with your unique memo.
 
-Use /honeycomb or /verify on our server to get started and to find the full linking instructions.
+Use the `/honeycomb` or `/verify` commands in our Discord for full step-by-step instructions.
 {% endhint %}
 
-#### Honeycomb
+### Honeycomb (WAX Linking)
 
-With Honeycomb we're able to easily allow users to securely verify/link up their Wax wallets, and to automatically be granted roles based on ownership (Proof of Possession roles) in our Discord community. The first of these roles will be our "Pixal Holder", "Wax Holder" and "Pixal Whale" roles, which each will:&#x20;
+Honeycomb lets you securely verify your WAX wallet and automatically receive roles based on what you hold (Pixal Holder, Wax Holder, Pixal Whale, etc.). These roles give you:
 
-* empowers the holder with various voting access or power in our community-votes
-* show off sweet role colors around our channels
-* enjoy a 10-80% XP boost on our Discords chat leveling system
-* get shares of role targeted airdrops, or giveaways
+- Voting power in community votes
+- Beautiful colored roles
+- 10–80% XP boost on our leveling system
+- Eligibility for role-specific airdrops and giveaways
 
-{% embed url="https://honeycomb.sixpm.dev/" %}
 [https://honeycomb.sixpm.dev/](https://honeycomb.sixpm.dev/)
-{% endembed %}
 
-#### Polygon/ETH linking:
+### Polygon / ETH Linking
 
-Yet to come
+Support for linking ETH and Polygon wallets is in active development and will be added soon. Watch our Discord announcements for updates.
 
+## Our Leveling System
 
+We use an Arcane-powered leveling system. Everyone starts at Level 1 and earns server XP simply by chatting and participating.
 
-## Our levelling system
+As you level up, you unlock new ranks and private channels. Here’s what the early ranks unlock:
 
-A quite important aspect of our initial Pixel Journey adventure here will be our \[Arcane BOT]-powered levelling system. Every user begins at level 1 and gains server-XP for participating in community chatting activities. At certain levels a special "role/rank" is unlocked, which enhances the users permissions on the Discord and unlocks various additional community channels along the way.
+- **Level 5+** (Novice role): Access to community suggestions, events & giveaways channel, ecosystem news
+- **Level 10+** (Green role): The Green Room (private lounge), community contribution channels (dev discussions, voting, brainstorming, art, charts)
+- **Level 20+**: Community DYOR sections, free-drops channel, and more (much more coming!)
 
-Here's a quick overview of what different roles unlock:
+Level 5 is achievable in just a few hours of activity. Level 10 usually takes around 24 hours of server time — very doable for most people within 1–2 weeks.
 
-* level 5+: the novice role
-  * community suggestions
-  * events-and-giveaways channel
-  * ecosystem news channel
-* level 10+: the green role
-  * the-green-room (lvl 10 rank+ private lounge)
-  * our community contribution section
-    * community dev discussions
-    * community voting channels
-    * community brainstorming channels
-    * community-art channels
-    * chart/stock discussion channels
-* level 20+: the \[redacted] role
-  * community DYOR sections
-  * free-drops channel
-  * \[redacted]
-* and so on, much more to come!
+Higher levels take more time, but you also unlock more channels and opportunities to earn XP faster. A portion of Pixal PFP sales revenue is returned to the community through role-specific airdrops and events — the higher you climb, the more opportunities you unlock!
 
-Level 5 takes 'only' a few hours of chatting to acquire, where level 10 takes around \~24 hrs of server activity, so accomplishable for most casual chatters within a week or two of community activity.
+## NFT Ownership Roles & XP Boosts
 
-Levels become longer/harder to acquire the higher you go, however as more and more opportunities (channels) to obtain it also unlock along the way, the XP-ball can quickly get rolling.
+Holding certain NFTs (Pixals, WaxRocks, 1/1s, or partner project assets) can unlock exclusive roles with extra perks and channels.
 
-{% hint style="info" %}
-You should be aware that a portion of our Pixal PFP sales are returned back to the community via various of our role unlocked rooms, so the further you reach the higher share back of the sales you may also manage to obtain!
-{% endhint %}
+Pixal holders, WaxRocks holders, and Server Boosters also receive XP multipliers (10–30% boosts that can stack up to ~90–100%).
 
+## tip.cc – Our Discord Tip Bot
 
+We use tip.cc, a free multi-crypto tip bot that supports hundreds of tokens. It’s perfect for tipping friends, running airdrops, or red packets.
 
-## NFT-wallet linking & ownership verification
+Examples:
+- `$tip @username 5wax`
+- `$airdrop 20wax` (3-minute timer)
+- `$airdrop 20wax 2h`
+- `$redpacket 20wax`
 
-Holding certain NFT-assets from both the Pixel Journey, and potentially certain partner projects, can also unlock certain exclusive/otherwise gated roles, that may unlock more channels/activities on the Discord as well.&#x20;
+You can also check prices with `$ticker`.
 
-WaxRocks, Pixals, Server Boosters and 1/1 collectible holders may additionally see XP bonus modifiers towards their leveling progress. These range from 10-30% boosts, and can stack up to a maximum of \~90-100% XP earning rate boost.
+**Safety note:** tip.cc will never ask you to sign transactions or share personal information. Always be cautious of scams in DMs or suspicious links.
 
-## [tip.cc](https://tip.cc): Our Discord crypto wallet/tipbot-bot
+## Server Rank Private Lounges
 
-tip.cc is a bot that allows you to tip and make payments to any Discord user with your favorite cryptocurrency from a list of 587 different kinds it supports!&#x20;
+Every 10 levels a new private lounge unlocks (starting with the Green Room at level 10). These are cozy spaces for more active community members.
 
-tip.cc is free to use. Tips are free of fees. The only fees are the withdrawal network fees, required by every cryptocurrency, and deposit fees for some. We don't influence or regulate those fees.&#x20;
+Reaching higher lounges can give you early alpha access, influence on certain decisions, and priority for lounge-specific airdrops.
 
-tip.cc is easy to use. `$tip @piga 1wax` – that's how simple sending crypto is. You can even send airdrops (for multiple users to claim within some determined period), or redpackets (for single user claims). Example use:&#x20;
+Because of claim bots, we often run airdrops and special events inside these lounges rather than public channels. Putting in the time to climb the ranks really pays off!
 
-* `$airdrop 19wax` (defaults to 3minute timer)&#x20;
-* `$airdrop 19wax 2h` (a 2 hour timer)&#x20;
-* `$redpacket 19wax` (whole claim for the first to hit the button)&#x20;
+**Join the Pixel Journey Discord:** [https://chat.pixeljourney.xyz](https://chat.pixeljourney.xyz)
 
-As well as equipped with commands like `$ticker` for pricing information of any currency supported by coingecko.
+Invite your friends too — the more the merrier!
 
-_(tip.cc will never ask for you to sign any transactions for claiming airdrops. Nor will it ever ask for any personal or CC information, nor reach out to you directly via DMs._  \
-_Never blindly trust $value estimates on tip.cc, certain supported token values are broken, and scammer tip.cc tip-traders may try to take advantage of you._\
-_Always beware of scams out there.)_
+## Moderation & Safety
 
-## Server Rank Private Lounges:
+Our server is moderated 24/7. It’s meant to be a safe, welcoming space. However, we cannot take responsibility for random spam or scam links posted by users. Please stay vigilant and never click suspicious links.
 
-At each 10th level a new private lounge unlocks, with the first one being the-green-room at level 10. These lounges are meant as general chats for the smaller/more actively engaged members of the community who've accomplished reaching to each of them.
-
-Members who reach the highest levels of these lounges (first) may receive additional early alpha, access or influence on certain steps along the way. As well as the highest opportunities of accessing any Wax/crypto airdrops we may share for each of the lounges.
-
-
-
-Due to the endless plagues of claim-bots on Discord, we'll generally refrain from running airdrops in the fully public channels, so it's highly advisable to put in 'the few hours of work' in unlocking the lounges as well. (\~12.5% of project sale revenue raised will be airdropped back to the community via various airdrops, events and giveaways! Now, don't queue the FOMO, get started today!)
-
-
-
-Join the Pixel Journey Discord today: [https://chat.pixeljourney.xyz](https://chat.pixeljourney.xyz)
-
-And invite all your friends too!
-
-
-
-## Moderation:
-
-Our Discord server is moderated \~ 24/7 by our Pixel Journey team, and should generally be a safe space to navigate, however; **we do not take liability for any random/wild spam or scam links being shared on our server.** Please don't click random things, unless you're certain you know where the URL leads.
-
-If you see anything 'suspicious' around, don't hesitate to ping @piga or any moderators online on the server.
-
-For any other inquiries for the team, please refer to our support channel to create a ticket. Alternatively you can also email us at support@pixeljourney.xyz
-
-Our amazing Discord moderation team consists of:
-
-<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
-
-If you have interest in joining our Moderation team, [feel free to fill out this form](https://forms.gle/EU1LQ3SqekQ2TGT26). And we (piga) get back to you directly by need and/or at first opportunity 🫡
+If you see something concerning, ping a moderator right away.
