@@ -15,6 +15,8 @@ You have two main options when creating a Cloud Wallet:
 
 **Recommendation:** If security is your top priority, go with a fresh email + strong password. If convenience and not forgetting login details is more important, social login is fine.
 
+**2026 Note:** Cloud Wallet is no longer always free to create. There is typically a small WAX paywall. However, free or low-cost options are occasionally available via AtomicHub (https://wax.atomichub.io/create-wallet). Check there first or ask in our Discord for current redemption codes.
+
 ### Claiming Your Wallet Keys (Optional but Recommended)
 
 You can optionally claim your private keys. This allows you to import your account into other wallets like Anchor if you ever want more control.
@@ -32,4 +34,6 @@ Learn more on the dedicated page:
 
 ### Free Account Creation (Redemption Codes)
 
-New to WAX? Join our Discord, introduce yourself in the welcome channel, and we may be able to provide a redemption code for a completely free Cloud Wallet account creation. 🚀
+New to WAX? Join our Discord, introduce yourself in the welcome channel, and we may be able to provide a redemption code or guide you to current free/low-cost creation options via AtomicHub. 🚀
+
+**Pixel Journey Tip:** Cloud Wallet is great for beginners. Once comfortable, consider claiming keys and moving to Anchor for more control and security as you progress in the journey.
