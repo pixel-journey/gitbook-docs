@@ -26,7 +26,7 @@ We actively look for meaningful collaborations with other projects and builders.
 
 **Why Partner with Pixel Journey?**
 
-In a fast-moving Web3 space, we offer a **stable, educational, and utility-focused** home. Our journey started on WAX in 2023, with Pixal PFPs in Spring 2024. We've grown through **1050+ days** of real building, flexible milestone-driven Seasons, and the development of **PxPackages** (Alpha miniDApps to robust shared rebuild in 2025-2026). 
+In a fast-moving Web3 space, we offer a **stable, educational, and utility-focused** home. Our journey started on WAX in 2023, with Pixal PFPs in Spring 2024. We've grown through **1050+ days** of real building, flexible milestone-driven Seasons, and the development of **PxPackages** (Alpha miniDApps to robust shared modular rebuild in 2025-2026). 
 
 Yearly New Year’s Eve PXJ mints (~10% remaining supply to **dao.pxj, team.pxj, dev.pxj, defi.pxj, craft.pxj** pools) support sustainable growth. We're preparing for the standalone **PxLearn Portal** — a comprehensive educational hub.
 
