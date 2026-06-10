@@ -6,18 +6,18 @@ description: >-
 
 # 🎨 For Artists
 
-Artists are always very most welcome to contribute directly to the Pixel Journey, either by creating fan art, emojis, memes, or other types of promotional Pixel Journey themed graphics.
+Artists are always welcome in the Pixel Journey! Whether you're creating fan art, emojis, memes, promotional graphics, or full collections, we'd love to see your work.
 
-If you're a new artist to the Wax/NFT space in general, then we're also always most welcoming for you to get in touch with our community to receive feedback, or help in creating your collection/project in the ecosystems we reach along the Pixel Journey.
+If you're new to WAX or NFTs, our community is happy to offer feedback and help you get started.
 
-### Get your art incorporated into the Pixel Journey!
+### Get Your Art Featured in Pixel Journey
 
-As a part of our Pixel Economy relies on new collectibles to be crafted/collected along our journey, we also always\* have room and opportunities to incorporate new art. So why not yours?
+As we build the Pixel economy, we regularly incorporate new art into collectibles, ingredients, and special drops. Collaborating artists can reach new audiences across the ecosystems we explore.
 
-By allowing us to mint your creations (in up to multiple steps of rarity/pixel-resolutions), you get to reach new audiences/ecosystems with your art as well as potentially finding new collectors by promoting your website/project via our assets.
+**How collaboration typically works:**
+- We mint your creations (often in multiple rarity/pixel-resolution tiers).
+- A special ingredient or requirement is created for crafters/collectors.
+- ~33% of revenue from related sales goes to the collaborating artist.
+- The remaining ~67% supports $PXJ buybacks/burns, WaxRocks Council funds, and project development.
 
-While the Pixel Journey is still very young, and has barely begun, we intent for it to be a looong one, so perhaps you end up being among the earliest to be featured in this Pixel Journey for many more users to come as well.
-
-As part of our collaboration we would create a special ingredient sale to be required to be bought by crafters/collectors. And as a baseline then \~33% of any revenue from these would be rewarded to you as collaborating artist as well.
-
-While the remaining \~66% would be split between buying back/burning PXJ, being allocated to the WaxRocks Councils funds, or the project funds.
+If you're interested in collaborating or having your art featured, open a ticket in our Discord or reach out directly. We're always looking for fresh talent to join the journey!
