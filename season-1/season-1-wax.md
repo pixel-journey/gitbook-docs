@@ -6,62 +6,58 @@ icon: '1'
 # Season 1 (WAX)
 
 {% hint style="info" %}
-**If you're new to Wax:** [Check out our introductions to how to get set up on the Wax Blockchain here](../education/getting-set-up-on-wax/).
+**New to WAX?** Check out our guides on [Getting Set Up on the WAX Blockchain](../education/getting-set-up-on-wax/).
 {% endhint %}
 
-## **Where It All Begins**
+## Where It All Begins
 
-As we embark on **The Pixel Journey**, our mission is to explore the **NFT and crypto space together**, creating a shared experience that helps newcomers and veterans alike navigate the **vast Web3 landscape**.
+As we embark on **The Pixel Journey**, our mission is to explore the NFT and crypto space together, creating a shared experience that helps both newcomers and experienced users navigate the vast Web3 landscape.
 
-### **Seasonal Exploration**
+### Our Approach to Seasons
 
-We structure our journey into **seasons**, each lasting **6–12 months** and focusing on **different blockchain ecosystems**. Every season builds upon the previous one, expanding **Pixel Journey’s features, economy, and collectibles** while leveraging the best tools and innovations from each blockchain.
+We structure our journey into flexible phases (originally called "seasons"), each focusing on different blockchain ecosystems and major milestones. Every phase builds upon the previous one, expanding Pixel Journey’s features, economy, and collectibles while leveraging the best tools from each chain.
 
-### **Season 1 – The Wax Blockchain Foundation**
+**Season 1** has been our extended foundational phase on the **WAX blockchain** — a deep, thoughtful period of building the core of the project. This phase has naturally taken longer than a single year as we prioritized quality, sustainability, and proper technical maturation (including the major development of our PxPackages framework in late 2025 – mid 2026).
 
-Our first season is all about **mastering the WAX ecosystem** and laying the groundwork for our **Pixel Journey world and economy**:
+### Season 1 – The WAX Blockchain Foundation
 
-✅ **Learning about WAX & AtomicAsset NFTs** – Understanding their **unique advantages, marketplaces, and tools**.\
-✅ **Exploring Key Ecosystem Features** – Hands-on use of **WaxOnEdge, TacoSwap, Alcor, NFTHive, and WaxDAO**.\
-✅ **$PXJ Token Introduction** – Establishing **token utility, strategic burn/faucet mechanics, and staking opportunities**.\
-✅ **Surprise Events & Community Rewards** – Keeping engagement high with **unexpected twists and exclusive content**.
+Our first phase focused on mastering the WAX ecosystem and laying the groundwork for the Pixel Journey world and economy:
 
-### **Bridging to New Frontiers**
+- Learning about WAX & AtomicAsset NFTs and their unique advantages
+- Exploring key ecosystem tools (WaxOnEdge, Alcor, NFTHive, NeftyBlocks, WaxDAO, etc.)
+- Introducing the $PXJ token with utility, burn/faucet mechanics, and staking
+- Building community through events, giveaways, and governance (WaxRocks / PixelDAO)
+- Developing core mechanics: Pixal PFPs, Pixel Recycling, crafting, and blending
+- Significant technical work on PxPackages (Alpha miniDApps → full rebuild with shared functionality)
 
-Later in **Season 1**, we'll explore **bridging to Polygon**, setting the stage for **Season 2**, where our focus will shift toward **new ecosystems and expansion**.
+### Bridging to New Frontiers
 
-### **Season Structure & Participation**
+Later in Season 1 we began exploring bridges to other chains (starting with Polygon), setting the stage for future expansion.
 
-Each season begins with a **drop, crafting event, or interactive experience**, allowing participants to join in and start their journey. The season then **culminates in a grand finale event**, where active participants can **craft or claim a new PFP—if they’ve secured the necessary collectibles along the way!**
+### Pixal PFPs & Ingredient System
 
-### **Pixal PFPs & Ingredient System**
+- **10,000 Pixal PFPs** – The first major source of Pixel Ingredients.
+- **Recycling Mechanics** – Up to 80% of Pixals can be burned to generate PixelPacks, which unpack into craftable, stakable single-pixel ingredients.
 
-* &#x20;**10,000 Pixal PFPs** – The **first source of Pixel Ingredients** in Pixel Journey.
-* &#x20;**Recycling Mechanics** – Up to **80% of Pixals can be burned** to generate **PixelPacks**, which **unpack into craftable, stakable single-pixel ingredients**.
+Each step is designed to empower collectors while keeping the economy sustainable and rewarding.
 
-Each step of the journey is designed to **empower collectors, traders, and enthusiasts** while ensuring that **our economy remains sustainable and rewarding**.
+Are you ready to explore, craft, and adventure with us? 🚀🎨
 
-Are you ready to **explore, craft, and adventure** with us? 🚀🎨
+<figure><img src="../.gitbook/assets/gm-red-stellar-pixel-pupper-eyess.png" alt="" width="375"><figcaption><p>A Pixal PFP featuring traits from the "World of Cryptopups" collection on the WAX Blockchain</p></figcaption></figure>
 
+## The Season 1 Plan (Summary)
 
+- Onboarding and education on the WAX Blockchain
+- Collective community DYOR on WAX tools and projects
+- NFTHive PFP Drop features
+- NeftyBlocks blends, drops, and unpacking
+- Introduction of $PXJ token and secondary token mechanics
+- NFT-to-token redeemables
+- Staking on TacoSwap, Pepperstake, Alcor, and WaxDAO
+- Discord linking with HoneyComb for ownership-based roles
+- NFT trading and creation guides on WAX
+- Bridging NFTs to/from WAX
+- Spreading awareness of Pixel Journey and the ecosystems we explore
+- Becoming a strong learning resource for WAX
 
-<figure><img src="../.gitbook/assets/gm-red-stellar-pixel-pupper-eyess.png" alt="" width="375"><figcaption><p>A Pixal PFP featuring traits from the "Wold of Cryptopups" collection on the Wax Blockchain</p></figcaption></figure>
-
-## The Season 1 plan summarized:
-
-* Onboarding to the Wax Blockchain 🔄️
-* Collective Community DYORing on the Wax Blockchain 🔄️
-* NFTHive PFP Drop features ✅
-* NeftyBlocks blends, drops and unpacking features&#x20;
-* Secondary tokens on the Wax blockchain with out introduction of $PXJ ✅
-* NFT to secondary token redeemables ✅
-* TacoSwap, Pepperstake & Alcor Exchange Token Staking features ✅
-* WaxDAO Staking ✅
-* SixPMs HoneyComb Discord Linking utility for ownership linked roles ✅
-* NFTHive Crafting features 🔜
-* How to create NFTs on the Wax Blockchain ✅
-* How to trade NFTs on the Wax Blockchain ✅
-* How to bridge NFTs to/from the Wax Blockchain ✅
-* Spreading the word of the Pixel Journey and the ecosystems we Pixals inhabit 🔄️
-* Discovering other great artists, projects and communities across the ecosystems our journey reaches! 🔄️
-* Becoming the best learning resource on Wax 🔄️
+Season 1 has been about building a strong, sustainable foundation. We’re proud of how far we’ve come together!
