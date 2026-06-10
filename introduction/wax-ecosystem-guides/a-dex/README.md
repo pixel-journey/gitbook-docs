@@ -1,43 +1,19 @@
----
-description: A-DEX! The sleekest and most user-friendly DEX in the Wax Ecosystem.
----
+# A-DEX Guide (2026)
 
-# A-DEX
+**Overview**: A sleek, user-friendly DEX on WAX with fast swaps, analytics, and liquidity provision. Great for PXJ token trading.
 
+## Getting Started
+1. Visit [wax.a-dex.io](https://wax.a-dex.io/)
+2. Connect Cloud or Anchor wallet.
 
+## Key Features
+- Swaps
+- Liquidity pools
+- Analytics
 
-### A-DEX; a Pixel Journey Partner:
+## Tutorials
+[See sub-guides]
 
-Find the early alpha in our ecosystem partners section on the A-DEX platform, alongside all its links here:
+**PXJ Tip**: Use for efficient Pixal-related token trades.
 
-{% content-ref url="../../ecosystem-partners/a-dex.md" %}
-[a-dex.md](../../ecosystem-partners/a-dex.md)
-{% endcontent-ref %}
-
-More on this coming soon!
-
-
-
-### A-DEX Website
-
-{% embed url="https://wax.a-dex.io/" %}
-[https://wax.a-dex.io/](https://wax.a-dex.io/)
-{% endembed %}
-
-### A-DEX Docs
-
-{% embed url="https://docs.a-dex.io/" %}
-[https://docs.a-dex.io/](https://docs.a-dex.io/)
-{% endembed %}
-
-### A-DEX on TG
-
-{% embed url="https://t.me/a_dex_official" %}
-[https://t.me/a\_dex\_official](https://t.me/a_dex_official)
-{% endembed %}
-
-### A-DEX on X
-
-{% embed url="https://x.com/a_dex_official" %}
-[https://x.com/a\_dex\_official](https://x.com/a_dex_official)
-{% endembed %}
+**Safety**: Verify connections.
