@@ -2,6 +2,15 @@
 
 * [👋 Welcome to the Pixel Journey](README.md)
 
+## 🚀 New Here? Start Your Pixel Journey Here!
+
+* [🟦 What is Pixel Journey?](introduction/the-pixel-journey-begins.md)
+* [🚀 The Famous 5-Minute Pixel Quest](getting-started/new-here-start-your-pixel-journey.md)
+* [✅ Pixel-Perfect Getting Started Checklist](getting-started/new-here-start-your-pixel-journey.md)
+* [🗺️ Your Pixel Journey — The Legendary 12-Step Progression Path](getting-started/your-pixel-journey-12-step-progression.md)
+* [🛠️ First Wallet Quest](education/getting-set-up-on-wax/)
+* [🟦 How to Get Your First Pixal](season-1/the-pixal-pfps/)
+
 ## Introduction
 
 * [💡 Pixel Journey Begins](introduction/the-pixel-journey-begins.md)
