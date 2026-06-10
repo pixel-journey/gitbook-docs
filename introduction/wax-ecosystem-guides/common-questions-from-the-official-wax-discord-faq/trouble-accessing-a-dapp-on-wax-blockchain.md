@@ -4,16 +4,15 @@ description: 'Q: I''m having issues opening my preferred dApp page. What should 
 
 # Trouble Accessing a dApp on WAX Blockchain
 
-To address this, follow the troubleshooting steps below:
+Try these troubleshooting steps in order:
 
-1. Ensure the URL is accurate and you're visiting the right site.
-2. Consider using a different browser or try accessing the site in incognito/private mode.
-3. Clear your browser cache.
-4. Execute a hard refresh on the page: **For PC:** Press CTRL + F5. | **For Mac:** Hold down Command + Shift + R.
-5. If still unresolved, attempt a forced log out by visiting: [https://mycloudwallet.com/logout](https://mycloudwallet.com/logout). Afterwards, sign back in.
-6. If you're using an iOS device, disable cross-site tracking protection. In Safari:
-   * Click on Safari, then choose Settings (or Preferences for older versions of macOS).
-   * Navigate to the Privacy tab.
-   * Uncheck the box "Prevent cross-site tracking" to disable it.
+1. Double-check that you’re using the correct URL.
+2. Try a different browser or open the site in **Incognito / Private mode**.
+3. Clear your browser cache and cookies.
+4. Perform a hard refresh:
+   - **Windows/PC**: Press **Ctrl + F5**
+   - **Mac**: Press **Command + Shift + R**
+5. Force logout from Cloud Wallet: Visit [https://mycloudwallet.com/logout](https://mycloudwallet.com/logout), then log back in.
+6. On iOS Safari: Go to **Settings → Safari → Privacy** and turn **off** "Prevent cross-site tracking".
 
-If the issues persist, please reach out for help on Discord.
+If the problem continues, reach out in our Discord or the official WAX Discord for help.

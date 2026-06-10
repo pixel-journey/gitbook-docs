@@ -4,11 +4,11 @@ description: 'Q: I haven''t received my Authorization Code in my email. What sho
 
 # Missing Authorization Code via Email on WAX Blockchain
 
-Occasionally, email providers make changes that could divert our emails away from your primary inbox. Here's what to do:
+Sometimes email providers filter or redirect messages. Here’s what to try:
 
-1. Check all folders in your email, including spam, junk, and promotions, for a message from `info@wax.io`
-2. If there was an outage with your email service or if you still can't locate the code, please complete the troubleshooting form at:&#x20;
+1. Check **all folders** in your email inbox, including **Spam**, **Junk**, and **Promotions**, for an email from `info@wax.io`.
+2. If you still can’t find it (or there was an email service outage), fill out the official troubleshooting form:
 
-{% embed url="https://waxblockchain.typeform.com/troubleshooting." %}
+[https://waxblockchain.typeform.com/troubleshooting](https://waxblockchain.typeform.com/troubleshooting)
 
-By filling out the form, it enables us to verify whether the codes are being suppressed from our side. We'll assist you promptly.&#x20;
+Submitting the form helps the WAX team check if codes are being blocked on their end. They’ll assist you quickly.

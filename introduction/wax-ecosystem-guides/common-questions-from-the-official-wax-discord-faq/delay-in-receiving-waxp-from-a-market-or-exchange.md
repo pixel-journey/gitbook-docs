@@ -6,4 +6,8 @@ description: >-
 
 # Delay in Receiving WAXP from a Market or Exchange
 
-In such cases, it's best to contact the support team of the specific exchange or market where you made the transaction. Regrettably, **WAX does not possess the capability to access their systems**, and therefore cannot oversee or assist with your transaction directly.
+If you bought or received WAXP from an exchange or marketplace and it hasn’t arrived:
+
+Please contact the **support team of that specific exchange or market** directly.
+
+WAX itself cannot access or control external exchange systems, so their support is the best place to resolve deposit or withdrawal issues.
