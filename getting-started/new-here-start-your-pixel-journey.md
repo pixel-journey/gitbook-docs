@@ -1,7 +1,9 @@
 # 🚀 NEW HERE? START YOUR PIXEL JOURNEY HERE!
 
+{% hint style="success" %}
 **Welcome, brave new pixel!**  
 You just stepped into the most welcoming on-ramp in Web3. No prior experience required. No jargon walls. Just pure pixel-powered guidance.
+{% endhint %}
 
 This section exists for **two kinds of heroes**:
 
@@ -37,7 +39,9 @@ It’s part game, part community, part education platform, and 100% on-chain own
 
 ## ✅ Pixel-Perfect Getting Started Checklist
 
-Use this like a quest log. Check things off as you go!
+{% hint style="info" %}
+Use this like a quest log. Check things off as you go! You don’t have to do everything in one day.
+{% endhint %}
 
 - [ ] **Step 0** — Breathe. You’re about to enter the future of the internet. It’s okay to feel excited (or slightly confused — normal reaction).
 - [ ] **Step 1** — Create a **Wallet** (your digital keychain for everything on-chain)
@@ -51,8 +55,6 @@ Use this like a quest log. Check things off as you go!
 - [ ] **Step 9** — Explore the **community** and maybe vote on something
 - [ ] **Step 10** — Tell a friend. Seriously. This journey is better together.
 
-**Pro tip:** You don’t have to do everything in one day. This is a marathon with amazing loot drops along the way.
-
 ---
 
 ## 🆕 "I’ve Never Owned an NFT Before…"
@@ -60,9 +62,9 @@ Use this like a quest log. Check things off as you go!
 Totally normal. In fact, **most people** in Web3 started exactly where you are.
 
 **Quick truth bomb:**
-A **Pixal** is an **NFT** — a unique digital collectible that lives on the blockchain. You truly own it. No one can take it away. You can trade it, use it in the game, or just admire its pixel glory.
+A **Pixal** is an **NFT** — a unique digital collectible that lives on the blockchain. You truly own it. No one can take it away.
 
-If you want the gentle, friendly explanation of what NFTs actually are (without the hype or FUD), head here:
+If you want the gentle, friendly explanation of what NFTs actually are, head here:
 
 → **[What Are NFTs?](education/what-are-nfts.md)**
 
@@ -127,7 +129,7 @@ It’s not just "points" — it’s real on-chain value tied to a living ecosyst
 
 ---
 
-## ❓ Common Pixel Pitfalls (Learn From Others’ 8-Bit Mistakes)
+## ❓ Common Pixel Pitfalls
 
 We’ve seen it all. Here’s how to avoid the classic newbie traps so you can stay safe and have more fun:
 
@@ -155,11 +157,13 @@ Head to **Education** if you want to understand the "why" behind everything.
 
 ---
 
+{% hint style="success" %}
 **You’ve got this, Pixel Pioneer.**
 
 The pixels are friendly. The community is helpful. And the adventure is just getting started.
 
 Welcome to the family. 🟦❤️
+{% endhint %}
 
 *Now go check that checklist and take your first step. The metaverse is waiting.*
 
