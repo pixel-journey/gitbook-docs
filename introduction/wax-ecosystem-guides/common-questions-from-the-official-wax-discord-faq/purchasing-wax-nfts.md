@@ -4,16 +4,14 @@ description: 'Q: Where can I buy WAX NFTs?'
 
 # Purchasing WAX NFTs
 
-You can discover and acquire WAX NFTs on platforms such as:
+You can buy and discover WAX NFTs on these popular marketplaces:
 
-* vIRL.io Marketplace
-* NFTHive.io
-* NeftyBlocks.com
-* ChainChamps.com
-* AtomicHub.io
+- [vIRL.io Marketplace](https://virl.io)
+- [NFTHive.io](https://nfthive.io)
+- [NeftyBlocks.com](https://neftyblocks.com)
+- [ChainChamps.com](https://chainchamps.com)
+- [AtomicHub.io](https://wax.atomichub.io)
 
-These marketplaces offer a diverse range of digital assets, user-friendly interfaces, and tools catering to creators and collectors. Transactions in these marketplaces are typically facilitated using the WAXP token.
+These platforms offer user-friendly interfaces, powerful tools for collectors and creators, and a wide variety of digital assets. Most transactions use the WAXP token.
 
-
-
-**Looking for WAXP?** [Read here](purchasing-waxp-on-wax-blockchain.md)
+**Need WAXP?** See the guide on [Purchasing WAXP on WAX Blockchain](purchasing-waxp-on-wax-blockchain.md).

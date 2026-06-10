@@ -4,12 +4,12 @@ description: 'Q: How do I create my first NFT on WAX?'
 
 # Creating Your First WAX NFT
 
-Crafting your NFT on WAX is straightforward and cost-effective. Here's a list of platforms that offer robust tools for NFT creation and more:
+Creating NFTs on WAX is simple and low-cost. Here are the main platforms with creator tools:
 
-* [https://nfthive.io/creator](https://nfthive.io/creator)
-* [https://virl.com/customize](https://virl.com/customize)
-* [https://neftyblocks.com/creator](https://neftyblocks.com/creator)
-* [https://chainchamps.com/create](https://chainchamps.com/create)
-* [https://wax.atomichub.io/creator](https://wax.atomichub.io/creator)
+- [NFTHive Creator](https://nfthive.io/creator)
+- [vIRL Customize](https://virl.com/customize)
+- [NeftyBlocks Creator](https://neftyblocks.com/creator)
+- [ChainChamps Create](https://chainchamps.com/create)
+- [AtomicHub Creator](https://wax.atomichub.io/creator)
 
-Choose a platform that suits your needs, and start your NFT journey on WAX!
+Pick the platform that fits your style and start creating! Each has its own features and interface, so feel free to explore a couple to see what you like best.
