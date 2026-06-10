@@ -7,26 +7,29 @@ description: >-
 
 # PXJ WRITERS PROGRAM
 
-The PXJ Writers Program unlocks via our Discord from reaching server level 20 there (accomplishable within a few weeks of server activity without boosts, or much quicker with a few assets).
+The **PXJ Writers Program** is our way of rewarding community members who help create and improve educational content for the Pixel Journey.
 
-The incentive is simple:
+You can unlock the program by reaching **Level 20** in our Discord (very achievable with regular participation, even faster with XP boosts from holding Pixals or boosting the server).
 
-* Write Guides -> Submit them for Community Content Review in our Writers Lounge
-* Once approved by the community -> the guides are integrated into/updated to our PxJourney Docs here
-* Once integrated/updated -> a proposal is presented to the WaxRocks Council/PixelDAO to reward the submitter (either via standard amounts, or extraordinarily to match the contribution)
+### How It Works
 
+1. Write original guides, threads, articles, or lore related to Pixel Journey or the wider WAX/Web3 ecosystem.
+2. Submit them in our dedicated **Writers Lounge** on Discord for community review.
+3. Once approved, the content is integrated or used to update our official docs.
+4. We then submit a proposal to the **WaxRocks Council / PixelDAO** to reward you with PXJ.
 
+### Example Rewards (approximate)
 
-### Standard PXJ Writers Reward Estimates:
+- Original thread or SoMe post about Pixel Journey → ~5,000 PXJ
+- In-depth article covering aspects of the project → ~25,000–50,000 PXJ
+- Writing or significantly updating a docs page → ~5,000–15,000 PXJ
+- Chapter of Pixel Journey lore → up to ~25,000 PXJ
+- Linking to our docs from your own publications → ~500 PXJ per link
+- Ecosystem guides that mention or link to Pixel Journey → up to 10,000 PXJ
+- Major bugfixes or substantial updates to existing content → smaller reward (amount depends on impact)
 
-* Write/share/submit an original thread about the PixelJourney for SoMe (-> \~5000 PXJ reward)
-* Write/share/submit an article covering one of the many facets of the Pixel Journey (-> \~25000-50000 PXJ reward)
-* Write/update(/submit) a PxJourney Docs page on our site here (-> \~5000-15000 PXJ reward)
-* Write/share/submit a chapter of Pixel Journey lore (-> up to \~25000 PXJ reward)
-* Link to our Pixel Journey Docs/guides here from your publications on Wax/ecosystem releases (-> \~500 PXJ per link)
-* Write/share/submit other ecosystem related guides, containing mentions or links to the Pixel Journey. Such as detailing other ecosystem projects (-> up to 10000 PXJ reward)
-* 'Bugfix/update' (a lot) in past content (-> possibly a smaller PXJ reward)
+Rewards can vary and may be split between contributors when multiple people collaborate.
 
+This program is one of the ways we give back to the community while building better resources for everyone. Your knowledge and writing skills directly help new explorers and strengthen our shared journey!
 
-
-Rewards may vary, and can also end up being split between multiple contributors.
+Head to the Writers Lounge in Discord to get started.
