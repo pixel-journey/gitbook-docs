@@ -6,10 +6,15 @@ description: >-
 
 # Delay in WAXP Account Activation
 
-**First of all, logout and then login again: if your account has received your WAXP, this action will set permissions and finish the account creation.** If that doesn't work, kindly contact our support team in the ⁠🗨┃get-help channel on the main Wax.io Discord for assistance. To expedite the process, please have the following details ready:
+**First step:** Log out completely and log back in. If your account has received the WAXP, this often finishes the activation process automatically.
 
-* The transaction link for the payment.
-* A screenshot showcasing the account activation screen, especially the memo.
-* For activations via Coinbase: also include the Order #.
+If that doesn’t work:
 
-Once we've reviewed the information, we'll guide you further. It's crucial not to resend your payment multiple times.
+Contact the official WAX support team in the **🗨️ get-help** channel on the main WAX Discord.
+
+To get faster help, please have ready:
+- The transaction link of your payment
+- A screenshot of the activation screen (especially the memo)
+- If you paid via Coinbase: your Order #
+
+Do **not** send the payment multiple times. The support team will guide you once they review your details.

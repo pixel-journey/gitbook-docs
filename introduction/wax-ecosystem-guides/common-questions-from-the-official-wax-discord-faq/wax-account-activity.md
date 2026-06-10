@@ -6,8 +6,12 @@ description: >-
 
 # WAX Account Activity
 
-For My Cloud Wallet Users: Visit the My Cloud Wallet Dashboard at: https://mycloudwallet.com/dashboard Click on "Activity" found right below your balance.
+**For My Cloud Wallet users:**
+Visit your dashboard at [https://mycloudwallet.com/dashboard](https://mycloudwallet.com/dashboard) and click on **"Activity"** right below your balance.
 
-For ALL Users: To see your account's transaction history, enter your wallet name or address into a block explorer. Our top recommendation is: https://waxblock.io/.
+**For all users:**
+To view your full transaction history, balance, and resource details (CPU, NET, RAM), enter your WAX account name into a trusted block explorer.
 
-Always remember to use legitimate and trusted sources when retrieving your account data. (edited)
+**Recommended explorer:** [https://waxblock.io/](https://waxblock.io/)
+
+Always use official or well-known explorers to keep your information secure.
