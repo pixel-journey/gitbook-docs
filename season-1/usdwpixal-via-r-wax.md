@@ -4,68 +4,46 @@
 
 {% embed url="https://r-wax.io/token/pixeljourney/WPIXAL" %}
 
-So, you've got a Pixal PFP ... now what? Enter **$WPIXAL**, the token that unlocks a whole new dimension of utility and DeFi magic for your beloved digital avatars! Launched in March 2025, $WPIXAL is more than just a token; it's a key to maximizing the value and potential of your Pixal PFPs within the Pixel Journey ecosystem.&#x20;
+So you have a Pixal PFP — now what? **$WPIXAL** is the utility token that unlocks a new layer of DeFi and liquidity for your Pixal PFPs within the Pixel Journey ecosystem. Launched in March 2025, it lets you tokenize your PFP into a liquid asset.
 
-## W**hat is $WPIXAL?**&#x20;
+### What is $WPIXAL?
 
-$WPIXAL is a utility token that represents a tokenized Pixal PFP. It allows you to swap your PFP for a liquid token, opening up opportunities in decentralized finance (DeFi) and beyond. Think of it as turning your unique NFT into a versatile asset! **How Does It Work?** The core mechanic revolves around tokenizing your Pixal PFP on [https://r-wax.io/token/pixeljourney/WPIXAL](https://r-wax.io/token/pixeljourney/WPIXAL).&#x20;
+$WPIXAL represents a tokenized version of your Pixal PFP. By tokenizing, you can participate in DeFi while keeping the option to redeem back into an NFT later.
 
-Here's the breakdown:
+**How it works:**
 
-1. **Tokenization:** Head over to RWAX.io and tokenize your Pixal PFP. There's a small 1 WAX fee to cover the process, ensuring the long-term sustainability of the system.
-2. **$WPIXAL Received:** The amount of $WPIXAL you receive depends on the _type_ of Pixal PFP you tokenize:
+1. Go to [r-wax.io](https://r-wax.io/token/pixeljourney/WPIXAL) and tokenize your Pixal PFP (small 1 WAX fee).
+2. Receive $WPIXAL based on your Pixal type:
+   - Regular Pixal: 1 $WPIXAL
+   - PixelPet trait: 1.1 $WPIXAL
+   - WaxRock trait: 25 $WPIXAL (big bonus!)
+3. Use $WPIXAL in DeFi:
+   - Provide liquidity on pools like WPIXAL/PXJ, WPIXAL/WAX, WPIXAL/KING, or WPIXAL/WUF
+   - Stake/farm on Alcor or TacoSwap for additional rewards
 
-* **Regular Pixal PFP:** 1 $WPIXAL
-  * **PixelPet Trait:** 1.1 $WPIXAL (Bonus!)
-  * **WaxRock Trait:** 25 $WPIXAL (Jackpot!)
+### Why $WPIXAL Matters
 
-3. **DeFi Unleashed:** Now that you have $WPIXAL, you can participate in various DeFi activities, such as:
+- **Liquidity**: Turns illiquid NFTs into tradable tokens.
+- **DeFi Access**: Earn rewards through liquidity provision and farming.
+- **Price Discovery**: Helps establish clearer value for Pixal PFPs.
+- **Rarity Rewards**: Bonus $WPIXAL for rare traits (PixelPet & WaxRock) incentivizes collecting special Pixals.
 
-* **Liquidity Pools:** Provide liquidity to pools like WPIXAL/PXJ, WPIXAL/WAX, WPIXAL/KING, or WPIXAL/WUF to liquidity provider rewards from volumes traded along the way!
-*   **Farming:** Stake your $WPIXAL in farms to earn even more tokens. Keep an eye out for opportunities on platforms like Alcor Exchange and TacoSwap!
+### Pro Tips for $WPIXAL
 
+- Hunt for WaxRock Pixals on marketplaces like AtomicHub — they give the highest $WPIXAL payout.
+- Watch for arbitrage between NFT floor prices and $WPIXAL pools.
+- Stake and farm to earn passive $PXJ and other rewards.
+- Redeem rare PFPs using $WPIXAL when opportunities appear (note: redemption is random).
 
+### Key Integrations
 
-## **Why is $WPIXAL Important?**
+- **Tokenize/Redeem**: [r-wax.io](https://r-wax.io/token/pixeljourney/WPIXAL)
+- **NFT Trading**: NFTHive & AtomicHub
+- **Liquidity & Farming**: Alcor Exchange & TacoSwap
+- **Analytics**: WaxOnEdge
 
-* **Liquidity:** $WPIXAL transforms previously illiquid NFTs into easily tradable tokens. This dramatically increases the accessibility and utility of Pixal PFPs.
-* **DeFi Opportunities:** Unlock a world of DeFi possibilities! Earn rewards, participate in governance, and contribute to the growth of the Pixel Journey ecosystem.
-* **Price Discovery:** $WPIXAL helps establish a clear price floor for Pixal PFPs, making it easier to value and trade your assets.
-* **Rarity Amplification:** The bonus $WPIXAL awarded for PixelPet and WaxRock traits incentivizes the collection of rare PFPs and rewards their value proportionally.
+### The Future of $WPIXAL
 
+Expect more utility over time, including potential governance participation, exclusive access, and cross-chain expansion. $WPIXAL is your ticket to deeper engagement with your Pixal PFPs and the broader Pixel Journey economy.
 
-
-**Strategic Advantages: Pro Moves for $WPIXAL Masters**
-
-* **Hunt for WaxRocks:** WaxRock Pixal PFPs are the holy grail! Tokenizing one nets you a whopping 25 $WPIXAL. Keep an eye out on marketplaces like AtomicHub.
-* **Arbitrage Opportunities:** Keep an eye on price fluctuations between NFT marketplaces and $WPIXAL liquidity pools. Buy low on one platform and swap high on another!
-* **Stake and Earn:** Participate in $WPIXAL staking programs to earn passive income in the form of $PXJ and other tokens.
-* **Redeem Rare PFPs:** If you're feeling lucky, you can try to redeem rare PFPs using $WPIXAL. However, be aware that you might get a common PFP in return!
-
-**Ecosystem Integration:** $WPIXAL is deeply integrated into the Pixel Journey ecosystem:
-
-* **RWAX.io:** The primary platform for tokenizing and redeeming Pixal PFPs.
-* **Alcor Exchange & TacoSwap:** Key platforms for providing liquidity and trading $WPIXAL.
-* **NFT Hive & AtomicHub:** Marketplaces for trading Pixal PFPs.
-* **WAXDAO:** Staking opportunities for earning rewards.
-
-**Key Links:**
-
-* **Tokenize/Redeem:** [**https://r-wax.io/token/pixeljourney/WPIXAL**](https://r-wax.io/token/pixeljourney/WPIXAL)
-* **NFT Trading:** [nfthive.io/collection/pixeljourney](https://nfthive.io/collection/pixeljourney) & [wax.atomichub.io/](https://wax.atomichub.io/)
-* **Liquidity Pools & Farming:** [alcor.exchange/](https://alcor.exchange/) & [swap.tacocrypto.io/](https://swap.tacocrypto.io/)
-* **Analytics:** [https://waxonedge.app/analytics/token/WPIXAL\_pixeljourney](https://waxonedge.app/analytics/token/WPIXAL_pixeljourney)
-
-
-
-## **The Future of $WPIXAL:**&#x20;
-
-The journey of $WPIXAL is far from over! Expect to see even more innovative use cases and integrations in the future, including:
-
-* **Governance:** $WPIXAL holders may gain the ability to participate in the governance of the Pixel Journey ecosystem.
-* **Exclusive Access:** Unlock exclusive content, events, and rewards with your $WPIXAL.
-* **Cross-Chain Expansion:** Explore the possibility of bringing $WPIXAL to other blockchains!
-
-
-
-$WPIXAL is your passport to a deeper, more rewarding Pixal PFP experience. So, what are you waiting for? Tokenize your PFP and dive into the world of $WPIXAL today! Happy adventuring!
+Tokenize your PFP and start exploring the $WPIXAL ecosystem today!
