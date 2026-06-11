@@ -1,5 +1,11 @@
-# Cloud Wallet Guide 2026
+# Cloud Wallet Guide
 
-Mobile apps discontinued. Migrate to passkeys via Google Passkey Manager or claim keys for Anchor/PxWallet.
+## Overview
+Passkey-based wallet. Mobile apps discontinued.
 
-Detailed migration steps and PXJ tips included.
+## Migration
+1. Visit mycloudwallet.com
+2. Follow passkey prompts...
+
+## PXJ Tips
+Use for Pixal minting.
