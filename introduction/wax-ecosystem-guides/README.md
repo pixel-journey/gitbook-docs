@@ -1,13 +1,11 @@
-# 🏠 WAX Ecosystem Guides (2026 Edition) - Pixel Journey
+# 🏠 WAX Ecosystem Guides (2026 Edition) - Pixel Journey Standard
 
-**Comprehensive handbook for the WAX blockchain** — updated for 2026 with passkeys, AtomicHub relaunch, and PXJ focus.
+Your complete handbook for the WAX blockchain. Updated for 2026 with passkeys, live AtomicHub, and PXJ focus.
 
-## Quick Navigation
-- [Cloud Wallet](./cloud-wallet/README.md)
-- [AtomicHub](./atomichub/README.md)
-- [F12Key](./f12key.md)
-- [NeftyBlocks](./neftyblocks/README.md)
-- [DEXes](./alcor-exchange-dex/README.md)
+## Navigation
+- [Cloud Wallet](cloud-wallet/)
+- [AtomicHub](atomichub/)
+- [F12Key](f12key.md)
+- And more...
 
-**AtomicHub**: Live and improved under new ownership.
-**Cloud Wallet**: Passkey migration (mobile apps discontinued).
+**DYOR & Safety First** Always verify links and use official sites.
