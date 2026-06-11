@@ -1,14 +1,20 @@
-# 🏢 WAX Ecosystem Guides 2026 - Pixel Journey
+# 🏢 WAX Ecosystem Guides (2026 Edition) - Pixel Journey Standard
 
-Comprehensive, up-to-date handbook for the WAX blockchain, optimized for Pixel Journey users minting, trading, recycling Pixals and participating in the ecosystem.
+Welcome to the complete, beginner-to-advanced handbook for the WAX blockchain. Optimized for **Pixel Journey** users minting, trading, recycling, and crafting Pixals.
 
-## Current Status (June 2026)
-- **AtomicHub**: Live and improved under new ownership.
-- **Cloud Wallet**: Passkey migration focus.
+## 2026 Ecosystem Snapshot
+- **AtomicHub**: Live and enhanced under new ownership (Detroit Ledger Tech / FACINGS with Rob's involvement).
+- **Cloud Wallet**: Non-custodial with passkeys (Google Passkey Manager). Mobile apps discontinued. Migrate and claim keys responsibly.
+- **Alternatives**: F12Key, NeftyBlocks (Trade-to-Earn), NFTHive, WaxItems.
 
-## Main Sections
+## Navigation
 - [Cloud Wallet](./cloud-wallet/README.md)
 - [AtomicHub](./atomichub/README.md)
-- [Neftyblocks](./neftyblocks/README.md)
 - [F12Key](./f12key.md)
-- And more...
+- [WaxItems](./waxitems.com-explorer.md)
+- [DEXes](./alcor-exchange-dex/README.md)
+- More in subfolders.
+
+**DYOR & Safety**: Always verify links, use official sites, manage resources carefully.
+
+Contribute via PRs!
