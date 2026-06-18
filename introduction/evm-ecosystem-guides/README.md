@@ -1,22 +1,15 @@
-# EVM Getting Started - Ecosystem Guides
+# ⛓️ EVM Ecosystem Guides — Redirect to Pixel-Perfect Education Hub
 
-Welcome to the **EVM Ecosystem Guides** — your practical handbook for major EVM-compatible blockchains and platforms that power the broader Web3 ecosystem, including potential Pixel Journey expansions, NFT trading, staking, and cross-chain experiences.
+**🚨 Important Update!**
 
-These guides cover key EVM networks with practical advice tailored for Pixel Journey community members. Explore wallets, explorers, bridging, fees, and Pixel-specific use cases.
+The complete, curated **EVM Ecosystem Guides** hub has been moved to our **Education** section for better onboarding (basics first, then advanced multi-chain mastery).
 
-## Available Guides
-- [Ethereum 101](./ethereum-101.md)
-- [Polygon](./polygon.md)
-- [Base](./base.md)
-- [Arbitrum](./arbitrum.md)
-- [Optimism](./optimism.md)
-- [BNB Chain](./bnb-chain.md)
-- [Avalanche](./avalanche.md)
-- [zkSync](./zksync.md)
-- [Linea](./linea.md)
-- [Scroll](./scroll.md)
+## ➡️ Go to the New Hub:
 
-Additional resources: 
-- Bridging and cross-chain tips
-- Security Best Practices
-- More chains coming soon based on community feedback.
+**[⚡ EVM Ecosystem Guides Hub (Education)](https://github.com/pixel-journey/gitbook-docs/tree/main/education/evm-ecosystem-guides)**
+
+All chain overviews (Ethereum, Base, Polygon, Arbitrum, etc.) and links to the rich Getting Set Up on EVM content are now centralized there.
+
+**Navigation is now fully symmetric with our WAX guides!**
+
+*Pixel Journey — Multi-chain pixel power unlocked.*
