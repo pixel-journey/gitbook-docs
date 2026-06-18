@@ -8,8 +8,8 @@
 * [🚀 The Famous 5-Minute Pixel Quest](getting-started/new-here-start-your-pixel-journey.md)
 * [✅ Pixel-Perfect Getting Started Checklist](getting-started/new-here-start-your-pixel-journey.md)
 * [🗺️ Your Pixel Journey — The Legendary 12-Step Progression Path](getting-started/your-pixel-journey-12-step-progression.md)
-* [🛠️ First Wallet Quest](education/getting-set-up-on-wax/)
-* [🟦 How to Get Your First Pixal](season-1/the-pixal-pfps/)
+* [🛠️ First Wallet Quest](education/getting-set-up-on-wax/README.md)
+* [🟦 How to Get Your First Pixal](season-1/the-pixal-pfps/README.md)
 
 ## Introduction
 
@@ -19,7 +19,6 @@
   * [🧓 Pre-Season & OGs](introduction/discord-roles-lvl-ranks-and-lounges/pre-season-and-ogs.md)
 * [🏆 What is the goal?](introduction/what-is-the-goal.md)
 * [🛸 The PXJourney Team](introduction/the-pxjourney-team.md)
-* [🏢 Wax Ecosystem Guides](introduction/wax-ecosystem-guides/README.md)
 * [⛓️ EVM Ecosystem Guides](introduction/evm-ecosystem-guides/README.md)
 
 ## Season 1
@@ -69,10 +68,12 @@
 
 * [🧑‍🏫 What are NFTs?](education/what-are-nfts.md)
 * [🛠️ Getting set up on Wax](education/getting-set-up-on-wax/README.md)
+* [🏢 **WAX Ecosystem Guides** (Full Advanced Mastery Hub — 1050+ Days Strong!)](education/wax-ecosystem-guides/README.md)
 * [🛠️ Getting set up on Polygon (WIP) 🚧](education/getting-set-up-on-polygon-wip/README.md)
 * [🛠️ Getting set up on Base (WIP) 🚧](education/getting-set-up-on-base-wip/README.md)
 * [🛠️ Getting set up on Ethereum (WIP) 🚧](education/getting-set-up-on-ethereum-wip/README.md)
 * [🛠️ Getting set up on BNB Chain (WIP) 🚧](education/getting-set-up-on-bnb-chain-wip/README.md)
+* [🛠️ Getting set up on Solana](education/getting-set-up-on-solana/README.md)
 
 ## Journey Use Cases
 
