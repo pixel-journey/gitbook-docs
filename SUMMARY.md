@@ -19,7 +19,6 @@
   * [🧓 Pre-Season & OGs](introduction/discord-roles-lvl-ranks-and-lounges/pre-season-and-ogs.md)
 * [🏆 What is the goal?](introduction/what-is-the-goal.md)
 * [🛸 The PXJourney Team](introduction/the-pxjourney-team.md)
-* [⛓️ EVM Ecosystem Guides](introduction/evm-ecosystem-guides/README.md)
 
 ## Season 1
 
@@ -68,7 +67,8 @@
 
 * [🧑‍🏫 What are NFTs?](education/what-are-nfts.md)
 * [🛠️ Getting set up on Wax](education/getting-set-up-on-wax/README.md)
-* [🏢 **WAX Ecosystem Guides** (Full Advanced Mastery Hub — 1050+ Days Strong!)](education/wax-ecosystem-guides/README.md)
+* [🏢 WAX Ecosystem Guides — Full Advanced Mastery Hub (1050+ Days Strong!)](education/wax-ecosystem-guides/README.md)
+* [⛓️ EVM Ecosystem Guides — Full Advanced Mastery Hub](education/evm-ecosystem-guides/README.md)
 * [🛠️ Getting set up on Polygon (WIP) 🚧](education/getting-set-up-on-polygon-wip/README.md)
 * [🛠️ Getting set up on Base (WIP) 🚧](education/getting-set-up-on-base-wip/README.md)
 * [🛠️ Getting set up on Ethereum (WIP) 🚧](education/getting-set-up-on-ethereum-wip/README.md)
