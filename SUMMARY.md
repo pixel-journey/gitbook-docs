@@ -19,6 +19,7 @@
   * [🧓 Pre-Season & OGs](introduction/discord-roles-lvl-ranks-and-lounges/pre-season-and-ogs.md)
 * [🏆 What is the goal?](introduction/what-is-the-goal.md)
 * [🛸 The PXJourney Team](introduction/the-pxjourney-team.md)
+* [🌌 Our Pixel Journey Ecosystem — PxPortals & PxPackages](introduction/pxportals-and-pxpackages.md)
 
 ## Season 1
 
