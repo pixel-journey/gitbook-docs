@@ -102,6 +102,8 @@
 * [🛠️ Getting set up on Ethereum (WIP) 🚧](education/getting-set-up-on-ethereum-wip/README.md)
 * [🛠️ Getting set up on BNB Chain (WIP) 🚧](education/getting-set-up-on-bnb-chain-wip/README.md)
 * [🛠️ Getting set up on Solana](education/getting-set-up-on-solana/README.md)
+* [📈 Elko Platform — Integrated Trading & Ecosystem Hub](education/elko-platform.md)
+* [🛠️ Getting set up on XPR](education/getting-set-up-on-xpr/README.md)
 
 ## Journey Use Cases
 
