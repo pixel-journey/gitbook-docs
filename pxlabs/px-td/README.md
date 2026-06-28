@@ -1,35 +1,38 @@
-# 🎮 PxTD — Tower Defense Mini-Game (Coming Soon)
+# 🎮 PxTD — Tower Defense Mini-Game
 
 > **⚠️ DEVELOPMENT STATUS (June 2026)**  
-> PxTD is currently in active early development. Core gameplay loops, tower mechanics, and integration with the Pixel Journey economy are being prototyped. Many systems are still WIP and not yet following final best practices.  
-> **We are sharing early vision here** to build excitement. Join our Discord for development updates, playtests, and to provide feedback as it matures.
+> PxTD is currently in active early-to-mid development. Core gameplay loops, tower mechanics, enemy waves, and integration with the Pixel Journey economy are being prototyped and iterated on. Many systems are still evolving and not yet at final production quality.  
+> **We are sharing the current vision** to build excitement and gather early feedback. Join our Discord for development updates, closed playtests, and to help shape the final experience.
 
-**PxTD** (Pixel Tower Defense) is an upcoming tower defense mini-game that brings strategic depth and fun engagement to the Pixel Journey ecosystem.
+**PxTD** (Pixel Tower Defense) is an upcoming strategic tower defense mini-game that brings engaging, replayable gameplay to the Pixel Journey ecosystem while staying deeply connected to the broader economy and progression systems.
 
-## 🎯 High-Level Vision
+## 🎯 Core Vision & Gameplay
 
-- Tower defense gameplay with Pixel Journey theming and assets.
-- Integration with $PXJ economy (earnings, upgrades, rewards).
-- Connection to Pixal NFTs and ecosystem progression.
-- Offline-friendly elements where possible.
-- Fun, accessible entry point that still ties into deeper ecosystem mechanics.
+- Classic tower defense mechanics with Pixel Journey theming, Pixal assets, and visual style.
+- Strategic depth through tower placement, upgrades, and resource management.
+- Multiple difficulty modes and wave-based challenges.
+- Integration with $PXJ economy for earnings, upgrades, and rewards.
+- Potential synergies with Pixal NFTs (special towers, skins, or bonuses).
+- Offline-friendly elements for progression and strategy planning.
 
-## 🔗 Pixel Journey Connection
+## 🔗 Pixel Journey Integration
 
-PxTD is designed to be more than just a side game:
+PxTD is designed to be a fun but meaningful part of the larger ecosystem:
 
-- Rewards and progression feed into the main $PXJ / $KING economy.
-- Potential synergies with PxHot (arena-style elements) and PxStaking (boosts from participation).
-- Part of the growing suite of experiences accessible from PxLanding.
+- Rewards and performance feed into the main $PXJ / $KING economy and can influence PxStaking multipliers.
+- Potential connections to PxHot for combined events or shared progression.
+- Accessible from PxLanding as part of the growing suite of experiences.
+- Contributes to overall engagement, retention, and seasonal activities.
 
-**This is one of several mini-games** (alongside PxSim and PxDie) being developed to add variety, engagement, and additional earning opportunities within the Pixel Journey universe.
+This mini-game adds strategic variety while reinforcing the core Pixel Journey loops of collection, progression, and economic participation.
 
-## 🚀 Current Status & Next Steps
+## 🚀 Current Development Focus
 
-- Early prototyping of core tower defense systems.
-- Exploring economic integration models.
-- Design phase for thematic elements and NFT synergies.
+- Refining core tower defense systems and balance.
+- Designing economic integration models (rewards, upgrades, NFT synergies).
+- Exploring thematic elements and visual direction.
+- Planning progression systems that tie back to the main ecosystem.
 
-**Stay tuned on Discord** for development updates, early builds, and opportunities to influence the final design.
+**We highly value early feedback** on gameplay feel, difficulty curves, and how strongly it should connect to the main economy. Join the Discord to participate in testing and discussions.
 
-*This is an early vision page. Many details are still being defined. DYOR. Not financial advice.*
+*Early-to-mid stage vision. Mechanics and integration details are still being refined. DYOR. Not financial advice.*
