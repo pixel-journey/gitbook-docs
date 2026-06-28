@@ -5,13 +5,16 @@
 
 F12Key is a popular quick-access and utility tool on WAX that serves **both as a marketplace helper and a creator tool**. It provides fast access to actions like drops, blends, and other on-chain operations, making it very useful for power users and creators.
 
-## Key Features
+## What F12Key Is Used For
 
-- Quick access to common WAX actions
-- Tools for setting up and managing drops and blends
-- Marketplace-related utilities
-- Fast transaction building and execution
-- Useful for advanced users and creators
+F12Key is designed for speed and convenience. It allows users to:
+
+- Quickly access and execute common WAX actions (drops, blends, transfers, etc.)
+- Set up and manage drops and blends efficiently
+- Perform batch or advanced collection operations
+- Use marketplace-related utilities for faster trading workflows
+
+It is especially valued by creators and power users who frequently interact with collection mechanics and want to reduce the friction of repetitive on-chain tasks.
 
 ## Dual Nature: Marketplace + Creator Tool
 
@@ -25,6 +28,10 @@ F12Key-style quick access tools can be very useful when managing large numbers o
 - Start with small/test actions when learning the tool.
 - Revoke approvals regularly.
 - Use it as a power-user tool rather than a primary marketplace.
+
+**For Collection Owners**: When using advanced creator tools, you may encounter requests involving **notify authority** or other collection-level permissions. These are different from regular token approvals. See the dedicated guide:
+
+→ [Atomic Assets Permissions & Notify Authority](education/common-guides/atomic-assets-permissions-and-notify-authority.md)
 
 ## Recommendation
 F12Key is excellent for advanced users and creators who frequently set up drops, blends, or perform batch actions. For general trading, PxMarket (when fully available) or AtomicHub are usually better primary choices.
