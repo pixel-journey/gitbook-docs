@@ -1,35 +1,44 @@
-# 🛠️ Wallets on EOS
+# 👛 Wallets on Vaulta (previously EOS)
 
-**Wallets on EOS** follow the same Antelope account model as WAX and XPR, making the transition familiar for Pixel Journey users. The primary recommendation remains **Anchor Wallet** (desktop and mobile) for its excellent UX, hardware support, and compatibility across Antelope chains.
+> **⚠️ Important Safety Note**  
+> Always use official or well-audited wallets. Never share your private keys or seed phrases. Be extremely cautious with any website or tool asking for your private keys. Start small when testing new wallets or features. DYOR.
 
-## Recommended Wallets
+Vaulta (the evolution of EOS) uses the Antelope account model with human-readable usernames. Anchor wallet works well across Antelope chains, including Vaulta.
 
-- **Anchor Wallet** (Primary for Antelope): Best overall choice for EOS, WAX, and XPR. Clear transaction previews, resource management, and hardware wallet integration (Ledger, etc.).
-- **Official EOS Wallets**: Explore other trusted options in the EOS ecosystem for specific needs.
-- **Hardware Wallets**: Ledger and similar devices are strongly recommended for larger holdings or long-term storage.
+## Recommended Wallet
 
-## Getting Started with Anchor on EOS
+### Anchor (Primary Recommendation)
 
-1. Download and install Anchor from official sources.
-2. Create or import your EOS account (human-readable name).
-3. Fund with EOS for resources via REX or staking.
-4. Enable hardware wallet if desired for extra security.
-5. Start with small test transactions to familiarize yourself with the interface and resource system.
+Anchor is one of the best and most consistent options for Vaulta. It supports multiple Antelope chains (WAX, XPR, Vaulta) and offers a familiar experience if you're already using it for WAX or XPR.
 
-## Security Best Practices
+**Key Features**
+- Multi-chain Antelope support
+- Good session management for dApps
+- Resource management tools
+- Active development and strong community trust
 
-- Always read transaction details before confirming.
-- Use hardware wallets for significant assets.
-- Regularly review and revoke permissions.
+**Best For**
+- Users already familiar with Anchor from WAX or XPR
+- Those wanting a single wallet across multiple Antelope chains
+
+## Other Wallet Options
+
+Other wallets exist that support Vaulta/EOS. Always research current reputation, security audits, and features before using any new wallet. Exercise extra caution with less-established options.
+
+## Security Best Practices on Vaulta
+
+- Use hardware wallets where supported for larger holdings.
 - Never share seed phrases or private keys.
-- Verify all dApps and contracts through official explorers (eosauthority.com, bloks.io).
+- Double-check all URLs and contract addresses.
+- Revoke approvals regularly.
+- Start with small amounts when trying new dApps or features on Vaulta.
 
 ## Pixel Journey Relevance
 
-Anchor works seamlessly across WAX, XPR, and EOS, allowing you to manage multiple Antelope accounts in one place. This makes it easy to experiment on EOS (or XPR) while keeping your core Pixel Journey collections and capital on WAX. Skills learned here directly improve your safety and efficiency on the main WAX ecosystem.
+While your primary focus remains on WAX and Pixel Journey collections, Vaulta can be useful for low-cost experimentation or accessing different DeFi mechanics within the Antelope family. Skills and security practices transfer directly between WAX, XPR, and Vaulta.
 
-See the full [Getting Started on EOS](../getting-started/eos-wallets.md) for the detailed guide.
+## Recommendation
 
-**Start small. Use Anchor + hardware where possible. Keep primary focus on Pixel Journey.**
+For most users exploring Vaulta alongside Pixel Journey, **Anchor** is the simplest and safest choice. It reduces wallet fragmentation while maintaining strong security practices across the Antelope ecosystem.
 
-*Educational only. Always DYOR. Not financial advice.*
+*This is educational content only. Always DYOR and use caution with any wallet or dApp. Not financial advice.*
