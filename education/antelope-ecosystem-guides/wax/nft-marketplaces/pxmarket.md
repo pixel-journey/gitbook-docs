@@ -5,6 +5,18 @@
 
 **PxMarket** is the official and recommended marketplace for the Pixel Journey ecosystem. It is being built to provide a seamless, secure, and deeply integrated trading experience for Pixals, Pixel Collectibles, ingredients, and other assets tied to our economy.
 
+## What PxMarket Offers
+
+PxMarket is designed to be more than just a trading platform. Key aspects include:
+
+- Native integration with PxWallet, PxStaking, PxSwap, and future PxPackages
+- Focused support for Pixel Journey assets (Pixals, crafted collectibles, ingredients, staked positions)
+- Enhanced safety features and verification tools tailored to our ecosystem
+- Cleaner user experience optimized for Pixel Journey users
+- Future compatibility with PxPortals and cross-chain trading
+
+It prioritizes assets and mechanics that are central to the Pixel Journey economy.
+
 ## Why PxMarket?
 
 - **Native Pixel Journey Integration**: Designed from the ground up to work perfectly with PxWallet, PxStaking, PxSwap, and future PxPackages.
