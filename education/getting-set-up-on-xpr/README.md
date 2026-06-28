@@ -18,12 +18,12 @@ Key strengths:
 
 ## What You Will Find in This Section
 
-- **XPR Network 101** — Core concepts: accounts, resources, NFT standards, DeFi primitives, and how it compares to WAX and EVM chains.
-- **Wallets** — WebAuth Wallet, Metal Pay, and other options for secure access.
-- **How to Get XPR** — On-ramps, exchanges, bridging from WAX/EVM, and funding your account.
-- **XPR Security Tips** — Essential safety practices, common pitfalls, and DYOR guidance tailored to XPR.
-- **NFT Marketplaces on XPR** — XPR Market and other platforms for buying, selling, and discovering collectibles.
-- **DeFi on XPR Network** — XPR Swap, lending protocols, and key trading tools.
+- **[XPR Network 101](xpr-network-101.md)** — Core concepts: accounts, resources, NFT standards, DeFi primitives, and how it compares to WAX and EVM chains.
+- **[Wallets on XPR](xpr-wallets.md)** — WebAuth Wallet, Metal Pay, and other options for secure access.
+- **How to Get XPR** — On-ramps, exchanges, bridging from WAX/EVM, and funding your account (see main overview and wallet guides).
+- **[XPR Security Tips](xpr-security-tips.md)** — Essential safety practices, common pitfalls, and DYOR guidance tailored to XPR.
+- **NFT Marketplaces on XPR** — XPR Market and other platforms for buying, selling, and discovering collectibles (expanding soon with dedicated deep dive).
+- **DeFi on XPR Network** — XPR Swap, lending protocols, and key trading tools (expanding soon).
 
 Start with **XPR Network 101** if you're new or coming from WAX, or jump to wallets to get set up quickly. Our Discord is always open for questions.
 
