@@ -63,7 +63,9 @@ This is the kind of architectural foundation that allows a project to thrive acr
 
 ## 🔗 Related High-Level Topics
 
-- [Cross-Chain & Multi-Chain Vision](cross-chain-and-multi-chain-vision.md) — The long-term vision for expanding beyond WAX
+- [Cross-Chain & Multi-Chain Vision](cross-chain-and-multi-chain-vision.md)
+- [Px Achievements](achievements.md)
+- [Px Badges](badges.md)
 
 ## 🔭 Current Focus & Roadmap Outlook
 
