@@ -23,9 +23,13 @@ Security is especially important when engaging with the Pixel Journey ecosystem 
 - Never commit large sums to anything you haven't thoroughly researched.
 
 ### 4. Manage Approvals
-- Regularly revoke token approvals using trusted tools (e.g., verified WAX tools sites).
+- Regularly revoke token approvals using trusted tools.
 - Avoid unlimited approvals when possible.
 - Revoke access for dApps you no longer use.
+
+**Note for Collection Owners**: If you manage Atomic Assets collections, be aware of **notify authority** and other collection-level permissions. These are different from regular token approvals. See the dedicated guide:
+
+→ [Atomic Assets Permissions & Notify Authority](education/common-guides/atomic-assets-permissions-and-notify-authority.md)
 
 ### 5. Be Scam Aware
 - Watch out for fake airdrops, giveaways, and "support" accounts.
