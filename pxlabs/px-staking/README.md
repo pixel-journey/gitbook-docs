@@ -1,57 +1,62 @@
-# 💎 PxStaking — Advanced Yield Engine (8 Scenarios)
+# 💎 PxStaking — NFT, FT & DeFi Yield Engine
 
 > **⚠️ DEVELOPMENT STATUS (June 2026)**  
-> PxStaking is in an advanced state. The 8 core yield scenarios, compounding logic, recycling loops, and resource power-up integration are functional. Current focus is on final reward distribution contracts, UI polish for scenario switching, and deeper cross-portal state sync.  
-> **Feedback on scenario clarity, risk/reward communication, and mobile experience is highly appreciated** on Discord.
+> PxStaking is in active development. Core NFT and FT staking flows, ingredient development, crafting systems, and integration with WAXDAO farms and various WAX DEX liquidity pools are being built and refined. Some advanced features and cross-dApp state synchronization are still in progress.  
+> **Feedback on staking UX, crafting flows, and DeFi integration is highly appreciated** on Discord.
 
-**PxStaking** is the powerful yield engine of the Pixel Journey ecosystem. It offers **8 distinct staking scenarios** ranging from conservative to aggressive, each with different risk/reward profiles, compounding styles, and multipliers tied to your Arena Power (from PxHot), knowledge level (from PxLearn), and resource management.
+**PxStaking** is the central yield and progression engine for the Pixel Journey ecosystem. It focuses on **NFT staking, FT (fungible token) staking, ingredient development, crafting of collectibles, and DeFi liquidity provision** across the WAX blockchain — allowing users to earn meaningful rewards while actively participating in the Pixel Journey economy.
 
-## 📈 The 8 Yield Scenarios
+## 🎯 Primary Focus
 
-Each scenario is designed with a different philosophy and risk tolerance:
+PxStaking is built around the core loops that define Pixel Journey:
 
-1. **Conservative** — Lowest risk. Stable, predictable returns with manual claiming. Ideal for users who prefer simplicity and capital preservation.
-2. **Balanced** — Moderate risk with optional compounding. A middle-ground approach for steady growth without extreme volatility.
-3. **Recycling Loop** — Medium risk. Actively recycles rewards through token swaps to compound more aggressively within the ecosystem.
-4. **Arena Power** — Medium risk with strong upside. Directly boosted by your accuracy and consistency in PxHot battles.
-5. **Aggressive** — Higher risk/reward. More automation and aggressive compounding strategies for users comfortable with higher volatility.
-6. **Gaming-Focused** — Medium risk. Boosted by active participation in PxHot and other gameplay activities.
-7. **Bear Defensive** — Very low risk. Designed for stable accumulation even during uncertain market conditions.
-8. **Bull Maximalist** — Highest risk/reward. Maximum conviction play for users who want to go all-in on strong bullish views.
+- **NFT Staking** — Stake your Pixals and other ecosystem NFTs into WAXDAO-powered farms and other staking contracts to earn $PXJ, $KING, and other rewards.
+- **FT / Token Staking** — Stake $PXJ, $KING, and other supported tokens into liquidity pools and yield farms across major WAX DEXes (Alcor, TacoSwap, Defibox, etc.).
+- **Ingredient Development & Crafting** — Develop Pixel Ingredients and craft Pixel Journey collectibles, then stake the resulting items for additional yield and progression.
+- **Recycling & Economy Participation** — Actively recycle, craft, and stake as part of the broader Pixel Journey economic flywheel.
 
-Scenarios dynamically adjust based on your on-chain activity, CPU/NET power-ups, commitment length, and real-time factors like your current Arena Power.
+This is the heart of how most users will generate ongoing yield while staying deeply engaged with collections, crafting, and the WAX DeFi landscape.
+
+## 🛠️ Key Capabilities
+
+- **WAXDAO NFT Farms** — Stake Pixals and ecosystem NFTs into community and official WAXDAO farms for reliable, on-chain rewards.
+- **Multi-DEX LP Staking** — Provide liquidity and stake LP tokens across Alcor, TacoSwap, and other major WAX decentralized exchanges.
+- **Ingredient & Crafting Integration** — Develop ingredients and craft collectibles that can be staked or used to boost yields.
+- **Unified Dashboard** — View all your active staking positions (NFT farms, LP positions, ingredient development) in one place.
+- **Reward Tracking** — Clear visibility into pending and claimed rewards across different staking types.
+- **PWA + Offline Support** — Manage and monitor positions with strong offline capabilities.
 
 ## 🔗 Pixel Journey Integration
 
-PxStaking is one of the **primary economic engines** and connects deeply with almost every other platform:
+PxStaking sits at the center of the Pixel Journey economy:
 
-- **PxHot Synergy (Arena Power)** — Your prediction accuracy and consistency in PxHot directly increase your multipliers in several scenarios. This creates a powerful flywheel between engagement and yield.
-- **PxLearn Boost** — Knowledge and certifications from PxLearn improve your effective yield across scenarios.
-- **PxWallet Centralization** — All staking positions, rewards, and resource management are visible and controllable from PxWallet.
-- **PxMarket & PxSwap** — Profits can be easily redeployed into trading or liquidity provision.
-- **Resource Management** — Efficient CPU/NET usage in PxWallet directly impacts your compounding efficiency and available strategies.
-- **Future Seasons & Governance** — Long-term staking positions are expected to tie into governance rights and exclusive seasonal rewards.
+- **NFTs & Collections** — Directly rewards holding and staking your Pixals and crafted collectibles.
+- **Crafting & Ingredients** — Turns the development and crafting loops into yield-generating activities.
+- **DeFi Participation** — Connects seamlessly with liquidity provision on WAX DEXes, supporting the broader $PXJ ecosystem.
+- **PxWallet** — All staking positions and rewards are visible and manageable from your secure PxWallet.
+- **PxMarket** — Crafted items and ingredients can flow into or out of the marketplace.
+- **Future Px Portals** — Will eventually extend staking and yield opportunities across multiple chains.
 
-**After setting up your wallet and understanding the basics, most users spend significant time here optimizing their personal strategy across the 8 scenarios.**
+**This is where the majority of ongoing economic activity and yield generation happens for most Pixel Journey participants.**
 
-## ⚖️ Risk, Reward & Strategy
+## 📈 Yield & Progression Philosophy
 
-PxStaking is designed to reward thoughtful participation rather than blind risk-taking:
+PxStaking is designed to reward active, meaningful participation in the ecosystem rather than passive capital deployment alone:
 
-- Different scenarios suit different market conditions and personal risk tolerance.
-- Arena Power and knowledge multipliers create meaningful advantages for active, informed users.
-- The system encourages balanced engagement across PxHot, PxLearn, and resource management rather than pure capital deployment.
-- Clear communication of risk levels helps users choose strategies that match their goals and comfort level.
+- Staking your NFTs and crafted collectibles strengthens the community and economy while generating returns.
+- Providing liquidity on WAX DEXes supports token stability and earns trading fees + farm rewards.
+- Ingredient development and crafting create additional layers of engagement and yield.
+- The system encourages a healthy mix of holding, crafting, and DeFi participation.
 
 ## 🚀 What’s Coming Next
 
-- More granular scenario customization and hybrid strategies
-- Visual yield simulators with historical performance data
-- Real-time multiplier updates based on live PxHot results
-- Automated strategy suggestions based on your current portfolio and Arena Power
-- Expanded reward token options and more sophisticated compounding paths
-- Enhanced mobile experience for managing positions on the go
+- Enhanced crafting and ingredient development tools with clearer progression paths
+- More WAXDAO farm options and improved farm discovery
+- Deeper analytics for LP positions and NFT staking performance
+- Better mobile experience for managing multiple staking types
+- Tighter integration with PxWallet for one-click staking and claiming flows
+- Future expansion of yield opportunities as the ecosystem grows
 
-**We’re actively seeking feedback** on which scenarios feel most intuitive, which need better explanation or risk communication, and what features would help users optimize more effectively. Join Discord for testing access.
+**We’re actively seeking feedback** on staking flows, crafting UX, farm visibility, and which features would help users optimize their participation most effectively. Join Discord for testing and input.
 
 *Educational content. Mechanics subject to final audits and iteration. DYOR. Not financial advice.*
