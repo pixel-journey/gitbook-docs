@@ -1,6 +1,8 @@
-# 🛡️ Security Tips for Base
+# 🛡️ Security Tips on Base — Stay Safe in a Low-Fee EVM Environment
 
 **Security on Base** follows standard EVM best practices with some unique considerations due to its speed, low fees, and growing adoption as a Coinbase-backed L2. As with all chains, the biggest risks are social engineering, phishing, and approving malicious contracts — not the blockchain itself.
+
+The low-fee environment makes interactions cheap and fast, but it also makes spam, malicious airdrops, and low-cost attacks easier to execute. Vigilance is essential.
 
 ## Core Security Principles
 
