@@ -3,7 +3,7 @@
 > **⚠️ Important Safety Note**  
 > Always verify contract addresses and use well-known, audited DEXes. Be cautious of fake tokens and phishing sites. Start with small amounts when testing new liquidity pools or tokens. DYOR.
 
-WAX has several decentralized exchanges. The most commonly used and trusted options are **Alcor** and **TacoSwap**. Wax.fun offers alternative token bonding curve mechanics.
+WAX has several decentralized exchanges. The most commonly used and trusted options are **Alcor** and **TacoSwap**. Wax.fun offers alternative token bonding curve mechanics. A-DEX is another option for swapping.
 
 ## Recommended DEXes
 
@@ -42,6 +42,14 @@ Wax.fun offers token bonding curve mechanics and integrated DeFi-style features.
 [Read the full Wax.fun guide →](waxfun.md)
 
 **Note**: Bonding curve mechanics carry additional risks. Treat it as more experimental compared to Alcor and TacoSwap.
+
+### A-DEX
+A-DEX is another decentralized exchange on WAX that offers token swapping and liquidity provision.
+
+[Read the full A-DEX guide →](adex.md)
+
+**Best For**
+- Alternative swapping options and specific pairs
 
 ## Swapping Best Practices
 
