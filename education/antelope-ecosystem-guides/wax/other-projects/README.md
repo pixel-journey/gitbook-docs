@@ -33,7 +33,9 @@ While F12Key has marketplace aspects, it is also heavily used as a creator tool 
 [Read the full F12Key guide →](../creator-tools/f12key.md)
 
 ### PXJ Writers Program
-Our own content creation program for the Pixel Journey community.
+Our own content creation program for the Pixel Journey community. A great way to contribute and learn.
+
+[Read the full PXJ Writers Program guide →](pxj-writers-program.md)
 
 ### Other Community Tools
 Various smaller tools and resources that help with specific tasks on WAX (inventory management, quick actions, analytics, etc.).
