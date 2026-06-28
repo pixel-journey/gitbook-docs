@@ -1,64 +1,63 @@
-# 🔧 Getting Set Up on Polygon — Pixel Journey EVM Expansion
+# 🟪 Getting Started on Polygon
 
-**Welcome to the Polygon chapter of your Pixel Journey!**
+> **⚠️ Important Safety Note**  
+> Polygon is a well-established Ethereum sidechain/L2 with strong adoption. Always DYOR thoroughly, start with small amounts when exploring new dApps or tokens, and never invest more than you can afford to lose. Be cautious of new or low-liquidity projects.
 
-Polygon is a fast, low-cost EVM-compatible chain that gives you excellent access to the wider Ethereum ecosystem without the high fees. It’s a natural next step as we expand from our WAX roots.
+Polygon is a fast, low-cost Ethereum-compatible chain that offers excellent UX for DeFi, NFTs, and gaming. It has been one of the most popular scaling solutions and remains highly relevant for cost-effective activity.
 
-As part of our long-term adventure that began on the **WAX Blockchain in 2023**, with **Pixal PFPs minted in Spring 2024**, and now over **1,050 days strong**, we’re building bridges to Polygon, BASE, Ethereum, and beyond. Polygon offers speed, affordability, and a mature NFT/gaming scene — perfect for Pixel Journey explorers who want to go multi-chain.
+## Why Explore Polygon?
 
-This section will help you get comfortable on Polygon safely and confidently, following the same professional, safety-first standards as our Antelope and Solana guides.
+- Very low transaction fees compared to Ethereum mainnet
+- Strong and mature DeFi and NFT ecosystems
+- Excellent tooling and broad wallet/dApp support
+- Useful for low-cost experimentation and strategy testing
+- Future PxPortals integration may connect Polygon more seamlessly with WAX and other chains
 
----
+## Getting Started Safely
 
-## Quick Start Links
+### 1. Set Up Your Wallet
 
-- **[Polygon 101](polygon-101.md)** — The essentials: what makes Polygon special, fees, native token (POL), and why it matters for Pixel Journey
-- **Wallet Setup** — Use MetaMask or any EVM-compatible wallet (see the shared EVM tools in the hub)
-- **Getting POL** — Bridge from Ethereum or buy on exchanges
-- **Security Tips** — Stay safe on EVM chains (see polygon-security-tips.md)
+**MetaMask** is the most compatible wallet for Polygon. You can easily add the Polygon network.
 
----
+**Recommended Setup**
+- Use **MetaMask** (or Rabby) as your primary EVM wallet.
+- Enable hardware wallet integration (Ledger) for larger holdings.
+- Add the Polygon network to your wallet (official RPC details available on the Polygon website).
 
-## Why Polygon Matters for Pixel Journey
+### 2. Acquire MATIC (for gas)
 
-- Fast & cheap transactions — great for frequent crafting, trading, and future PxPackages-powered features
-- Strong NFT ecosystem (OpenSea, Magic Eden, and more)
-- Excellent bridge connectivity from WAX and Ethereum
-- A stepping stone toward deeper EVM exploration while keeping things accessible
+You will need a small amount of MATIC on Polygon for transaction fees. You can bridge MATIC or other assets from Ethereum mainnet or other supported chains using official bridges.
 
-We chose Polygon as one of our early expansion chains because it balances performance with familiarity. It lets you experience real Web3 multi-chain life without the usual friction.
+**Tip**: Start with a very small amount (e.g., $5–10 worth) for testing.
 
----
+### 3. Start Exploring Safely
 
-## How This Fits Your Pixel Journey
+- Begin with well-known dApps and marketplaces on Polygon.
+- Use trusted explorers (Polygonscan) to verify transactions and contracts.
+- Start with tiny test transactions and positions.
+- Revoke token approvals regularly.
 
-If you’re following the **[Your Pixel Journey — The 12-Step Progression Path](../getting-started/your-pixel-journey-12-step-progression.md)**, Step 11 is all about going cross-chain. Polygon is one of the friendliest places to start that adventure.
+### 4. Security Best Practices on Polygon
 
-Everything you learn here (wallets, bridging, gas, security) applies across many EVM chains — skills that will serve you for years in Web3.
+- Use hardware wallets for significant holdings.
+- Double-check all contract addresses and dApp URLs.
+- Be extra cautious of new or low-liquidity tokens and projects.
+- Never share your seed phrase or private keys.
+- Start small and verify everything.
 
----
+## Pixel Journey Relevance
 
-## Safety First on Polygon (and All EVM Chains)
+Polygon is an excellent low-cost environment for testing DeFi mechanics, NFT trading, and different strategies that can later be applied on WAX or other chains. It serves as a valuable complementary testing ground while keeping your primary focus and capital on WAX collections, Pixals, and the PXJ economy.
 
-- Start with small test amounts when bridging or trying new dApps.
-- Always read transaction details and verify contracts.
-- Use reputable wallets (MetaMask, Rabby, etc.) and enable hardware wallet support where possible.
-- Revoke approvals regularly.
-- Be cautious of phishing and fake sites — verify URLs from official sources.
-- DYOR on any project or yield opportunity.
+Skills and habits learned on Polygon transfer well and will become more valuable as PxPortals expands cross-chain capabilities.
 
-**Pixel Journey Relevance**: Polygon offers cost-effective EVM experimentation that complements your core WAX activities. Skills in wallets, bridging, and security transfer across chains. Use it to test mechanics or explore new communities while keeping primary focus and capital on Pixel Journey and WAX. Future PxPortals will make these connections even smoother.
+## Quick Start Checklist
 
----
+- [ ] Set up MetaMask and add Polygon network
+- [ ] Bridge a small amount of assets to Polygon
+- [ ] Start with tiny test transactions
+- [ ] Use Polygonscan to verify activity
+- [ ] Revoke approvals regularly
+- [ ] Keep primary focus on WAX and Pixel Journey
 
-## Next Steps
-
-1. Read **[Polygon 101](polygon-101.md)**
-2. Set up or connect your EVM wallet
-3. Bridge a small amount of assets to test the waters
-4. Explore Polygon marketplaces and see what’s possible
-5. Join the Discord and ask for Polygon-specific tips from the community
-
-You’re expanding your pixel empire across chains. Every new chain you explore makes you a stronger, more knowledgeable Pixel Pioneer. Polygon is a great place to level up your multi-chain skills while staying connected to the Pixel Journey ecosystem.
-
-*Educational only. Always DYOR. Not financial advice.*
+*Educational content only. Always DYOR. Not financial advice.*
