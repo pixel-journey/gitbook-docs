@@ -1,34 +1,44 @@
-# 🛠️ Wallets on XPR Network — Antelope Ecosystem Access
+# 👛 Wallets on XPR Network
 
-**XPR Network** (formerly Proton) uses the Antelope account model with human-readable usernames. Anchor wallet works well across Antelope chains. For Pixel Journey explorers, XPR offers feeless or very low-cost transactions, making it excellent for cost-effective experimentation alongside your core WAX activities.
+> **⚠️ Important Safety Note**  
+> Always use official or well-audited wallets. Never share your private keys or seed phrases. Be extremely cautious with any website or tool asking for your private keys. Start small when testing new wallets or features. DYOR.
 
-See the consolidated [Antelope Wallets Guide](education/common-guides/wallets/antelope.md) for full recommendations (Anchor is primary).
+XPR Network (part of the Antelope family) has its own wallet ecosystem, though it shares some similarities with WAX tooling.
 
-## Quick Recommendations
+## Recommended Wallet Options
 
-- **Anchor Wallet** (Desktop + Mobile) — Primary choice for XPR and all Antelope chains.
-- Hardware wallets (Ledger) via Anchor for larger holdings.
+### Anchor
 
-## Getting Started
+Anchor remains one of the best options for XPR Network as well. It supports multiple Antelope chains and offers a consistent experience if you're already using it for WAX.
 
-1. Download and set up Anchor.
-2. Create or import your XPR account (human-readable username).
-3. Acquire XPR for resources.
-4. Enable hardware wallet if desired.
-5. Start with small test transactions.
+**Key Features**
+- Multi-chain Antelope support (WAX + XPR)
+- Good session management
+- Resource management tools
+- Active development
 
-## Safety Best Practices
+**Best For**
+- Users already familiar with Anchor from WAX
+- Those wanting a single wallet for multiple Antelope chains
 
-- Always read transaction details before confirming.
-- Use hardware wallets for significant assets.
-- Regularly review and revoke permissions.
+### Other XPR Wallets
+
+Other wallet options exist specifically for XPR or support it alongside other chains. Always research current reputation, security, and features before using any wallet on XPR.
+
+## Security Best Practices on XPR
+
+- Use hardware wallets where supported for larger holdings.
 - Never share seed phrases or private keys.
-- Verify all dApps and contracts through official explorers.
+- Double-check all URLs and contract addresses.
+- Revoke approvals regularly.
+- Start with small amounts when trying new dApps or features on XPR.
 
 ## Pixel Journey Relevance
 
-XPR offers a feeless, payment-focused environment that complements WAX. Skills in resource management and usernames transfer directly. Use it for low-risk experimentation, then bring insights back to your core Pixel Journey collections and PXJ economy.
+While your primary focus remains on WAX and Pixel Journey collections, XPR can be useful for low-cost experimentation, testing new DeFi mechanics, or diversifying some activities. Skills and security practices transfer directly between WAX and XPR.
 
-**Start small. Use Anchor + hardware where possible. Keep primary focus on Pixel Journey.**
+## Recommendation
 
-*Educational only. Always DYOR. Not financial advice.*
+For most users, **Anchor** is the simplest and safest choice when exploring XPR alongside WAX. It reduces the need to manage multiple wallets while maintaining strong security practices.
+
+*This is educational content only. Always DYOR and use caution with any wallet or dApp. Not financial advice.*
