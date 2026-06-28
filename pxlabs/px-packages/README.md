@@ -67,6 +67,7 @@ This is the kind of architectural foundation that allows a project to thrive acr
 - [Px Achievements](achievements.md)
 - [Px Badges](badges.md)
 - [PxUI — Reusable Components & Theming](px-ui.md)
+- [PxVault — Automation & Ownership Unlocks](px-vault.md)
 
 ## 🔭 Current Focus & Roadmap Outlook
 
