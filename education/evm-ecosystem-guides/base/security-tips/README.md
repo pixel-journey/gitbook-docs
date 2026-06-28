@@ -1,56 +1,57 @@
-# 🛡️ Security Tips on Base — Stay Safe in a Low-Fee EVM Environment
+# 🛡️ Security Tips for Base
 
-**Security on Base** follows standard EVM best practices with some unique considerations due to its speed, low fees, and growing adoption as a Coinbase-backed L2. As with all chains, the biggest risks are social engineering, phishing, and approving malicious contracts — not the blockchain itself.
+> **⚠️ Critical Safety Reminder**  
+> Base is a growing L2 with active DeFi and NFT ecosystems. Scams, phishing, and malicious contracts exist. Always stay vigilant. DYOR. Never share private keys or seed phrases.
 
-The low-fee environment makes interactions cheap and fast, but it also makes spam, malicious airdrops, and low-cost attacks easier to execute. Vigilance is essential.
+Security practices on Base follow standard EVM principles with some L2-specific considerations.
 
 ## Core Security Principles
 
-### Seed Phrases & Keys
-- Never share your seed phrase or private keys.
-- Store offline in a secure location (metal backup recommended for large holdings).
-- Hardware wallets (Ledger, etc.) add a strong layer for significant assets.
+### 1. Protect Your Keys
+- Never share your private keys or seed phrase with anyone or any website.
+- Use a hardware wallet (Ledger) for significant holdings when possible.
+- Store your seed phrase securely offline.
 
-### Transaction Approvals
-- Always read what a transaction is doing before confirming.
-- Use wallets with clear previews and simulations where available.
-- Reject anything that looks suspicious or requests unexpected permissions.
-- Start with small test transactions on new dApps.
+### 2. Verify Everything
+- Always double-check URLs and contract addresses before connecting your wallet or approving transactions.
+- Be extremely cautious of links in Discord, Twitter, or DMs.
+- Bookmark official sites and use them directly.
 
-### Phishing & Scams
-- Verify all URLs and contract addresses from official sources.
-- Be cautious of DMs, fake support, or "free" offers — common vectors.
-- Low fees can make spam or malicious airdrops easier; ignore unsolicited links.
-- Use community verification or tools for new tokens/projects.
+### 3. Start Small
+- Test new dApps, tokens, or features with very small amounts first.
+- Never commit large sums to anything you haven't thoroughly researched.
 
-### Account & Permission Management
-- Use separate accounts for different activities if possible (e.g., one for trading, one for long-term holding).
-- Regularly review and update permissions.
-- Enable all available security features in your wallet.
+### 4. Manage Approvals
+- Regularly revoke token approvals using trusted tools.
+- Avoid unlimited approvals when possible.
+- Revoke access for dApps you no longer use.
+
+### 5. Be Scam Aware
+- Watch out for fake airdrops, giveaways, and "support" accounts.
+- Never click suspicious links or download unknown files.
+- If something sounds too good to be true, it almost always is.
 
 ## Base-Specific Considerations
 
-- **Low Fees & Speed**: Makes interactions cheap and fast, but also means low-cost spam or attacks are easier — stay vigilant.
-- **Bridges**: Use official/audited bridges when moving assets from WAX/Ethereum; test small first.
-- **DeFi & NFTs**: Verify protocols and marketplaces; DYOR on yields or new collections.
-- **Growing Ecosystem**: Increasing adoption means more potential targets — extra caution on popular dApps.
+- As an L2, Base inherits Ethereum security but has its own bridge and sequencer considerations — use official bridges when moving assets.
+- New or low-liquidity tokens and projects carry higher risk — extra caution is required.
+- Many popular tools and explorers exist — stick to well-known, community-vetted ones.
 
-## Useful Tools
+## Pixel Journey Security Recommendations
 
-- Official wallet security features.
-- Explorers for transaction verification (basescan.org).
-- Community resources in Base Discord/Telegram for scam reports.
+When exploring Base alongside Pixel Journey:
 
-## Pixel Journey Best Practices
+- Use **MetaMask** (or Rabby) as your primary wallet, with hardware integration for larger positions.
+- Apply the same rigorous verification and "start small" habits used on WAX and other chains.
+- Keep your primary focus and capital on WAX collections and the PXJ economy.
+- Use Base mainly for low-cost experimentation and learning.
+- Stay informed through trusted Pixel Journey channels.
 
-- Use reputable wallets (MetaMask, Rabby) and hardware where possible.
-- Bridge small test amounts from WAX or Ethereum to learn safely.
-- Combine with WAX Anchor for core holdings; use Base for active, low-cost experimentation.
-- Read full wallet and DeFi guides before diving in.
-- Report suspicious activity in our Discord — we're all learning together.
+## Recommended Habits
 
-**Pro Tip**: The low-fee, high-speed design is a huge advantage, but it doesn't change fundamental security rules. Treat every approval seriously, verify everything, and start small. This keeps your multi-chain journey (WAX + EVM chains + Solana) safe and enjoyable.
+- Keep your software and wallet updated.
+- Use strong, unique passwords where applicable.
+- Enable any available security features in your wallet.
+- Regularly review active approvals and sessions.
 
-Stay vigilant and pixel-powered! 🚀
-
-*Pixel Journey — Security first across every ecosystem.*
+*This is educational content. Security is your responsibility. Always DYOR and stay cautious. Not financial advice.*
