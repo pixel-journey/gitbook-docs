@@ -123,6 +123,7 @@
   * [Meteora Advanced](education/getting-set-up-on-solana/solana-meteora-advanced.md)
   * [Phoenix DEX Advanced](education/getting-set-up-on-solana/solana-phoenix-dex-advanced.md)
   * [Drift Protocol Advanced](education/getting-set-up-on-solana/solana-drift-protocol-advanced.md)
+  * [Mango Markets Advanced](education/getting-set-up-on-solana/solana-mango-markets-advanced.md)
 * [🛠️ Getting set up on XPR](education/getting-set-up-on-xpr/README.md)
   * [XPR Network 101](education/getting-set-up-on-xpr/xpr-network-101.md)
   * [Wallets on XPR](education/getting-set-up-on-xpr/xpr-wallets.md)
