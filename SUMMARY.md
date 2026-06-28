@@ -165,6 +165,10 @@
   * [PxSwap — Decentralized Exchange](pxlabs/px-swap/README.md)
   * [PxHot — Arena Battles](pxlabs/px-hot/README.md)
   * [Px Packages & Px Portals](pxlabs/px-packages/README.md)
+  * Upcoming Mini-Games
+    * [PxTD — Tower Defense](pxlabs/px-td/README.md)
+    * [PxSim — Simulation & Strategy](pxlabs/px-sim/README.md)
+    * [PxDie — Dice & Chance](pxlabs/px-die/README.md)
 
 ## Journey Use Cases
 
