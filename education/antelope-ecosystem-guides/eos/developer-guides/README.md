@@ -198,7 +198,62 @@ function VaultaDapp() {
 - Rigorously validate all inputs and contract interactions.
 - Be extremely cautious with permissions and approvals.
 - Keep Wharf Kit and all dependencies updated.
-- Consider additional auditing for contracts handling significant value.
+
+## Advanced Patterns for Pixel Journey Integration
+
+These advanced patterns are especially useful when building tools that integrate with Pixel Journey assets and features, with emphasis on security and compliance suitable for Vaulta's evolving institutional focus.
+
+### Secure & Compliant Asset Handling
+
+```ts
+// Example: Secure transfer on Vaulta
+const transferAction = {
+  account: 'yourcontract',
+  name: 'transfer',
+  authorization: [session.permissionLevel],
+  data: {
+    from: session.actor,
+    to: receiver,
+    quantity: '1.0000 A',
+    memo: 'Pixel Journey transfer via PxWallet'
+  }
+}
+
+const result = await session.transact({ actions: [transferAction] })
+```
+
+**Tips**:
+- Emphasize security and compliance in all flows.
+- Use memo fields for tracking Pixel Journey-related activity.
+- Strongly consider hardware wallet support for higher-value operations.
+
+### Resource & Security Management
+
+```ts
+// Check account resources
+const accountInfo = await session.client.v1.chain.get_account(session.actor)
+console.log('Resources and permissions available')
+```
+
+**Best Practice**: Prioritize security and compliance patterns. Use Vaulta for understanding regulated environments while keeping primary focus on WAX.
+
+### PxWallet & Future PxPortals Integration Patterns
+
+When building for PxWallet or future PxPortals:
+- Use persistent sessions for seamless multi-chain experiences.
+- Abstract chain-specific logic behind a unified interface.
+- Emphasize security and compliance where relevant.
+- Plan for cross-chain asset movement involving regulated environments in the future.
+
+### Batch Transactions & Reliability
+
+```ts
+// Example: Multiple actions in one transaction
+const actions = [transferAction, complianceAction, governanceAction]
+const result = await session.transact({ actions })
+```
+
+Batch transactions improve UX and support reliable, auditable flows.
 
 ## Getting Started as a Developer on Vaulta
 
