@@ -214,6 +214,66 @@ function PixelJourneyDapp() {
 - Regularly update Wharf Kit and dependencies.
 - Consider rate limiting and abuse prevention for public dApps.
 
+## Advanced Patterns for Pixel Journey Integration
+
+These advanced patterns are especially useful when building tools that integrate deeply with Pixel Journey assets and features.
+
+### Atomic Assets Integration (Pixals, Ingredients, Collectibles)
+
+```ts
+// Example: Transferring a Pixel Journey NFT (Atomic Asset)
+const transferAction = {
+  account: 'atomicassets',
+  name: 'transfer',
+  authorization: [session.permissionLevel],
+  data: {
+    from: session.actor,
+    to: receiver,
+    asset_ids: [pixelAssetId],
+    memo: 'Pixel Journey transfer via PxMarket'
+  }
+}
+
+const result = await session.transact({ actions: [transferAction] })
+```
+
+**Tips**:
+- Always validate asset ownership before transfers.
+- Use memo fields for tracking Pixel Journey-related activity.
+- Combine with PxMarket for seamless marketplace experiences.
+
+### Resource Management (CPU/NET/RAM)
+
+WAX requires careful resource management for smooth UX:
+
+```ts
+// Check account resources
+const accountInfo = await session.client.v1.chain.get_account(session.actor)
+console.log('CPU:', accountInfo.cpu_limit)
+console.log('NET:', accountInfo.net_limit)
+console.log('RAM:', accountInfo.ram_quota)
+```
+
+**Best Practice**: For high-volume dApps, implement resource rental or subsidization patterns, or guide users to stake resources via Anchor.
+
+### PxWallet & Future PxPortals Integration Patterns
+
+When building for PxWallet or future PxPortals:
+- Use persistent sessions for seamless multi-chain experiences.
+- Abstract chain-specific logic behind a unified interface.
+- Support hardware wallets for high-value Pixel Journey assets.
+- Plan for cross-chain asset movement and unified UX.
+
+### Batch Transactions & Efficiency
+
+```ts
+// Example: Multiple actions in one transaction
+const actions = [transferAction, stakingAction, craftingAction]
+const result = await session.transact({ actions })
+```
+
+Batch transactions improve UX and reduce fees where applicable.
+
 ## Getting Started as a Developer on WAX
 
 1. Set up your development environment with the latest tools.
