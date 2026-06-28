@@ -121,6 +121,7 @@
   * [Advanced Security](education/getting-set-up-on-solana/solana-advanced-security.md)
   * [Governance & DAO Tools](education/getting-set-up-on-solana/solana-governance-and-dao-tools.md)
   * [Meteora Advanced](education/getting-set-up-on-solana/solana-meteora-advanced.md)
+  * [Phoenix DEX Advanced](education/getting-set-up-on-solana/solana-phoenix-dex-advanced.md)
 * [🛠️ Getting set up on XPR](education/getting-set-up-on-xpr/README.md)
   * [XPR Network 101](education/getting-set-up-on-xpr/xpr-network-101.md)
   * [Wallets on XPR](education/getting-set-up-on-xpr/xpr-wallets.md)
