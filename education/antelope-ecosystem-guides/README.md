@@ -58,7 +58,7 @@ Detailed per-chain guides live under this hub. We have standardized the structur
 - **EOS**: 
   - [Getting Started on EOS](education/antelope-ecosystem-guides/eos/getting-started/README.md) (101, security, wallets, REX guide — fleshed out and integrated)
   - Explore via official docs + explorers (eosauthority.com, bloks.io). More deep dives on governance, dApps, and NFT/DeFi coming.
-- **Emerging Antelope Chains** (Volta and others): 
+- **Emerging Antelope Chains** (Vaulta and others): 
   - [Overview & Future Guides](education/antelope-ecosystem-guides/emerging-antelope-chains/README.md) (placeholder for new chains as they mature and become relevant for safe experimentation)
 
 **Workflow Tip**: Use the comparison table above to decide where to experiment next. E.g., test a new liquidity strategy on XPR first (cheaper/feeless), governance or REX on EOS, then apply lessons on WAX. All Antelope chains share similar resource and account models — skills transfer directly!
