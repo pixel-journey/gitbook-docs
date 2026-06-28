@@ -147,6 +147,12 @@
     * See hub for deep dives on Arbitrum, Optimism, Avalanche, Linea, Scroll, zkSync and more
 * [🧑‍🏫 What are NFTs?](education/what-are-nfts.md)
 * [🏢 WAX Ecosystem Guides — Advanced](education/wax-ecosystem-guides/README.md)
+* [📚 Common / Consolidated Guides](education/common-guides/README.md)
+  * Wallets
+    * [Overview](education/common-guides/wallets/overview.md)
+    * [Antelope (WAX, XPR, Vaulta/EOS)](education/common-guides/wallets/antelope.md)
+    * [EVM Chains](education/common-guides/wallets/evm.md)
+    * [Solana](education/common-guides/wallets/solana.md)
 
 ## Journey Use Cases
 
