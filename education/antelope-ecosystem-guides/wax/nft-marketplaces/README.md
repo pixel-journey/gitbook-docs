@@ -1,32 +1,46 @@
-# 🖼️ NFT Marketplaces on WAX — Core for Pixals and Collections
+# 🛒 NFT Marketplaces on WAX
 
-**WAX** has one of the strongest NFT ecosystems. See the main [WAX Ecosystem Guides](education/wax-ecosystem-guides/README.md) for detailed information on AtomicHub, Neftyblocks, and other platforms.
+> **⚠️ Important Safety Note**  
+> NFT scams are very common on WAX. Always verify collections, check for verified status where available, and be extremely cautious with new or low-volume collections. DYOR before buying or listing.
 
-## Key NFT Marketplaces on WAX
+WAX has a vibrant NFT ecosystem. Several marketplaces exist, with varying levels of trust, features, and liquidity.
 
-- **AtomicHub** and **Neftyblocks** — Primary platforms for buying, selling, blending, and discovering NFTs on WAX.
-- Excellent support for AtomicAssets, high-volume trading, and creator tools.
+## Major NFT Marketplaces on WAX
 
-## Getting Started with NFTs on WAX
+### AtomicHub
 
-1. **Use Anchor wallet** (primary for WAX).
-2. **Acquire WAXP** for resources.
-3. **Connect to AtomicHub or Neftyblocks**.
-4. **Browse collections** and review listings, provenance, and contract details carefully.
-5. **Start with small test purchases** to learn the interface.
+AtomicHub has historically been one of the most popular and trusted NFT marketplaces on WAX. It offers good tools for browsing, trading, and managing AtomicAssets (including Pixals).
 
-## Safety Best Practices
+**Key Features**
+- Strong support for AtomicAssets
+- Relatively clean interface
+- Good search and filtering
+- Active user base
 
-- **Always verify the marketplace and contract addresses** from official sources or explorers.
-- **Read all transaction details** before confirming.
-- **Be cautious with new or unverified collections** — DYOR on rarity, utility, and team.
-- **Revoke approvals** regularly.
-- **Use hardware wallets** for significant NFT holdings.
+**Pixel Journey Relevance**
+AtomicHub has been widely used by the Pixel Journey community for trading Pixals and related NFTs. It remains a solid option for many users.
 
-## Pixel Journey Relevance
+### Other Marketplaces
 
-This is your core home for Pixals and collections. Master WAX NFT tools first. Use other chains for low-cost testing of new mechanics or to discover emerging trends, then bring valuable insights back to your core Pixel Journey activities. It’s the foundation of your PXJ economy.
+Several other NFT marketplaces exist on WAX. Some offer different features, fee structures, or focus areas. Always research current reputation, liquidity, and security before using any marketplace.
 
-**Start small. Verify everything. Bring value back to WAX.**
+## Security Best Practices for NFT Trading
 
-*Educational only. Always DYOR. Not financial advice.*
+- Verify collection names and contract addresses from official sources.
+- Check for verified or trusted status where available.
+- Be extremely cautious of new collections, especially those promising high returns or airdrops.
+- Use official marketplace links only.
+- Double-check all transaction details before confirming.
+- Consider using PxMarket (when available) for a more integrated experience with Pixel Journey assets.
+
+## Pixel Journey Recommendation
+
+For trading Pixals and ecosystem NFTs, use well-established marketplaces with good community reputation. Always verify before transacting. PxMarket (when fully available) is designed to offer a more seamless and integrated trading experience tied directly to the Pixel Journey economy.
+
+## General Tips
+
+- Start with small test purchases when exploring new marketplaces or collections.
+- Keep records of your transactions.
+- Be wary of "too good to be true" deals — they usually are.
+
+*Educational content only. NFT trading involves risk. Always DYOR. Not financial advice.*
