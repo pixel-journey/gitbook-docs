@@ -3,58 +3,57 @@
 > **⚠️ Important Safety Note**  
 > Always use official or well-audited wallets. Never share your private keys or seed phrases. Be extremely cautious with any website or tool asking for your private keys. Start small when testing new wallets or features. DYOR.
 
-WAX offers several wallet options. The most widely recommended and trusted option for most users in the Pixel Journey ecosystem is **Anchor**.
+WAX offers several wallet options. For the Pixel Journey ecosystem, we recommend a combination of trusted established wallets and our own **PxWallet** for the best integration.
 
-## Recommended Wallet
+## Top Recommended Wallets
 
-### Anchor (Primary Recommendation)
+### PxWallet (Top Recommendation for Pixel Journey)
 
-Anchor is the most popular and feature-rich wallet for WAX. It is actively maintained, has strong community trust, and integrates well with most WAX dApps and the Pixel Journey ecosystem.
+**PxWallet** is our official wallet built specifically for the Pixel Journey ecosystem. It offers deep integration with PxMarket, PxStaking, PxSwap, and future PxPackages, along with PxVault for secure key management and automation features.
 
-**Key Features**
-- Clean, user-friendly interface
-- Good support for AtomicAssets (Pixals and other NFTs)
-- Session management for dApps
-- Resource management tools (CPU/NET/RAM)
-- Regular updates and active development
+[Read the full PxWallet guide →](pxwallet.md)
 
 **Best For**
-- Most Pixel Journey users
-- NFT collectors and stakers
-- Daily interaction with WAX dApps
+- Users who want the best native integration with Pixel Journey tools
+- Those who value PxVault and future automation features
+- A modern, purpose-built experience
 
-**Pixel Journey Relevance**
-Anchor works seamlessly with PxWallet, PxStaking, PxMarket, and other Px platforms. It remains the safest and most reliable choice for the majority of users exploring the WAX ecosystem alongside Pixel Journey.
+### Anchor (Strong Alternative / Power User Choice)
+
+Anchor remains one of the most trusted and feature-rich wallets on WAX. It is excellent for serious users, creators, and those who prefer desktop workflows or need advanced features and hardware support.
+
+[Read the full Anchor guide →](anchor.md)
+
+**Best For**
+- Power users and creators
+- Users who want hardware wallet integration
+- Those who prefer a mature, widely supported wallet
 
 ## Other Wallet Options
 
-### WAX Cloud Wallet
+### Cloud Wallet
 
-A simple, browser-based wallet operated by the WAX team. Easy for beginners but offers less control and fewer advanced features.
+A simple, browser-based custodial wallet operated by the WAX team. Convenient for beginners but offers less control.
+
+[Read the full Cloud Wallet guide →](cloud-wallet.md)
 
 **Best For**
-- Absolute beginners who want the simplest possible experience
+- Absolute beginners wanting the simplest experience
 - Quick testing
 
-**Limitations**
-- Less flexibility and fewer features than Anchor
-- Less suitable for power users or those managing significant assets
-
-### Other / Emerging Wallets
-
-Several other wallets exist or are in development. Always research current reputation, security audits, and community feedback before using any new wallet. Exercise extra caution with newer or less-established options.
+**Note**: For larger holdings or serious engagement, we recommend moving to a non-custodial option like PxWallet or Anchor with hardware support.
 
 ## Security Best Practices on WAX
 
 - Use hardware wallets (where supported) for large holdings.
 - Never enter your seed phrase on any website.
 - Double-check URLs before connecting your wallet.
-- Revoke approvals regularly using tools like [WAX Tools](https://wax.tools) or similar (verify the site first).
+- Revoke approvals regularly.
 - Start with small amounts when trying new dApps or features.
-- Keep your Anchor session management clean and revoke sessions you no longer use.
+- Keep sessions clean and revoke those you no longer use.
 
 ## Pixel Journey Recommendation
 
-For most users engaging with Pixel Journey collections, staking, and the broader WAX economy, **Anchor** remains the strongest and safest choice. It offers the best balance of features, security, reliability, and ecosystem integration.
+For the best experience with Pixel Journey tools and future features, we recommend **PxWallet**. **Anchor** remains an excellent and trusted alternative for many users. Cloud Wallet can be convenient for beginners but is generally not recommended for larger or long-term holdings.
 
 *This is educational content only. Always DYOR and use caution with any wallet or dApp. Not financial advice.*
