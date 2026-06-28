@@ -101,6 +101,7 @@
   * [DEXes & Swapping on EVM](introduction/evm-ecosystem-guides/dexes-and-swapping-on-evm.md)
   * [NFT Marketplaces on EVM](introduction/evm-ecosystem-guides/nft-marketplaces-on-evm.md)
   * [Bridges on EVM](introduction/evm-ecosystem-guides/bridges-on-evm.md)
+  * [Explorers & Analytics on EVM](introduction/evm-ecosystem-guides/explorers-and-analytics-on-evm.md)
 * [🛠️ Getting set up on Polygon (WIP) 🚧](education/getting-set-up-on-polygon-wip/README.md)
 * [🛠️ Getting set up on Base (WIP) 🚧](education/getting-set-up-on-base-wip/README.md)
 * [🛠️ Getting set up on Ethereum (WIP) 🚧](education/getting-set-up-on-ethereum-wip/README.md)
@@ -109,7 +110,17 @@
   * [Solana Bridges & Cross-Chain](education/getting-set-up-on-solana/solana-bridges-and-cross-chain.md)
   * [Jupiter Advanced Features](education/getting-set-up-on-solana/jupiter-advanced-features.md)
   * [Solana NFT Tools & Analytics](education/getting-set-up-on-solana/solana-nft-tools-and-analytics.md)
+  * [Solana DeFi & Yield Tools](education/getting-set-up-on-solana/solana-defi-and-yield-tools.md)
+  * [Solana Portfolio & Analytics Tools](education/getting-set-up-on-solana/solana-portfolio-and-analytics-tools.md)
+  * [Tensor Advanced Trading](education/getting-set-up-on-solana/solana-tensor-advanced-trading.md)
+  * [Solana Staking & Governance](education/getting-set-up-on-solana/solana-staking-and-governance.md)
+  * [Orca Advanced](education/getting-set-up-on-solana/solana-orca-advanced.md)
 * [🛠️ Getting set up on XPR](education/getting-set-up-on-xpr/README.md)
+  * [XPR Network 101](education/getting-set-up-on-xpr/xpr-network-101.md)
+  * [Wallets on XPR](education/getting-set-up-on-xpr/xpr-wallets.md)
+  * [XPR Security Tips](education/getting-set-up-on-xpr/xpr-security-tips.md)
+  * [NFT Marketplaces on XPR](education/getting-set-up-on-xpr/xpr-nft-marketplaces.md)
+  * [DeFi on XPR Network](education/getting-set-up-on-xpr/xpr-defi-tools.md)
 
 ## Journey Use Cases
 
