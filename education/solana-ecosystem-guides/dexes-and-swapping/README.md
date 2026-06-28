@@ -1,40 +1,30 @@
-# 🔄 DEXes and Swapping on Solana — Fast & Low-Cost Trading
+# 🔄 DEXes and Swapping on Solana
 
-**Solana** offers one of the fastest and cheapest environments for DEX trading and liquidity provision. While WAX excels at NFT-focused DeFi (Alcor, TacoSwap), Solana provides excellent liquidity for broader token trading and yield strategies at a fraction of Ethereum costs.
+> **⚠️ Important Safety Note**  
+> Always verify contract addresses and use well-known, audited DEXes. Be cautious of fake tokens and phishing sites. Start with small amounts when testing new liquidity pools or tokens. DYOR.
 
-This makes Solana an ideal low-cost testing ground for Pixel Journey explorers.
+Solana has a very active and fast-moving DEX ecosystem with strong liquidity on major pairs.
 
-## Key DEXes and Platforms on Solana
+## Key DEXes on Solana
 
-- **Jupiter** — Best aggregator for swaps and advanced routing.
-- **Raydium** and **Orca** — Major DEXes for liquidity pools.
-- Other specialized protocols for yield and perps.
+Solana has several major decentralized exchanges with good liquidity and features. Popular options include platforms focused on efficient routing, low fees, and strong liquidity provision tools.
 
-## Getting Started with Swapping and Liquidity on Solana
+**Best Practices**
+- Compare rates across major DEXes before large swaps.
+- Be aware of slippage, especially on less liquid pairs.
+- Double-check token contract addresses.
+- Use official sites only (verify URLs).
+- Start with small test swaps when trying new platforms or tokens.
 
-1. **Set up a wallet** (Phantom or Solflare recommended).
-2. **Acquire SOL** for fees.
-3. **Connect to Jupiter** or preferred DEX.
-4. **Review slippage, fees, and pool details** before confirming.
-5. **Start with small test swaps**.
-6. **For liquidity provision**: Choose pools carefully and monitor for impermanent loss.
+## Security Tips for DEX Usage on Solana
 
-## Safety Best Practices
-
-- **Always verify contracts and URLs** from trusted sources.
-- **Read every transaction detail** before confirming.
-- **Start very small** when trying new protocols or high-APY farms.
-- **Understand impermanent loss** and smart contract risks.
-- **Revoke approvals** regularly.
-- **Use hardware wallets** for significant positions.
-- **DYOR thoroughly** on yields and new tokens.
+- Never approve unlimited token spending unless necessary (revoke regularly).
+- Be extremely cautious of new or low-liquidity tokens (higher scam risk).
+- Use hardware wallets for large holdings when possible.
+- Start small when interacting with new pools or tokens on Solana.
 
 ## Pixel Journey Relevance
 
-Solana DEXes let you test DeFi strategies (swaps, liquidity, yield) at very low cost. Insights transfer well to WAX DeFi and will become more valuable with PxPortals.
+Solana DEXes can be useful for efficient token movement and DeFi experimentation at very low cost. This complements your WAX activities and will become more valuable as PxPortals expands cross-chain capabilities. However, your primary focus and capital should remain on WAX collections, Pixals, and the PXJ economy. Use Solana mainly as a complementary, low-cost testing ground.
 
-Use Solana as a fast, cheap lab — then bring useful strategies back to your core WAX activities.
-
-**Start small. Verify everything. Bring value back to WAX.**
-
-*Educational only. Always DYOR. Not financial advice.*
+*Educational content only. Always DYOR. Not financial advice.*
