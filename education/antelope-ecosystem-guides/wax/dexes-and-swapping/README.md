@@ -1,33 +1,56 @@
-# 🔄 DEXes and Swapping on WAX — Core DeFi Activity
+# 🔄 DEXes and Swapping on WAX
 
-**WAX** has strong NFT-focused DEX activity. See the main [WAX Ecosystem Guides](education/wax-ecosystem-guides/README.md) for detailed information on Alcor, TacoSwap, and other platforms.
+> **⚠️ Important Safety Note**  
+> Always verify contract addresses and use well-known, audited DEXes. Be cautious of fake tokens and phishing sites. Start with small amounts when testing new liquidity pools or tokens. DYOR.
 
-## Key DEXes and Swapping Platforms on WAX
+WAX has several decentralized exchanges. The most commonly used and trusted options are **Alcor** and **TacoSwap**.
 
-- **Alcor** and **TacoSwap** — Primary platforms for token swaps, liquidity pools, and yield farming on WAX.
-- Focus on NFT-related tokens, resources, and ecosystem tokens.
+## Recommended DEXes
 
-## Getting Started with Swapping on WAX
+### Alcor
 
-1. **Use Anchor wallet** (primary for WAX).
-2. **Acquire WAXP** for resources.
-3. **Connect to Alcor or TacoSwap**.
-4. **Review slippage, fees, and pool details** before confirming.
-5. **Start with small test swaps** to learn the interface.
+Alcor is one of the most popular and feature-rich DEXes on WAX. It offers good liquidity for many tokens, including $PXJ pairs, and is widely used in the Pixel Journey community.
 
-## Safety Best Practices
+**Key Features**
+- Strong liquidity for major WAX tokens
+- Clean interface with good charting
+- Support for limit orders
+- Active development and community usage
 
-- **Always verify the DEX contract and URL** from official sources.
-- **Read every transaction detail** before confirming.
-- **Start very small** when trying new pools or platforms.
-- **Revoke approvals** regularly.
-- **DYOR on any yield or liquidity opportunity** — even established platforms carry smart contract risks.
-- **Use hardware wallets** for significant positions.
+**Best For**
+- Trading $PXJ and major ecosystem tokens
+- Users who want a reliable, well-established DEX
+
+### TacoSwap
+
+TacoSwap is another major DEX on WAX, known for good liquidity in certain pairs and strong community support.
+
+**Key Features**
+- Competitive rates on many pairs
+- Good integration with farming/staking opportunities
+- User-friendly experience
+
+**Best For**
+- Accessing specific liquidity pools and farms
+- Users looking for alternative rates or pairs
+
+## Swapping Best Practices
+
+- Compare rates across Alcor and TacoSwap before large swaps.
+- Be aware of slippage, especially on less liquid pairs.
+- Double-check token contract addresses.
+- Use the official sites only (verify URLs).
+- Consider using PxSwap (when available) for optimized routing across multiple DEXes.
 
 ## Pixel Journey Relevance
 
-Your primary DeFi activity happens on WAX (e.g., via Alcor or TacoSwap for PXJ-related farms and swaps). Use other chains for low-cost testing of new mechanics, then bring insights back here. This keeps your core focus on WAX collections, Pixals, and the PXJ economy.
+Efficient swapping is essential for participating in PxStaking, moving between tokens for crafting/ingredients, and managing your overall portfolio. Having reliable access to DEXes on WAX is a core part of engaging with the Pixel Journey economy.
 
-**Start small. Verify everything. Bring value back to WAX.**
+## Security Tips for DEX Usage
 
-*Educational only. Always DYOR. Not financial advice.*
+- Never approve unlimited token spending unless necessary (revoke regularly).
+- Be extremely cautious of new or low-liquidity tokens (high scam risk).
+- Use hardware wallets for large holdings when possible.
+- Start small when interacting with new pools or tokens.
+
+*Educational content only. Always DYOR. Not financial advice.*
