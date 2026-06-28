@@ -169,6 +169,7 @@
     * [Px Achievements](pxlabs/px-packages/achievements.md)
     * [Px Badges](pxlabs/px-packages/badges.md)
     * [PxUI — Reusable Components & Theming](pxlabs/px-packages/px-ui.md)
+    * [PxVault — Automation & Ownership Unlocks](pxlabs/px-packages/px-vault.md)
   * Upcoming Mini-Games
     * [PxTD — Tower Defense](pxlabs/px-td/README.md)
     * [PxSim — Simulation & Strategy](pxlabs/px-sim/README.md)
