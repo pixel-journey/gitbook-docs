@@ -172,6 +172,8 @@
     * [PxVault — Automation & Ownership Unlocks](pxlabs/px-packages/px-vault.md)
     * [Shared State & Cross-Portal Communication](pxlabs/px-packages/shared-state-and-cross-portal-communication.md)
     * [Offline Resilience & PWA Architecture](pxlabs/px-packages/offline-resilience-and-pwa-architecture.md)
+    * [Developer Experience & Modularity](pxlabs/px-packages/developer-experience-and-modularity.md)
+    * [Security & Trust Principles](pxlabs/px-packages/security-and-trust-principles.md)
   * Upcoming Mini-Games
     * [PxTD — Tower Defense](pxlabs/px-td/README.md)
     * [PxSim — Simulation & Strategy](pxlabs/px-sim/README.md)
