@@ -27,10 +27,34 @@ We keep these guides focused on **fundamentals + actionable steps + strong DYOR/
 - [BNB Chain](bnb-chain.md) — High TPS, vibrant DeFi, popular for launches and trading.
 
 ### Other Notable EVM Chains
-- Arbitrum
-- Optimism
-- Avalanche
-- Linea, Scroll, zkSync, and more (expanding soon)
+- [Arbitrum](arbitrum.md) — Leading optimistic rollup with deep DeFi liquidity.
+- [Optimism](optimism.md) — Superchain pioneer with strong governance and public goods focus.
+- [Avalanche](avalanche.md) — High-performance L1 with subnets for custom ecosystems.
+- [Linea](linea.md) — Consensys zkEVM with strong security and Ethereum alignment.
+- [Scroll](scroll.md) — zkEVM L2 prioritizing security, compatibility, and developer experience.
+- [zkSync](zksync.md) — zk-rollup L2 with focus on scalability, privacy, and account abstraction.
+
+## 🛠️ Common Platforms & Tools Across EVM Chains
+
+Many tools and platforms work across multiple EVM chains. Here are the top recommendations for Pixel Journey users:
+
+### Wallets
+- **MetaMask** and **Rabby** — Most versatile and widely supported. Rabby often preferred for better UX and security features.
+- Hardware wallets (Ledger, Trezor) for larger holdings.
+
+### DEXes & Swapping
+- **Uniswap** — The standard for swapping and liquidity across EVM.
+- Chain-specific: PancakeSwap (BNB), QuickSwap (Polygon), etc.
+
+### Marketplaces (NFTs)
+- **OpenSea** and **Blur** — Major players for buying/selling NFTs across EVM chains.
+- Magic Eden also supports some EVM NFTs.
+
+### Explorers & Analytics
+- Chain-specific explorers (Etherscan, Basescan, Polygonscan, etc.).
+- DeBank or Zapper for portfolio tracking across chains.
+
+**Tip**: Always verify the correct network in your wallet before transacting. Start with small amounts when trying new tools or bridges.
 
 ## 🛡️ General EVM Safety & Best Practices
 
