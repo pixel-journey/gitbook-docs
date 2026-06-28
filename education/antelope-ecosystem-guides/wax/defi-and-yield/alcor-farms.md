@@ -5,6 +5,17 @@
 
 Alcor offers various liquidity pools and farming opportunities, many of which are relevant to the Pixel Journey economy (especially $PXJ pairs and related tokens).
 
+## What Alcor Farms Offer
+
+Alcor Farms allow users to:
+
+- Provide liquidity to token pairs and earn trading fees
+- Stake LP tokens in farms to earn additional rewards (often in $PXJ or other ecosystem tokens)
+- Participate in yield-generating activities tied to the WAX DeFi ecosystem
+- Support liquidity for important pairs like those involving $PXJ
+
+These opportunities let users earn yield on their tokens while contributing to the overall liquidity and stability of the WAX token economy.
+
 ## Key Alcor Yield Opportunities
 
 ### $PXJ Related Pools and Farms
