@@ -18,6 +18,8 @@ Vaulta has several marketplaces for trading NFTs. Liquidity and features vary ac
 ## Pixel Journey Relevance
 While your primary NFT activity and collections remain on WAX (Pixals and related assets), Vaulta can be useful for low-cost experimentation with different NFT mechanics or discovering projects in a more regulated environment. However, keep your main focus and capital on WAX collections and the PXJ economy. Use Vaulta mainly for understanding broader Antelope developments and low-risk experimentation.
 
+As PxMarket develops, it may offer cross-chain features that include Vaulta in the future.
+
 ## Security Tips
 
 - Double-check all marketplace URLs and contract addresses.
