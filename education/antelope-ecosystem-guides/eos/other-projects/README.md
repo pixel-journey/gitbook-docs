@@ -1,0 +1,25 @@
+# 📦 Other Projects on Vaulta (previously EOS)
+
+> **⚠️ Important Safety Note**  
+> This section contains various Vaulta ecosystem projects and tools that don't fit neatly into the main categories. Always DYOR thoroughly before interacting with any project, especially smaller or newer ones. Be especially cautious with new or high-value projects.
+
+Vaulta has a range of additional tools, platforms, and projects focused on regulated finance, institutional use, and Antelope mechanics. These complement the core categories and can be useful for specific needs or experimentation in a more compliant environment.
+
+## Notable Projects & Tools on Vaulta
+
+Vaulta has platforms and tools for token mechanics, project building, governance, and community features, with emphasis on security and compliance.
+
+**Best Practices**
+- Always verify current status and reputation of any platform or tool.
+- Start small when exploring new projects.
+- Double-check all contracts and transactions.
+- Revoke approvals regularly.
+- Be extra cautious with platforms promising high returns or new institutional opportunities.
+
+## Pixel Journey Relevance
+These tools and projects on Vaulta provide unique utility and can offer inspiration for our own PxPackages and cross-chain features, especially in regulated or institutional contexts. Exploring them helps build a broader understanding of the Antelope ecosystem while keeping primary focus on WAX and Pixel Journey.
+
+## Recommendation
+Use this section as a reference for interesting tools on Vaulta. Always verify current status before using any project extensively. Prioritize tools that align with your experimentation or learning goals.
+
+*Educational content only. Always DYOR. Not financial advice.*
