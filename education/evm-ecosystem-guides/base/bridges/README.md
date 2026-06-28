@@ -1,38 +1,30 @@
-# 🌉 Bridges on Base — Connecting Ecosystems Safely
+# 🌉 Bridges on Base
 
-**Bridges on Base** enable the movement of assets between Base and other chains (WAX, Ethereum, Polygon, Solana, etc.). While WAX has strong bridge support for Polygon, Base, and Ethereum, Base bridges provide additional pathways for cross-chain experimentation. This is essential for future PxPortals integration and multi-chain strategies.
+> **⚠️ Important Safety Note**  
+> Bridges carry significant risks (smart contract exploits, bridge-specific hacks, etc.). Always use official or well-audited bridges, start with tiny test transfers, and never bridge more than you can afford to lose. DYOR thoroughly.
 
-Bridges are powerful tools but also carry significant risks — always prioritize security and start small.
+Base has strong bridge support to Ethereum mainnet and other chains, which is relevant for future multi-chain expansion via PxPortals.
 
-## Key Bridges Involving Base
+## Key Bridges from Base
 
-- **Official and Audited Bridges**: Use trusted bridges for moving assets between Base and external ecosystems (e.g., official Base bridges, third-party audited options).
-- **Cross-Chain Transfers**: Support for Base ↔ Ethereum, Base ↔ Polygon, Base ↔ WAX, and other routes as they mature.
-- **Security Focus**: Always prioritize audited, official bridges to minimize risks.
+Base has established bridges (especially the official Base bridge) to Ethereum mainnet and other supported chains. These allow asset movement between ecosystems.
 
-## Getting Started with Bridges on Base
-
-1. **Set up a wallet** (MetaMask or Rabby recommended) and add the Base network.
-2. **Identify the bridge** for your desired source and destination chain.
-3. **Follow official bridge documentation** and interfaces.
-4. **Start with very small test amounts** to verify the process and fees.
-5. **Monitor transactions** on explorers for both source and destination chains.
-
-## Safety Best Practices
-
-- **Only use official or well-audited bridges** — verify URLs and contracts from trusted sources.
-- **Start with tiny test transfers** to learn the flow and confirm success.
-- **Read all transaction details** before confirming (especially approvals).
-- **Revoke approvals regularly** (use revoke.cash or manual explorer checks).
-- **Be aware of bridge-specific risks** (smart contract vulnerabilities, temporary lockups, or delays).
-- **Use hardware wallets** for significant asset movements.
+**Best Practices**
+- Only use official or community-verified bridges.
+- Always start with very small test transfers to familiarize yourself with the process and fees.
+- Monitor transactions on explorers for both the source and destination chains.
+- Be aware of bridge-specific risks and any known issues.
+- Use hardware wallets for larger transfers when possible.
 
 ## Pixel Journey Relevance
 
-Bridges on Base allow cost-effective testing of cross-chain mechanics that will become even more important with future PxPortals. Use them to move small amounts for experimentation, then apply lessons back to your core WAX/Pixel Journey activities. It’s another tool in the EVM toolkit that complements (never replaces) your primary focus on WAX collections and the PXJ economy.
+Bridges are a key part of the long-term vision for PxPortals and cross-chain experiences. Mastering bridging on Base (in addition to WAX and other chains) allows you to safely explore multiple ecosystems while keeping your primary focus and capital on WAX collections, Pixals, and the PXJ economy. Skills gained here transfer directly to future multi-chain activities.
 
-See the main bridge guides in the WAX and EVM sections for comparison and best practices that transfer across chains.
+## Security Tips for Bridging
 
-**Start tiny. Verify everything. Bring insights back to WAX.**
+- Double-check all bridge URLs and contract addresses.
+- Read every transaction detail carefully before confirming.
+- Revoke approvals after use when possible.
+- Be extremely cautious during periods of high network activity or known bridge issues.
 
-*Educational content only. Always DYOR. Not financial advice.*
+*Educational content only. Bridging involves real risks. Always DYOR and start small. Not financial advice.*
