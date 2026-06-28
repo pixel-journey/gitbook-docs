@@ -1,35 +1,30 @@
-# ⛓️ EVM Ecosystem Guides — Pixel Journey's Complete EVM Handbook (Multi-Chain Mastery!)
+# ⛓️ EVM Ecosystem Guides — Full Advanced Mastery Hub | Pixel Journey
 
-Ahoy Pixel Pioneers expanding beyond WAX! Our journey started on WAX in 2023, but we've bridged to the wider EVM universe (Base, Ethereum, Polygon, Arbitrum, Optimism, BNB Chain and more). This hub is your pixel-perfect portal to master EVM chains, wallets, marketplaces, and DeFi like a true multi-chain legend.
+**Pixel Journey's Safe Multi-Chain Handbook for Ethereum and Layer 2s**
 
-> **Pro Tip:** Start with our detailed [Getting Set Up on EVM](https://github.com/pixel-journey/gitbook-docs/tree/main/education/getting-set-up-on-evm) guides, then dive into these ecosystem overviews. Perfect progression from basics to advanced cross-chain pixeling!
+The EVM (Ethereum Virtual Machine) family powers the majority of Web3 activity — from Ethereum mainnet to fast, low-cost L2s like Base, Polygon, Arbitrum, Optimism, and more. These chains offer incredible opportunities for DeFi, NFTs, gaming, and experimentation that complement your core WAX/Pixel Journey activities.
 
-## Quick Navigation — Your EVM Quests
+This hub organizes everything you need to explore EVM chains safely, with the same professional standards, strong DYOR emphasis, and Pixel Journey relevance as our Antelope and Solana guides.
 
-### Core EVM Knowledge
-- [EVM 101](https://github.com/pixel-journey/gitbook-docs/blob/main/education/getting-set-up-on-evm/evm-101.md) — What is EVM? Gas, smart contracts, and why it powers most of Web3.
-- [EVM Security Tips](https://github.com/pixel-journey/gitbook-docs/blob/main/education/getting-set-up-on-evm/evm-security-tips.md) — Protect your bags across chains.
-- [How to Get ETH & Tokens on EVM](https://github.com/pixel-journey/gitbook-docs/blob/main/education/getting-set-up-on-evm/how-to-get-eth.md)
+**Safety Note (Critical)**: EVM chains move fast with smart contract risks, high gas on L1, and common scams. Always start tiny, use reputable wallets (MetaMask, Rabby, etc.), revoke approvals regularly, verify contracts, and DYOR on every platform. Hardware wallets recommended for larger positions. Pixel Journey content highlights known cautions.
 
-### Major EVM Chains
-- [Ethereum](https://github.com/pixel-journey/gitbook-docs/blob/main/introduction/evm-ecosystem-guides/ethereum.md) — The OG. High security, high fees, massive ecosystem.
-- [Base](https://github.com/pixel-journey/gitbook-docs/blob/main/introduction/evm-ecosystem-guides/base.md) — Coinbase's L2. Cheap, fast, growing fast for NFTs & social.
-- [Polygon](https://github.com/pixel-journey/gitbook-docs/blob/main/introduction/evm-ecosystem-guides/polygon.md) — Scaling king. Great for gaming & high-volume NFTs.
-- [Arbitrum](https://github.com/pixel-journey/gitbook-docs/blob/main/introduction/evm-ecosystem-guides/arbitrum.md) — Leading optimistic rollup. Excellent DeFi & NFT activity.
-- [Optimism](https://github.com/pixel-journey/gitbook-docs/blob/main/introduction/evm-ecosystem-guides/optimism.md) — Optimistic rollup with strong governance & retroactive rewards.
-- [BNB Chain](https://github.com/pixel-journey/gitbook-docs/blob/main/introduction/evm-ecosystem-guides/bnb-chain.md) — High speed, low cost. Huge in emerging markets.
-- [Avalanche](https://github.com/pixel-journey/gitbook-docs/blob/main/introduction/evm-ecosystem-guides/avalanche.md), [Linea](https://github.com/pixel-journey/gitbook-docs/blob/main/introduction/evm-ecosystem-guides/linea.md), [Scroll](https://github.com/pixel-journey/gitbook-docs/blob/main/introduction/evm-ecosystem-guides/scroll.md), [zkSync](https://github.com/pixel-journey/gitbook-docs/blob/main/introduction/evm-ecosystem-guides/zksync.md) — Emerging L2s & alternatives worth exploring.
+## What's Inside (Standardized Structure)
 
-### Wallets, Marketplaces & Tools on EVM
-- [Wallets on EVM](https://github.com/pixel-journey/gitbook-docs/tree/main/education/getting-set-up-on-evm/wallets) — MetaMask, Rabby, Phantom, Coinbase Wallet deep dives.
-- [Marketplaces on EVM](https://github.com/pixel-journey/gitbook-docs/tree/main/education/getting-set-up-on-evm/marketplaces) — OpenSea, Blur, Magic Eden, Uniswap & more.
-- [Exchanges on EVM](https://github.com/pixel-journey/gitbook-docs/blob/main/education/getting-set-up-on-evm/exchanges-on-evm.md)
+- **Common EVM Tools** — Wallets, DEXes/swapping, NFT marketplaces, bridges, explorers/analytics.
+- **Per-Chain Getting Started** — Now integrated under each chain folder (e.g., Base has full getting-started under `base/getting-started/`, mirroring the WAX structure under Antelope). Other chains (Polygon, Ethereum, BNB, Arbitrum, Optimism, etc.) follow the same pattern — WIP sections are being converted to proper getting-started.
+- **Advanced Platform Deep Dives** — Per-chain features, safety, workflows, best practices.
+- **Pixel Journey Relevance** — How these tools complement WAX collections, PXJ economy, and future PxPortals. Cost-effective testing ground for strategies.
 
-## PXJ Cross-Chain Tips
-- Bridge your Pixals or $PXJ using our Season 1 bridges to Polygon/Base/ETH.
-- Use EVM for cheaper high-volume trading while keeping core collection on WAX.
-- Many Pixel holders are now active on Base & Arbitrum for new opportunities.
+All content follows our strict safety-first, educational style with workflows, pro tips, and honest recommendations.
 
-**1050+ days and growing multi-chain!** The Pixel Journey now spans WAX + full EVM power.
+## Quick Navigation
 
-*Pixel Journey — One pixel at a time, across every chain.*
+- **Base (New Integrated Structure)**: [Getting Started on Base](base/getting-started/README.md) — Full onboarding, 101, security, wallets.
+- Common tools and per-chain deep dives: See existing content in introduction/evm-ecosystem-guides/ and linked pages (Ethereum, Base, Polygon, Arbitrum, Optimism, BNB Chain, Avalanche, Linea, Scroll, zkSync, etc.).
+- Wallets, DEXes, Marketplaces, Bridges, Explorers: Dedicated sections.
+
+**Pixel Journey Tip**: Use EVM L2s for cheap, fast experimentation (e.g., test DeFi or NFT mechanics on small size) before applying lessons on WAX. Bridge assets safely when PxPortals expand. Keep primary focus and capital on your Pixals and PXJ ecosystem.
+
+Stay safe, explore smart, and keep building! 🚀
+
+*Educational only — DYOR always. Not financial advice.*
