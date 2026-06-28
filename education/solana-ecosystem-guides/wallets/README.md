@@ -1,33 +1,48 @@
-# 🛠️ Wallets on Solana — SVM Ecosystem Access
+# 👛 Wallets on Solana
 
-**Solana** (SVM) uses a different account and wallet model than EVM or Antelope chains. Popular wallets include Phantom, Solflare, and Backpack. For Pixel Journey explorers, Solana offers fast, low-cost transactions ideal for testing new mechanics or exploring NFT/DeFi opportunities that can later transfer back to WAX.
+> **⚠️ Important Safety Note**  
+> Always use official or well-audited wallets. Never share your private keys or seed phrases. Be extremely cautious with any website or tool asking for your private keys. Start small when testing new wallets or features. DYOR.
 
-See the consolidated [Solana Wallets Guide](education/common-guides/wallets/solana.md) for the full detailed recommendations.
+Solana has excellent wallet options with strong security features and broad dApp support.
 
-## Recommended Wallets
+## Recommended Wallet
 
-- **Phantom** — Most popular and user-friendly Solana wallet with excellent NFT support and hardware integration.
-- **Solflare** — Strong alternative with good security features and multi-wallet support.
-- **Backpack** — Modern wallet focused on xNFTs and advanced features.
-- **Hardware Wallets** — Ledger support via Phantom or Solflare.
+### Phantom (Primary Recommendation)
 
-## Getting Started
+**Phantom** is the most popular and user-friendly wallet for Solana. It offers excellent UX, strong security features (including hardware wallet support), and broad compatibility with Solana dApps.
 
-1. Install Phantom or your preferred Solana wallet.
-2. Create or import a wallet.
-3. Acquire SOL for fees (start small).
-4. Enable hardware wallet if desired.
-5. Start with small test transactions.
+**Key Features**
+- Clean, intuitive interface
+- Built-in NFT and token management
+- Hardware wallet integration (Ledger)
+- Strong security features and regular updates
+- Excellent dApp browser support
 
-## Safety Best Practices
+**Best For**
+- Most Solana users, especially those new to the chain
+- NFT collectors and DeFi participants
+- Users who want a balance of ease-of-use and security
 
-- Always verify transaction details.
-- Use hardware wallets for significant assets.
-- Revoke approvals where applicable.
-- Be cautious with new dApps and tokens.
+### Other Strong Options
+
+- **Solflare** — Another excellent wallet with strong features and security.
+- **Ledger + Phantom/Solflare** — Recommended for larger holdings.
+
+## Security Best Practices on Solana
+
+- Use hardware wallets (Ledger) for significant holdings when possible.
+- Never share your seed phrase or private keys.
+- Double-check all dApp URLs and contract addresses.
+- Revoke token approvals regularly.
+- Start with small amounts when trying new dApps or tokens.
+- Be extra cautious of new or low-liquidity tokens and projects.
 
 ## Pixel Journey Relevance
 
-Solana skills (especially fast transaction handling and NFT mechanics) complement WAX activities and will become more relevant with future PxPortals cross-chain features.
+Phantom (or Solflare) makes it easy to experiment on Solana while keeping your primary focus and capital on WAX collections, Pixals, and the PXJ economy. Skills and security habits transfer well and will become more valuable as PxPortals expands cross-chain capabilities.
 
-*Educational only. Always DYOR. Not financial advice.*
+## Recommendation
+
+For most users exploring Solana alongside Pixel Journey, **Phantom** is the strongest and safest everyday choice. Use hardware wallet integration for larger positions.
+
+*This is educational content only. Always DYOR and use caution with any wallet or dApp. Not financial advice.*
