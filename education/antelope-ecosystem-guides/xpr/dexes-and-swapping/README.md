@@ -1,37 +1,30 @@
-# 🔄 DEXes and Swapping on XPR Network — Low-Cost Trading
+# 🔄 DEXes and Swapping on XPR Network
 
-**XPR Network** offers feeless or very low-cost swapping, making it an excellent environment for testing DeFi strategies that complement your Pixel Journey activities. While WAX has strong NFT-focused DEX activity (e.g., Alcor, TacoSwap), XPR provides a payment-focused, low-friction environment for broader token trading and liquidity.
+> **⚠️ Important Safety Note**  
+> Always verify contract addresses and use well-known, audited DEXes. Be cautious of fake tokens and phishing sites. Start with small amounts when testing new liquidity pools or tokens. DYOR.
 
-This makes XPR a great low-cost testing ground.
+XPR Network has its own DEX ecosystem, often with lower fees or different mechanics compared to WAX, making it attractive for experimentation.
 
-## Key DEXes and Swapping Platforms on XPR
+## Key DEXes on XPR
 
-- Major DEXes and liquidity platforms optimized for feeless or low-cost activity.
-- Focus on payment-related token swaps and efficient routing.
+XPR has several decentralized exchanges and swapping platforms. The most relevant ones for users exploring alongside WAX are those with good liquidity for major tokens and integration with Antelope tooling.
 
-## Getting Started with Swapping on XPR
+**Best Practices**
+- Compare rates across available DEXes before large swaps.
+- Be aware of slippage on less liquid pairs.
+- Double-check token contract addresses.
+- Use official sites only (verify URLs).
+- Start with small test swaps when trying new platforms or tokens.
 
-1. **Use a compatible wallet** (Anchor recommended).
-2. **Acquire XPR** for resources.
-3. **Connect to a trusted DEX interface**.
-4. **Review slippage, fees, and pool details** before confirming.
-5. **Start with small test swaps** to learn the interface.
+## Security Tips for DEX Usage on XPR
 
-## Safety Best Practices
-
-- **Always verify the DEX contract and URL** from official sources.
-- **Read every transaction detail** before confirming.
-- **Start very small** when trying new platforms or pools.
-- **Revoke approvals** regularly.
-- **DYOR on any yield or liquidity opportunity** — even established platforms carry smart contract risks.
-- **Use hardware wallets** for significant positions.
+- Never approve unlimited token spending unless necessary (revoke regularly).
+- Be extremely cautious of new or low-liquidity tokens (higher scam risk).
+- Use hardware wallets for large holdings when possible.
+- Start small when interacting with new pools or tokens on XPR.
 
 ## Pixel Journey Relevance
 
-XPR DEXes and swapping tools let you test DeFi mechanics (token pairs, liquidity provision) at very low or zero cost. The skills and insights gained here transfer well to WAX DeFi platforms (e.g., Alcor or TacoSwap) and will become more valuable with future PxPortals.
+XPR can be useful for low-cost swapping and DeFi experimentation. Efficient token movement on XPR can complement your WAX activities (e.g., testing strategies or accessing different yield opportunities). However, your primary focus and capital should remain on WAX collections, Pixals, and the PXJ economy. Use XPR mainly as a complementary, low-cost testing ground.
 
-Use XPR as a low-risk, low-cost lab — then bring useful strategies back to your core WAX activities and PXJ economy. Keep your primary focus and capital on Pixel Journey.
-
-**Start small. Verify everything. Bring value back to WAX.**
-
-*Educational only. Always DYOR. Not financial advice.*
+*Educational content only. Always DYOR. Not financial advice.*
