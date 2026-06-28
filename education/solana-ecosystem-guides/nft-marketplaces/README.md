@@ -1,35 +1,29 @@
-# 🖼️ NFT Marketplaces on Solana — Vibrant & Fast Trading
+# 🛒 NFT Marketplaces on Solana
 
-**Solana** has a very active NFT ecosystem with fast, low-cost trading. While WAX leads in creator tools and high-volume activity (AtomicHub, Neftyblocks), Solana offers excellent options for broader NFT trading, discovery, and community at much lower fees.
+> **⚠️ Important Safety Note**  
+> NFT scams exist on every chain. Always verify collections and be extremely cautious with new or low-volume projects. DYOR before buying or listing any NFT.
 
-This provides Pixel Journey explorers with another venue for experimentation and inspiration.
+Solana has a very active and growing NFT ecosystem with fast trading and strong tooling.
 
 ## Key NFT Marketplaces on Solana
 
-- **Magic Eden** — Major platform with strong Solana support.
-- **Tensor** — Popular for advanced NFT trading and tools.
-- Other specialized Solana NFT marketplaces.
+Solana has several popular marketplaces for trading NFTs. Liquidity and features vary across platforms.
 
-## Getting Started with NFTs on Solana
-
-1. **Set up a wallet** (Phantom recommended for NFT support).
-2. **Acquire SOL** for fees.
-3. **Connect to Magic Eden or Tensor**.
-4. **Browse collections** and review listings carefully.
-5. **Start with small test purchases**.
-
-## Safety Best Practices
-
-- **Verify marketplace and contract addresses** from trusted explorers (Solscan, SolanaFM).
-- **Read all transaction details** before confirming.
-- **Be cautious with new collections** — DYOR on rarity, utility, and team.
-- **Revoke approvals** regularly.
-- **Use hardware wallets** for significant NFT holdings.
+**Best Practices**
+- Verify collection details and contract addresses from trusted sources.
+- Be extra cautious with new collections or projects promising high returns.
+- Start with small test purchases when exploring Solana NFTs.
+- Use official marketplace links only.
 
 ## Pixel Journey Relevance
 
-Exploring Solana NFT marketplaces gives exposure to different standards and trading mechanics that can inspire or complement your WAX/Pixal collections. Use it as a low-cost testing ground, then bring valuable insights back to your core Pixel Journey activities.
+While your primary NFT activity and collections remain on WAX (Pixals and related assets), Solana can be useful for low-cost experimentation with different NFT mechanics or discovering new projects. However, keep your main focus and capital on WAX collections and the PXJ economy. Use Solana mainly as a complementary, low-cost testing environment.
 
-**Start small. Verify everything. Bring value back to WAX.**
+## Security Tips
 
-*Educational only. Always DYOR. Not financial advice.*
+- Double-check all marketplace URLs and contract addresses.
+- Be extremely cautious of new or unverified collections.
+- Read every transaction detail before confirming.
+- Revoke approvals regularly.
+
+*Educational content only. NFT trading involves risk. Always DYOR. Not financial advice.*
