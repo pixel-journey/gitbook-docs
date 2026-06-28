@@ -59,9 +59,11 @@ Detailed per-chain guides live under this hub (or linked from here). We are stan
 - **XPR Network**: 
   - [Getting Started on XPR Network](education/antelope-ecosystem-guides/xpr/getting-started/README.md) (101, wallets, security — integrated here)
   - Additional: Wallets, NFT marketplaces, DeFi tools (expanding with dedicated deep dives).
-- **EOS & Others** (Volta, etc.): Explore via official docs + explorers (eosauthority.com, etc.). Future dedicated getting-started + ecosystem sections here as we expand (governance, REX, major dApps). Watch for PxPortals updates.
+- **EOS & Others** (Volta, etc.): 
+  - [Getting Started on EOS](education/antelope-ecosystem-guides/eos/getting-started/README.md) (starter 101, safety, REX model, governance basics — new integrated section)
+  - Explore via official docs + explorers (eosauthority.com, bloks.io). Future dedicated deep dives on major dApps, governance, and NFT/DeFi as we expand. Watch for PxPortals updates.
 
-**Workflow Tip**: Use the comparison table above to decide where to experiment next. E.g., test a new liquidity strategy on XPR first (cheaper/feeless), then apply lessons on WAX. All Antelope chains share similar resource and account models — skills transfer directly!
+**Workflow Tip**: Use the comparison table above to decide where to experiment next. E.g., test a new liquidity strategy on XPR first (cheaper/feeless), governance on EOS, then apply lessons on WAX. All Antelope chains share similar resource and account models — skills transfer directly!
 
 ---
 
@@ -69,6 +71,7 @@ Detailed per-chain guides live under this hub (or linked from here). We are stan
 
 - Dive deep into **WAX** (your Pixel Journey home): [education/wax-ecosystem-guides/README.md](education/wax-ecosystem-guides/README.md)
 - Explore **XPR Network** safely: [education/antelope-ecosystem-guides/xpr/getting-started/README.md](education/antelope-ecosystem-guides/xpr/getting-started/README.md)
+- Explore **EOS**: [education/antelope-ecosystem-guides/eos/getting-started/README.md](education/antelope-ecosystem-guides/eos/getting-started/README.md)
 - EVM & Solana guides for even broader multi-chain skills: See Education section in SUMMARY.
 - Common Pitfalls & Security: [getting-started/common-pixel-pitfalls.md](getting-started/common-pixel-pitfalls.md)
 - Back to main Education hub or Introduction for onboarding.
