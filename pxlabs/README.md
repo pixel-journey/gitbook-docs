@@ -3,34 +3,34 @@
 **Welcome to PxLabs** — the experimental frontier where the Pixel Journey ecosystem is being built, tested, and expanded into a full suite of interconnected Web3 experiences.
 
 > **⚠️ DEVELOPMENT STATUS UPDATE (June 2026)**  
-> Most Px platforms are in late-stage development / pre-alpha or advanced beta. Core mechanics are functional, but smart contract finalization, security audits, and cross-dApp state synchronization are still in progress.  
+> Most Px platforms are in late-stage development / pre-alpha or advanced stages. Core mechanics are functional in current builds, but final smart contract work, security audits, and cross-dApp state synchronization are ongoing.  
 > **We need YOU.** Join our Discord for early alpha/beta access, provide feedback, and help shape the final experience. Together we reach new ATHs! 🚀
 
-PxLabs houses the next-generation dApps that power staking, trading, battling, learning, and portfolio management across the Pixel Journey universe. Each tool is designed to be **modular, offline-capable, and deeply integrated** with WAX (and future multi-chain support via PxPortals).
+PxLabs houses the next-generation dApps and foundational infrastructure that power staking, trading, battling, learning, portfolio management, and future cross-chain experiences.
 
 ## 🎯 Philosophy
 
 - **Player-first design**: Every interface is built for both hardcore degens and casual pixel collectors.
-- **Offline resilience**: Most experiences continue working when the chain is quiet.
+- **Offline resilience**: Most experiences continue working gracefully when the chain is quiet.
 - **Composable economy**: Staking, swapping, battling, and learning all feed into the same $PXJ / $KING / NFT loops.
-- **Transparency & Education**: Every mechanic is documented here so you can understand *why* something works (or doesn’t).
+- **Sustainable Foundations**: Long-term maintainability and modularity are core priorities.
 
-## 📚 Logical Learning Order for New Users
+## 📚 Recommended Exploration Order
 
-We’ve structured PxLabs in the recommended order a new user should explore the ecosystem:
+We’ve organized PxLabs in a logical order for new users:
 
-1. **PxLanding** — Your central hub and starting point
-2. **PxLearn** — Master the mechanics through interactive education
-3. **PxWallet** — Take full control of your assets and resources
-4. **PxMarket** — Trade NFTs, resources, and tokens
-5. **PxStaking** — Maximize your yield with powerful scenarios
-6. **PxSwap** — Best-in-class decentralized swapping
-7. **PxHot** — Real-time arena battles and prediction gaming
-
-*(Additional tools like PxTD, PxSim, and future mini-games will be added as they mature.)*
+1. **PxLanding** — Start here (your central hub)
+2. **PxLearn** — Build strong foundations
+3. **PxWallet** — Take control of your assets
+4. **PxMarket** — Participate in the economy
+5. **PxStaking** — Optimize your yield
+6. **PxSwap** — Efficient token movement
+7. **PxHot** — Fun engagement layer
+8. **Px Packages & Px Portals** — The strategic infrastructure for sustainable long-term growth and multi-chain expansion
 
 ## 🔗 Quick Navigation
 
+### Individual Platforms
 - [PxLanding — The Central Hub](px-landing/README.md)
 - [PxLearn — Web3 Academy](px-learn/README.md)
 - [PxWallet — Institutional Vault](px-wallet/README.md)
@@ -39,6 +39,9 @@ We’ve structured PxLabs in the recommended order a new user should explore the
 - [PxSwap — Decentralized Exchange](px-swap/README.md)
 - [PxHot — Arena Battles](px-hot/README.md)
 
-**Stay tuned** — more platforms and deep technical whitepapers will be added over time.
+### Foundational Infrastructure
+- [Px Packages & Px Portals](px-packages/README.md) — The long-term strategic layer enabling sustainable growth and multi-chain expansion
+
+**Additional tools** (PxTD, PxSim, PxDie, and future mini-games) will be added here as they mature.
 
 *All content is educational. DYOR. Not financial advice. Development is iterative — your feedback directly shapes the final product.*
