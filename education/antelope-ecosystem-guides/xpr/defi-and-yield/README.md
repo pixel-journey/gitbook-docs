@@ -3,11 +3,11 @@
 > **⚠️ Important Safety Note**  
 > DeFi carries risks including smart contract vulnerabilities, impermanent loss, and rug pulls. Always DYOR thoroughly, start small, and never invest more than you can afford to lose.
 
-XPR Network offers feeless or very low-cost DeFi opportunities, making it attractive for experimentation alongside WAX.
+XPR Network has a growing DeFi ecosystem with focus on efficient swapping, liquidity, and yield opportunities, often with low or feeless user experiences.
 
-## Key DeFi Platforms on XPR
+## Key DeFi Platforms on XPR Network
 
-XPR has several DEXes and liquidity platforms optimized for low or feeless activity. These support token swaps, liquidity provision, and yield opportunities within the XPR ecosystem.
+XPR has several platforms supporting token swaps, liquidity provision, and yield farming. These are useful for experimentation at very low cost.
 
 **Best Practices**
 - Compare rates and opportunities across available platforms.
@@ -18,8 +18,7 @@ XPR has several DEXes and liquidity platforms optimized for low or feeless activ
 - Revoke approvals regularly.
 
 ## Pixel Journey Relevance
-
-XPR can be useful for low-cost swapping, liquidity provision, and yield experimentation. Efficient token movement and DeFi activity on XPR can complement your WAX activities. However, your primary focus and capital should remain on WAX collections, Pixals, and the PXJ economy. Use XPR mainly as a complementary, low-cost testing ground for strategies that can later be applied on WAX.
+XPR can be useful for low-cost swapping, liquidity provision, and yield experimentation. Efficient token movement and DeFi activity on XPR can complement your WAX activities and will become more valuable as PxPortals expands cross-chain capabilities. However, your primary focus and capital should remain on WAX collections, Pixals, and the PXJ economy. Use XPR mainly as a complementary, low-cost testing ground for strategies that can later be applied on WAX or other chains.
 
 ## Security Tips
 
