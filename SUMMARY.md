@@ -107,6 +107,8 @@
 * [🛠️ Getting set up on BNB Chain (WIP) 🚧](education/getting-set-up-on-bnb-chain-wip/README.md)
 * [🛠️ Getting set up on Solana](education/getting-set-up-on-solana/README.md)
   * [Solana Bridges & Cross-Chain](education/getting-set-up-on-solana/solana-bridges-and-cross-chain.md)
+  * [Jupiter Advanced Features](education/getting-set-up-on-solana/jupiter-advanced-features.md)
+  * [Solana NFT Tools & Analytics](education/getting-set-up-on-solana/solana-nft-tools-and-analytics.md)
 * [🛠️ Getting set up on XPR](education/getting-set-up-on-xpr/README.md)
 
 ## Journey Use Cases
