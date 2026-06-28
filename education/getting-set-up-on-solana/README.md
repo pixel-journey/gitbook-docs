@@ -21,7 +21,12 @@ Key strengths:
 - **[How to Get SOL](how-to-get-sol.md)** — On-ramps, exchanges, and bridging from EVM or WAX.
 - **[Solana Security Tips](solana-security-tips.md)** — How to stay safe in the Solana ecosystem.
 - **[NFT Marketplaces on Solana](marketplaces-on-solana.md)** — Magic Eden, Tensor, and where Pixel Journey lives on Solana.
-- **[DEXes & Swapping on Solana](exchanges-on-solana.md)** — Jupiter, Raydium, Orca, and the key trading tools.
+- **[DEXes & Swapping on Solana](exchanges-on-solana.md)** — Jupiter, Raydium, Orca, and the key trading tools (see also [Jupiter Advanced Features](jupiter-advanced-features.md) and [Orca Advanced](solana-orca-advanced.md)).
+- **[Solana NFT Tools & Analytics](solana-nft-tools-and-analytics.md)** — Advanced tools for rarity, portfolio tracking, sniping, and data-driven trading.
+- **[Solana DeFi & Yield Tools](solana-defi-and-yield-tools.md)** — Liquidity provision, lending, farming, and yield strategies.
+- **[Solana Staking & Governance](solana-staking-and-governance.md)** — Passive rewards, liquid staking, and ecosystem participation.
+- **[Solana Portfolio & Analytics Tools](solana-portfolio-and-analytics-tools.md)** — Tracking, optimization, dashboards, and cross-chain visibility.
+- **[Solana Bridges & Cross-Chain](solana-bridges-and-cross-chain.md)** — Securely connect Solana to WAX, EVM, and beyond.
 
 Start with **Solana 101** if you're new to this chain, or jump directly to the wallet guide to get set up. Our Discord is always open if you need help along the way.
 
