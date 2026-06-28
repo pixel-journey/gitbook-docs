@@ -1,35 +1,46 @@
-# 🛠️ Wallets on Polygon
+# 👛 Wallets on Polygon
 
-**Wallets on Polygon** follow standard EVM practices, with MetaMask, Rabby, and other EVM-compatible wallets being the primary options. Polygon offers low fees and fast transactions, making it an excellent environment for Pixel Journey explorers to test EVM strategies cost-effectively, especially for NFT and gaming activities that complement WAX.
+> **⚠️ Important Safety Note**  
+> Always use official or well-audited wallets. Never share your private keys or seed phrases. Be extremely cautious with any website or tool asking for your private keys. Start small when testing new wallets or features. DYOR.
 
-## Recommended Wallets
+Polygon uses standard EVM tooling, so wallets that work on Ethereum work seamlessly on Polygon.
 
-- **MetaMask**: The most widely used EVM wallet. Excellent for Polygon with easy network switching and hardware wallet support (Ledger, etc.).
-- **Rabby Wallet**: Strong alternative with better security features, transaction simulation, and multi-chain support.
-- **Other EVM Wallets**: Coinbase Wallet, Phantom (for EVM), and others with Polygon support.
-- **Hardware Wallets**: Ledger and similar devices are strongly recommended for larger holdings or long-term storage.
+## Recommended Wallet
 
-## Getting Started with Wallets on Polygon
+### MetaMask (Primary Recommendation)
 
-1. Install MetaMask or your preferred EVM wallet.
-2. Add the Polygon network (Chain ID 137, RPC from official sources).
-3. Import or create an account.
-4. Bridge a small amount of MATIC or tokens to Polygon for testing.
-5. Enable hardware wallet integration if desired.
-6. Start with small test transactions to familiarize yourself with the interface and gas (which is very low on Polygon).
+**MetaMask** is the most compatible and widely used wallet for Polygon. It supports easy network switching and works well with hardware wallets.
 
-## Safety Best Practices
+**Key Features**
+- Broad EVM compatibility (Ethereum, Polygon, Base, Arbitrum, etc.)
+- Easy network management
+- Hardware wallet support (Ledger)
+- Strong security features and regular updates
 
-- Always read transaction details before confirming.
-- Use hardware wallets for significant assets.
-- Regularly review and revoke approvals.
-- Never share seed phrases or private keys.
-- Verify all dApps and contracts through official explorers (polygonscan.com).
+**Best For**
+- Most users exploring Polygon alongside other EVM chains
+- Users who want one wallet for multiple EVM networks
+
+### Other Strong Options
+
+- **Rabby** — Modern EVM wallet with enhanced security features and transaction simulation.
+- **Ledger + MetaMask/Rabby** — Recommended for larger holdings.
+
+## Security Best Practices on Polygon
+
+- Use hardware wallets (Ledger) for significant holdings when possible.
+- Never share your seed phrase or private keys.
+- Double-check all dApp URLs and contract addresses.
+- Revoke token approvals regularly.
+- Start with small amounts when trying new dApps or tokens on Polygon.
+- Be extra cautious of new or low-liquidity tokens and projects.
 
 ## Pixel Journey Relevance
 
-Wallets on Polygon (and other EVM L2s) allow you to manage EVM accounts alongside your WAX Anchor setup. This makes it easy to experiment on Polygon while keeping your core Pixel Journey collections and capital on WAX. Skills in EVM wallets, bridging, and security transfer directly and will become even more valuable with future PxPortals cross-chain features.
+MetaMask (or Rabby) makes it easy to experiment on Polygon while keeping your primary focus and capital on WAX collections, Pixals, and the PXJ economy. Skills and security habits transfer well and will become more valuable as PxPortals expands cross-chain capabilities.
 
-**Start small. Use reputable wallets + hardware where possible. Keep primary focus on Pixel Journey.**
+## Recommendation
 
-*Educational only. Always DYOR. Not financial advice.*
+For most users exploring Polygon alongside Pixel Journey, **MetaMask** (with hardware integration for larger positions) is the strongest and safest everyday choice. Consider Rabby for enhanced security features.
+
+*This is educational content only. Always DYOR and use caution with any wallet or dApp. Not financial advice.*
