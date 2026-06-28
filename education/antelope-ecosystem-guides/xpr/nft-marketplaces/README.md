@@ -7,7 +7,10 @@ XPR Network has a growing NFT ecosystem with platforms focused on easy trading a
 
 ## Key NFT Marketplaces on XPR Network
 
-XPR has several marketplaces for trading NFTs. Liquidity and features vary across platforms.
+### XPR Market
+XPR Market is the primary NFT marketplace on XPR Network, offering a user-friendly platform for trading NFTs native to the XPR ecosystem.
+
+[Read the full XPR Market guide →](xpr-market.md)
 
 **Best Practices**
 - Verify collection details and contract addresses from trusted sources.
@@ -16,7 +19,7 @@ XPR has several marketplaces for trading NFTs. Liquidity and features vary acros
 - Use official marketplace links only.
 
 ## Pixel Journey Relevance
-While your primary NFT activity and collections remain on WAX (Pixals and related assets), XPR can be useful for low-cost experimentation with different NFT mechanics or discovering new projects. However, keep your main focus and capital on WAX collections and the PXJ economy. Use XPR mainly as a complementary, low-cost testing environment.
+While your primary NFT activity and collections remain on WAX (Pixals and related assets), XPR Market can be useful for low-cost experimentation with different NFT mechanics or discovering projects on XPR. However, keep your main focus and capital on WAX collections and the PXJ economy. Use XPR mainly as a complementary, low-cost testing environment.
 
 ## Security Tips
 
