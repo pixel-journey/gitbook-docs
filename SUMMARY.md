@@ -160,10 +160,11 @@
   * [PxLanding — The Central Hub](pxlabs/px-landing/README.md)
   * [PxLearn — Web3 Academy](pxlabs/px-learn/README.md)
   * [PxWallet — Institutional Vault](pxlabs/px-wallet/README.md)
-  * PxMarket (coming soon)
-  * PxStaking (coming soon)
-  * PxSwap (coming soon)
-  * PxHot (coming soon)
+  * [PxMarket — NFT & Resource Marketplace](pxlabs/px-market/README.md)
+  * [PxStaking — Yield Engine](pxlabs/px-staking/README.md)
+  * [PxSwap — Decentralized Exchange](pxlabs/px-swap/README.md)
+  * [PxHot — Arena Battles](pxlabs/px-hot/README.md)
+  * [Px Packages & Px Portals](pxlabs/px-packages/README.md)
 
 ## Journey Use Cases
 
