@@ -5,6 +5,17 @@
 
 XPR Network has growing yield and farming opportunities, often with low or feeless experiences for users.
 
+## What XPR Farms Offer
+
+XPR Farms allow users to:
+
+- Provide liquidity to token pairs (often with very low or feeless mechanics)
+- Stake LP tokens or assets in farms to earn additional rewards
+- Participate in efficient yield-generating activities within the XPR ecosystem
+- Take advantage of XPR’s fast and low-cost environment for DeFi experimentation
+
+These opportunities let users earn yield on their tokens while contributing to liquidity in the XPR ecosystem.
+
 ## Key XPR Yield Opportunities
 
 XPR has platforms supporting liquidity provision, farming, and staking with efficient mechanics.
