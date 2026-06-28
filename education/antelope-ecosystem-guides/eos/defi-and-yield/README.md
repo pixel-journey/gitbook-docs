@@ -20,6 +20,8 @@ Vaulta has several platforms supporting token swaps, liquidity provision, and yi
 ## Pixel Journey Relevance
 Vaulta can be useful for low-cost swapping, liquidity provision, and yield experimentation within the evolving Antelope ecosystem. Efficient token movement and DeFi activity on Vaulta can complement your WAX activities and will become more valuable as PxPortals expands cross-chain capabilities. However, your primary focus and capital should remain on WAX collections, Pixals, and the PXJ economy. Use Vaulta mainly for understanding broader Antelope developments and low-risk experimentation.
 
+As PxSwap and PxStaking mature, they may offer optimized or safer ways to access similar yield opportunities with better integration across chains.
+
 ## Security Tips
 
 - Be extremely cautious of new or high-APY opportunities (higher risk).
