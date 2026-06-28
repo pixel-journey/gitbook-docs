@@ -28,4 +28,6 @@ Vaulta has several decentralized exchanges and swapping platforms. Options inclu
 ## Pixel Journey Relevance
 Vaulta DEXes can be useful for efficient token movement and DeFi experimentation within the evolving Antelope ecosystem. This complements your WAX activities and will become more valuable as PxPortals expands cross-chain capabilities. However, your primary focus and capital should remain on WAX collections, Pixals, and the PXJ economy. Use Vaulta mainly for understanding broader Antelope developments and low-risk experimentation.
 
+As PxSwap develops, it may offer optimized routing that includes Vaulta pools in the future.
+
 *Educational content only. Always DYOR. Not financial advice.*
