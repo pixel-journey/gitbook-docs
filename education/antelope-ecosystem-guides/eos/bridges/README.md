@@ -1,36 +1,30 @@
-# 🌉 Bridges on EOS
+# 🌉 Bridges on Vaulta (previously EOS)
 
-**Bridges on EOS** enable the movement of assets between EOS and other chains (WAX, XPR, EVM chains, Solana, etc.). While WAX has strong bridge support for Polygon, Base, and Ethereum, EOS bridges provide additional pathways for cross-chain experimentation. This is essential for future PxPortals integration and multi-chain strategies.
+> **⚠️ Important Safety Note**  
+> Bridges carry significant risks (smart contract exploits, bridge-specific hacks, etc.). Always use official or well-audited bridges, start with tiny test transfers, and never bridge more than you can afford to lose. DYOR thoroughly.
 
-## Key Bridges Involving EOS
+Vaulta has bridge support to other chains, which is relevant for future multi-chain expansion via PxPortals.
 
-- **Official and Audited Bridges**: Use trusted bridges for moving assets between Antelope chains and external ecosystems.
-- **Cross-Chain Transfers**: Support for EOS ↔ WAX, EOS ↔ EVM, and other routes as they mature.
-- **Security Focus**: Always prioritize audited, official bridges to minimize risks.
+## Key Bridges from Vaulta
 
-## Getting Started with Bridges on EOS
+Vaulta has established bridges to various chains. These allow asset movement between ecosystems.
 
-1. Use a compatible wallet like Anchor.
-2. Identify the bridge for your desired source and destination chain.
-3. Follow official bridge documentation and interfaces.
-4. Start with very small test amounts to verify the process and fees.
-5. Monitor transactions on explorers for both source and destination chains.
-
-## Safety Best Practices
-
-- Only use official or well-audited bridges — verify URLs and contracts from trusted sources.
-- Start with tiny test transfers to learn the flow and confirm success.
-- Read all transaction details before confirming (especially approvals).
-- Revoke approvals regularly.
-- Be aware of bridge-specific risks (smart contract vulnerabilities, temporary lockups, or delays).
-- Use hardware wallets for significant asset movements.
+**Best Practices**
+- Only use official or community-verified bridges.
+- Always start with very small test transfers to familiarize yourself with the process and fees.
+- Monitor transactions on explorers for both the source and destination chains.
+- Be aware of bridge-specific risks and any known issues.
+- Use hardware wallets for larger transfers when possible.
 
 ## Pixel Journey Relevance
 
-Bridges on EOS allow cost-effective testing of cross-chain mechanics that will become even more important with future PxPortals. Use them to move small amounts for experimentation, then apply lessons back to your core WAX/Pixel Journey activities. It’s another tool in the Antelope toolkit that complements (never replaces) your primary focus on WAX collections and the PXJ economy.
+Bridges are a key part of the long-term vision for PxPortals and cross-chain experiences. Mastering bridging on Vaulta (in addition to WAX and XPR) allows you to safely explore other chains while keeping your primary focus and capital on WAX collections, Pixals, and the PXJ economy. Skills gained here transfer directly to future multi-chain activities.
 
-See the main bridge guides in the WAX and EVM sections for comparison and best practices that transfer across chains.
+## Security Tips for Bridging
 
-**Start tiny. Verify everything. Bring insights back to WAX.**
+- Double-check all bridge URLs and contract addresses.
+- Read every transaction detail carefully before confirming.
+- Revoke approvals after use when possible.
+- Be extremely cautious during periods of high network activity or known bridge issues.
 
-*Educational only. Always DYOR. Not financial advice.*
+*Educational content only. Bridging involves real risks. Always DYOR and start small. Not financial advice.*
