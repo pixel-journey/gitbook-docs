@@ -1,29 +1,31 @@
 # 💰 DeFi and Yield on Polygon
 
-**DeFi and yield on Polygon** offers low-cost access to liquidity pools, farming, and lending that complements WAX DeFi activities. Its speed and low fees make it ideal for testing strategies before scaling on higher-cost chains.
+> **⚠️ Important Safety Note**  
+> DeFi carries risks including smart contract vulnerabilities, impermanent loss, and rug pulls. Always DYOR thoroughly, start small, and never invest more than you can afford to lose.
 
-## Key Platforms
+Polygon has a mature and active DeFi ecosystem with strong liquidity and low fees, making it attractive for experimentation.
 
-- Major DEXes and liquidity protocols on Polygon.
-- Yield farming and staking opportunities.
-- Lending and borrowing markets.
+## Key DeFi Platforms on Polygon
 
-## Getting Started
+Polygon has several major DEXes, liquidity platforms, and yield opportunities. These support token swaps, liquidity provision, farming, and other DeFi activities at very low cost.
 
-1. Set up an EVM wallet and add Polygon network.
-2. Bridge assets.
-3. Research APYs and risks.
-4. Start small with liquidity provision or farming.
-
-## Safety Best Practices
-
-- Verify contracts on explorers.
-- Understand impermanent loss and smart contract risks.
+**Best Practices**
+- Compare rates and opportunities across available platforms.
+- Understand impermanent loss before providing liquidity.
+- Start with small test positions on new farms or pools.
+- Monitor your positions regularly.
+- Use hardware wallets for larger DeFi positions when possible.
 - Revoke approvals regularly.
-- Use hardware for larger positions.
 
 ## Pixel Journey Relevance
 
-Low-cost DeFi experimentation on Polygon helps test mechanics that can inform WAX strategies (e.g., via Alcor or TacoSwap). Bring insights back to your core activities.
+Polygon can be useful for low-cost swapping, liquidity provision, and yield experimentation. Efficient token movement and DeFi activity on Polygon can complement your WAX activities and will become more valuable as PxPortals expands cross-chain capabilities. However, your primary focus and capital should remain on WAX collections, Pixals, and the PXJ economy. Use Polygon mainly as a complementary, low-cost testing ground for strategies that can later be applied on WAX or other chains.
 
-*Educational only. Always DYOR. Not financial advice.*
+## Security Tips
+
+- Be extremely cautious of new or high-APY opportunities (higher risk).
+- Always verify contracts from trusted sources.
+- Never approve contracts you don’t fully understand.
+- Start very small when exploring new yield opportunities on Polygon.
+
+*Educational content only. DeFi involves significant risk. Always DYOR. Not financial advice.*
