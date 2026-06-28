@@ -1,34 +1,60 @@
-# 🛠️ Wallets on WAX — Your Core Pixel Journey Hub
+# 👛 Wallets on WAX
 
-**Anchor Wallet** is the primary recommended wallet for WAX. It offers excellent UX, hardware support, and seamless integration with WAX collections, Pixals, and the PXJ economy.
+> **⚠️ Important Safety Note**  
+> Always use official or well-audited wallets. Never share your private keys or seed phrases. Be extremely cautious with any website or tool asking for your private keys. Start small when testing new wallets or features. DYOR.
 
-See the main [WAX Ecosystem Guides](education/wax-ecosystem-guides/README.md) for the most up-to-date and detailed wallet information, setup guides, and best practices.
+WAX offers several wallet options. The most widely recommended and trusted option for most users in the Pixel Journey ecosystem is **Anchor**.
 
-## Quick Recommendations
+## Recommended Wallet
 
-- **Anchor Wallet** (Desktop + Mobile) — Primary choice for WAX.
-- Hardware wallets (Ledger) via Anchor for larger holdings.
+### Anchor (Primary Recommendation)
 
-## Getting Started
+Anchor is the most popular and feature-rich wallet for WAX. It is actively maintained, has strong community trust, and integrates well with most WAX dApps and the Pixel Journey ecosystem.
 
-1. Download Anchor from official sources.
-2. Create or import your WAX account (e.g., yourname.wam).
-3. Fund with WAXP for resources.
-4. Enable hardware wallet integration if desired.
-5. Start with small test transactions to familiarize yourself.
+**Key Features**
+- Clean, user-friendly interface
+- Good support for AtomicAssets (Pixals and other NFTs)
+- Session management for dApps
+- Resource management tools (CPU/NET/RAM)
+- Regular updates and active development
 
-## Safety Best Practices
+**Best For**
+- Most Pixel Journey users
+- NFT collectors and stakers
+- Daily interaction with WAX dApps
 
-- Always read transaction details before confirming.
-- Use hardware wallets for significant assets.
-- Regularly review and revoke permissions.
-- Never share seed phrases or private keys.
-- Verify all dApps and contracts through official explorers (waxblock.io, etc.).
+**Pixel Journey Relevance**
+Anchor works seamlessly with PxWallet, PxStaking, PxMarket, and other Px platforms. It remains the safest and most reliable choice for the majority of users exploring the WAX ecosystem alongside Pixel Journey.
 
-## Pixel Journey Relevance
+## Other Wallet Options
 
-Your WAX wallet is the central hub for all Pixel Journey activities — collections, staking, crafting, and future PxPortals interactions. Master it first. Skills transfer directly to XPR and Vaulta/EOS for safe experimentation.
+### WAX Cloud Wallet
 
-**Start small. Use Anchor + hardware where possible. Keep primary focus on Pixel Journey.**
+A simple, browser-based wallet operated by the WAX team. Easy for beginners but offers less control and fewer advanced features.
 
-*Educational only. Always DYOR. Not financial advice.*
+**Best For**
+- Absolute beginners who want the simplest possible experience
+- Quick testing
+
+**Limitations**
+- Less flexibility and fewer features than Anchor
+- Less suitable for power users or those managing significant assets
+
+### Other / Emerging Wallets
+
+Several other wallets exist or are in development. Always research current reputation, security audits, and community feedback before using any new wallet. Exercise extra caution with newer or less-established options.
+
+## Security Best Practices on WAX
+
+- Use hardware wallets (where supported) for large holdings.
+- Never enter your seed phrase on any website.
+- Double-check URLs before connecting your wallet.
+- Revoke approvals regularly using tools like [WAX Tools](https://wax.tools) or similar (verify the site first).
+- Start with small amounts when trying new dApps or features.
+- Keep your Anchor session management clean and revoke sessions you no longer use.
+
+## Pixel Journey Recommendation
+
+For most users engaging with Pixel Journey collections, staking, and the broader WAX economy, **Anchor** remains the strongest and safest choice. It offers the best balance of features, security, reliability, and ecosystem integration.
+
+*This is educational content only. Always DYOR and use caution with any wallet or dApp. Not financial advice.*
