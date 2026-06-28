@@ -1,35 +1,38 @@
-# 🧪 PxSim — Simulation & Strategy Mini-Game (Coming Soon)
+# 🧪 PxSim — Simulation & Strategy Mini-Game
 
 > **⚠️ DEVELOPMENT STATUS (June 2026)**  
-> PxSim is in early conceptual and prototyping stages. Core simulation mechanics and strategy elements are being explored. Significant work remains on gameplay depth, economy integration, and polish.  
-> **Early vision shared for transparency.** Join Discord for updates and feedback opportunities as development progresses.
+> PxSim is in early-to-mid conceptual and prototyping stages. Core simulation mechanics, strategy systems, and economic integration are being actively explored and refined. Significant work remains on gameplay depth, balance, and polish.  
+> **Early-to-mid vision shared for transparency and feedback.** Join Discord for updates, playtest opportunities, and to help shape the experience as it develops.
 
 **PxSim** is an upcoming simulation and strategy mini-game focused on deeper planning, resource management, and long-term decision making within the Pixel Journey universe.
 
-## 🎯 High-Level Vision
+## 🎯 Core Vision & Gameplay
 
-- Strategic simulation gameplay with Pixel Journey assets and mechanics.
-- Emphasis on planning, optimization, and risk/reward decision making.
-- Strong ties to the broader economy (staking strategies, resource allocation, etc.).
-- Potential educational value alongside entertainment.
-- Integration points with PxStaking and other core platforms.
+- Strategic simulation gameplay with Pixel Journey assets, mechanics, and theming.
+- Emphasis on planning, optimization, risk/reward decision making, and long-term progression.
+- Multiple scenarios or modes with varying complexity.
+- Strong ties to the broader economy (staking strategies, resource allocation, portfolio thinking).
+- Potential educational value alongside entertainment (learning through simulation).
+- Integration points with PxStaking, PxWallet, and PxMarket.
 
-## 🔗 Pixel Journey Connection
+## 🔗 Pixel Journey Integration
 
-PxSim aims to complement the more action-oriented experiences:
+PxSim aims to complement the more action-oriented and real-time experiences:
 
 - Bridge the gap between casual play and deep economic strategy.
 - Provide tools or insights that can inform real staking and portfolio decisions in PxStaking and PxWallet.
-- Add variety to the growing library of Px experiences accessible via PxLanding.
+- Add meaningful variety to the growing library of experiences accessible via PxLanding.
+- Contribute to overall engagement while reinforcing core Pixel Journey concepts.
 
-This is part of our effort to offer multiple engagement styles while keeping everything connected to the core Pixel Journey economy.
+This mini-game helps offer multiple engagement styles while keeping everything connected to the core economy and progression systems.
 
-## 🚀 Current Status & Next Steps
+## 🚀 Current Development Focus
 
-- Early concept validation and mechanic prototyping.
-- Exploring simulation depth vs accessibility balance.
-- Planning economic feedback loops with the main ecosystem.
+- Refining core simulation mechanics and strategy depth.
+- Exploring the right balance between simulation complexity and accessibility.
+- Designing economic feedback loops with the main ecosystem.
+- Planning integration points with existing platforms.
 
-**Follow development on Discord** for playtest opportunities and to help shape the experience.
+**We welcome early feedback** on desired depth vs accessibility and how strongly it should tie into real economic decisions. Join the Discord to participate.
 
-*Early vision page. Many elements are still being defined. DYOR. Not financial advice.*
+*Early-to-mid stage vision. Mechanics and integration are still being refined. DYOR. Not financial advice.*
