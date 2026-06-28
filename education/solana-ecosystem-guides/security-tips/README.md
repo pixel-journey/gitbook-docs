@@ -1,54 +1,57 @@
-# 🛡️ Security Tips on Solana — Stay Safe in a Fast Ecosystem
+# 🛡️ Security Tips for Solana
 
-**Security on Solana** follows similar principles to other chains but with SVM-specific considerations (e.g., transaction fees paid in SOL, program-based accounts). Solana moves extremely fast, which is great for UX but requires extra vigilance.
+> **⚠️ Critical Safety Reminder**  
+> Solana has a fast-moving ecosystem with its own risks. Scams, phishing, fake dApps, and malicious contracts are common. Always stay vigilant. DYOR. Never share private keys or seed phrases.
+
+Security practices on Solana build on general Web3 principles but with some chain-specific considerations.
 
 ## Core Security Principles
 
-### Seed Phrases & Keys
-- Never share your seed phrase or private keys.
-- Store offline in a secure location (metal backup recommended for large holdings).
-- Hardware wallets (Ledger) add a strong layer for significant assets.
+### 1. Protect Your Keys
+- Never share your private keys or seed phrase with anyone or any website.
+- Use a hardware wallet (Ledger) for significant holdings when possible.
+- Store your seed phrase securely offline (never in cloud storage or screenshots).
 
-### Transaction Approvals
-- Always read what a transaction is doing before confirming.
-- Use wallets with clear previews and simulations where available.
-- Reject anything that looks suspicious or requests unexpected permissions.
-- Start with small test transactions on new dApps.
+### 2. Verify Everything
+- Always double-check URLs and contract addresses before connecting your wallet or approving transactions.
+- Be extremely cautious of links in Discord, Twitter, or DMs.
+- Bookmark official sites and use them directly.
 
-### Phishing & Scams
-- Verify all URLs and contract addresses from official sources.
-- Be cautious of DMs, fake support, or "free" offers — common vectors.
-- Fast transactions can make rushed decisions dangerous; slow down.
-- Use community verification or tools for new tokens/projects.
+### 3. Start Small
+- Test new dApps, tokens, or features with very small amounts first.
+- Never commit large sums to anything you haven't thoroughly researched.
 
-### Account & Permission Management
-- Use separate accounts for different activities if possible.
-- Regularly review and update permissions.
-- Enable all available security features in your wallet.
+### 4. Manage Approvals
+- Regularly revoke token approvals using trusted tools.
+- Avoid unlimited approvals when possible.
+- Revoke access for dApps you no longer use.
+
+### 5. Be Scam Aware
+- Watch out for fake airdrops, giveaways, and "support" accounts.
+- Never click suspicious links or download unknown files.
+- If something sounds too good to be true, it almost always is.
 
 ## Solana-Specific Considerations
 
-- **Speed**: Fast finality is a strength, but it also means mistakes or malicious transactions happen quickly. Always double-check.
-- **New Token Launches**: High volume of new tokens = higher scam risk. DYOR thoroughly.
-- **Program Accounts**: Understand that Solana uses programs (smart contracts) differently than EVM.
-- **Bridges**: Use official/audited bridges when moving assets from WAX/EVM; test small first.
+- Fast transactions can make some attacks (e.g., transaction spam or front-running) more feasible — stay alert.
+- New or low-liquidity tokens and projects carry higher risk — extra caution is required.
+- Many popular tools and explorers exist — stick to well-known, community-vetted ones.
 
-## Useful Tools
+## Pixel Journey Security Recommendations
 
-- Official wallet security features.
-- Explorers for transaction verification (Solscan, SolanaFM).
-- Community resources in Solana Discord/Telegram for scam reports.
+When exploring Solana alongside Pixel Journey:
 
-## Pixel Journey Best Practices
+- Use **Phantom** (or Solflare) as your primary wallet, with hardware integration for larger positions.
+- Apply the same rigorous verification and "start small" habits used on WAX and other chains.
+- Keep your primary focus and capital on WAX collections and the PXJ economy.
+- Use Solana mainly for low-cost experimentation and learning.
+- Stay informed through trusted Pixel Journey channels.
 
-- Use reputable wallets (Phantom, Solflare) and hardware where possible.
-- Bridge small test amounts from WAX to learn safely.
-- Combine with WAX Anchor for core holdings; use Solana for active, low-cost experimentation.
-- Read full wallet and DeFi guides before diving in.
-- Report suspicious activity in our Discord — we're all learning together.
+## Recommended Habits
 
-**Pro Tip**: Solana's speed is a huge advantage, but it doesn't change fundamental security rules. Treat every approval seriously, verify everything, and start small. This keeps your multi-chain journey (WAX + EVM chains + Solana) safe and enjoyable.
+- Keep your software and wallet updated.
+- Use strong, unique passwords where applicable.
+- Enable any available security features in your wallet.
+- Regularly review active approvals and sessions.
 
-Stay vigilant and pixel-powered! 🚀
-
-*Pixel Journey — Security first across every ecosystem.*
+*This is educational content. Security is your responsibility. Always DYOR and stay cautious. Not financial advice.*
