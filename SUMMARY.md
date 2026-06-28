@@ -145,10 +145,10 @@
 * [⛓️ EVM Ecosystem Guides](education/evm-ecosystem-guides/README.md)
   * Base
     * [Getting Started](education/evm/ecosystem-guides/base/getting-started/README.md)
-    * [Wallets](education/evm-ecosystem-guides/base/wallets/README.md)
+    * [Wallets](education/evm/ecosystem-guides/base/wallets/README.md)
     * [DEXes and Swapping](education/evm-ecosystem-guides/base/dexes-and-swapping/README.md)
-    * [NFT Marketplaces](education/evm-ecosystem-guides/base/nft-marketplaces/README.md)
-    * [DeFi and Yield](education/evm-ecosystem-guides/base/defi-and-yield/README.md)
+    * [NFT Marketplaces](education/evm/ecosystem-guides/base/nft-marketplaces/README.md)
+    * [DeFi and Yield](education/evm/ecosystem-guides/base/defi-and-yield/README.md)
     * [Creator Tools](education/evm-ecosystem-guides/base/creator-tools/README.md)
     * [Security Tips](education/evm-ecosystem-guides/base/security-tips/README.md)
     * [Bridges](education/evm-ecosystem-guides/base/bridges/README.md)
