@@ -15,6 +15,22 @@ PxLabs houses the next-generation dApps and foundational infrastructure that pow
 - **Composable economy**: Staking, swapping, battling, and learning all feed into the same $PXJ / $KING / NFT loops.
 - **Sustainable Foundations**: Long-term maintainability and modularity are core priorities (see Px Packages & Px Portals).
 
+## 📊 Quick Reference — All PxLabs Platforms
+
+| Platform              | Focus Area                        | Current Stage          | Best For                          | Key Connection                  |
+|-----------------------|-----------------------------------|------------------------|-----------------------------------|---------------------------------|
+| **PxLanding**        | Central Hub & Onboarding         | Advanced / Near Prod  | New users, overview, quick access | Everything                      |
+| **PxLearn**          | Education & Certification        | Mature                | Learning mechanics & strategy     | Staking multipliers, achievements |
+| **PxWallet**         | Portfolio & Vault Management     | Advanced              | Asset control & security          | All platforms                   |
+| **PxMarket**         | NFT & Resource Trading           | Advanced              | Buying, selling, liquidity        | Economy, staking, progression   |
+| **PxStaking**        | Yield Optimization (8 Scenarios) | Advanced              | Maximizing returns                | PxHot, PxLearn, resources       |
+| **PxSwap**           | Decentralized Trading            | Mid-to-Late           | Efficient token movement          | Staking, portfolio rebalancing  |
+| **PxHot**            | Real-time Arena Battles          | Late-stage            | Fun, prediction, Arena Power      | Staking multipliers, rewards    |
+| **Px Packages**      | Foundational Infrastructure      | Foundational          | Long-term scalability             | All future multi-chain work     |
+| **PxTD**             | Tower Defense Mini-Game          | Early-to-Mid          | Strategic fun                     | Economy, progression            |
+| **PxSim**            | Simulation & Strategy            | Early-to-Mid          | Deep planning & learning          | Staking, portfolio thinking     |
+| **PxDie**            | Dice & Chance Mini-Game          | Early-to-Mid          | Excitement & risk/reward          | Economy, events                 |
+
 ## 📚 Recommended Exploration Order
 
 We’ve organized PxLabs in a logical order for new users:
