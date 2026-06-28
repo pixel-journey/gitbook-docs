@@ -1,34 +1,29 @@
-# 🖼️ NFT Marketplaces on XPR Network — Growing NFT Ecosystem
+# 🛒 NFT Marketplaces on XPR Network
 
-**XPR Network** has growing NFT support with a focus on usability and low or feeless transactions. While WAX leads with excellent AtomicAssets support, blends, and creator tools (AtomicHub, Neftyblocks, etc.), XPR offers another venue for NFT trading and discovery in the Antelope family.
+> **⚠️ Important Safety Note**  
+> NFT scams exist on every chain. Always verify collections and be extremely cautious with new or low-volume projects. DYOR before buying or listing any NFT.
 
-This provides Pixel Journey explorers with additional options for experimentation and inspiration at low cost.
+XPR Network has its own NFT ecosystem, though it is generally smaller and more payment/identity-focused compared to WAX's vibrant AtomicAssets scene.
 
 ## Key NFT Marketplaces on XPR
 
-- Emerging XPR-native and compatible NFT platforms.
-- Focus on user-friendly trading and integration with Antelope wallets like Anchor.
+XPR has several marketplaces for trading NFTs native to the chain. Liquidity and selection may differ significantly from WAX.
 
-## Getting Started with NFTs on XPR
-
-1. **Use a compatible wallet** (Anchor recommended).
-2. **Acquire XPR** for resources.
-3. **Connect to available NFT marketplaces** on XPR.
-4. **Browse collections** and review listings, provenance, and contract details carefully.
-5. **Start with small test purchases** to learn the interface.
-
-## Safety Best Practices
-
-- **Verify the marketplace and contract addresses** from official sources or explorers.
-- **Read all transaction details** before confirming.
-- **Be cautious with new or unverified collections** — DYOR on rarity, utility, and team.
-- **Revoke approvals** regularly.
-- **Use hardware wallets** for significant NFT holdings.
+**Best Practices**
+- Verify collection details and contract addresses from trusted sources.
+- Be extra cautious with new collections or projects promising high returns.
+- Start with small test purchases when exploring XPR NFTs.
+- Use official marketplace links only.
 
 ## Pixel Journey Relevance
 
-Exploring NFT marketplaces on XPR gives exposure to different trading mechanics within the Antelope ecosystem that can complement your WAX/Pixal collections. Use it as a low-cost testing ground for new strategies or to discover emerging trends, then bring valuable insights back to your core Pixel Journey activities. It’s another tool in the Antelope toolkit that complements (never replaces) your primary focus on WAX collections and the PXJ economy.
+While your primary NFT activity and collections remain on WAX (Pixals and related assets), XPR can be useful for low-cost experimentation with different NFT mechanics or discovering new projects. However, keep your main focus and capital on WAX collections and the PXJ economy. Use XPR mainly as a complementary, low-cost testing environment.
 
-**Start small. Verify everything. Bring value back to WAX.**
+## Security Tips
 
-*Educational only. Always DYOR. Not financial advice.*
+- Double-check all marketplace URLs and contract addresses.
+- Be extremely cautious of new or unverified collections.
+- Read every transaction detail before confirming.
+- Revoke approvals regularly.
+
+*Educational content only. NFT trading involves risk. Always DYOR. Not financial advice.*
