@@ -1,33 +1,30 @@
-# 🌉 Bridges on WAX — Connecting to Broader Ecosystems
+# 🌉 Bridges on WAX
 
-**WAX** has strong bridge support for Polygon, Base, Ethereum, and beyond. See the main [WAX Ecosystem Guides](education/wax-ecosystem-guides/README.md) for detailed bridge information and best practices.
+> **⚠️ Important Safety Note**  
+> Bridges carry significant risks (smart contract exploits, bridge-specific hacks, etc.). Always use official or well-audited bridges, start with tiny test transfers, and never bridge more than you can afford to lose. DYOR thoroughly.
 
-## Key Bridges on WAX
+WAX has bridge support to several other chains, which is important for future multi-chain expansion via PxPortals.
 
-- Official and audited bridges for WAX ↔ Polygon, Base, Ethereum, and other chains.
-- Focus on secure asset movement for future PxPortals and cross-chain strategies.
+## Key Bridges from WAX
 
-## Getting Started with Bridges on WAX
+WAX has established bridges to chains such as Polygon, Base, Ethereum, and others. These allow asset movement between ecosystems.
 
-1. **Use Anchor wallet**.
-2. **Identify the bridge** for your desired destination chain.
-3. **Follow official bridge documentation**.
-4. **Start with very small test transfers**.
-5. **Monitor transactions** on explorers for both chains.
-
-## Safety Best Practices
-
-- **Only use official or well-audited bridges**.
-- **Start with tiny test transfers**.
-- **Read all transaction details** before confirming.
-- **Revoke approvals** regularly.
-- **Be aware of bridge-specific risks**.
-- **Use hardware wallets** for significant movements.
+**Best Practices**
+- Only use official or community-verified bridges.
+- Always start with very small test transfers to familiarize yourself with the process and fees.
+- Monitor transactions on explorers for both the source and destination chains.
+- Be aware of bridge-specific risks and any known issues.
+- Use hardware wallets for larger transfers when possible.
 
 ## Pixel Journey Relevance
 
-Bridges are essential for future PxPortals. Master WAX bridging first, then use other chains for safe testing. This supports expanding your Pixel Journey while keeping primary focus and capital on WAX collections and the PXJ economy.
+Bridges are a key part of the long-term vision for PxPortals and cross-chain experiences. Mastering bridging on WAX first allows you to safely explore other chains while keeping your primary focus and capital on WAX collections, Pixals, and the PXJ economy. Skills and knowledge gained here transfer directly to future multi-chain activities.
 
-**Start tiny. Verify everything. Bring insights back to WAX.**
+## Security Tips for Bridging
 
-*Educational only. Always DYOR. Not financial advice.*
+- Double-check all bridge URLs and contract addresses.
+- Read every transaction detail carefully before confirming.
+- Revoke approvals after use when possible.
+- Be extremely cautious during periods of high network activity or known bridge issues.
+
+*Educational content only. Bridging involves real risks. Always DYOR and start small. Not financial advice.*
