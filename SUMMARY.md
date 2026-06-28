@@ -69,80 +69,81 @@
 * [⛓️ Antelope Ecosystem Guides](education/antelope-ecosystem-guides/README.md)
   * WAX
     * [Getting Started](education/antelope-ecosystem-guides/wax/getting-started/README.md)
-    * Wallets
-    * DEXes and Swapping
-    * NFT Marketplaces
-    * DeFi and Yield
-    * Security Tips
-    * Bridges
-    * Explorers and Analytics
+    * [Wallets](education/antelope-ecosystem-guides/wax/wallets/README.md)
+    * [DEXes and Swapping](education/antelope-ecosystem-guides/wax/dexes-and-swapping/README.md)
+    * [NFT Marketplaces](education/antelope-ecosystem-guides/wax/nft-marketplaces/README.md)
+    * [DeFi and Yield](education/antelope-ecosystem-guides/wax/defi-and-yield/README.md)
+    * [Security Tips](education/antelope-ecosystem-guides/wax/security-tips/README.md)
+    * [Bridges](education/antelope-ecosystem-guides/wax/bridges/README.md)
+    * [Explorers and Analytics](education/antelope-ecosystem-guides/wax/explorers-and-analytics/README.md)
     * [Advanced Ecosystem Guides](education/wax-ecosystem-guides/README.md)
   * XPR Network
     * [Getting Started](education/antelope-ecosystem-guides/xpr/getting-started/README.md)
-    * Wallets
-    * DEXes and Swapping
-    * NFT Marketplaces
-    * DeFi and Yield
-    * Security Tips
-    * Bridges
-    * Explorers and Analytics
+    * [Wallets](education/antelope-ecosystem-guides/xpr/wallets/README.md)
+    * [DEXes and Swapping](education/antelope-ecosystem-guides/xpr/dexes-and-swapping/README.md)
+    * [NFT Marketplaces](education/antelope-ecosystem-guides/xpr/nft-marketplaces/README.md)
+    * [DeFi and Yield](education/antelope-ecosystem-guides/xpr/defi-and-yield/README.md)
+    * [Security Tips](education/antelope-ecosystem-guides/xpr/security-tips/README.md)
+    * [Bridges](education/antelope-ecosystem-guides/xpr/bridges/README.md)
+    * [Explorers and Analytics](education/antelope-ecosystem-guides/xpr/explorers-and-analytics/README.md)
   * Vaulta (previously EOS)
     * [Getting Started](education/antelope-ecosystem-guides/eos/getting-started/README.md)
-    * Wallets
-    * DEXes and Swapping
-    * NFT Marketplaces
-    * DeFi and Yield
-    * Security Tips
-    * Bridges
-    * Explorers and Analytics
+    * [Wallets](education/antelope-ecosystem-guides/eos/wallets/README.md)
+    * [DEXes and Swapping](education/antelope-ecosystem-guides/eos/dexes-and-swapping/README.md)
+    * [NFT Marketplaces](education/antelope-ecosystem-guides/eos/nft-marketplaces/README.md)
+    * [DeFi and Yield](education/antelope-ecosystem-guides/eos/defi-and-yield/README.md)
+    * [Security Tips](education/antelope-ecosystem-guides/eos/security-tips/README.md)
+    * [Bridges](education/antelope-ecosystem-guides/eos/bridges/README.md)
+    * [Explorers and Analytics](education/antelope-ecosystem-guides/eos/explorers-and-analytics/README.md)
   * Emerging Antelope Chains
     * [Overview](education/antelope-ecosystem-guides/emerging-antelope-chains/README.md)
+    * [Wallets](education/antelope-ecosystem-guides/emerging-antelope-chains/wallets/README.md)
+    * [Security Tips](education/antelope-ecosystem-guides/emerging-antelope-chains/security-tips/README.md)
 * [🟣 Solana Ecosystem Guides](education/solana-ecosystem-guides/README.md)
-  * Wallets
-    * DEXes and Swapping
-    * NFT Marketplaces
-    * DeFi and Yield
-    * Security Tips
-    * Bridges
-    * Explorers and Analytics
-  * [Advanced guides & deep dives](education/solana-ecosystem-guides/README.md)
+  * [Wallets](education/solana-ecosystem-guides/wallets/README.md)
+  * [DEXes and Swapping](education/solana-ecosystem-guides/dexes-and-swapping/README.md)
+  * [NFT Marketplaces](education/solana-ecosystem-guides/nft-marketplaces/README.md)
+  * [DeFi and Yield](education/solana-ecosystem-guides/defi-and-yield/README.md)
+  * [Security Tips](education/solana-ecosystem-guides/security-tips/README.md)
+  * [Bridges](education/solana-ecosystem-guides/bridges/README.md)
+  * [Explorers and Analytics](education/solana-ecosystem-guides/explorers-and-analytics/README.md)
 * [⛓️ EVM Ecosystem Guides](education/evm-ecosystem-guides/README.md)
   * Base
     * [Getting Started](education/evm-ecosystem-guides/base/getting-started/README.md)
-    * Wallets
-    * DEXes and Swapping
-    * NFT Marketplaces
-    * DeFi and Yield
-    * Security Tips
-    * Bridges
-    * Explorers and Analytics
+    * [Wallets](education/evm-ecosystem-guides/base/wallets/README.md)
+    * [DEXes and Swapping](education/evm-ecosystem-guides/base/dexes-and-swapping/README.md)
+    * [NFT Marketplaces](education/evm-ecosystem-guides/base/nft-marketplaces/README.md)
+    * [DeFi and Yield](education/evm-ecosystem-guides/base/defi-and-yield/README.md)
+    * [Security Tips](education/evm-ecosystem-guides/base/security-tips/README.md)
+    * [Bridges](education/evm-ecosystem-guides/base/bridges/README.md)
+    * [Explorers and Analytics](education/evm-ecosystem-guides/base/explorers-and-analytics/README.md)
   * Polygon
     * [Getting Started](education/evm-ecosystem-guides/polygon/getting-started/README.md)
-    * Wallets
-    * DEXes and Swapping
-    * NFT Marketplaces
-    * DeFi and Yield
-    * Security Tips
-    * Bridges
-    * Explorers and Analytics
+    * [Wallets](education/evm-ecosystem-guides/polygon/wallets/README.md)
+    * [DEXes and Swapping](education/evm-ecosystem-guides/polygon/dexes-and-swapping/README.md)
+    * [NFT Marketplaces](education/evm-ecosystem-guides/polygon/nft-marketplaces/README.md)
+    * [DeFi and Yield](education/evm-ecosystem-guides/polygon/defi-and-yield/README.md)
+    * [Security Tips](education/evm-ecosystem-guides/polygon/security-tips/README.md)
+    * [Bridges](education/evm-ecosystem-guides/polygon/bridges/README.md)
+    * [Explorers and Analytics](education/evm-ecosystem-guides/polygon/explorers-and-analytics/README.md)
   * Ethereum
     * [Getting Started](education/evm-ecosystem-guides/ethereum/getting-started/README.md)
-    * Wallets
-    * DEXes and Swapping
-    * NFT Marketplaces
-    * DeFi and Yield
-    * Security Tips
-    * Bridges
-    * Explorers and Analytics
+    * [Wallets](education/evm-ecosystem-guides/ethereum/wallets/README.md)
+    * [DEXes and Swapping](education/evm-ecosystem-guides/ethereum/dexes-and-swapping/README.md)
+    * [NFT Marketplaces](education/evm-ecosystem-guides/ethereum/nft-marketplaces/README.md)
+    * [DeFi and Yield](education/evm-ecosystem-guides/ethereum/defi-and-yield/README.md)
+    * [Security Tips](education/evm-ecosystem-guides/ethereum/security-tips/README.md)
+    * [Bridges](education/evm-ecosystem-guides/ethereum/bridges/README.md)
+    * [Explorers and Analytics](education/evm-ecosystem-guides/ethereum/explorers-and-analytics/README.md)
   * BNB Chain
     * [Getting Started](education/evm-ecosystem-guides/bnb-chain/getting-started/README.md)
-    * Wallets
-    * DEXes and Swapping
-    * NFT Marketplaces
-    * DeFi and Yield
-    * Security Tips
-    * Bridges
-    * Explorers and Analytics
+    * [Wallets](education/evm-ecosystem-guides/bnb-chain/wallets/README.md)
+    * [DEXes and Swapping](education/evm-ecosystem-guides/bnb-chain/dexes-and-swapping/README.md)
+    * [NFT Marketplaces](education/evm-ecosystem-guides/bnb-chain/nft-marketplaces/README.md)
+    * [DeFi and Yield](education/evm-ecosystem-guides/bnb-chain/defi-and-yield/README.md)
+    * [Security Tips](education/evm-ecosystem-guides/bnb-chain/security-tips/README.md)
+    * [Bridges](education/evm-ecosystem-guides/bnb-chain/bridges/README.md)
+    * [Explorers and Analytics](education/evm-ecosystem-guides/bnb-chain/explorers-and-analytics/README.md)
   * Other EVM Chains
     * See hub for deep dives on Arbitrum, Optimism, Avalanche, Linea, Scroll, zkSync and more
 * [🧑‍🏫 What are NFTs?](education/what-are-nfts.md)
