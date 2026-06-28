@@ -66,6 +66,7 @@ This is the kind of architectural foundation that allows a project to thrive acr
 - [Cross-Chain & Multi-Chain Vision](cross-chain-and-multi-chain-vision.md)
 - [Px Achievements](achievements.md)
 - [Px Badges](badges.md)
+- [PxUI — Reusable Components & Theming](px-ui.md)
 
 ## 🔭 Current Focus & Roadmap Outlook
 
