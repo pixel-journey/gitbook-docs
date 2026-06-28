@@ -62,6 +62,158 @@ Pixel Journey's own tools (PxWallet, PxPackages, PxPortals, etc.) are built with
 - Follow the official WAX and Antelope documentation for the latest updates.
 - Stay active in trusted developer communities and follow official channels for announcements.
 
+## Wharf Kit Integration Patterns
+
+**Wharf Kit** is the modern standard for building dApps on WAX and other Antelope chains. Below are the most common and recommended integration patterns used in production-grade applications.
+
+### Installation
+
+```bash
+npm install @wharfkit/core @wharfkit/session @wharfkit/wallet-plugin-anchor
+```
+
+For React/Next.js projects, also consider:
+```bash
+npm install @wharfkit/react
+```
+
+### 1. Basic Wallet Connection Pattern
+
+```ts
+import { Session } from '@wharfkit/session'
+import { WalletPluginAnchor } from '@wharfkit/wallet-plugin-anchor'
+
+const session = new Session({
+  chain: {
+    id: '1064487b3cd1a897ce03ae5b6a865651747e2e152090f99c1d19d44e01aea5a4', // WAX Mainnet
+    url: 'https://wax.greymass.com'
+  },
+  walletPlugin: new WalletPluginAnchor()
+})
+
+// Connect to Anchor wallet
+const result = await session.login()
+console.log('Connected account:', result.session.actor)
+```
+
+### 2. Persistent Session Management (Recommended)
+
+Store the session so users don't have to reconnect every time:
+
+```ts
+import { Session } from '@wharfkit/session'
+
+// Restore previous session if available
+let session = Session.restore()
+
+if (!session) {
+  session = new Session({
+    chain: { id: '...', url: '...' },
+    walletPlugin: new WalletPluginAnchor()
+  })
+  await session.login()
+  session.store() // Persist for future visits
+}
+```
+
+### 3. Signing Transactions / Actions
+
+```ts
+const action = {
+  account: 'atomicassets',
+  name: 'transfer',
+  authorization: [session.permissionLevel],
+  data: {
+    from: session.actor,
+    to: 'receiver',
+    asset_ids: [12345],
+    memo: 'Pixel Journey transfer'
+  }
+}
+
+const result = await session.transact({ actions: [action] })
+console.log('Transaction ID:', result.transaction_id)
+```
+
+### 4. Multi-Chain Support (WAX + XPR + Vaulta)
+
+Wharf Kit makes it easy to support multiple Antelope chains:
+
+```ts
+const chains = {
+  wax: { id: '...', url: 'https://wax.greymass.com' },
+  xpr: { id: '...', url: 'https://xpr.greymass.com' },
+  vaulta: { id: '...', url: 'https://vaulta.greymass.com' }
+}
+
+// Switch chain dynamically
+session = new Session({
+  chain: chains.wax,
+  walletPlugin: new WalletPluginAnchor()
+})
+```
+
+This pattern is especially powerful for future **PxPortals** cross-chain experiences.
+
+### 5. Error Handling & User Feedback
+
+```ts
+try {
+  const result = await session.transact({ actions: [...] })
+} catch (error) {
+  if (error.message.includes('user_cancelled')) {
+    console.log('User cancelled the transaction')
+  } else {
+    console.error('Transaction failed:', error)
+    // Show user-friendly error message
+  }
+}
+```
+
+### 6. React / Modern Framework Integration
+
+Use the official `@wharfkit/react` package for clean hooks:
+
+```tsx
+import { useSession } from '@wharfkit/react'
+
+function PixelJourneyDapp() {
+  const { session, login, logout } = useSession()
+
+  return (
+    <div>
+      {session ? (
+        <>
+          <p>Connected: {session.actor}</p>
+          <button onClick={logout}>Disconnect</button>
+        </>
+      ) : (
+        <button onClick={login}>Connect with Anchor</button>
+      )}
+    </div>
+  )
+}
+```
+
+### Best Practices for Production dApps
+
+- Always use **persistent sessions** for better UX.
+- Handle **user cancellation** gracefully.
+- Show clear loading states during transactions.
+- Validate all data before sending transactions.
+- Use TypeScript for type safety on actions and responses.
+- Support hardware wallets (Ledger) via Anchor for high-value interactions.
+- Log errors properly but never expose sensitive information.
+- Test thoroughly on testnet before mainnet.
+
+### Security Considerations
+
+- Never store private keys in your frontend.
+- Always validate user input on both client and server (when applicable).
+- Be extremely careful with permissions and approvals in your dApp.
+- Regularly update Wharf Kit and dependencies.
+- Consider rate limiting and abuse prevention for public dApps.
+
 ## Getting Started as a Developer on WAX
 
 1. Set up your development environment with the latest tools.
@@ -72,8 +224,8 @@ Pixel Journey's own tools (PxWallet, PxPackages, PxPortals, etc.) are built with
 
 ## Pixel Journey Relevance
 
-As we expand PxPackages, PxPortals, and our multi-chain ecosystem, having strong, modern developer tooling on WAX is foundational. By following these best practices, you help create a safer, more consistent experience for users across the Pixel Journey ecosystem.
+As we expand PxPackages, PxPortals, and our multi-chain ecosystem, having strong, modern developer tooling on WAX is foundational. By following these best practices and Wharf Kit integration patterns, you help create a safer, more consistent experience for users across the Pixel Journey ecosystem.
 
-We welcome developers who want to build on WAX while aligning with Pixel Journey's vision of safe, user-friendly, and cross-chain experiences.
+We especially encourage developers building tools that integrate with **PxWallet**, **PxMarket**, or future cross-chain features to follow these modern patterns.
 
 *Educational content only. Development involves real risks and responsibilities. Always DYOR and follow security best practices. Not financial advice.*
