@@ -7,7 +7,10 @@ XPR Network has a growing DEX ecosystem focused on fast, low-cost swapping and l
 
 ## Key DEXes on XPR Network
 
-XPR has several decentralized exchanges and swapping platforms. Options include native XPR-focused DEXes and tools that support efficient token movement.
+### XPR Swap
+XPR Swap is a key decentralized exchange and swapping platform on XPR Network, offering efficient token swaps and liquidity provision with low or feeless experiences for users.
+
+[Read the full XPR Swap guide →](xpr-swap.md)
 
 **Best Practices**
 - Compare rates across available platforms before large swaps.
