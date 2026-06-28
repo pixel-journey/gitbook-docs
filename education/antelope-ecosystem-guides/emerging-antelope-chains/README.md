@@ -2,14 +2,14 @@
 
 **Pixel Journey's Forward-Looking Guides for the Broader Antelope Family**
 
-The Antelope ecosystem is evolving. While WAX remains our core home for NFTs, gaming, and the PXJ economy, XPR Network offers feeless UX, and EOS provides mature dApp and governance tools, new and emerging Antelope chains (such as Volta and others in development) represent exciting opportunities for future experimentation, cross-chain strategies, and PxPortals integration.
+The Antelope ecosystem is evolving. While WAX remains our core home for NFTs, gaming, and the PXJ economy, XPR Network offers feeless UX, and EOS (now evolving toward Vaulta) provides mature dApp and governance tools, new and emerging Antelope chains represent exciting opportunities for future experimentation, cross-chain strategies, and PxPortals integration.
 
 This section will serve as the home for guides on these emerging chains as they mature and become relevant to Pixel Journey explorers.
 
 ## Current Status
 
-- **Volta and other emerging chains**: Early-stage or in active development. We are monitoring progress and will add dedicated getting-started, safety, and relevance guides here when they reach a point of safe, practical exploration.
-- **Why it matters for Pixel Journey**: These chains may offer unique resource models, new use cases, or cost-effective environments for testing mechanics that can later transfer back to WAX or inform cross-chain features.
+- **Vaulta (EOS evolution)**: The network has shifted focus toward regulated Web3 banking, institutional asset custody, and secure digital wealth management. Native token is $A. This is the relevant evolution of the EOS blockchain for REX, resources, and Antelope-family continuity.
+- **Other emerging chains**: We are monitoring progress on additional Antelope-based projects and will add dedicated getting-started, safety, and relevance guides here when they reach a point of safe, practical exploration.
 
 ## How to Use This Section
 
