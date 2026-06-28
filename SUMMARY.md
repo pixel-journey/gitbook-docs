@@ -153,14 +153,17 @@
     * [Antelope (WAX, XPR, Vaulta/EOS)](education/common-guides/wallets/antelope.md)
     * [EVM Chains](education/common-guides/wallets/evm.md)
     * [Solana](education/common-guides/wallets/solana.md)
-* [🧪 PxLabs — Innovation Lab](education/px-labs/README.md)
-  * [PxHot — Arena Battles](education/px-labs/px-hot/README.md)
-  * [PxWallet — Portfolio Vault](education/px-labs/px-wallet/README.md)
-  * PxLanding (coming soon)
+
+## 🧪 PxLabs — Innovation Lab
+
+* [PxLabs Overview](pxlabs/README.md)
+  * [PxLanding — The Central Hub](pxlabs/px-landing/README.md)
+  * [PxLearn — Web3 Academy](pxlabs/px-learn/README.md)
+  * [PxWallet — Institutional Vault](pxlabs/px-wallet/README.md)
+  * PxMarket (coming soon)
   * PxStaking (coming soon)
   * PxSwap (coming soon)
-  * PxMarket (coming soon)
-  * PxLearn (coming soon)
+  * PxHot (coming soon)
 
 ## Journey Use Cases
 
