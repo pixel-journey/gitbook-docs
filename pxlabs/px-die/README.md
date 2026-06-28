@@ -19,7 +19,7 @@
 
 PxDie is designed to add variety and excitement while staying connected:
 
-- Rewards and progression feed back into the main $PXJ / $KING economy and can influence PxStaking multipliers.
+- Rewards and progression feed back into the main $PXJ / $KING economy and can influence PxStaking multipliers or crafting opportunities.
 - Potential synergies with PxHot for combined events or shared reward pools.
 - Part of the expanding entertainment options accessible from PxLanding.
 - Contributes to overall engagement, retention, and seasonal activities in the Pixel Journey universe.
