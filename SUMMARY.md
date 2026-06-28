@@ -168,6 +168,7 @@
     * [Cross-Chain & Multi-Chain Vision](pxlabs/px-packages/cross-chain-and-multi-chain-vision.md)
     * [Px Achievements](pxlabs/px-packages/achievements.md)
     * [Px Badges](pxlabs/px-packages/badges.md)
+    * [PxUI — Reusable Components & Theming](pxlabs/px-packages/px-ui.md)
   * Upcoming Mini-Games
     * [PxTD — Tower Defense](pxlabs/px-td/README.md)
     * [PxSim — Simulation & Strategy](pxlabs/px-sim/README.md)
