@@ -100,6 +100,7 @@
     * [Wallets](education/antelope-ecosystem-guides/emerging-antelope-chains/wallets/README.md)
     * [Security Tips](education/antelope-ecosystem-guides/emerging-antelope-chains/security-tips/README.md)
 * [🟣 Solana Ecosystem Guides](education/solana-ecosystem-guides/README.md)
+  * [Getting Started](education/solana-ecosystem-guides/getting-started/README.md)
   * [Wallets](education/solana-ecosystem-guides/wallets/README.md)
   * [DEXes and Swapping](education/solana-ecosystem-guides/dexes-and-swapping/README.md)
   * [NFT Marketplaces](education/solana-ecosystem-guides/nft-marketplaces/README.md)
