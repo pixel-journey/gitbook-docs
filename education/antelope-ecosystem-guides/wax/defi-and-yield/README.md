@@ -1,34 +1,56 @@
-# 💰 DeFi and Yield on WAX — Core DeFi Activity
+# 💰 DeFi and Yield on WAX
 
-**WAX** has strong NFT-focused DeFi. See the main [WAX Ecosystem Guides](education/wax-ecosystem-guides/README.md) for detailed information on platforms, farms, and strategies.
+> **⚠️ Important Safety Note**  
+> DeFi on WAX (and everywhere) carries risks including smart contract vulnerabilities, impermanent loss, and rug pulls. Always DYOR thoroughly, start small, and never invest more than you can afford to lose.
 
-## Key DeFi and Yield Platforms on WAX
+WAX has active DeFi, particularly around liquidity provision, yield farming, and token staking tied to the NFT and resource economy.
 
-- **Alcor** and **TacoSwap** — Primary platforms for liquidity pools, yield farming, staking, and token swaps tied to the WAX and PXJ ecosystem.
-- Focus on NFT-related tokens, resources, and ecosystem tokens.
+## Key DeFi Platforms on WAX
 
-## Getting Started with DeFi and Yield on WAX
+### Alcor
 
-1. **Use Anchor wallet** (primary for WAX).
-2. **Acquire WAXP** for resources.
-3. **Research platforms** (Alcor, TacoSwap) via explorers and community resources.
-4. **Start with small test positions** in liquidity pools or farms.
-5. **Monitor positions** regularly and understand risks like impermanent loss.
+Alcor is a major hub for liquidity pools, yield farming, and token swaps on WAX. It supports many ecosystem tokens and is widely used by the Pixel Journey community.
 
-## Safety Best Practices
+**Key Features**
+- Good liquidity on major pairs
+- Farming and staking opportunities
+- Clean interface with useful analytics
 
-- **Verify contracts and platforms** from trusted sources or explorers.
-- **Read transaction details** carefully.
-- **Start very small** on new protocols or high-APY farms.
-- **Understand risks**: impermanent loss, smart contracts, liquidation.
-- **Revoke approvals** regularly.
-- **Use hardware wallets** for larger positions.
-- **DYOR thoroughly** on yields and new tokens.
+**Best For**
+- Providing liquidity and earning fees + farm rewards
+- Users focused on $PXJ and WAX ecosystem tokens
+
+### TacoSwap
+
+TacoSwap is another popular DEX with strong farming and staking features.
+
+**Key Features**
+- Competitive farms and pools
+- Good integration with various ecosystem projects
+- User-friendly experience
+
+**Best For**
+- Accessing specific yield opportunities
+- Diversifying across different farms
+
+## Best Practices for DeFi on WAX
+
+- Compare rates and APYs across platforms before committing.
+- Understand impermanent loss before providing liquidity.
+- Start with small test positions on new farms or pools.
+- Monitor your positions regularly.
+- Use hardware wallets for larger DeFi positions when possible.
+- Revoke approvals regularly.
 
 ## Pixel Journey Relevance
 
-This is your core home for DeFi activity alongside collections and crafting (e.g., via Alcor or TacoSwap for PXJ-related farms). Use other chains for low-cost testing of new mechanics, then bring insights back here. This keeps your primary focus on WAX collections, Pixals, and the PXJ economy.
+DeFi activity on WAX (liquidity provision, farming, token staking) directly supports the broader Pixel Journey economy. Efficient swapping and yield generation help users participate more actively in staking, crafting, and the overall $PXJ ecosystem. PxStaking and PxSwap are designed to integrate smoothly with these WAX DeFi activities.
 
-**Start small. Verify everything. Bring value back to WAX.**
+## Security Tips
 
-*Educational only. Always DYOR. Not financial advice.*
+- Be extremely cautious of new or high-APY farms (higher risk of rugs or exploits).
+- Always verify contracts from trusted sources.
+- Never approve contracts you don’t fully understand.
+- Start very small when exploring new yield opportunities.
+
+*Educational content only. DeFi involves significant risk. Always DYOR. Not financial advice.*
