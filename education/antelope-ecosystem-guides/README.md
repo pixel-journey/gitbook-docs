@@ -51,13 +51,15 @@ Use this table to quickly compare mechanics, economics, and fit for your Pixel J
 
 ## 🚀 Getting Started on Antelope Chains
 
-Detailed per-chain guides live under this hub (or linked from here). Current structure integrates existing high-quality content:
+Detailed per-chain guides live under this hub (or linked from here). We are standardizing structure so getting-started content is integrated directly under each chain for easy navigation:
 
-- **WAX (Core Home)**: Full deep-dive ecosystem guides + getting started in [WAX Ecosystem Guides](education/wax-ecosystem-guides/README.md) and [Getting Set Up on WAX](education/getting-set-up-on-wax/README.md). Anchor is king. AtomicHub priority for NFTs.
-- **XPR Network**: [Getting Set Up on XPR](education/getting-set-up-on-xpr/README.md) — wallets, security, NFT marketplaces, DeFi tools. Strong safety focus.
-- **EOS & Others**: Explore via official docs + explorers. Future dedicated sections here as we expand (governance, REX, major dApps). Watch for PxPortals updates.
+- **WAX (Core Home)**: 
+  - [Getting Started on WAX](education/antelope-ecosystem-guides/wax/getting-started/README.md) (new integrated location — wallets, 101, security, resources)
+  - Full advanced ecosystem deep dives: [WAX Ecosystem Guides](education/wax-ecosystem-guides/README.md). Anchor is the primary recommended wallet. AtomicHub is the priority marketplace for NFTs.
+- **XPR Network**: [Getting Set Up on XPR](education/getting-set-up-on-xpr/README.md) — wallets, security, NFT marketplaces, DeFi tools. Strong safety focus. (Future integration under this hub coming soon.)
+- **EOS & Others**: Explore via official docs + explorers (eosauthority.com, etc.). Future dedicated sections here as we expand (governance, REX, major dApps, Volta). Watch for PxPortals updates.
 
-**Workflow Tip**: Use the comparison table above to decide where to experiment next. E.g., test a new liquidity strategy on XPR first (cheaper), then apply lessons on WAX.
+**Workflow Tip**: Use the comparison table above to decide where to experiment next. E.g., test a new liquidity strategy on XPR first (cheaper), then apply lessons on WAX. All Antelope chains share similar resource and account models — skills transfer directly!
 
 ---
 
