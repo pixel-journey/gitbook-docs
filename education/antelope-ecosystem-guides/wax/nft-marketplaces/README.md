@@ -44,6 +44,10 @@ These platforms offer additional options for trading, crafting, and managing spe
 - Double-check all transaction details before confirming.
 - Consider using PxMarket (when fully available) for a more integrated experience with Pixel Journey assets.
 
+**For Collection Owners**: If you manage or create collections, be aware of **notify authority** and other collection-level permissions. These are different from regular token approvals and can carry additional risks. See:
+
+→ [Atomic Assets Permissions & Notify Authority](education/common-guides/atomic-assets-permissions-and-notify-authority.md)
+
 ## Pixel Journey Recommendation
 For trading Pixals and ecosystem NFTs, **PxMarket** is our top recommendation. While other marketplaces can still be used, PxMarket will offer the best integration and experience aligned with the Pixel Journey vision.
 
