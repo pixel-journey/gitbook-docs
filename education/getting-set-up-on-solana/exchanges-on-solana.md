@@ -1,12 +1,15 @@
 ---
 description: >-
   Jupiter, Raydium, Orca, and the key DeFi tools on Solana. Swapping tokens
-  on Solana is fast, cheap, and accessible from day one.
+  on Solana is fast, cheap, and accessible from day one. Advanced features
+  like DCA, limit orders, and perps add powerful trading options.
 ---
 
 # DEXs & Exchanges on Solana
 
 Solana's DeFi ecosystem is one of the most active in Web3 outside of Ethereum. Transaction fees are near-zero, execution is near-instant, and the tooling — especially Jupiter — is among the best in the industry for token swaps.
+
+For advanced trading strategies, see the dedicated **[Jupiter Advanced Features](jupiter-advanced-features.md)** guide.
 
 ---
 
