@@ -1,64 +1,63 @@
-# 🔧 Getting Set Up on Base — Pixel Journey EVM Expansion
+# 🟦 Getting Started on Base
 
-**Welcome to the Base chapter of your Pixel Journey!**
+> **⚠️ Important Safety Note**  
+> Base is a low-fee Ethereum L2 with growing adoption. Always DYOR thoroughly, start with small amounts when exploring new dApps or tokens, and never invest more than you can afford to lose. Be cautious of new or low-liquidity projects.
 
-Base is Coinbase’s fast, low-cost EVM chain built on Optimism. It offers excellent accessibility, strong developer tools, and growing NFT/gaming adoption — making it another natural expansion point for Pixel Journey explorers.
+Base is a fast, low-cost Ethereum Layer 2 built by Coinbase. It offers excellent UX for DeFi, NFTs, and experimentation while maintaining Ethereum security guarantees. It is one of the most popular L2s for cost-effective activity.
 
-As part of our long-term adventure that began on the **WAX Blockchain in 2023**, with **Pixal PFPs minted in Spring 2024**, and now over **1,050 days strong**, we’re building bridges to Polygon, BASE, Ethereum, and beyond. Base combines speed, affordability, and the backing of Coinbase, giving you a smooth on-ramp into deeper EVM experiences.
+## Why Explore Base?
 
-This section will help you get comfortable on Base safely and confidently, following the same professional, safety-first standards as our Antelope and Solana guides.
+- Very low transaction fees compared to Ethereum mainnet
+- Strong and growing DeFi and NFT ecosystems
+- Excellent tooling and broad wallet/dApp support
+- Useful for low-cost experimentation and strategy testing
+- Future PxPortals integration may connect Base more seamlessly with WAX and other chains
 
----
+## Getting Started Safely
 
-## Quick Start Links
+### 1. Set Up Your Wallet
 
-- **[Base 101](base-101.md)** — The essentials: what makes Base special, fees, native token (ETH), and why it matters for Pixel Journey
-- **Wallet Setup** — Use MetaMask or any EVM-compatible wallet (see the shared EVM tools in the hub)
-- **Getting ETH on Base** — Bridge from Ethereum or other chains
-- **Security Tips** — Stay safe on EVM chains (see base-security-tips.md)
+**MetaMask** is the most compatible wallet for Base. You can easily add the Base network.
 
----
+**Recommended Setup**
+- Use **MetaMask** (or Rabby) as your primary EVM wallet.
+- Enable hardware wallet integration (Ledger) for larger holdings.
+- Add the Base network to your wallet (official RPC details available on the Base website).
 
-## Why Base Matters for Pixel Journey
+### 2. Acquire Base ETH (for gas)
 
-- Very low fees and fast finality — ideal for frequent interactions and future on-chain features
-- Strong backing and ecosystem growth (Coinbase integration potential)
-- Excellent bridge connectivity and developer-friendly environment
-- A great next step for explorers wanting accessible EVM multi-chain experience
+You will need a small amount of ETH on Base for transaction fees. You can bridge ETH from Ethereum mainnet or other supported chains using official bridges.
 
-We see Base as an important part of our multi-chain vision because it lowers the barrier for new users while offering real utility for collectibles, community mechanics, and future PxPackages-powered miniDApps.
+**Tip**: Start with a very small amount (e.g., $5–10 worth) for testing.
 
----
+### 3. Start Exploring Safely
 
-## How This Fits Your Pixel Journey
+- Begin with well-known dApps and marketplaces on Base.
+- Use trusted explorers (Basescan) to verify transactions and contracts.
+- Start with tiny test transactions and positions.
+- Revoke token approvals regularly.
 
-If you’re following the **[Your Pixel Journey — The 12-Step Progression Path](../getting-started/your-pixel-journey-12-step-progression.md)**, Step 11 is all about going cross-chain. Base is one of the friendliest and most promising places to continue that adventure.
+### 4. Security Best Practices on Base
 
-Everything you learn here (wallets, bridging, gas, security) builds directly on the skills from WAX and other chains — making you a more versatile Pixel Pioneer.
+- Use hardware wallets for significant holdings.
+- Double-check all contract addresses and dApp URLs.
+- Be extra cautious of new or low-liquidity tokens and projects.
+- Never share your seed phrase or private keys.
+- Start small and verify everything.
 
----
+## Pixel Journey Relevance
 
-## Safety First on Base (and All EVM Chains)
+Base is an excellent low-cost environment for testing DeFi mechanics, NFT trading, and different strategies that can later be applied on WAX or other chains. It serves as a valuable complementary testing ground while keeping your primary focus and capital on WAX collections, Pixals, and the PXJ economy.
 
-- Start with small test amounts when bridging or trying new dApps.
-- Always read transaction details and verify contracts.
-- Use reputable wallets (MetaMask, Rabby, etc.) and enable hardware wallet support where possible.
-- Revoke approvals regularly.
-- Be cautious of phishing and fake sites — verify URLs from official sources.
-- DYOR on any project or yield opportunity.
+Skills and habits learned on Base transfer well and will become more valuable as PxPortals expands cross-chain capabilities.
 
-**Pixel Journey Relevance**: Base offers cost-effective EVM experimentation that complements your core WAX activities. Skills in wallets, bridging, and security transfer across chains. Use it to test mechanics or explore new communities while keeping primary focus and capital on Pixel Journey and WAX. Future PxPortals will make these connections even smoother.
+## Quick Start Checklist
 
----
+- [ ] Set up MetaMask and add Base network
+- [ ] Bridge a small amount of ETH to Base
+- [ ] Start with tiny test transactions
+- [ ] Use Basescan to verify activity
+- [ ] Revoke approvals regularly
+- [ ] Keep primary focus on WAX and Pixel Journey
 
-## Next Steps
-
-1. Read **[Base 101](base-101.md)**
-2. Set up or connect your EVM wallet
-3. Bridge a small test amount to get comfortable
-4. Explore Base marketplaces and projects
-5. Ask in the Discord for Base-specific tips and community events
-
-You’re expanding your pixel empire across chains. Every new chain you master makes you stronger in Web3. Base is an exciting place to continue your multi-chain journey while staying connected to the heart of Pixel Journey.
-
-*Educational only. Always DYOR. Not financial advice.*
+*Educational content only. Always DYOR. Not financial advice.*
