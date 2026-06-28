@@ -42,6 +42,9 @@ We’ve organized PxLabs in a logical order for new users:
 ### Foundational Infrastructure
 - [Px Packages & Px Portals](px-packages/README.md) — The long-term strategic layer enabling sustainable growth and multi-chain expansion
 
-**Additional tools** (PxTD, PxSim, PxDie, and future mini-games) will be added here as they mature.
+### Upcoming Mini-Games
+- [PxTD — Tower Defense](px-td/README.md)
+- [PxSim — Simulation & Strategy](px-sim/README.md)
+- [PxDie — Dice & Chance](px-die/README.md)
 
 *All content is educational. DYOR. Not financial advice. Development is iterative — your feedback directly shapes the final product.*
