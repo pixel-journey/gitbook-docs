@@ -7,13 +7,13 @@ XPR Network has a range of additional tools, platforms, and projects focused on 
 
 ## Notable Projects & Tools on XPR
 
-XPR has platforms and tools for token mechanics, project building, and community features. Many are optimized for low-cost or feeless experiences.
+### XPR Governance
+XPR has a decentralized governance system centered around proposals, voting, and community participation.
 
-**Best Practices**
-- Always verify current status and reputation of any platform or tool.
-- Start small when exploring new projects.
-- Double-check all contracts and transactions.
-- Revoke approvals regularly.
+[Read the full XPR Governance guide →](xpr-governance.md)
+
+### Other Community Tools
+Various smaller tools and resources that help with specific tasks on XPR (inventory management, quick actions, analytics, etc.).
 
 ## Pixel Journey Relevance
 These tools and projects on XPR provide unique utility and can offer inspiration for our own PxPackages and cross-chain features. Exploring them helps build a broader understanding of the Antelope ecosystem while keeping primary focus on WAX and Pixel Journey.
