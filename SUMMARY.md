@@ -66,6 +66,7 @@
 
 ## 📚 Education
 
+* [⛓️ Antelope Ecosystem Guides (WAX, XPR Network, EOS & Beyond) — Comparison, Safety & Getting Started Hub](education/antelope-ecosystem-guides/README.md)
 * [🧑‍🏫 What are NFTs?](education/what-are-nfts.md)
 * [🛠️ Getting set up on Wax](education/getting-set-up-on-wax/README.md)
 * [🏢 WAX Ecosystem Guides — Full Advanced Mastery Hub](education/wax-ecosystem-guides/README.md)
