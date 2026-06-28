@@ -1,55 +1,58 @@
 # 🛡️ Security Tips for Emerging Antelope Chains
 
 > **⚠️ Critical Safety Reminder**  
-> Emerging chains often carry higher risk. Newer codebases, smaller teams, and less battle-tested security mean extra caution is required. Always DYOR thoroughly, start with very small amounts, and never invest more than you can afford to lose.
+> Emerging chains carry higher risks including smart contract vulnerabilities, lower liquidity, and potential instability. Scams, phishing, and malicious contracts are more common. Always stay extremely vigilant. DYOR. Never share private keys or seed phrases.
 
-Security practices for emerging Antelope chains build on the same principles used for WAX, XPR, and Vaulta, with additional emphasis on caution.
+Security practices on emerging Antelope chains follow standard Antelope principles but require extra caution due to the higher risk profile.
 
 ## Core Security Principles
 
 ### 1. Protect Your Keys
-- Never share your private keys or seed phrase.
-- Use a hardware wallet for significant holdings when possible.
+- Never share your private keys or seed phrase with anyone or any website.
+- Use a hardware wallet (Ledger) for significant holdings when possible.
 - Store your seed phrase securely offline.
 
 ### 2. Verify Everything
-- Always double-check URLs before connecting your wallet.
-- Verify contract addresses from official or trusted sources.
+- Always double-check URLs and contract addresses before connecting your wallet or approving transactions.
 - Be extremely cautious of links in Discord, Twitter, or DMs.
+- Bookmark official sites and use them directly.
 
-### 3. Start Extremely Small
-- Test new chains, dApps, or features with tiny amounts first.
-- Never commit meaningful capital until a chain has proven itself over time.
+### 3. Start Small
+- Test new dApps, tokens, or features with very small amounts first.
+- Never commit large sums to anything you haven't thoroughly researched.
 
 ### 4. Manage Approvals
-- Regularly revoke token approvals.
+- Regularly revoke token approvals using trusted tools.
 - Avoid unlimited approvals when possible.
+- Revoke access for dApps you no longer use.
 
-### 5. Be Extra Scam Aware
-- Watch out for fake airdrops, giveaways, and suspicious projects promising high returns.
-- New chains are often targeted by scammers — extra vigilance is required.
+### 5. Be Scam Aware
+- Watch out for fake airdrops, giveaways, and "support" accounts.
+- Never click suspicious links or download unknown files.
+- If something sounds too good to be true, it almost always is.
 
 ## Emerging Chain-Specific Considerations
 
-- Newer codebases may have undiscovered vulnerabilities — treat everything as higher risk.
-- Smaller communities mean less established information channels — verify claims independently.
-- Liquidity is often lower — higher risk of rugs, manipulation, or sudden illiquidity.
+- Be extra cautious of new or unproven dApps and projects.
+- Lower liquidity means higher risk of manipulation or rugs.
+- Bridge security is critical when moving assets from WAX or other chains — use official/audited bridges and test small.
+- Many tools may be shared — stick to well-known ones where possible.
 
 ## Pixel Journey Security Recommendations
 
 When exploring emerging Antelope chains alongside Pixel Journey:
 
-- Use **Anchor** as your primary wallet.
-- Apply even stricter verification and “start small” habits than on WAX or XPR.
+- Use **Anchor** as your primary wallet, with hardware integration for larger positions.
+- Apply the same rigorous verification and "start small" habits used on WAX and other chains, but with even greater caution.
 - Keep your primary focus and capital on WAX collections and the PXJ economy.
-- Use emerging chains mainly for very low-risk experimentation and learning.
-- Stay informed through trusted Pixel Journey channels and do your own research.
+- Use emerging chains mainly for low-risk experimentation and learning.
+- Stay informed through trusted Pixel Journey channels.
 
 ## Recommended Habits
 
-- Keep software and wallets updated.
+- Keep your software and wallet updated.
 - Use strong, unique passwords where applicable.
-- Stay informed through trusted community channels.
-- Regularly review active sessions and approvals.
+- Enable any available security features in your wallet.
+- Regularly review active approvals and sessions.
 
-*This is educational content. Emerging chains carry higher risk. Always DYOR and stay extra cautious. Not financial advice.*
+*This is educational content. Security is your responsibility. Always DYOR and stay extremely cautious on emerging chains. Not financial advice.*
