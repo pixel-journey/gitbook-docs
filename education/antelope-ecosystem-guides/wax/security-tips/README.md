@@ -1,54 +1,58 @@
-# 🛡️ Security Tips on WAX — Core Best Practices for Pixel Journey
+# 🛡️ Security Tips for WAX
 
-**WAX** follows core Antelope security practices. As the home of your Pixel Journey (Pixals, PXJ economy, collections), mastering security here is essential. The biggest risks are social engineering, phishing, and approving malicious contracts — not the blockchain itself.
+> **⚠️ Critical Safety Reminder**  
+> WAX, like all blockchains, has risks. Scams, phishing, fake dApps, and malicious contracts are common. Always stay vigilant. DYOR. Never share private keys or seed phrases.
 
-See the main [WAX Ecosystem Guides](education/wax-ecosystem-guides/README.md) for the most up-to-date and detailed security information.
+Security is especially important when engaging with the Pixel Journey ecosystem and the broader WAX economy.
 
 ## Core Security Principles
 
-### Seed Phrases & Keys
-- Never share your seed phrase or private keys.
-- Store offline in a secure location (metal backup recommended for large holdings).
-- Hardware wallets (Ledger, etc.) add a strong layer for significant assets.
+### 1. Protect Your Keys
+- Never share your private keys or seed phrase with anyone or any website.
+- Use a hardware wallet for significant holdings when possible.
+- Store your seed phrase securely offline (never in cloud storage or screenshots).
 
-### Transaction Approvals
-- Always read what a transaction is doing before confirming.
-- Use wallets with clear previews and simulations where available.
-- Reject anything that looks suspicious or requests unexpected permissions.
-- Start with small test transactions on new dApps.
+### 2. Verify Everything
+- Always double-check URLs before connecting your wallet.
+- Verify contract addresses from official sources.
+- Be extremely cautious of links in Discord, Twitter, or DMs.
+- Bookmark official sites and use them directly.
 
-### Phishing & Scams
-- Verify all URLs and contract addresses from official sources.
-- Be cautious of DMs, fake support, or "free" offers — common vectors.
-- Use community verification or tools for new tokens/projects.
+### 3. Start Small
+- Test new dApps, DEXes, or features with very small amounts first.
+- Never commit large sums to anything you haven't thoroughly researched.
 
-### Account & Permission Management
-- Use separate accounts for different activities if possible.
-- Regularly review and update permissions.
-- Enable all available security features in your wallet.
+### 4. Manage Approvals
+- Regularly revoke token approvals using trusted tools (e.g., verified WAX tools sites).
+- Avoid unlimited approvals when possible.
+- Revoke access for dApps you no longer use.
+
+### 5. Be Scam Aware
+- Watch out for fake airdrops, giveaways, and "support" accounts.
+- Never click suspicious links or download unknown files.
+- If something sounds too good to be true, it almost always is.
 
 ## WAX-Specific Considerations
 
-- **Resource Management**: Running out of CPU/NET can be frustrating — monitor and stake appropriately.
-- **NFT/Collection Safety**: Extra caution with new collections, blends, and airdrops.
-- **Bridges**: Use official/audited bridges when moving assets; test small first.
+- Resource management (CPU/NET/RAM) can be targeted in certain attacks — keep some resources available.
+- NFT scams (fake collections, malicious mints) are common — verify collections before interacting.
+- Many popular tools and explorers exist — stick to well-known, community-vetted ones.
 
-## Useful Tools
+## Pixel Journey Security Recommendations
 
-- Official wallet security features.
-- Explorers for transaction verification (waxblock.io, etc.).
-- Community resources for scam reports.
+When using Px platforms and the broader WAX ecosystem:
 
-## Pixel Journey Best Practices
+- Use **Anchor** as your primary wallet.
+- Connect through official Px sites and verified links.
+- Be extra cautious when approving contracts for staking, swapping, or marketplace interactions.
+- Regularly check your active sessions and approvals.
+- Use PxWallet features (when available) for enhanced security and vault options.
 
-- Use reputable wallets (Anchor) and hardware where possible.
-- Bridge small test amounts to other chains to learn safely.
-- Combine with other chains for active, low-cost experimentation.
-- Read full wallet and DeFi guides before diving in.
-- Report suspicious activity in our Discord — we're all learning together.
+## Recommended Habits
 
-**Pro Tip**: WAX is your core home — treat security here with the highest priority. The skills transfer directly to XPR, Vaulta/EOS, and beyond. Start small, verify everything, and keep your primary focus on Pixel Journey.
+- Keep your software and wallet updated.
+- Use strong, unique passwords where applicable.
+- Enable any available 2FA or additional security features.
+- Stay informed through official Pixel Journey channels (Discord, verified socials).
 
-Stay vigilant and pixel-powered! 🚀
-
-*Pixel Journey — Security first across every ecosystem.*
+*This is educational content. Security is your responsibility. Always DYOR and stay cautious. Not financial advice.*
