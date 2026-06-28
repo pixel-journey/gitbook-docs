@@ -100,11 +100,13 @@
   * [Wallets on EVM](introduction/evm-ecosystem-guides/wallets-on-evm.md)
   * [DEXes & Swapping on EVM](introduction/evm-ecosystem-guides/dexes-and-swapping-on-evm.md)
   * [NFT Marketplaces on EVM](introduction/evm-ecosystem-guides/nft-marketplaces-on-evm.md)
+  * [Bridges on EVM](introduction/evm-ecosystem-guides/bridges-on-evm.md)
 * [🛠️ Getting set up on Polygon (WIP) 🚧](education/getting-set-up-on-polygon-wip/README.md)
 * [🛠️ Getting set up on Base (WIP) 🚧](education/getting-set-up-on-base-wip/README.md)
 * [🛠️ Getting set up on Ethereum (WIP) 🚧](education/getting-set-up-on-ethereum-wip/README.md)
 * [🛠️ Getting set up on BNB Chain (WIP) 🚧](education/getting-set-up-on-bnb-chain-wip/README.md)
 * [🛠️ Getting set up on Solana](education/getting-set-up-on-solana/README.md)
+  * [Solana Bridges & Cross-Chain](education/getting-set-up-on-solana/solana-bridges-and-cross-chain.md)
 * [🛠️ Getting set up on XPR](education/getting-set-up-on-xpr/README.md)
 
 ## Journey Use Cases
