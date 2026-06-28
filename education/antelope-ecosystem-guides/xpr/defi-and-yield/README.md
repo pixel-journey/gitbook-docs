@@ -7,7 +7,10 @@ XPR Network has a growing DeFi ecosystem with focus on efficient swapping, liqui
 
 ## Key DeFi Platforms on XPR Network
 
-XPR has several platforms supporting token swaps, liquidity provision, and yield farming. These are useful for experimentation at very low cost.
+### XPR Farms and Yield
+XPR has platforms supporting liquidity provision, farming, and staking with efficient mechanics.
+
+[Read the full XPR Farms guide →](xpr-farms.md)
 
 **Best Practices**
 - Compare rates and opportunities across available platforms.
