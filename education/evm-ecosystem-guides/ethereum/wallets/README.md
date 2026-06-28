@@ -1,23 +1,47 @@
-# 🛠️ Wallets on Ethereum
+# 👛 Wallets on Ethereum
 
-**Wallets on Ethereum** are the foundation of the EVM ecosystem. MetaMask, Rabby, and hardware wallets are standard. Higher gas fees on mainnet make careful wallet and transaction management important.
+> **⚠️ Important Safety Note**  
+> Always use official or well-audited wallets. Never share your private keys or seed phrases. Be extremely cautious with any website or tool asking for your private keys. Start small when testing new wallets or features. DYOR.
 
-## Recommended Wallets
-- MetaMask, Rabby (primary)
-- Hardware wallets (Ledger etc.) for larger holdings
+Ethereum uses standard EVM tooling, so wallets that work across EVM chains work seamlessly on Ethereum mainnet.
 
-## Getting Started
-1. Set up wallet and add Ethereum network.
-2. Acquire ETH for gas.
-3. Start with small transactions.
-4. Use L2s (Base, Arbitrum, etc.) for most activity to save on fees.
+## Recommended Wallet
 
-## Safety
-- Always verify transactions.
-- Revoke approvals regularly.
-- Hardware for significant assets.
+### MetaMask (Primary Recommendation)
+
+**MetaMask** is the most compatible and widely used wallet for Ethereum. It supports easy network management and works well with hardware wallets.
+
+**Key Features**
+- Broad EVM compatibility across all chains
+- Easy network management
+- Hardware wallet support (Ledger)
+- Strong security features and regular updates
+
+**Best For**
+- Most users exploring Ethereum alongside other EVM chains
+- Users who want one wallet for multiple EVM networks
+
+### Other Strong Options
+
+- **Rabby** — Modern EVM wallet with enhanced security features and transaction simulation.
+- **Ledger + MetaMask/Rabby** — Recommended for larger holdings.
+
+## Security Best Practices on Ethereum
+
+- Use hardware wallets (Ledger) for significant holdings when possible.
+- Never share your seed phrase or private keys.
+- Double-check all dApp URLs and contract addresses.
+- Revoke token approvals regularly.
+- Start with small amounts when trying new dApps or tokens on Ethereum.
+- Be extra cautious of new or high-value projects.
+- Monitor gas prices to avoid overpaying or failed transactions.
 
 ## Pixel Journey Relevance
-Core EVM skills learned here transfer to all L2s and will be important for future PxPortals.
 
-*Educational only. Always DYOR. Not financial advice.*
+MetaMask (or Rabby) makes it easy to experiment on Ethereum while keeping your primary focus and capital on WAX collections, Pixals, and the PXJ economy. Skills and security habits transfer well and will become more valuable as PxPortals expands cross-chain capabilities.
+
+## Recommendation
+
+For most users exploring Ethereum alongside Pixel Journey, **MetaMask** (with hardware integration for larger positions) is the strongest and safest everyday choice. Consider Rabby for enhanced security features.
+
+*This is educational content only. Always DYOR and use caution with any wallet or dApp. Not financial advice.*
