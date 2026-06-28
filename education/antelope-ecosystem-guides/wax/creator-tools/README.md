@@ -5,6 +5,19 @@
 
 WAX has a rich set of creator-focused tools that allow you to build, drop, blend, stake, craft, and manage collections and tokens. These tools are essential for anyone looking to create value in the Pixel Journey ecosystem and for building on top of WAX's NFT and token infrastructure.
 
+## What Are Creator Tools?
+
+Creator tools on WAX (especially those built around **Atomic Assets**) let collection owners and creators perform powerful on-chain actions such as:
+
+- Creating and managing NFT collections
+- Setting up **drops** (timed or permissioned mints)
+- Building **blends** (crafting/combining NFTs or ingredients)
+- Managing staking and reward systems
+- Handling breeding mechanics, leaderboards, and raffles
+- Bulk operations and collection administration
+
+These tools are what power most of the advanced NFT and gaming experiences on WAX, including many aspects of the Pixel Journey economy (crafting, staking, progression systems, etc.).
+
 ## Key Creator Tools on WAX
 
 ### Neftyblocks
@@ -34,6 +47,22 @@ F12Key serves as both a marketplace helper and a powerful creator tool for quick
 
 [Read the full F12Key guide →](f12key.md)
 
+## Important: Notify Authority on Atomic Assets Collections
+
+When using creator tools, collection owners sometimes grant **notify authority** (or other permissions) to third-party contracts or accounts. This is common for advanced features like automatic notifications, inline actions, or integration with other platforms.
+
+**Potential Risks**:
+- Accounts with notify authority can potentially trigger on-chain actions related to your collection (e.g., blocking transfers in certain scenarios or performing inline operations).
+- While rare and usually not malicious, granting notify authority gives the authorized account significant power over collection behavior.
+
+**Recommendation**:
+- Only grant notify authority when you fully understand the tool and trust the contract/account.
+- Regularly review which accounts have notify authority on your collections.
+- As the collection owner, you can always remove an account from notify authority if anything feels off.
+- If you're unsure, start without granting notify authority and only enable it when a specific feature truly requires it.
+
+This is not a common attack vector, but it is worth being aware of as a collection creator.
+
 ## Step-by-Step: Getting Started with Creator Tools on WAX
 
 1. Research the specific tool thoroughly (features, current reputation, any known issues).
@@ -56,6 +85,7 @@ As PxMarket, PxStaking, and other Px Portals mature, integration with these crea
 - Never approve contracts you don’t fully understand.
 - Start very small when exploring new creator tools on WAX.
 - Monitor for any unusual activity or platform issues, especially after ownership or major changes.
+- Pay special attention to notify authority and other collection-level permissions if you are a collection owner.
 
 ## Pro Tips
 
