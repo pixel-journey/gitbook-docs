@@ -1,64 +1,64 @@
-# 🔧 Getting Set Up on Ethereum — Pixel Journey EVM Expansion
+# 🟨 Getting Started on Ethereum
 
-**Welcome to the Ethereum chapter of your Pixel Journey!**
+> **⚠️ Important Safety Note**  
+> Ethereum mainnet has higher fees and requires extra caution with gas and contract interactions. Always DYOR thoroughly, start with small amounts when exploring new dApps or tokens, and never invest more than you can afford to lose. Be especially cautious on high-value or new projects.
 
-Ethereum is the original smart contract platform and the foundation of the entire EVM ecosystem. It offers unmatched security, the largest developer community, and the most mature DeFi/NFT infrastructure — making it a key destination for Pixel Journey explorers expanding beyond WAX.
+Ethereum is the original and most established EVM chain. It offers the deepest liquidity, most mature DeFi and NFT ecosystems, and strongest security guarantees, but with higher transaction fees compared to L2s like Base or Polygon.
 
-As part of our long-term adventure that began on the **WAX Blockchain in 2023**, with **Pixal PFPs minted in Spring 2024**, and now over **1,050 days strong**, we’re building bridges to Ethereum, Base, Polygon, and beyond. Ethereum provides the gold standard for security and decentralization, with L2s offering the speed and low costs needed for everyday use.
+## Why Explore Ethereum?
 
-This section will help you get comfortable on Ethereum safely and confidently, following the same professional, safety-first standards as our Antelope and Solana guides.
+- Deepest liquidity and most mature DeFi/NFT ecosystems
+- Strongest security and decentralization among EVM chains
+- Home to many blue-chip projects and protocols
+- Useful for accessing high-value or flagship opportunities
+- Future PxPortals integration may connect Ethereum more seamlessly with WAX and other chains
 
----
+## Getting Started Safely
 
-## Quick Start Links
+### 1. Set Up Your Wallet
 
-- **[Ethereum 101](ethereum-101.md)** — The essentials: what makes Ethereum special, gas fees, native token (ETH), and why it matters for Pixel Journey
-- **Wallet Setup** — Use MetaMask or any EVM-compatible wallet (see the shared EVM tools in the hub)
-- **Getting ETH** — Buy on exchanges or bridge from L2s (see how-to-get-eth.md)
-- **Security Tips** — Stay safe on EVM chains (see eth-security-tips.md)
+**MetaMask** is the most compatible wallet for Ethereum. Hardware wallet integration (Ledger) is strongly recommended for larger holdings.
 
----
+**Recommended Setup**
+- Use **MetaMask** (or Rabby) as your primary EVM wallet.
+- Enable hardware wallet integration (Ledger) for larger holdings.
+- Ensure you have the Ethereum mainnet network added (it usually is by default).
 
-## Why Ethereum Matters for Pixel Journey
+### 2. Acquire ETH (for gas)
 
-- Highest security and decentralization — the backbone of Web3
-- Massive ecosystem for DeFi, NFTs, and dApps
-- Excellent bridge connectivity from WAX and L2s
-- A foundational chain for deeper EVM understanding and future PxPortals cross-chain features
+You will need ETH on Ethereum mainnet for transaction fees (gas). Gas fees can be significantly higher than on L2s, so plan accordingly and start with small test transactions.
 
-Ethereum is where many of the most important protocols and standards were born. Mastering it gives you deep insight into how the broader EVM world works.
+**Tip**: Monitor gas prices using tools like etherscan.io/gastracker before making transactions.
 
----
+### 3. Start Exploring Safely
 
-## How This Fits Your Pixel Journey
+- Begin with well-established, audited dApps and marketplaces on Ethereum.
+- Use trusted explorers (Etherscan) to verify transactions and contracts.
+- Start with tiny test transactions and positions due to higher fees.
+- Revoke token approvals regularly.
 
-If you’re following the **[Your Pixel Journey — The 12-Step Progression Path](../getting-started/your-pixel-journey-12-step-progression.md)**, Step 11 is all about going cross-chain. Ethereum is the ultimate destination for serious multi-chain explorers.
+### 4. Security Best Practices on Ethereum
 
-Everything you learn here (wallets, gas management, security, bridging) applies across all EVM chains and builds directly on your WAX skills.
+- Use hardware wallets for significant holdings.
+- Double-check all contract addresses and dApp URLs.
+- Be extra cautious of new or high-value projects.
+- Never share your seed phrase or private keys.
+- Start small and verify everything.
+- Monitor gas prices to avoid overpaying or failed transactions.
 
----
+## Pixel Journey Relevance
 
-## Safety First on Ethereum (and All EVM Chains)
+Ethereum offers access to the deepest and most mature DeFi and NFT ecosystems. While fees are higher, it can be useful for accessing flagship opportunities or testing strategies that can later be applied on lower-cost chains. It serves as a valuable (though more expensive) complementary environment while keeping your primary focus and capital on WAX collections, Pixals, and the PXJ economy.
 
-- Start with small test amounts when bridging or trying new dApps.
-- Always read transaction details and verify contracts.
-- Use reputable wallets (MetaMask, Rabby, etc.) and enable hardware wallet support where possible.
-- Revoke approvals regularly.
-- Be cautious of phishing and fake sites — verify URLs from official sources.
-- DYOR on any project or yield opportunity. Gas fees can add up — plan transactions carefully.
+Skills and habits learned on Ethereum transfer well and will become more valuable as PxPortals expands cross-chain capabilities.
 
-**Pixel Journey Relevance**: Ethereum offers the most secure and mature EVM environment for experimentation that complements your core WAX activities. Skills in security, bridging, and dApp interaction transfer directly. Use L2s for cost-effective testing, then move to mainnet when needed. Future PxPortals will make these connections seamless. Keep primary focus and capital on Pixel Journey and WAX.
+## Quick Start Checklist
 
----
+- [ ] Set up MetaMask with hardware integration
+- [ ] Acquire a small amount of ETH for gas
+- [ ] Start with tiny test transactions
+- [ ] Use Etherscan to verify activity
+- [ ] Revoke approvals regularly
+- [ ] Keep primary focus on WAX and Pixel Journey
 
-## Next Steps
-
-1. Read **[Ethereum 101](ethereum-101.md)**
-2. Set up or connect your EVM wallet
-3. Bridge a small test amount to get comfortable
-4. Explore Ethereum marketplaces and major protocols
-5. Join the Discord and ask for Ethereum-specific tips from the community
-
-You’re expanding your pixel empire across chains. Every new chain you master makes you stronger in Web3. Ethereum is the heart of the EVM world — a powerful place to continue your multi-chain journey while staying connected to the heart of Pixel Journey.
-
-*Educational only. Always DYOR. Not financial advice.*
+*Educational content only. Always DYOR. Not financial advice.*
