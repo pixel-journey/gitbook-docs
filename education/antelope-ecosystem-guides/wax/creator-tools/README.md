@@ -47,21 +47,19 @@ F12Key serves as both a marketplace helper and a powerful creator tool for quick
 
 [Read the full F12Key guide →](f12key.md)
 
-## Important: Notify Authority on Atomic Assets Collections
+## Important: Atomic Assets Permissions & Notify Authority
 
-When using creator tools, collection owners sometimes grant **notify authority** (or other permissions) to third-party contracts or accounts. This is common for advanced features like automatic notifications, inline actions, or integration with other platforms.
+When using creator tools, collection owners sometimes grant **notify authority** (or other permissions) to third-party contracts or accounts. This is common for advanced features.
 
-**Potential Risks**:
-- Accounts with notify authority can potentially trigger on-chain actions related to your collection (e.g., blocking transfers in certain scenarios or performing inline operations).
-- While rare and usually not malicious, granting notify authority gives the authorized account significant power over collection behavior.
+For a detailed explanation of the risks and best practices, see:
 
-**Recommendation**:
-- Only grant notify authority when you fully understand the tool and trust the contract/account.
-- Regularly review which accounts have notify authority on your collections.
-- As the collection owner, you can always remove an account from notify authority if anything feels off.
-- If you're unsure, start without granting notify authority and only enable it when a specific feature truly requires it.
+→ [Atomic Assets Permissions & Notify Authority](education/common-guides/atomic-assets-permissions-and-notify-authority.md)
 
-This is not a common attack vector, but it is worth being aware of as a collection creator.
+**Quick Summary**:
+- Notify authority gives another account/contract significant power over your collection.
+- It can enable advanced mechanics but also carries risks.
+- As the collection owner, you can always remove an account from notify authority if needed.
+- Only grant it when you understand why it's required.
 
 ## Step-by-Step: Getting Started with Creator Tools on WAX
 
