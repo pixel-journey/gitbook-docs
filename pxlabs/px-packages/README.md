@@ -70,6 +70,8 @@ This is the kind of architectural foundation that allows a project to thrive acr
 - [PxVault — Automation & Ownership Unlocks](px-vault.md)
 - [Shared State & Cross-Portal Communication](shared-state-and-cross-portal-communication.md)
 - [Offline Resilience & PWA Architecture](offline-resilience-and-pwa-architecture.md)
+- [Developer Experience & Modularity](developer-experience-and-modularity.md)
+- [Security & Trust Principles](security-and-trust-principles.md)
 
 ## 🔭 Current Focus & Roadmap Outlook
 
