@@ -73,11 +73,15 @@
   * XPR Network
     * [Getting Started on XPR Network (Integrated)](education/antelope-ecosystem-guides/xpr/getting-started/README.md)
   * EOS & Emerging Antelope Chains
-    * (Future dedicated sections — governance, REX, major dApps, Volta)
+    * [Getting Started on EOS](education/antelope-ecosystem-guides/eos/getting-started/README.md)
 * [🟣 Solana (SVM) Ecosystem Guides — Advanced Trading, DeFi & NFT Hub](education/solana-ecosystem-guides/README.md)
   * Full advanced guides & deep dives: [Getting Set Up on Solana](education/getting-set-up-on-solana/README.md)
 * [⛓️ EVM Ecosystem Guides — Full Advanced Mastery Hub](education/evm-ecosystem-guides/README.md)
-  * Common tools + per-chain (Ethereum, Base, Polygon, BNB, Arbitrum, Optimism, etc.)
+  * Base
+    * [Getting Started on Base (New Integrated Structure)](education/evm-ecosystem-guides/base/getting-started/README.md)
+  * Other EVM Chains (Polygon, Ethereum, BNB, Arbitrum, Optimism, etc.)
+    * (Getting-started sections being integrated from former WIP folders — following same pattern as Base and WAX)
+  * Common Tools & Per-Chain Deep Dives: See linked pages in hub
 * [🧑‍🏫 What are NFTs?](education/what-are-nfts.md)
 * [🛠️ Getting set up on Wax (Legacy)](education/getting-set-up-on-wax/README.md)
 * [🏢 WAX Ecosystem Guides — Full Advanced Mastery Hub](education/wax-ecosystem-guides/README.md)
@@ -108,10 +112,10 @@
     * [Wax.fun](introduction/wax-ecosystem-guides/wax.fun/README.md)
     * [Uncut NFT Platform](introduction/wax-ecosystem-guides/uncut-nft-some-platform.md)
     * [PXJ Writers Program](introduction/wax-ecosystem-guides/pxj-writers-program.md)
-* [🛠️ Getting set up on Polygon (WIP) 🚧](education/getting-set-up-on-polygon-wip/README.md)
-* [🛠️ Getting set up on Base (WIP) 🚧](education/getting-set-up-on-base-wip/README.md)
-* [🛠️ Getting set up on Ethereum (WIP) 🚧](education/getting-set-up-on-ethereum-wip/README.md)
-* [🛠️ Getting set up on BNB Chain (WIP) 🚧](education/getting-set-up-on-bnb-chain-wip/README.md)
+* [🛠️ Getting set up on Polygon (Legacy WIP path — converting to proper structure)](education/getting-set-up-on-polygon-wip/README.md)
+* [🛠️ Getting set up on Base (Legacy WIP path — now integrated)](education/getting-set-up-on-base-wip/README.md)
+* [🛠️ Getting set up on Ethereum (Legacy WIP path)](education/getting-set-up-on-ethereum-wip/README.md)
+* [🛠️ Getting set up on BNB Chain (Legacy WIP path)](education/getting-set-up-on-bnb-chain-wip/README.md)
 * [🛠️ Getting set up on Solana (Legacy path)](education/getting-set-up-on-solana/README.md)
   * [Solana Bridges & Cross-Chain](education/getting-set-up-on-solana/solana-bridges-and-cross-chain.md)
   * [Jupiter Advanced Features](education/getting-set-up-on-solana/jupiter-advanced-features.md)
