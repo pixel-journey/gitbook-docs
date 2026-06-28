@@ -2,7 +2,7 @@
 
 **Pixel Journey's Safe Multi-Chain Handbook for the Antelope Family**
 
-Antelope powers some of the most efficient, account-centric blockchains in Web3 — optimized for **low fees, fast finality, human-readable accounts, and seamless NFT/DeFi experiences**. WAX is Pixel Journey's core home (Pixals, PXJ economy, creator tools), but exploring sister chains like **XPR Network** and **EOS**, plus emerging Antelope chains, offers incredible value for cost-effective experimentation, future-proofing with PxPortals, and diversified learning — all while keeping your primary focus and capital on the Pixel Journey ecosystem.
+Antelope powers some of the most efficient, account-centric blockchains in Web3 — optimized for **low fees, fast finality, human-readable accounts, and seamless NFT/DeFi experiences**. WAX is Pixel Journey's core home (Pixals, PXJ economy, creator tools), but exploring sister chains like **XPR Network** and **EOS** (now evolving toward Vaulta with $A token focus), plus truly new/emerging Antelope chains, offers incredible value for cost-effective experimentation, future-proofing with PxPortals, and diversified learning — all while keeping your primary focus and capital on the Pixel Journey ecosystem.
 
 **Strong Safety First (DYOR Always)**: These are fast-moving ecosystems with smart contract risks, potential scams, and platform-specific gotchas. Never invest more than you can afford to lose. Start tiny. Use hardware wallets where possible. Revoke approvals regularly. Verify every contract and dapp. Pixel Journey content is educational only — not endorsements.
 
@@ -55,13 +55,13 @@ Detailed per-chain guides live under this hub. We have standardized the structur
 - **XPR Network**: 
   - [Getting Started on XPR Network](education/antelope-ecosystem-guides/xpr/getting-started/README.md) (101, wallets, security — integrated)
   - Additional deep dives expanding.
-- **EOS**: 
+- **EOS** (now evolving toward Vaulta with $A token focus): 
   - [Getting Started on EOS](education/antelope-ecosystem-guides/eos/getting-started/README.md) (101, security, wallets, REX guide — fleshed out and integrated)
-  - Explore via official docs + explorers (eosauthority.com, bloks.io). More deep dives on governance, dApps, and NFT/DeFi coming.
-- **Emerging Antelope Chains** (Vaulta and others): 
-  - [Overview & Future Guides](education/antelope-ecosystem-guides/emerging-antelope-chains/README.md) (placeholder for new chains as they mature and become relevant for safe experimentation)
+  - Explore via official docs + explorers (eosauthority.com, bloks.io). More deep dives on governance, dApps, and NFT/DeFi coming as the ecosystem evolves.
+- **Emerging Antelope Chains** (new projects beyond core WAX/XPR/EOS family): 
+  - [Overview & Future Guides](education/antelope-ecosystem-guides/emerging-antelope-chains/README.md) (placeholder for truly new/emerging Antelope chains as they mature and become relevant for safe experimentation)
 
-**Workflow Tip**: Use the comparison table above to decide where to experiment next. E.g., test a new liquidity strategy on XPR first (cheaper/feeless), governance or REX on EOS, then apply lessons on WAX. All Antelope chains share similar resource and account models — skills transfer directly!
+**Workflow Tip**: Use the comparison table above to decide where to experiment next. E.g., test a new liquidity strategy on XPR first (cheaper/feeless), governance or REX on EOS/Vaulta, then apply lessons on WAX. All Antelope chains share similar resource and account models — skills transfer directly!
 
 ---
 
@@ -69,7 +69,7 @@ Detailed per-chain guides live under this hub. We have standardized the structur
 
 - Dive deep into **WAX** (your Pixel Journey home): [education/wax-ecosystem-guides/README.md](education/wax-ecosystem-guides/README.md)
 - Explore **XPR Network** safely: [education/antelope-ecosystem-guides/xpr/getting-started/README.md](education/antelope-ecosystem-guides/xpr/getting-started/README.md)
-- Explore **EOS**: [education/antelope-ecosystem-guides/eos/getting-started/README.md](education/antelope-ecosystem-guides/eos/getting-started/README.md)
+- Explore **EOS / Vaulta evolution**: [education/antelope-ecosystem-guides/eos/getting-started/README.md](education/antelope-ecosystem-guides/eos/getting-started/README.md)
 - Emerging Antelope Chains: [education/antelope-ecosystem-guides/emerging-antelope-chains/README.md](education/antelope-ecosystem-guides/emerging-antelope-chains/README.md)
 - EVM & Solana guides for even broader multi-chain skills: See Education section in SUMMARY.
 - Common Pitfalls & Security: [getting-started/common-pixel-pitfalls.md](getting-started/common-pixel-pitfalls.md)
