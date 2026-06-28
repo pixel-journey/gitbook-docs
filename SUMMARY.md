@@ -69,9 +69,23 @@
 * [⛓️ Antelope Ecosystem Guides](education/antelope-ecosystem-guides/README.md)
   * WAX
     * [Getting Started](education/antelope-ecosystem-guides/wax/getting-started/README.md)
+    * Wallets
+    * DEXes and Swapping
+    * NFT Marketplaces
+    * DeFi and Yield
+    * Security Tips
+    * Bridges
+    * Explorers and Analytics
     * [Advanced Ecosystem Guides](education/wax-ecosystem-guides/README.md)
   * XPR Network
     * [Getting Started](education/antelope-ecosystem-guides/xpr/getting-started/README.md)
+    * Wallets
+    * DEXes and Swapping
+    * NFT Marketplaces
+    * DeFi and Yield
+    * Security Tips
+    * Bridges
+    * Explorers and Analytics
   * Vaulta (previously EOS)
     * [Getting Started](education/antelope-ecosystem-guides/eos/getting-started/README.md)
     * Wallets
@@ -84,7 +98,14 @@
   * Emerging Antelope Chains
     * [Overview](education/antelope-ecosystem-guides/emerging-antelope-chains/README.md)
 * [🟣 Solana Ecosystem Guides](education/solana-ecosystem-guides/README.md)
-  * Advanced guides & deep dives (see hub for full list)
+  * Wallets
+    * DEXes and Swapping
+    * NFT Marketplaces
+    * DeFi and Yield
+    * Security Tips
+    * Bridges
+    * Explorers and Analytics
+  * [Advanced guides & deep dives](education/solana-ecosystem-guides/README.md)
 * [⛓️ EVM Ecosystem Guides](education/evm-ecosystem-guides/README.md)
   * Base
     * [Getting Started](education/evm-ecosystem-guides/base/getting-started/README.md)
