@@ -198,6 +198,64 @@ function XPRDapp() {
 - Be cautious with permissions and approvals.
 - Keep Wharf Kit and dependencies updated.
 
+## Advanced Patterns for Pixel Journey Integration
+
+These advanced patterns are especially useful when building tools that integrate with Pixel Journey assets and features, leveraging XPR's efficient, low-cost nature.
+
+### Efficient Payments & Identity Integration
+
+XPR excels at fast, low-cost (often feeless) payments and identity use cases:
+
+```ts
+// Example: Efficient XPR payment
+const paymentAction = {
+  account: 'yourcontract',
+  name: 'transfer',
+  authorization: [session.permissionLevel],
+  data: {
+    from: session.actor,
+    to: receiver,
+    quantity: '1.0000 XPR',
+    memo: 'Pixel Journey payment via PxWallet'
+  }
+}
+
+const result = await session.transact({ actions: [paymentAction] })
+```
+
+**Tips**:
+- Leverage XPR's low-cost nature for frequent small transactions and micro-payments.
+- Use memo fields for tracking Pixel Journey-related activity.
+- Combine with identity features for user verification flows.
+
+### Multi-Chain Resource & Efficiency Patterns
+
+```ts
+// Check account resources on XPR
+const accountInfo = await session.client.v1.chain.get_account(session.actor)
+console.log('Resources available for efficient operations')
+```
+
+**Best Practice**: Use XPR for high-frequency, low-value operations and testing, while keeping primary holdings and focus on WAX.
+
+### PxWallet & Future PxPortals Integration Patterns
+
+When building for PxWallet or future PxPortals:
+- Use persistent sessions for seamless multi-chain experiences.
+- Abstract chain-specific logic behind a unified interface.
+- Leverage XPR's efficiency for quick operations and testing.
+- Plan for cross-chain asset movement and unified UX across WAX (primary) and XPR.
+
+### Batch Transactions & Efficiency
+
+```ts
+// Example: Multiple actions in one transaction
+const actions = [paymentAction, identityAction, defiAction]
+const result = await session.transact({ actions })
+```
+
+Batch transactions improve UX and take advantage of XPR's efficiency.
+
 ## Getting Started as a Developer on XPR
 
 1. Set up your environment with the latest tools.
