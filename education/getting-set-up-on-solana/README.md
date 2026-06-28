@@ -21,7 +21,7 @@ Key strengths:
 - **[How to Get SOL](how-to-get-sol.md)** — On-ramps, exchanges, and bridging from EVM or WAX.
 - **[Solana Security Tips](solana-security-tips.md)** — How to stay safe in the Solana ecosystem (see also [Advanced Security](solana-advanced-security.md)).
 - **[NFT Marketplaces on Solana](marketplaces-on-solana.md)** — Magic Eden, Tensor, and where Pixel Journey lives on Solana.
-- **[DEXes & Swapping on Solana](exchanges-on-solana.md)** — Jupiter, Raydium, Orca, and the key trading tools (see also [Jupiter Advanced Features](jupiter-advanced-features.md), [Orca Advanced](solana-orca-advanced.md), and [Raydium Advanced Liquidity](solana-raydium-advanced-liquidity.md)).
+- **[DEXes & Swapping on Solana](exchanges-on-solana.md)** — Jupiter, Raydium, Orca, Meteora, and the key trading tools (see also [Jupiter Advanced Features](jupiter-advanced-features.md), [Orca Advanced](solana-orca-advanced.md), [Raydium Advanced Liquidity](solana-raydium-advanced-liquidity.md), and [Meteora Advanced](solana-meteora-advanced.md)).
 - **[Solana NFT Tools & Analytics](solana-nft-tools-and-analytics.md)** — Advanced tools for rarity, portfolio tracking, sniping, and data-driven trading.
 - **[Solana DeFi & Yield Tools](solana-defi-and-yield-tools.md)** — Liquidity provision, lending, farming, and yield strategies (see also [Kamino Advanced](solana-kamino-advanced.md) and [Marinade & Liquid Staking](solana-marinade-and-liquid-staking.md)).
 - **[Solana Staking & Governance](solana-staking-and-governance.md)** — Passive rewards, liquid staking, and ecosystem participation (see also [Governance & DAO Tools](solana-governance-and-dao-tools.md)).
