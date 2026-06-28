@@ -1,6 +1,8 @@
-# 🔍 Explorers and Analytics on Base
+# 🔍 Explorers and Analytics on Base — Monitoring Your On-Chain Activity
 
 **Explorers and analytics tools on Base** help you monitor transactions, accounts, bridges, DeFi activity, and on-chain metrics. While WAX has excellent tools like waxblock.io and WaxItems.com, Base benefits from mature Ethereum-compatible explorers that provide deep visibility into blocks, transactions, and ecosystem activity at very low cost.
+
+Good analytics habits are essential for safe and informed exploration, especially in a fast, low-fee environment.
 
 ## Key Explorers and Analytics Tools on Base
 
@@ -10,17 +12,17 @@
 
 ## Getting Started with Explorers and Analytics on Base
 
-1. Bookmark trusted explorers like basescan.org.
-2. Use them to verify transactions, check account balances, and review bridge or DeFi activity.
-3. Cross-reference data across multiple explorers for accuracy.
-4. Use analytics to inform safe experimentation (e.g., timing swaps or monitoring bridge flows).
+1. **Bookmark trusted explorers** like basescan.org.
+2. **Use them to verify transactions**, check account balances, and review bridge or DeFi activity.
+3. **Cross-reference data** across multiple explorers for accuracy.
+4. **Use analytics to inform safe experimentation** (e.g., timing swaps or monitoring bridge flows).
 
 ## Safety Best Practices
 
-- Always verify transactions and contracts on explorers before confirming actions.
-- Use explorers to double-check approvals and permissions.
-- Be cautious of unofficial tools or dashboards — stick to well-known, community-vetted platforms.
-- Combine explorer data with your wallet’s built-in previews for maximum safety.
+- **Always verify transactions and contracts** on explorers before confirming actions.
+- **Use explorers to double-check approvals and permissions**.
+- **Be cautious of unofficial tools or dashboards** — stick to well-known, community-vetted platforms.
+- **Combine explorer data with your wallet’s built-in previews** for maximum safety.
 
 ## Pixel Journey Relevance
 
@@ -30,4 +32,4 @@ See the main WAX and EVM explorer guides for comparison and best practices that 
 
 **Verify everything. Monitor activity. Bring insights back to WAX.**
 
-*Educational only. Always DYOR. Not financial advice.*
+*Educational content only. Always DYOR. Not financial advice.*
