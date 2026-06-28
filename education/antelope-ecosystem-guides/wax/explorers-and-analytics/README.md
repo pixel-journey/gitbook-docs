@@ -16,6 +16,16 @@ The primary block explorer for WAX. Essential for verifying transactions, checki
 - Resource staking and usage tracking
 - Smart contract inspection
 
+### EOSAuthority
+A long-standing and trusted explorer with strong features for account inspection, resource tracking, and on-chain data. Many community members use it alongside or instead of waxblock.io.
+
+[Read the full EOSAuthority guide →](eosauthority.md)
+
+**Best For**
+- Detailed account and permission analysis
+- Historical data and contract inspection
+- Alternative trusted explorer
+
 ### WaxItems.com
 A useful community explorer focused on inventory and item management for AtomicAssets and collections.
 
