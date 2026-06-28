@@ -23,12 +23,12 @@ PxLabs houses the next-generation dApps and foundational infrastructure that pow
 | **PxLearn**          | Education & Certification        | Mature                | Learning mechanics & strategy     | Staking multipliers, achievements |
 | **PxWallet**         | Portfolio & Vault Management     | Advanced              | Asset control & security          | All platforms                   |
 | **PxMarket**         | NFT & Resource Trading           | Advanced              | Buying, selling, liquidity        | Economy, staking, progression   |
-| **PxStaking**        | Yield Optimization (8 Scenarios) | Advanced              | Maximizing returns                | PxHot, PxLearn, resources       |
+| **PxStaking**        | Yield Optimization (NFT/FT + DeFi) | Advanced            | Maximizing returns & crafting     | PxHot, resources, economy       |
 | **PxSwap**           | Decentralized Trading            | Mid-to-Late           | Efficient token movement          | Staking, portfolio rebalancing  |
 | **PxHot**            | Real-time Arena Battles          | Late-stage            | Fun, prediction, Arena Power      | Staking multipliers, rewards    |
 | **Px Packages**      | Foundational Infrastructure      | Foundational          | Long-term scalability             | All future multi-chain work     |
 | **PxTD**             | Tower Defense Mini-Game          | Early-to-Mid          | Strategic fun                     | Economy, progression            |
-| **PxSim**            | Simulation & Strategy            | Early-to-Mid          | Deep planning & learning          | Staking, portfolio thinking     |
+| **PxSim**            | Simulation & Strategy (Ingredients) | Early-to-Mid       | Deep planning & learning          | Staking, crafting, economy      |
 | **PxDie**            | Dice & Chance Mini-Game          | Early-to-Mid          | Excitement & risk/reward          | Economy, events                 |
 
 ## 📚 Recommended Exploration Order
@@ -39,7 +39,7 @@ We’ve organized PxLabs in a logical order for new users:
 2. **PxLearn** — Build strong foundations
 3. **PxWallet** — Take control of your assets
 4. **PxMarket** — Participate in the economy
-5. **PxStaking** — Optimize your yield
+5. **PxStaking** — Optimize your yield & crafting
 6. **PxSwap** — Efficient token movement
 7. **PxHot** — Fun engagement layer
 8. **Px Packages & Px Portals** — The strategic infrastructure for sustainable long-term growth and multi-chain expansion
@@ -55,8 +55,17 @@ We’ve organized PxLabs in a logical order for new users:
 - [PxSwap — Decentralized Exchange](px-swap/README.md)
 - [PxHot — Arena Battles](px-hot/README.md)
 
-### Foundational Infrastructure
-- [Px Packages & Px Portals](px-packages/README.md) — The long-term strategic layer enabling sustainable growth and multi-chain expansion
+### Foundational Infrastructure (Px Packages)
+- [Px Packages & Px Portals Overview](px-packages/README.md)
+- [Cross-Chain & Multi-Chain Vision](px-packages/cross-chain-and-multi-chain-vision.md)
+- [Px Achievements](px-packages/achievements.md)
+- [Px Badges](px-packages/badges.md)
+- [PxUI — Reusable Components & Theming](px-packages/px-ui.md)
+- [PxVault — Automation & Ownership Unlocks](px-packages/px-vault.md)
+- [Shared State & Cross-Portal Communication](px-packages/shared-state-and-cross-portal-communication.md)
+- [Offline Resilience & PWA Architecture](px-packages/offline-resilience-and-pwa-architecture.md)
+- [Developer Experience & Modularity](px-packages/developer-experience-and-modularity.md)
+- [Security & Trust Principles](px-packages/security-and-trust-principles.md)
 
 ### Upcoming Mini-Games
 - [PxTD — Tower Defense](px-td/README.md)
