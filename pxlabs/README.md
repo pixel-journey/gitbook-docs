@@ -13,7 +13,7 @@ PxLabs houses the next-generation dApps and foundational infrastructure that pow
 - **Player-first design**: Every interface is built for both hardcore degens and casual pixel collectors.
 - **Offline resilience**: Most experiences continue working gracefully when the chain is quiet.
 - **Composable economy**: Staking, swapping, battling, and learning all feed into the same $PXJ / $KING / NFT loops.
-- **Sustainable Foundations**: Long-term maintainability and modularity are core priorities.
+- **Sustainable Foundations**: Long-term maintainability and modularity are core priorities (see Px Packages & Px Portals).
 
 ## 📚 Recommended Exploration Order
 
@@ -46,5 +46,17 @@ We’ve organized PxLabs in a logical order for new users:
 - [PxTD — Tower Defense](px-td/README.md)
 - [PxSim — Simulation & Strategy](px-sim/README.md)
 - [PxDie — Dice & Chance](px-die/README.md)
+
+## 🤝 Get Involved & Provide Feedback
+
+PxLabs is actively being shaped by the community. Your feedback on UX, mechanics, economic integration, and future direction is extremely valuable.
+
+**Join our Discord** to:
+- Participate in early testing and closed alphas/betas
+- Share ideas and feedback on current platforms
+- Influence the direction of upcoming mini-games and Px Packages
+- Stay up to date on development progress
+
+Together we are building something that can last and thrive for years to come.
 
 *All content is educational. DYOR. Not financial advice. Development is iterative — your feedback directly shapes the final product.*
