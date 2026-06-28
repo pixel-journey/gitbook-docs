@@ -63,6 +63,143 @@ Understanding Vaulta development is valuable for grasping the broader evolution 
 - Stay active in trusted developer communities.
 - Be mindful of the evolving regulatory landscape around Vaulta.
 
+## Wharf Kit Integration Patterns
+
+**Wharf Kit** is the modern standard for building dApps on Vaulta. The patterns below emphasize security, compliance-friendly design, and institutional-grade reliability.
+
+### Installation
+
+```bash
+npm install @wharfkit/core @wharfkit/session @wharfkit/wallet-plugin-anchor
+```
+
+For React/Next.js:
+```bash
+npm install @wharfkit/react
+```
+
+### 1. Basic Wallet Connection Pattern
+
+```ts
+import { Session } from '@wharfkit/session'
+import { WalletPluginAnchor } from '@wharfkit/wallet-plugin-anchor'
+
+const session = new Session({
+  chain: {
+    id: 'VAULTA_CHAIN_ID_HERE',
+    url: 'https://vaulta.greymass.com'
+  },
+  walletPlugin: new WalletPluginAnchor()
+})
+
+const result = await session.login()
+console.log('Connected account:', result.session.actor)
+```
+
+### 2. Persistent Session Management (Recommended)
+
+```ts
+import { Session } from '@wharfkit/session'
+
+let session = Session.restore()
+
+if (!session) {
+  session = new Session({
+    chain: { id: '...', url: '...' },
+    walletPlugin: new WalletPluginAnchor()
+  })
+  await session.login()
+  session.store()
+}
+```
+
+### 3. Signing Transactions with Security Focus
+
+```ts
+const action = {
+  account: 'yourcontract',
+  name: 'transfer',
+  authorization: [session.permissionLevel],
+  data: {
+    from: session.actor,
+    to: 'receiver',
+    quantity: '1.0000 A',
+    memo: 'Pixel Journey transfer'
+  }
+}
+
+const result = await session.transact({ actions: [action] })
+console.log('Transaction ID:', result.transaction_id)
+```
+
+### 4. Multi-Chain Support (Vaulta + WAX + XPR)
+
+```ts
+const chains = {
+  vaulta: { id: '...', url: 'https://vaulta.greymass.com' },
+  wax: { id: '...', url: 'https://wax.greymass.com' },
+  xpr: { id: '...', url: 'https://xpr.greymass.com' }
+}
+
+session = new Session({
+  chain: chains.vaulta,
+  walletPlugin: new WalletPluginAnchor()
+})
+```
+
+Ideal for future **PxPortals** cross-chain experiences involving regulated environments.
+
+### 5. Error Handling & User Feedback
+
+```ts
+try {
+  const result = await session.transact({ actions: [...] })
+} catch (error) {
+  if (error.message.includes('user_cancelled')) {
+    console.log('User cancelled the transaction')
+  } else {
+    console.error('Transaction failed:', error)
+  }
+}
+```
+
+### 6. React Integration
+
+```tsx
+import { useSession } from '@wharfkit/react'
+
+function VaultaDapp() {
+  const { session, login, logout } = useSession()
+
+  return (
+    <div>
+      {session ? (
+        <p>Connected on Vaulta: {session.actor}</p>
+      ) : (
+        <button onClick={login}>Connect with Anchor</button>
+      )}
+    </div>
+  )
+}
+```
+
+### Best Practices for Vaulta dApps
+
+- Emphasize security and compliance in all transaction flows.
+- Use persistent sessions for reliable UX.
+- Strongly support hardware wallets (Ledger) for higher-value or institutional interactions.
+- Design with regulatory considerations in mind.
+- Handle errors gracefully and provide clear user feedback.
+- Use TypeScript for type safety and maintainability.
+
+### Security Considerations
+
+- Never store private keys in the frontend.
+- Rigorously validate all inputs and contract interactions.
+- Be extremely cautious with permissions and approvals.
+- Keep Wharf Kit and all dependencies updated.
+- Consider additional auditing for contracts handling significant value.
+
 ## Getting Started as a Developer on Vaulta
 
 1. Set up your development environment with the latest tools.
