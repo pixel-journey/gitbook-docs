@@ -11,7 +11,7 @@ This hub organizes everything you need to explore EVM chains safely, with the sa
 ## What's Inside (Standardized Structure)
 
 - **Common EVM Tools** — Wallets, DEXes/swapping, NFT marketplaces, bridges, explorers/analytics.
-- **Per-Chain Getting Started** — Now integrated under each chain folder (e.g., Base has full getting-started under `base/getting-started/`, mirroring the WAX structure under Antelope). Other chains (Polygon, Ethereum, BNB, Arbitrum, Optimism, etc.) follow the same pattern — WIP sections are being converted to proper getting-started.
+- **Per-Chain Getting Started** — Now integrated under each chain folder (Base and Polygon have full getting-started under this hub, mirroring the WAX structure under Antelope). Other chains (Ethereum, BNB, Arbitrum, Optimism, etc.) follow the same pattern — former WIP sections are being converted to proper getting-started.
 - **Advanced Platform Deep Dives** — Per-chain features, safety, workflows, best practices.
 - **Pixel Journey Relevance** — How these tools complement WAX collections, PXJ economy, and future PxPortals. Cost-effective testing ground for strategies.
 
@@ -19,8 +19,9 @@ All content follows our strict safety-first, educational style with workflows, p
 
 ## Quick Navigation
 
-- **Base (New Integrated Structure)**: [Getting Started on Base](base/getting-started/README.md) — Full onboarding, 101, security, wallets.
-- Common tools and per-chain deep dives: See existing content in introduction/evm-ecosystem-guides/ and linked pages (Ethereum, Base, Polygon, Arbitrum, Optimism, BNB Chain, Avalanche, Linea, Scroll, zkSync, etc.).
+- **Base**: [Getting Started on Base](base/getting-started/README.md)
+- **Polygon**: [Getting Started on Polygon](polygon/getting-started/README.md)
+- Common tools and per-chain deep dives: See existing content in introduction/evm-ecosystem-guides/ and linked pages (Ethereum, Arbitrum, Optimism, BNB Chain, Avalanche, Linea, Scroll, zkSync, etc.).
 - Wallets, DEXes, Marketplaces, Bridges, Explorers: Dedicated sections.
 
 **Pixel Journey Tip**: Use EVM L2s for cheap, fast experimentation (e.g., test DeFi or NFT mechanics on small size) before applying lessons on WAX. Bridge assets safely when PxPortals expand. Keep primary focus and capital on your Pixals and PXJ ecosystem.
