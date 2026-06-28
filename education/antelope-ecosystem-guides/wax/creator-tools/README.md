@@ -27,8 +27,12 @@ PFPWizard provides breeding mechanics, gems, magic power systems, leaderboards, 
 ### WaxDAO
 WaxDAO supports token and NFT farms, staking, whitelisting, and creating custom tokens. It functions more as a creator and staking platform.
 
+[Read the full WaxDAO guide →](waxdao.md)
+
 ### F12Key
 F12Key serves as both a marketplace helper and a powerful creator tool for quick access to drops, blends, and setup actions.
+
+[Read the full F12Key guide →](../creator-tools/f12key.md) Wait, link fix if needed.
 
 ## Pixel Journey Relevance
 Creator tools are fundamental for building and sustaining value in the Pixel Journey ecosystem. Many of our future PxPackages and mini-games will rely on these kinds of mechanics for crafting, staking, progression, and collectibles. Mastering them now gives you a strong advantage as we expand.
