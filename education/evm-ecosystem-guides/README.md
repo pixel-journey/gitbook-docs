@@ -11,7 +11,7 @@ This hub organizes everything you need to explore EVM chains safely, with the sa
 ## What's Inside (Standardized Structure)
 
 - **Common EVM Tools** — Wallets, DEXes/swapping, NFT marketplaces, bridges, explorers/analytics.
-- **Per-Chain Getting Started** — Fully integrated under each chain folder (Base, Polygon, Ethereum, and BNB Chain now have complete getting-started under this hub, mirroring the WAX structure under Antelope). All former WIP sections have been converted to proper getting-started. Other chains (Arbitrum, Optimism, etc.) follow the same standardized pattern.
+- **Per-Chain Getting Started** — Fully integrated and now **fully fleshed out to equal standards** under each chain folder (Base, Polygon, Ethereum, and BNB Chain all have complete getting-started with README + 101 + security tips, mirroring the WAX structure under Antelope). All former WIP sections have been converted and expanded.
 - **Advanced Platform Deep Dives** — Per-chain features, safety, workflows, best practices.
 - **Pixel Journey Relevance** — How these tools complement WAX collections, PXJ economy, and future PxPortals. Cost-effective testing ground for strategies.
 
@@ -19,9 +19,9 @@ All content follows our strict safety-first, educational style with workflows, p
 
 ## Quick Navigation
 
-- **Base**: [Getting Started on Base](base/getting-started/README.md)
-- **Polygon**: [Getting Started on Polygon](polygon/getting-started/README.md)
-- **Ethereum**: [Getting Started on Ethereum](ethereum/getting-started/README.md)
+- **Base**: [Getting Started on Base](base/getting-started/README.md) (fully fleshed with 101 + security)
+- **Polygon**: [Getting Started on Polygon](polygon/getting-started/README.md) (fully fleshed with 101 + security)
+- **Ethereum**: [Getting Started on Ethereum](ethereum/getting-started/README.md) (fully fleshed with 101 + security)
 - **BNB Chain**: [Getting Started on BNB Chain](bnb-chain/getting-started/README.md) (fully fleshed with 101 + security)
 - Common tools and per-chain deep dives: See existing content in introduction/evm-ecosystem-guides/ and linked pages (Arbitrum, Optimism, Avalanche, Linea, Scroll, zkSync, etc.).
 - Wallets, DEXes, Marketplaces, Bridges, Explorers: Dedicated sections.
