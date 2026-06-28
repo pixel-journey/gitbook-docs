@@ -61,6 +61,10 @@ This infrastructure layer is one of the most important investments for Pixel Jou
 
 This is the kind of architectural foundation that allows a project to thrive across multiple market cycles and many years of growth.
 
+## 🔗 Related High-Level Topics
+
+- [Cross-Chain & Multi-Chain Vision](cross-chain-and-multi-chain-vision.md) — The long-term vision for expanding beyond WAX
+
 ## 🔭 Current Focus & Roadmap Outlook
 
 Current high-level priorities include:
