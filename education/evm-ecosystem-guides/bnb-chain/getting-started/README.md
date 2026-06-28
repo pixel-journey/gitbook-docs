@@ -1,64 +1,63 @@
-# 🔧 Getting Set Up on BNB Chain — Pixel Journey EVM Expansion
+# 🟢 Getting Started on BNB Chain
 
-**Welcome to the BNB Chain chapter of your Pixel Journey!**
+> **⚠️ Important Safety Note**  
+> BNB Chain has a large ecosystem with varying project quality. Always DYOR thoroughly, start with small amounts when exploring new dApps or tokens, and never invest more than you can afford to lose. Be especially cautious of new or low-liquidity projects.
 
-BNB Chain (formerly Binance Smart Chain) is a fast, low-cost EVM-compatible chain with strong adoption in emerging markets and a massive user base. It offers excellent accessibility, high throughput, and a vibrant ecosystem for DeFi, NFTs, and gaming — making it another valuable expansion point for Pixel Journey explorers.
+BNB Chain (formerly Binance Smart Chain) is a fast, low-cost EVM-compatible chain with strong DeFi and NFT ecosystems. It offers excellent UX for experimentation and has significant adoption in certain regions and use cases.
 
-As part of our long-term adventure that began on the **WAX Blockchain in 2023**, with **Pixal PFPs minted in Spring 2024**, and now over **1,050 days strong**, we’re building bridges to BNB Chain, Base, Polygon, Ethereum, and beyond. BNB Chain combines speed, affordability, and broad accessibility, giving you a smooth on-ramp into deeper EVM experiences.
+## Why Explore BNB Chain?
 
-This section will help you get comfortable on BNB Chain safely and confidently, following the same professional, safety-first standards as our Antelope and Solana guides.
+- Very low transaction fees
+- Strong and active DeFi and NFT ecosystems
+- Excellent tooling and broad wallet/dApp support
+- Useful for low-cost experimentation and strategy testing
+- Future PxPortals integration may connect BNB Chain more seamlessly with WAX and other chains
 
----
+## Getting Started Safely
 
-## Quick Start Links
+### 1. Set Up Your Wallet
 
-- **[BNB Chain 101](bnb-chain-101.md)** — The essentials: what makes BNB Chain special, fees, native token (BNB), and why it matters for Pixel Journey
-- **Wallet Setup** — Use MetaMask or any EVM-compatible wallet (see the shared EVM tools in the hub)
-- **Getting BNB** — Bridge from Ethereum or buy on exchanges (see how-to-get-bnb.md)
-- **Security Tips** — Stay safe on EVM chains (see bnb-security-tips.md)
+**MetaMask** is the most compatible wallet for BNB Chain. You can easily add the BNB Chain network.
 
----
+**Recommended Setup**
+- Use **MetaMask** (or Rabby) as your primary EVM wallet.
+- Enable hardware wallet integration (Ledger) for larger holdings.
+- Add the BNB Chain network to your wallet (official RPC details available on the BNB Chain website).
 
-## Why BNB Chain Matters for Pixel Journey
+### 2. Acquire BNB (for gas)
 
-- Very low fees and high speed — ideal for frequent interactions and high-volume activities
-- Strong adoption in emerging markets and broad accessibility
-- Excellent bridge connectivity and developer-friendly environment
-- A great next step for explorers wanting accessible EVM multi-chain experience
+You will need a small amount of BNB on BNB Chain for transaction fees. You can bridge BNB or other assets from Ethereum mainnet or other supported chains using official bridges.
 
-We see BNB Chain as an important part of our multi-chain vision because it lowers the barrier for new users while offering real utility for collectibles, community mechanics, and future PxPackages-powered miniDApps.
+**Tip**: Start with a very small amount (e.g., $5–10 worth) for testing.
 
----
+### 3. Start Exploring Safely
 
-## How This Fits Your Pixel Journey
+- Begin with well-known dApps and marketplaces on BNB Chain.
+- Use trusted explorers (BscScan) to verify transactions and contracts.
+- Start with tiny test transactions and positions.
+- Revoke token approvals regularly.
 
-If you’re following the **[Your Pixel Journey — The 12-Step Progression Path](../getting-started/your-pixel-journey-12-step-progression.md)**, Step 11 is all about going cross-chain. BNB Chain is one of the friendliest and most accessible places to continue that adventure.
+### 4. Security Best Practices on BNB Chain
 
-Everything you learn here (wallets, bridging, gas, security) builds directly on the skills from WAX and other chains — making you a more versatile Pixel Pioneer.
+- Use hardware wallets for significant holdings.
+- Double-check all contract addresses and dApp URLs.
+- Be extra cautious of new or low-liquidity tokens and projects.
+- Never share your seed phrase or private keys.
+- Start small and verify everything.
 
----
+## Pixel Journey Relevance
 
-## Safety First on BNB Chain (and All EVM Chains)
+BNB Chain is an excellent low-cost environment for testing DeFi mechanics, NFT trading, and different strategies that can later be applied on WAX or other chains. It serves as a valuable complementary testing ground while keeping your primary focus and capital on WAX collections, Pixals, and the PXJ economy.
 
-- Start with small test amounts when bridging or trying new dApps.
-- Always read transaction details and verify contracts.
-- Use reputable wallets (MetaMask, Rabby, etc.) and enable hardware wallet support where possible.
-- Revoke approvals regularly.
-- Be cautious of phishing and fake sites — verify URLs from official sources.
-- DYOR on any project or yield opportunity.
+Skills and habits learned on BNB Chain transfer well and will become more valuable as PxPortals expands cross-chain capabilities.
 
-**Pixel Journey Relevance**: BNB Chain offers cost-effective EVM experimentation that complements your core WAX activities. Skills in wallets, bridging, and security transfer across chains. Use it to test mechanics or explore new communities while keeping primary focus and capital on Pixel Journey and WAX. Future PxPortals will make these connections even smoother.
+## Quick Start Checklist
 
----
+- [ ] Set up MetaMask and add BNB Chain network
+- [ ] Bridge a small amount of BNB or assets to BNB Chain
+- [ ] Start with tiny test transactions
+- [ ] Use BscScan to verify activity
+- [ ] Revoke approvals regularly
+- [ ] Keep primary focus on WAX and Pixel Journey
 
-## Next Steps
-
-1. Read **[BNB Chain 101](bnb-chain-101.md)**
-2. Set up or connect your EVM wallet
-3. Bridge a small test amount to get comfortable
-4. Explore BNB Chain marketplaces and projects
-5. Ask in the Discord for BNB Chain-specific tips and community events
-
-You’re expanding your pixel empire across chains. Every new chain you master makes you stronger in Web3. BNB Chain is an exciting place to continue your multi-chain journey while staying connected to the heart of Pixel Journey.
-
-*Educational only. Always DYOR. Not financial advice.*
+*Educational content only. Always DYOR. Not financial advice.*
