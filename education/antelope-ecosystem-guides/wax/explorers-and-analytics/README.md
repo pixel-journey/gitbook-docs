@@ -1,9 +1,9 @@
 # 🔍 Explorers and Analytics on WAX
 
 > **⚠️ Important Safety Note**  
-> Always use trusted, well-known explorers. Be cautious of fake explorer sites. Verify data across multiple sources when making important decisions. DYOR.
+> Always use trusted, well-known explorers. Be cautious of fake explorer sites or phishing attempts. Verify important data across multiple sources when making decisions. DYOR thoroughly.
 
-Good explorers and analytics tools are essential for safely navigating the WAX ecosystem and managing your Pixel Journey activities.
+Good explorers and analytics tools are essential for safely navigating the WAX ecosystem, managing your Pixel Journey activities, and verifying on-chain actions.
 
 ## Key Explorers and Analytics Tools on WAX
 
@@ -39,20 +39,33 @@ A useful community explorer focused on inventory and item management for AtomicA
 ### Other Useful Tools
 Various community dashboards and analytics tools exist for DeFi positions, farming rewards, and ecosystem metrics. Always verify current reputation and accuracy before relying on them for important decisions.
 
-## Best Practices
+## Step-by-Step: Using Explorers Safely and Effectively
 
-- Bookmark official or well-known explorer URLs.
-- Cross-reference important data across multiple tools when possible.
-- Use explorers to verify contract addresses and transaction details before interacting with dApps.
-- Monitor your own account activity regularly.
+1. Bookmark official or well-known explorer URLs (waxblock.io, EOSAuthority, etc.).
+2. Cross-reference important data (transactions, balances, permissions) across multiple tools when possible.
+3. Use explorers to verify contract addresses and transaction details before interacting with any dApp.
+4. Regularly monitor your own account activity, resource usage, and permissions.
+5. Use analytics features to track staking positions, farming rewards, or marketplace activity related to Pixel Journey assets.
+6. Revoke unnecessary approvals after use.
 
 ## Pixel Journey Relevance
-Explorers and analytics tools are critical for managing Pixals, tracking staking positions, verifying marketplace activity, and understanding resource usage. Strong familiarity with these tools helps you participate more safely and effectively in the Pixel Journey economy.
+Explorers and analytics tools are critical for managing Pixals, tracking staking positions (e.g., WAXDAO farms, ingredient staking), verifying marketplace activity on AtomicHub or PxMarket, and understanding resource usage. Strong familiarity with these tools helps you participate more safely and effectively in the Pixel Journey economy.
+
+As PxPortals and PxPackages expand, having robust explorer skills on WAX will transfer well to other chains and future cross-chain experiences.
 
 ## Security Tips
 
-- Never enter sensitive information on explorer sites.
-- Be cautious of any site mimicking official explorers.
+- Never enter sensitive information (seed phrases, private keys) on any explorer site.
+- Be extremely cautious of any site mimicking official explorers or promising rewards.
 - Use analytics to detect unusual activity on your accounts early.
+- Always double-check URLs and contract addresses.
+- Combine explorer data with your own records for important decisions.
+
+## Pro Tips
+
+- Use multiple explorers together for more reliable verification.
+- Set up regular account monitoring habits (e.g., weekly review of permissions and activity).
+- Use explorer features to track Pixel Journey-related activity (staking rewards, airdrops, marketplace transactions).
+- Stay updated via trusted Pixel Journey channels for any new recommended tools or changes in explorer reliability.
 
 *Educational content only. Always DYOR. Not financial advice.*
