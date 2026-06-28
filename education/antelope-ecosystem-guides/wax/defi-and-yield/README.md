@@ -8,8 +8,9 @@ WAX has active DeFi, particularly around liquidity provision, yield farming, and
 ## Key DeFi Platforms on WAX
 
 ### Alcor
-
 Alcor is a major hub for liquidity pools, yield farming, and token swaps on WAX. It supports many ecosystem tokens and is widely used by the Pixel Journey community.
+
+[Read the full Alcor Farms guide →](alcor-farms.md)
 
 **Key Features**
 - Good liquidity on major pairs
@@ -21,7 +22,6 @@ Alcor is a major hub for liquidity pools, yield farming, and token swaps on WAX.
 - Users focused on $PXJ and WAX ecosystem tokens
 
 ### TacoSwap
-
 TacoSwap is another popular DEX with strong farming and staking features.
 
 **Key Features**
@@ -43,7 +43,6 @@ TacoSwap is another popular DEX with strong farming and staking features.
 - Revoke approvals regularly.
 
 ## Pixel Journey Relevance
-
 DeFi activity on WAX (liquidity provision, farming, token staking) directly supports the broader Pixel Journey economy. Efficient swapping and yield generation help users participate more actively in staking, crafting, and the overall $PXJ ecosystem. PxStaking and PxSwap are designed to integrate smoothly with these WAX DeFi activities.
 
 ## Security Tips
