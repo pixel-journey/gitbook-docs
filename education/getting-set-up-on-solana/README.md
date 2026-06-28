@@ -24,7 +24,7 @@ Key strengths:
 - **[DEXes & Swapping on Solana](exchanges-on-solana.md)** — Jupiter, Raydium, Orca, and the key trading tools (see also [Jupiter Advanced Features](jupiter-advanced-features.md), [Orca Advanced](solana-orca-advanced.md), and [Raydium Advanced Liquidity](solana-raydium-advanced-liquidity.md)).
 - **[Solana NFT Tools & Analytics](solana-nft-tools-and-analytics.md)** — Advanced tools for rarity, portfolio tracking, sniping, and data-driven trading.
 - **[Solana DeFi & Yield Tools](solana-defi-and-yield-tools.md)** — Liquidity provision, lending, farming, and yield strategies (see also [Kamino Advanced](solana-kamino-advanced.md) and [Marinade & Liquid Staking](solana-marinade-and-liquid-staking.md)).
-- **[Solana Staking & Governance](solana-staking-and-governance.md)** — Passive rewards, liquid staking, and ecosystem participation.
+- **[Solana Staking & Governance](solana-staking-and-governance.md)** — Passive rewards, liquid staking, and ecosystem participation (see also [Governance & DAO Tools](solana-governance-and-dao-tools.md)).
 - **[Solana Portfolio & Analytics Tools](solana-portfolio-and-analytics-tools.md)** — Tracking, optimization, dashboards, and cross-chain visibility.
 - **[Solana Bridges & Cross-Chain](solana-bridges-and-cross-chain.md)** — Securely connect Solana to WAX, EVM, and beyond.
 
