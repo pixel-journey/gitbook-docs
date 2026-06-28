@@ -119,6 +119,7 @@
   * [Kamino Advanced](education/getting-set-up-on-solana/solana-kamino-advanced.md)
   * [Marinade & Liquid Staking](education/getting-set-up-on-solana/solana-marinade-and-liquid-staking.md)
   * [Advanced Security](education/getting-set-up-on-solana/solana-advanced-security.md)
+  * [Governance & DAO Tools](education/getting-set-up-on-solana/solana-governance-and-dao-tools.md)
 * [🛠️ Getting set up on XPR](education/getting-set-up-on-xpr/README.md)
   * [XPR Network 101](education/getting-set-up-on-xpr/xpr-network-101.md)
   * [Wallets on XPR](education/getting-set-up-on-xpr/xpr-wallets.md)
