@@ -67,8 +67,15 @@
 ## 📚 Education
 
 * [⛓️ Antelope Ecosystem Guides (WAX, XPR Network, EOS & Beyond) — Comparison, Safety & Getting Started Hub](education/antelope-ecosystem-guides/README.md)
+  * WAX (Core Home)
+    * [Getting Started on WAX (Integrated)](education/antelope-ecosystem-guides/wax/getting-started/README.md)
+    * [Full Advanced WAX Ecosystem Guides](education/wax-ecosystem-guides/README.md)
+  * XPR Network
+    * [Getting Set Up on XPR](education/getting-set-up-on-xpr/README.md)
+  * EOS & Emerging Antelope Chains
+    * (Future dedicated sections — governance, REX, major dApps, Volta)
 * [🧑‍🏫 What are NFTs?](education/what-are-nfts.md)
-* [🛠️ Getting set up on Wax](education/getting-set-up-on-wax/README.md)
+* [🛠️ Getting set up on Wax (Legacy path)](education/getting-set-up-on-wax/README.md)
 * [🏢 WAX Ecosystem Guides — Full Advanced Mastery Hub](education/wax-ecosystem-guides/README.md)
   * [🔑 Wallets & Access](education/wax-ecosystem-guides/README.md#wallets--access-points)
     * [Cloud Wallet](introduction/wax-ecosystem-guides/cloud-wallet/README.md)
