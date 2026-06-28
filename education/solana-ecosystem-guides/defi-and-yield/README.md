@@ -1,38 +1,31 @@
-# 💰 DeFi and Yield on Solana — Low-Cost Experimentation
+# 💰 DeFi and Yield on Solana
 
-**Solana** offers very fast and low-cost DeFi opportunities. Popular platforms include Jupiter for swaps and yield routing, plus various lending and farming protocols.
+> **⚠️ Important Safety Note**  
+> DeFi carries risks including smart contract vulnerabilities, impermanent loss, and rug pulls. Always DYOR thoroughly, start small, and never invest more than you can afford to lose.
 
-This is an excellent low-cost environment for testing DeFi strategies that can complement WAX activities.
+Solana has one of the most active and fast-moving DeFi ecosystems, with strong liquidity and innovative protocols.
 
-## Key DeFi and Yield Platforms on Solana
+## Key DeFi Platforms on Solana
 
-- **Jupiter** — Aggregator with advanced yield and swap features.
-- Other Solana DeFi protocols for lending, liquidity, and farming.
+Solana has several major DEXes, liquidity platforms, and yield opportunities. These support token swaps, liquidity provision, farming, and other DeFi activities at very low cost.
 
-## Getting Started with DeFi and Yield on Solana
-
-1. **Set up a wallet** (Phantom or Solflare).
-2. **Acquire SOL**.
-3. **Research platforms** via explorers and community resources.
-4. **Start with small test positions** in liquidity or simple yield.
-5. **Monitor positions** and understand risks like impermanent loss.
-
-## Safety Best Practices
-
-- **Verify contracts and platforms** from trusted sources.
-- **Read transaction details** carefully.
-- **Start very small** on new protocols.
-- **Understand risks**: impermanent loss, smart contracts, liquidation.
-- **Revoke approvals** regularly.
-- **Use hardware wallets** for larger positions.
-- **DYOR thoroughly** on yields.
+**Best Practices**
+- Compare rates and opportunities across available platforms.
+- Understand impermanent loss before providing liquidity.
+- Start with small test positions on new farms or pools.
+- Monitor your positions regularly.
+- Use hardware wallets for larger DeFi positions when possible.
+- Revoke approvals regularly.
 
 ## Pixel Journey Relevance
 
-Solana DeFi tools let you test liquidity, farming, and yield strategies at very low cost. Skills and insights transfer to WAX DeFi and become more valuable with PxPortals.
+Solana can be useful for low-cost swapping, liquidity provision, and yield experimentation. Efficient token movement and DeFi activity on Solana can complement your WAX activities and will become more valuable as PxPortals expands cross-chain capabilities. However, your primary focus and capital should remain on WAX collections, Pixals, and the PXJ economy. Use Solana mainly as a complementary, low-cost testing ground for strategies that can later be applied on WAX or other chains.
 
-Use Solana as a fast lab — bring useful lessons back to your core WAX activities.
+## Security Tips
 
-**Start small. Verify everything. Bring value back to WAX.**
+- Be extremely cautious of new or high-APY opportunities (higher risk).
+- Always verify contracts from trusted sources.
+- Never approve contracts you don’t fully understand.
+- Start very small when exploring new yield opportunities on Solana.
 
-*Educational only. Always DYOR. Not financial advice.*
+*Educational content only. DeFi involves significant risk. Always DYOR. Not financial advice.*
