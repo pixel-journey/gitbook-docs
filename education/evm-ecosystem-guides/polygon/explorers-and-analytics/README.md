@@ -1,22 +1,28 @@
 # 🔍 Explorers and Analytics on Polygon
 
-Tools to monitor transactions, accounts, DeFi activity, and bridges on Polygon. Low fees make on-chain activity frequent, so good analytics are essential.
+> **⚠️ Important Safety Note**  
+> Always use trusted, well-known explorers. Be cautious of fake explorer sites. Verify data across multiple sources when making important decisions. DYOR.
 
-## Key Tools
-- polygonscan.com and other explorers.
-- DeFi dashboards and portfolio trackers.
-- Bridge monitoring tools.
+Good explorers and analytics tools are essential for safely navigating Polygon and managing activities alongside your Pixel Journey on WAX.
 
-## Getting Started
-1. Bookmark trusted explorers.
-2. Verify transactions and contracts.
-3. Monitor DeFi positions and bridges.
+## Key Explorers and Analytics Tools on Polygon
 
-## Safety
-- Cross-check data on multiple explorers.
-- Verify contracts before interacting.
+Polygon has excellent block explorers and analytics tools for transaction monitoring, account activity, DeFi positions, and ecosystem metrics (e.g., Polygonscan).
+
+**Best Practices**
+- Bookmark trusted Polygon explorer URLs (e.g., polygonscan.com).
+- Cross-reference important data across multiple tools when possible.
+- Use explorers to verify contract addresses and transaction details before interacting with dApps.
+- Monitor your own account activity regularly.
 
 ## Pixel Journey Relevance
-Builds strong monitoring habits that improve safety and efficiency on WAX.
 
-*Educational only. Always DYOR. Not financial advice.*
+Explorers and analytics tools on Polygon help you verify transactions, monitor activity, and understand DeFi/NFT positions when experimenting on the chain. Strong familiarity with these tools helps you participate more safely while keeping your primary focus on WAX collections, Pixals, and the PXJ economy.
+
+## Security Tips
+
+- Never enter sensitive information on explorer sites.
+- Be cautious of any site mimicking official explorers.
+- Use analytics to detect unusual activity on your accounts early.
+
+*Educational content only. Always DYOR. Not financial advice.*
