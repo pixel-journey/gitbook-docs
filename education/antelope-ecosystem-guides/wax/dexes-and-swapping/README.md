@@ -3,13 +3,14 @@
 > **⚠️ Important Safety Note**  
 > Always verify contract addresses and use well-known, audited DEXes. Be cautious of fake tokens and phishing sites. Start with small amounts when testing new liquidity pools or tokens. DYOR.
 
-WAX has several decentralized exchanges. The most commonly used and trusted options are **Alcor** and **TacoSwap**.
+WAX has several decentralized exchanges. The most commonly used and trusted options are **Alcor** and **TacoSwap**. Wax.fun offers alternative token bonding curve mechanics.
 
 ## Recommended DEXes
 
 ### Alcor
-
 Alcor is one of the most popular and feature-rich DEXes on WAX. It offers good liquidity for many tokens, including $PXJ pairs, and is widely used in the Pixel Journey community.
+
+[Read the full Alcor guide →](alcor.md)
 
 **Key Features**
 - Strong liquidity for major WAX tokens
@@ -22,8 +23,9 @@ Alcor is one of the most popular and feature-rich DEXes on WAX. It offers good l
 - Users who want a reliable, well-established DEX
 
 ### TacoSwap
-
 TacoSwap is another major DEX on WAX, known for good liquidity in certain pairs and strong community support.
+
+[Read the full TacoSwap guide →](tacoswap.md)
 
 **Key Features**
 - Competitive rates on many pairs
@@ -34,6 +36,13 @@ TacoSwap is another major DEX on WAX, known for good liquidity in certain pairs 
 - Accessing specific liquidity pools and farms
 - Users looking for alternative rates or pairs
 
+### Wax.fun
+Wax.fun offers token bonding curve mechanics and integrated DeFi-style features. It can be useful for certain types of token experiments and community launches.
+
+[Read the full Wax.fun guide →](waxfun.md)
+
+**Note**: Bonding curve mechanics carry additional risks. Treat it as more experimental compared to Alcor and TacoSwap.
+
 ## Swapping Best Practices
 
 - Compare rates across Alcor and TacoSwap before large swaps.
@@ -43,7 +52,6 @@ TacoSwap is another major DEX on WAX, known for good liquidity in certain pairs 
 - Consider using PxSwap (when available) for optimized routing across multiple DEXes.
 
 ## Pixel Journey Relevance
-
 Efficient swapping is essential for participating in PxStaking, moving between tokens for crafting/ingredients, and managing your overall portfolio. Having reliable access to DEXes on WAX is a core part of engaging with the Pixel Journey economy.
 
 ## Security Tips for DEX Usage
