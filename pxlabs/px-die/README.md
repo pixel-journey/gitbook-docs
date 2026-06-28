@@ -1,36 +1,38 @@
-# 🎲 PxDie — Dice & Chance Mini-Game (Coming Soon)
+# 🎲 PxDie — Dice & Chance Mini-Game
 
 > **⚠️ DEVELOPMENT STATUS (June 2026)**  
-> PxDie is in early development stages. Core dice mechanics, chance systems, and reward structures are being designed. Many elements are still conceptual or in early prototyping.  
-> **High-level vision shared to build anticipation.** Join our Discord for development updates, early testing, and feedback.
+> PxDie is in early-to-mid development stages. Core dice mechanics, chance systems, reward structures, and economic integration are being designed and prototyped. Many elements are still evolving.  
+> **Current vision shared to build anticipation and gather feedback.** Join our Discord for development updates, early testing opportunities, and to help shape the final experience.
 
 **PxDie** is an upcoming chance-based mini-game bringing excitement, risk, and reward to the Pixel Journey ecosystem through dice and probability mechanics.
 
-## 🎯 High-Level Vision
+## 🎯 Core Vision & Gameplay
 
-- Engaging dice and chance-based gameplay with Pixel Journey theming.
+- Engaging dice and chance-based gameplay with Pixel Journey theming and visual style.
 - Balanced risk/reward systems tied to the $PXJ economy.
-- Potential for special events, limited-time modes, and NFT integrations.
-- Fun, accessible layer that still connects to deeper ecosystem progression.
+- Multiple modes, events, and potential limited-time challenges.
+- Potential for NFT integrations (special dice, skins, or bonus effects).
+- Fun, accessible layer that still connects to deeper ecosystem progression and rewards.
 - Offline-capable elements where feasible.
 
-## 🔗 Pixel Journey Connection
+## 🔗 Pixel Journey Integration
 
-PxDie is designed to add variety and excitement:
+PxDie is designed to add variety and excitement while staying connected:
 
-- Rewards and progression feed back into the main economy and PxStaking multipliers.
-- Potential synergies with PxHot for combined events or rewards.
+- Rewards and progression feed back into the main $PXJ / $KING economy and can influence PxStaking multipliers.
+- Potential synergies with PxHot for combined events or shared reward pools.
 - Part of the expanding entertainment options accessible from PxLanding.
-- Contributes to overall engagement and retention in the Pixel Journey universe.
+- Contributes to overall engagement, retention, and seasonal activities in the Pixel Journey universe.
 
-This mini-game helps round out the experience offering, providing lighter, chance-driven fun alongside the more strategic elements in other platforms.
+This mini-game helps round out the experience offering by providing lighter, chance-driven fun alongside the more strategic and real-time elements in other platforms.
 
-## 🚀 Current Status & Next Steps
+## 🚀 Current Development Focus
 
-- Concept refinement and core mechanic design.
-- Exploring fair and transparent chance systems.
-- Planning economic integration and reward distribution.
+- Refining core dice mechanics and fair chance systems.
+- Designing balanced risk/reward structures and economic integration.
+- Exploring special events, modes, and NFT synergy opportunities.
+- Planning reward distribution and progression systems.
 
-**Stay connected on Discord** for updates, sneak peeks, and opportunities to influence the final design.
+**We welcome feedback** on desired risk/reward balance, event ideas, and how strongly it should connect to the main economy. Join the Discord to participate.
 
-*Early vision page. Significant development work remains. DYOR. Not financial advice.*
+*Early-to-mid stage vision. Mechanics and integration details are still being refined. DYOR. Not financial advice.*
