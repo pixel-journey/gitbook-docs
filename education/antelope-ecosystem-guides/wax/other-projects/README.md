@@ -37,6 +37,11 @@ Our own content creation program for the Pixel Journey community. A great way to
 
 [Read the full PXJ Writers Program guide →](pxj-writers-program.md)
 
+### Common WAX Questions
+Frequently asked questions from the official WAX Discord community (resources, wallets, NFTs, troubleshooting, etc.).
+
+[Read the full Common WAX Questions guide →](common-wax-questions.md)
+
 ### Other Community Tools
 Various smaller tools and resources that help with specific tasks on WAX (inventory management, quick actions, analytics, etc.).
 
