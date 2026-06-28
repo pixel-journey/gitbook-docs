@@ -51,6 +51,7 @@ Detailed per-chain guides live under this hub. We have standardized the structur
 
 - **WAX (Core Home)**: 
   - [Getting Started on WAX](education/antelope-ecosystem-guides/wax/getting-started/README.md) (wallets, 101, security, resources — fully integrated)
+  - Standardized subfolders: Wallets, DEXes and Swapping, NFT Marketplaces, DeFi and Yield, Security Tips, Bridges, Explorers and Analytics
   - Full advanced ecosystem deep dives: [WAX Ecosystem Guides](education/wax-ecosystem-guides/README.md). Anchor is the primary recommended wallet. AtomicHub is the priority marketplace for NFTs.
 - **XPR Network**: 
   - [Getting Started on XPR Network](education/antelope-ecosystem-guides/xpr/getting-started/README.md) (101, wallets, security — integrated)
