@@ -1,53 +1,55 @@
-# 🛡️ Security Tips for EOS
+# 🛡️ Security Tips for Vaulta (previously EOS)
 
-**Security on EOS** follows core Antelope best practices with some unique considerations due to its mature ecosystem, active governance, and REX resource model. As with WAX and XPR, the biggest risks are social engineering, phishing, and approving malicious contracts — not the blockchain itself.
+> **⚠️ Critical Safety Reminder**  
+> Vaulta, like all blockchains, has risks. Scams, phishing, and malicious contracts exist. Always stay vigilant. DYOR. Never share private keys or seed phrases.
+
+Security practices on Vaulta are very similar to WAX and XPR since all are Antelope chains.
 
 ## Core Security Principles
 
-### Seed Phrases & Keys
-- Never share your seed phrase or private keys.
-- Store offline in a secure location (metal backup recommended for large holdings).
-- Hardware wallets (Ledger, etc.) add a strong layer for significant assets.
+### 1. Protect Your Keys
+- Never share your private keys or seed phrase.
+- Use a hardware wallet for significant holdings when possible.
+- Store your seed phrase securely offline.
 
-### Transaction Approvals
-- Always read what a transaction is doing before confirming.
-- Use wallets with clear previews and simulations where available.
-- Reject anything that looks suspicious or requests unexpected permissions.
-- Start with small test transactions on new dApps.
+### 2. Verify Everything
+- Always double-check URLs before connecting your wallet.
+- Verify contract addresses from official sources.
+- Be extremely cautious of links in Discord, Twitter, or DMs.
 
-### Phishing & Scams
-- Verify all URLs and contract addresses from official sources.
-- Be cautious of DMs, fake support, or "free" offers — common vectors.
-- Use community verification for new tokens/projects.
+### 3. Start Small
+- Test new dApps or features with very small amounts first.
+- Never commit large sums without thorough research.
 
-### Account & Permission Management
-- Use separate accounts for different activities if possible (e.g., one for trading, one for long-term holding).
-- Regularly review and update permissions.
-- Enable all available security features in your wallet.
+### 4. Manage Approvals
+- Regularly revoke token approvals.
+- Avoid unlimited approvals when possible.
 
-## EOS-Specific Considerations
+### 5. Be Scam Aware
+- Watch out for fake airdrops, giveaways, and suspicious "support" accounts.
+- Never click suspicious links or download unknown files.
 
-- **REX Resource Model**: Understand how resources are acquired dynamically — running out mid-transaction can still happen if you underestimate needs.
-- **Governance Participation**: Voting with staked EOS requires care — understand proposals before participating.
-- **Bridges**: Use official/audited bridges when moving assets from WAX/XPR/EVM; test small first.
-- **Mature Ecosystem**: Larger number of established dApps means more potential targets — extra caution on popular platforms.
+## Vaulta-Specific Considerations
 
-## Useful Tools
+- Vaulta has a strong focus on Web3 banking, payments, and institutional use — be cautious of apps requesting broad permissions.
+- Resource models (REX, etc.) may have specific considerations — monitor accordingly.
+- Many tools and explorers are shared or similar across the Antelope family.
 
-- Official wallet security features.
-- Explorers for transaction verification (eosauthority.com, bloks.io).
-- Community resources in EOS Discord/Telegram for scam reports.
+## Pixel Journey Security Recommendations
 
-## Pixel Journey Best Practices
+When exploring Vaulta alongside Pixel Journey:
 
-- Use reputable wallets (Anchor-compatible where available) and hardware where possible.
-- Bridge small test amounts from WAX to learn safely.
-- Combine with WAX Anchor for core holdings; use EOS for mature dApp and governance experimentation.
-- Read full wallet and DeFi guides before diving in.
-- Report suspicious activity in our Discord — we're all learning together.
+- Use **Anchor** as your primary wallet (it works well across Antelope chains).
+- Apply the same rigorous verification habits you use on WAX and XPR.
+- Start with small amounts for experimentation.
+- Keep your primary focus and capital on WAX collections and the PXJ economy.
+- Use Vaulta mainly for low-cost testing and learning new mechanics within the Antelope ecosystem.
 
-**Pro Tip**: EOS's maturity is a strength, but it doesn't change fundamental security rules. Treat every approval seriously, verify everything, and start small. This keeps your multi-chain journey within the Antelope family (WAX + XPR + EOS + emerging) safe and enjoyable.
+## Recommended Habits
 
-Stay vigilant and pixel-powered! 🚀
+- Keep software and wallets updated.
+- Use strong, unique passwords where applicable.
+- Stay informed through trusted community channels.
+- Regularly review active sessions and approvals.
 
-*Pixel Journey — Security first across every ecosystem.*
+*This is educational content. Security is your responsibility. Always DYOR and stay cautious. Not financial advice.*
