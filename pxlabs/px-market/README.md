@@ -1,39 +1,51 @@
-# 🛒 PxMarket — NFT & Resource Marketplace
+# 🛒 PxMarket — NFT, Resource & Collectible Marketplace
 
 > **⚠️ DEVELOPMENT STATUS (June 2026)**  
-> PxMarket is in an advanced state with core listing, bidding, and RAM trading features functional. Polish on bulk actions, advanced filters, royalty handling, and deeper integration with PxWallet inventory is ongoing.  
-> **Feedback on UX, search, and mobile trading flows is very welcome** on Discord.
+> PxMarket is in advanced development. Core NFT listing/bidding, resource trading (especially RAM), and integration with crafting/ingredient flows are functional. Polish on bulk actions, advanced filters, mobile experience, and deeper PxWallet/PxStaking synchronization is ongoing.  
+> **Feedback on trading UX, search/filter quality, and mobile flows is very welcome** on Discord.
 
-**PxMarket** is the official decentralized marketplace for trading Pixal NFTs, resources (RAM, CPU, NET), and ecosystem tokens within the Pixel Journey economy.
+**PxMarket** is the official decentralized marketplace for trading Pixal NFTs, crafted collectibles, ingredients, and ecosystem resources (especially RAM) within the Pixel Journey economy on WAX.
 
 ## 🛍️ Core Experience
 
-- **NFT Listings & Bidding**: Browse, buy, sell, and make offers on Pixals and other WAX NFTs with clean, fast interfaces.
-- **Resource Trading**: Direct RAM market with real-time pricing and one-click buy/sell.
-- **Advanced Filters & Search**: Powerful filtering by collection, traits, price, rarity, and more.
-- **Bulk Actions**: Manage multiple assets efficiently (transfer, list, delist).
-- **Watchlists & Alerts**: Track items you’re interested in with price notifications.
-- **PWA + Offline Caching**: Browse cached listings and your inventory even when offline.
+- **NFT & Collectible Trading** — List, buy, sell, and make offers on Pixals and crafted Pixel Journey collectibles with a clean, fast interface.
+- **Resource Trading** — Direct marketplace for RAM and other WAX resources with real-time pricing and one-click actions.
+- **Ingredient & Crafting Flow** — Develop ingredients and craft collectibles, then easily list or trade them on the market.
+- **Advanced Search & Filters** — Powerful filtering by collection, traits, price, rarity, and item type.
+- **Bulk Actions** — Efficiently manage multiple assets (list, delist, transfer, etc.).
+- **Watchlists & Notifications** — Track items of interest with price alerts and activity notifications.
+- **PWA + Strong Offline Support** — Browse cached listings and manage your inventory even when offline.
 
 ## 🔗 Pixel Journey Integration
 
-PxMarket is a **core economic engine**:
+PxMarket is a **core economic hub** that connects directly to the main loops of the ecosystem:
 
-- Profits and sales feed directly into your PxWallet balances and staking positions.
-- Buying certain NFTs or resources can boost multipliers in PxStaking scenarios.
-- Marketplace activity contributes to seasonal leaderboards and achievements visible in PxLanding.
-- Future PxPortals will allow cross-chain NFT and resource trading from the same interface.
+- **Crafting & Ingredients** — Items you develop and craft in PxStaking flows can be immediately listed or traded here.
+- **NFT Staking Synergy** — Buy or sell NFTs that you plan to stake in WAXDAO farms or other staking contracts.
+- **PxWallet Centralization** — All your listings, offers, inventory, and trading history are visible and manageable from PxWallet.
+- **PxStaking** — Profits from sales can be redeployed into NFT farms, LP positions, or ingredient development.
+- **Future Px Portals** — Will eventually support cross-chain listing and trading of assets.
 
-**After learning the basics (PxLearn) and setting up your vault (PxWallet), PxMarket is where you actively participate in the economy.**
+**This is where much of the day-to-day economic activity happens** — buying, selling, and trading the NFTs, collectibles, and resources that power the Pixel Journey economy.
+
+## 📈 Economic Role
+
+PxMarket plays a vital role in the overall health and liquidity of the ecosystem:
+
+- Provides liquidity and price discovery for Pixals, crafted items, and resources.
+- Enables users to easily enter or exit positions in NFTs and resources.
+- Supports the crafting loop by giving creators and developers a direct marketplace for their output.
+- Helps maintain a healthy, active economy around the core Pixel Journey collections and activities.
 
 ## 🚀 What’s Coming Next
 
-- Enhanced bulk trading tools
+- Enhanced bulk trading and management tools
 - More sophisticated royalty and creator fee handling
-- Deeper on-chain analytics and historical price charts
-- Integration with PxHot for battle-related NFT rewards and trading
+- Deeper analytics, historical price data, and market insights
 - Improved mobile trading experience
+- Tighter integration with PxWallet for seamless listing and management flows
+- Future support for cross-chain asset trading via Px Portals
 
-**We’re actively looking for feedback** on search quality, mobile usability, and which filters/features traders need most. Join the Discord to participate in testing.
+**We’re actively collecting feedback** on search quality, filter usefulness, mobile usability, and which marketplace features traders need most. Join the Discord to participate in testing.
 
 *Educational overview. All mechanics subject to final audits and iteration. DYOR. Not financial advice.*
