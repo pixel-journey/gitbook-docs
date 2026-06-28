@@ -1,36 +1,31 @@
-# 💰 DeFi and Yield on XPR Network — Low-Cost Experimentation
+# 💰 DeFi and Yield on XPR Network
 
-**XPR Network** offers feeless or very low-cost DeFi opportunities. This makes it an excellent low-cost environment for testing DeFi strategies that can complement WAX activities.
+> **⚠️ Important Safety Note**  
+> DeFi carries risks including smart contract vulnerabilities, impermanent loss, and rug pulls. Always DYOR thoroughly, start small, and never invest more than you can afford to lose.
 
-## Key DeFi and Yield Platforms on XPR
+XPR Network offers feeless or very low-cost DeFi opportunities, making it attractive for experimentation alongside WAX.
 
-- DEXes and liquidity platforms optimized for feeless or low-cost activity.
-- Emerging yield and farming opportunities within the XPR ecosystem.
+## Key DeFi Platforms on XPR
 
-## Getting Started with DeFi and Yield on XPR
+XPR has several DEXes and liquidity platforms optimized for low or feeless activity. These support token swaps, liquidity provision, and yield opportunities within the XPR ecosystem.
 
-1. **Use a compatible wallet** (Anchor recommended).
-2. **Acquire XPR** for resources.
-3. **Research platforms** via explorers and community resources.
-4. **Start with small test positions** in liquidity or simple yield.
-5. **Monitor positions** and understand risks like impermanent loss.
-
-## Safety Best Practices
-
-- **Verify contracts and platforms** from trusted sources.
-- **Read transaction details** carefully.
-- **Start very small** on new protocols.
-- **Understand risks**: impermanent loss, smart contracts, liquidation.
-- **Revoke approvals** regularly.
-- **Use hardware wallets** for larger positions.
-- **DYOR thoroughly** on yields.
+**Best Practices**
+- Compare rates and opportunities across available platforms.
+- Understand impermanent loss before providing liquidity.
+- Start with small test positions on new farms or pools.
+- Monitor your positions regularly.
+- Use hardware wallets for larger DeFi positions when possible.
+- Revoke approvals regularly.
 
 ## Pixel Journey Relevance
 
-XPR DeFi tools let you test liquidity, farming, and yield strategies at very low or zero cost. Skills and insights transfer to WAX DeFi and become more valuable with PxPortals.
+XPR can be useful for low-cost swapping, liquidity provision, and yield experimentation. Efficient token movement and DeFi activity on XPR can complement your WAX activities. However, your primary focus and capital should remain on WAX collections, Pixals, and the PXJ economy. Use XPR mainly as a complementary, low-cost testing ground for strategies that can later be applied on WAX.
 
-Use XPR as a low-risk, low-cost lab — bring useful lessons back to your core WAX activities.
+## Security Tips
 
-**Start small. Verify everything. Bring value back to WAX.**
+- Be extremely cautious of new or high-APY opportunities (higher risk).
+- Always verify contracts from trusted sources.
+- Never approve contracts you don’t fully understand.
+- Start very small when exploring new yield opportunities on XPR.
 
-*Educational only. Always DYOR. Not financial advice.*
+*Educational content only. DeFi involves significant risk. Always DYOR. Not financial advice.*
