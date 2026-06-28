@@ -8,18 +8,26 @@ Good explorers and analytics tools are essential for safely navigating the WAX e
 ## Key Explorers and Analytics Tools on WAX
 
 ### waxblock.io
-
-The primary block explorer for WAX. Essential for verifying transactions, checking account activity, resource usage, and contract interactions.
+The primary block explorer for WAX. Essential for verifying transactions, checking account activity, resource usage (CPU/NET/RAM), contract interactions, and name bidding.
 
 **Best For**
-- Transaction verification
+- Transaction verification and history
 - Account and permission monitoring
-- Resource (CPU/NET/RAM) tracking
+- Resource staking and usage tracking
+- Smart contract inspection
+
+### WaxItems.com
+A useful community explorer focused on inventory and item management for AtomicAssets and collections.
+
+[Read the full WaxItems.com guide →](waxitems.md)
+
+**Best For**
+- Viewing and managing NFT inventories
+- Quick collection and asset lookups
+- Complementing the main block explorer
 
 ### Other Useful Tools
-
-- **WaxItems.com** and similar community tools for NFT and collection analytics.
-- Various dashboards for DeFi positions, farming, and ecosystem metrics.
+Various community dashboards and analytics tools exist for DeFi positions, farming rewards, and ecosystem metrics. Always verify current reputation and accuracy before relying on them for important decisions.
 
 ## Best Practices
 
@@ -29,7 +37,6 @@ The primary block explorer for WAX. Essential for verifying transactions, checki
 - Monitor your own account activity regularly.
 
 ## Pixel Journey Relevance
-
 Explorers and analytics tools are critical for managing Pixals, tracking staking positions, verifying marketplace activity, and understanding resource usage. Strong familiarity with these tools helps you participate more safely and effectively in the Pixel Journey economy.
 
 ## Security Tips
