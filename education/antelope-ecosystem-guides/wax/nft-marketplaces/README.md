@@ -5,10 +5,17 @@
 
 WAX has a vibrant NFT ecosystem. Several marketplaces exist, with varying levels of trust, features, and liquidity.
 
-## Major NFT Marketplaces on WAX
+## Top Recommended Marketplace: PxMarket
+
+**PxMarket** is our official and top recommended marketplace for the Pixel Journey ecosystem. It is purpose-built for trading Pixals, Pixel Collectibles, ingredients, and other assets tied to our economy, with deep integration into PxWallet, PxStaking, and future PxPackages.
+
+[Read the full PxMarket guide →](pxmarket.md)
+
+We strongly recommend using PxMarket as your primary marketplace once it is fully live.
+
+## Other Major NFT Marketplaces on WAX
 
 ### AtomicHub
-
 AtomicHub has historically been one of the most popular and trusted NFT marketplaces on WAX. It offers good tools for browsing, trading, and managing AtomicAssets (including Pixals).
 
 **Key Features**
@@ -18,11 +25,15 @@ AtomicHub has historically been one of the most popular and trusted NFT marketpl
 - Active user base
 
 **Pixel Journey Relevance**
-AtomicHub has been widely used by the Pixel Journey community for trading Pixals and related NFTs. It remains a solid option for many users.
+AtomicHub has been widely used by the Pixel Journey community for trading Pixals and related NFTs. It remains a solid option, especially while PxMarket is maturing.
 
-### Other Marketplaces
+### Neftyblocks
+Neftyblocks is a powerful platform focused on drops, blends, staking, and advanced creator tools. It has been essential for complex collection mechanics on WAX.
 
-Several other NFT marketplaces exist on WAX. Some offer different features, fee structures, or focus areas. Always research current reputation, liquidity, and security before using any marketplace.
+**Note**: Reliability has decreased for some users after ownership changes. DYOR and use with caution.
+
+### NFTHive & PFPWizard
+These platforms offer additional options for trading, crafting, and managing specific types of collections. They can be useful complements depending on your needs.
 
 ## Security Best Practices for NFT Trading
 
@@ -31,16 +42,9 @@ Several other NFT marketplaces exist on WAX. Some offer different features, fee 
 - Be extremely cautious of new collections, especially those promising high returns or airdrops.
 - Use official marketplace links only.
 - Double-check all transaction details before confirming.
-- Consider using PxMarket (when available) for a more integrated experience with Pixel Journey assets.
+- Consider using PxMarket (when fully available) for a more integrated experience with Pixel Journey assets.
 
 ## Pixel Journey Recommendation
-
-For trading Pixals and ecosystem NFTs, use well-established marketplaces with good community reputation. Always verify before transacting. PxMarket (when fully available) is designed to offer a more seamless and integrated trading experience tied directly to the Pixel Journey economy.
-
-## General Tips
-
-- Start with small test purchases when exploring new marketplaces or collections.
-- Keep records of your transactions.
-- Be wary of "too good to be true" deals — they usually are.
+For trading Pixals and ecosystem NFTs, **PxMarket** is our top recommendation. While other marketplaces can still be used, PxMarket will offer the best integration and experience aligned with the Pixel Journey vision.
 
 *Educational content only. NFT trading involves risk. Always DYOR. Not financial advice.*
