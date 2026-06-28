@@ -1,7 +1,7 @@
 # 🎮 PxTD — Tower Defense Mini-Game
 
 > **⚠️ DEVELOPMENT STATUS (June 2026)**  
-> PxTD is currently in active early-to-mid development. Core gameplay loops, tower mechanics, enemy waves, and integration with the Pixel Journey economy are being prototyped and iterated on. Many systems are still evolving and not yet at final production quality.  
+> PxTD is currently in active early-to-mid development. Core gameplay loops, tower mechanics, enemy waves, and integration with the Pixel Journey economy are being prototyped and iterated on. Many systems are still evolving.  
 > **We are sharing the current vision** to build excitement and gather early feedback. Join our Discord for development updates, closed playtests, and to help shape the final experience.
 
 **PxTD** (Pixel Tower Defense) is an upcoming strategic tower defense mini-game that brings engaging, replayable gameplay to the Pixel Journey ecosystem while staying deeply connected to the broader economy and progression systems.
@@ -19,7 +19,7 @@
 
 PxTD is designed to be a fun but meaningful part of the larger ecosystem:
 
-- Rewards and performance feed into the main $PXJ / $KING economy and can influence PxStaking multipliers.
+- Rewards and performance feed into the main $PXJ / $KING economy and can influence PxStaking multipliers or crafting opportunities.
 - Potential connections to PxHot for combined events or shared progression.
 - Accessible from PxLanding as part of the growing suite of experiences.
 - Contributes to overall engagement, retention, and seasonal activities.
