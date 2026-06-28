@@ -60,6 +60,144 @@ Pixel Journey tools are designed with cross-chain compatibility in mind, and und
 - Follow official XPR and Antelope documentation.
 - Stay active in trusted developer communities.
 
+## Wharf Kit Integration Patterns
+
+**Wharf Kit** is the modern standard for building dApps on XPR and other Antelope chains. The patterns below are adapted for XPR's fast, low-cost, and payments/identity-focused environment.
+
+### Installation
+
+```bash
+npm install @wharfkit/core @wharfkit/session @wharfkit/wallet-plugin-anchor
+```
+
+For React/Next.js projects:
+```bash
+npm install @wharfkit/react
+```
+
+### 1. Basic Wallet Connection Pattern
+
+```ts
+import { Session } from '@wharfkit/session'
+import { WalletPluginAnchor } from '@wharfkit/wallet-plugin-anchor'
+
+const session = new Session({
+  chain: {
+    id: 'XPR_CHAIN_ID_HERE', // Replace with actual XPR chain ID
+    url: 'https://xpr.greymass.com'
+  },
+  walletPlugin: new WalletPluginAnchor()
+})
+
+const result = await session.login()
+console.log('Connected account:', result.session.actor)
+```
+
+### 2. Persistent Session Management (Recommended)
+
+```ts
+import { Session } from '@wharfkit/session'
+
+let session = Session.restore()
+
+if (!session) {
+  session = new Session({
+    chain: { id: '...', url: '...' },
+    walletPlugin: new WalletPluginAnchor()
+  })
+  await session.login()
+  session.store()
+}
+```
+
+### 3. Signing Efficient Transactions on XPR
+
+XPR's low-cost nature makes it excellent for frequent small transactions:
+
+```ts
+const action = {
+  account: 'yourcontract',
+  name: 'transfer',
+  authorization: [session.permissionLevel],
+  data: {
+    from: session.actor,
+    to: 'receiver',
+    quantity: '1.0000 XPR',
+    memo: 'Pixel Journey payment'
+  }
+}
+
+const result = await session.transact({ actions: [action] })
+console.log('Transaction ID:', result.transaction_id)
+```
+
+### 4. Multi-Chain Support (XPR + WAX + Vaulta)
+
+```ts
+const chains = {
+  xpr: { id: '...', url: 'https://xpr.greymass.com' },
+  wax: { id: '...', url: 'https://wax.greymass.com' },
+  vaulta: { id: '...', url: 'https://vaulta.greymass.com' }
+}
+
+session = new Session({
+  chain: chains.xpr,
+  walletPlugin: new WalletPluginAnchor()
+})
+```
+
+This pattern is ideal for future **PxPortals** cross-chain experiences.
+
+### 5. Error Handling & User Feedback
+
+```ts
+try {
+  const result = await session.transact({ actions: [...] })
+} catch (error) {
+  if (error.message.includes('user_cancelled')) {
+    console.log('User cancelled')
+  } else {
+    console.error('Transaction failed:', error)
+  }
+}
+```
+
+### 6. React Integration
+
+```tsx
+import { useSession } from '@wharfkit/react'
+
+function XPRDapp() {
+  const { session, login, logout } = useSession()
+
+  return (
+    <div>
+      {session ? (
+        <p>Connected on XPR: {session.actor}</p>
+      ) : (
+        <button onClick={login}>Connect with Anchor</button>
+      )}
+    </div>
+  )
+}
+```
+
+### Best Practices for XPR dApps
+
+- Take advantage of XPR's low-cost / feeless nature for frequent small actions.
+- Use persistent sessions for smooth UX.
+- Design for payments and identity use cases.
+- Handle user cancellation gracefully.
+- Use TypeScript for type safety.
+- Support hardware wallets via Anchor for higher-value interactions.
+
+### Security Considerations
+
+- Never store private keys in the frontend.
+- Validate all inputs and contract interactions.
+- Be cautious with permissions and approvals.
+- Keep Wharf Kit and dependencies updated.
+
 ## Getting Started as a Developer on XPR
 
 1. Set up your environment with the latest tools.
