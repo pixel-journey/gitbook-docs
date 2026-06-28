@@ -1,44 +1,63 @@
-# Getting Set Up on XPR Network — Feeless Antelope Ecosystem for Pixel Journey Explorers
+# 🟣 Getting Started on XPR Network
 
-XPR Network (formerly ProtonChain) is a high-speed, feeless Layer 1 blockchain built on the **Antelope** (EOSIO) framework — the same foundation as WAX. If you've been active on WAX, many concepts will feel familiar: human-readable account names, a resource model for transactions (though XPR emphasizes feeless user experiences), and a vibrant NFT/DeFi ecosystem.
+> **⚠️ Important Safety Note**  
+> XPR Network is a fast, low-cost Antelope-based chain with strong focus on payments and DeFi. Always DYOR thoroughly, start with small amounts when exploring new dApps or tokens, and never invest more than you can afford to lose.
 
-What sets XPR Network apart is its focus on **feeless transactions for end users**, built-in DeFi primitives, and growing NFT marketplace through XPR Market. Its native token **XPR** powers staking, governance, and DeFi activities.
+XPR Network (formerly Proton) is a high-performance Antelope blockchain optimized for fast, low-cost transactions with a strong emphasis on user-friendly payments, DeFi, and real-world utility. It offers excellent UX and low fees, making it attractive for experimentation and certain types of activity.
 
-This section provides everything you need to get started confidently on XPR Network, with the same safety-first, educational approach as our WAX and EVM guides.
+## Why Explore XPR Network?
 
-## What is XPR Network?
+- Very low transaction fees
+- Fast and user-friendly experience
+- Strong focus on payments and DeFi
+- Good tooling and growing ecosystem
+- Useful for low-cost experimentation and strategy testing
+- Future PxPortals integration may connect XPR more seamlessly with WAX and other chains
 
-XPR Network launched as ProtonChain and rebranded to emphasize its feeless, user-centric design. It inherits Antelope's strengths (fast finality, account-based model) while innovating on accessibility — aiming for mainstream adoption with seamless onboarding and DeFi tools built into the chain.
+## Getting Started Safely
 
-Key strengths:
-- Feeless transactions for users (via resource staking or protocol design)
-- Strong NFT and DeFi ecosystem
-- Familiar to WAX users (same tech family)
-- Growing tools for swaps, lending, and marketplaces
+### 1. Set Up Your Wallet
 
-## What You Will Find in This Section
+**Anchor** is the most compatible and widely used wallet for XPR Network. It supports easy network management and hardware integration.
 
-- **[XPR Network 101](xpr-network-101.md)** — Core concepts: accounts, resources, NFT standards, DeFi primitives, and how it compares to WAX and EVM chains.
-- **[Wallets on XPR](xpr-wallets.md)** — WebAuth Wallet, Metal Pay, and other options for secure access.
-- **How to Get XPR** — On-ramps, exchanges, bridging from WAX/EVM, and funding your account (see main overview and wallet guides).
-- **[XPR Security Tips](xpr-security-tips.md)** — Essential safety practices, common pitfalls, and DYOR guidance tailored to XPR.
-- **NFT Marketplaces on XPR** — XPR Market and other platforms for buying, selling, and discovering collectibles (expanding soon with dedicated deep dive).
-- **DeFi on XPR Network** — XPR Swap, lending protocols, and key trading tools (expanding soon).
+**Recommended Setup**
+- Use **Anchor** as your primary wallet for XPR.
+- Enable hardware wallet integration (Ledger) for larger holdings.
+- Add the XPR Network to your wallet (official RPC details available on the XPR website).
 
-Start with **XPR Network 101** if you're new or coming from WAX, or jump to wallets to get set up quickly. Our Discord is always open for questions.
+### 2. Acquire XPR (for gas)
 
-## Safety First on XPR Network
+You will need a small amount of XPR for transaction fees. You can acquire it on supported exchanges or bridges.
 
-- Use reputable wallets and always verify official links and contract addresses.
-- Be cautious with new tokens, dApps, or high-yield opportunities — DYOR thoroughly.
-- Enable transaction previews where available and start with small amounts.
-- Regularly review connected apps and revoke unnecessary permissions.
-- Bridges to/from XPR carry risks — use official or audited options and test small.
+**Tip**: Start with a very small amount (e.g., $5–10 worth) for testing.
+
+### 3. Start Exploring Safely
+
+- Begin with well-known dApps and marketplaces on XPR.
+- Use trusted explorers to verify transactions and contracts.
+- Start with tiny test transactions and positions.
+- Revoke token approvals regularly.
+
+### 4. Security Best Practices on XPR
+
+- Use hardware wallets for significant holdings.
+- Double-check all contract addresses and dApp URLs.
+- Be extra cautious of new or low-liquidity tokens and projects.
+- Never share your seed phrase or private keys.
+- Start small and verify everything.
 
 ## Pixel Journey Relevance
+XPR Network is an excellent low-cost environment for testing DeFi mechanics, payments, and different strategies that can later be applied on WAX or other chains. It serves as a valuable complementary testing ground while keeping your primary focus and capital on WAX collections, Pixals, and the PXJ economy.
 
-XPR Network offers a feeless, Antelope-native environment that complements WAX perfectly. Explore its NFT marketplace and DeFi tools for new opportunities, bridge assets for cross-chain experiments, and discover communities that align with Pixel Journey values. It serves as a natural extension for users comfortable with WAX's tech family, while providing unique feeless advantages for active trading and engagement.
+Skills and habits learned on XPR transfer well and will become more valuable as PxPortals expands cross-chain capabilities.
 
-**Explore feeless. Trade smart. Stay secure across Antelope ecosystems.**
+## Quick Start Checklist
 
-*Pixel Journey — Expanding your pixel adventures within familiar yet innovative chains.*
+- [ ] Set up Anchor wallet and add XPR Network
+- [ ] Acquire a small amount of XPR
+- [ ] Start with tiny test transactions
+- [ ] Use trusted explorers to verify activity
+- [ ] Revoke approvals regularly
+- [ ] Keep primary focus on WAX and Pixel Journey
+
+*Educational content only. Always DYOR. Not financial advice.*
