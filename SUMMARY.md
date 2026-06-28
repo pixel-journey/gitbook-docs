@@ -57,7 +57,7 @@
 
 * [🖥️ Website: Pixel Journey](https://pixeljourney.xyz)
 * [PXJourney Staking Portal](https://stake.pixeljourney.xyz/)
-* [PXJourney Leaderboards](https://lb.pixeljourney.xyz/)
+* [PXJourney Leaderboards](https://lb.pixeljourney.xyz)
 * [🗣️ Discord: Pixel Journey](https://discord.gg/WQ59KEBSMp)
 * [🌐 𝕏: Pixel Journey](https://twitter.com/PxJourney)
 * [📰 Medium: Pixel Journey Blog Posts](important-links/medium-pixel-journey-blog-posts.md)
@@ -165,6 +165,7 @@
   * [PxSwap — Decentralized Exchange](pxlabs/px-swap/README.md)
   * [PxHot — Arena Battles](pxlabs/px-hot/README.md)
   * [Px Packages & Px Portals](pxlabs/px-packages/README.md)
+    * [Cross-Chain & Multi-Chain Vision](pxlabs/px-packages/cross-chain-and-multi-chain-vision.md)
   * Upcoming Mini-Games
     * [PxTD — Tower Defense](pxlabs/px-td/README.md)
     * [PxSim — Simulation & Strategy](pxlabs/px-sim/README.md)
