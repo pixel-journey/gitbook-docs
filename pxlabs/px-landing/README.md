@@ -33,6 +33,8 @@ PxLanding is the **orchestrator** of your Pixel Journey:
 - Enhanced mobile-first navigation and gesture support
 - Live status widgets for all connected dApps (staking APY, arena matches, market volume, etc.)
 
+**For Builders & Developers**: PxLanding is also the natural entry point for anyone exploring how the ecosystem is built. The **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** (inside PxLabs) contains 170+ educational code quests that showcase the exact patterns, standards, and modularity principles powering our platforms. It’s the perfect hands-on companion if you want to understand or contribute to the technical foundation. Most repos are in private preview — request access on GitHub or via Discord.
+
 **Join the Discord** to get early access to the latest builds and help us refine the onboarding experience before wider release.
 
 *Educational overview. All features subject to final iteration. DYOR. Not financial advice.*
