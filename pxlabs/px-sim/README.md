@@ -28,12 +28,14 @@ PxSim is deeply connected to the core economic loops:
 
 This mini-game bridges casual strategy gaming with meaningful participation in the Pixel Journey economy.
 
-## 🚀 Current Development Focus
+## 🔧 Current Development Focus
 
 - Refining core simulation mechanics around ingredient color and tier systems.
 - Balancing strategic depth with accessibility.
 - Designing meaningful economic feedback loops with PxStaking and PxMarket.
-- Exploring how success in the simulation can translate to real ecosystem advantages.
+- Exploring how success in the simulation can translate to real staking and crafting outcomes.
+
+**For Builders & Developers**: PxSim will involve production patterns available in the **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** (inside PxLabs). The vault contains 170+ educational code quests covering simulation/strategy systems, ingredient mechanics, resource optimization, and the exact standards we follow. It’s the ideal hands-on resource if you want to understand or build similar simulation experiences. Most repos are in private preview — request access on GitHub or via Discord.
 
 **We welcome early feedback** on the ingredient schema focus, desired strategic depth, and how strongly PxSim should influence real staking and crafting outcomes. Join the Discord to participate.
 
