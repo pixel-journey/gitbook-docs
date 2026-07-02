@@ -1,63 +1,146 @@
-# 👋 Welcome to the Pixel Journey
+# 👋 Welcome to the Pixel Journey — Official Documentation Hub 🌌
+
+**The Web3 Educational Pixel Adventure on WAX (and beyond)**
 
 {% hint style="success" %}
-**Disclaimer:** The Pixel Journey is still very much under active development and continuous improvement. We reserve the right to evolve, balance, or refine any aspects of the project and these docs as we learn and grow together.
-
-Updates and important changes will always be announced on our Discord and 𝕏 channels so you can stay in the loop.
+**Disclaimer:** The Pixel Journey is under active development and continuous improvement. We evolve, balance, and refine based on community feedback and ecosystem growth. All major updates are announced on our [Discord](https://discord.gg/WQ59KEBSMp) and [𝕏 (@PxJourney)](https://twitter.com/PxJourney).
 {% endhint %}
 
-## Pixel Journey Docs Overview
+---
 
-Welcome to the official Pixel Journey documentation hub! 🌌
+## Pixel Journey Vision & What This Hub Is
 
-Here you’ll find clear, helpful, and educational guides covering every part of our project — from the core mechanics and token economy to onboarding new explorers, navigating the WAX ecosystem, and understanding our long-term vision.
+Welcome to the **official, living documentation** for the Pixel Journey — a long-term Web3 educational adventure that started on WAX in 2023 and continues to expand across chains.
 
-Whether you’re brand new to Web3 or already deep into NFTs and blockchain adventures, these docs are designed to make your journey smooth, fun, and rewarding. We believe in building together, learning together, and exploring the best of Web3 one pixel (and one chain) at a time.
+Here you will find clear, helpful, and inspiring guides covering:
 
-If you spot anything that could be clearer, have suggestions, or want to contribute, please reach out on our Discord — we love hearing from the community!
+- Core mechanics, token economy (PXJ, WPIXAL, etc.), and participation layers
+- Safe onboarding to WAX and other ecosystems
+- NFT collecting, staking, crafting, governance, and DeFi opportunities
+- Multi-chain bridging and future seasons vision
+- PxLabs innovation (PxWallet, PxMarket, PxLearn, PxStaking, etc.)
+- Developer patterns, best practices, and contribution paths
 
-## Quick Links
+**Our philosophy**: Build together, learn together, explore together. Long-term thinking, self-custody, community power, and genuine enjoyment are at the heart of everything we do.
 
-{% embed url="https://nfthive.io/drop/nfthivedrops/8005" %}
-Our sold-out OG Pixal PFP drop on NFTHive
-{% endembed %}
+Whether you are brand new to Web3 or a seasoned explorer, these docs are designed to make your journey smooth, rewarding, and fun.
 
-{% content-ref url="introduction/the-pixel-journey-begins.md" %}
-[Start here: Pixel Journey Begins](introduction/the-pixel-journey-begins.md)
-{% endcontent-ref %}
+**This hub itself follows the [PX Perfection Standard](https://github.com/pixel-journey/pixel-journey-standards) and serves as a living example of high-quality, educational Web3 documentation.**
 
-{% content-ref url="introduction/roadmap-summary.md" %}
-[Our evolving Roadmap](introduction/roadmap-summary.md)
-{% endcontent-ref %}
+---
 
-{% content-ref url="important-links/pixel-journey-collection-pages/" %}
-[Pixel Journey Collection Pages](important-links/pixel-journey-collection-pages/)
-{% endcontent-ref %}
+## 🚀 Quick Start — Begin Your Pixel Journey in Minutes
 
-{% content-ref url="season-1/the-pixal-pfps/" %}
-[The Pixal PFPs](season-1/the-pixal-pfps/)
-{% endcontent-ref %}
+**New here?** Start with these high-signal resources:
 
-## Getting Started on WAX
+1. **[What is the Pixel Journey?](introduction/the-pixel-journey-begins.md)** — Core vision and story.
+2. **[The Famous 5-Minute Pixel Quest](getting-started/new-here-start-your-pixel-journey.md)** — Fast onboarding path.
+3. **[Pixel-Perfect Getting Started Checklist](getting-started/new-here-start-your-pixel-journey.md)** — Step-by-step setup.
+4. **[Your Pixel Journey — The Legendary 12-Step Progression Path](getting-started/your-pixel-journey-12-step-progression.md)** — Long-term roadmap for meaningful participation.
+5. **[Getting Set Up on WAX](education/getting-set-up-on-wax/README.md)** — Wallets, first Pixal, safety basics.
+6. **[How to Get Your First Pixal](season-1/the-pixal-pfps/README.md)** — OG collection and entry point.
 
-New to WAX or want to deepen your knowledge? We’ve created a comprehensive set of guides to help you get set up safely and confidently.
+**Already have a wallet?** Jump straight into [WAX 101](education/getting-set-up-on-wax/wax-101.md) or explore the full [Wax Ecosystem Guides](introduction/wax-ecosystem-guides/README.md).
 
-These resources cover wallets, marketplaces, tools, best practices, and answers to the most common questions in the WAX community. They’re regularly maintained to reflect the current state of the ecosystem (as of 2026).
+**Developer or builder?** See [PxLabs Overview](pxlabs/README.md), [Developer Guides](education/antelope-ecosystem-guides/wax/developer-guides/README.md), and our [standards repo](https://github.com/pixel-journey/pixel-journey-standards).
 
-Start with the **Wax Ecosystem Guides** section or jump straight into the **Getting Started** education pages below. If you ever get stuck, our Discord and the official WAX Discord are always welcoming places to ask questions.
+---
 
-{% content-ref url="education/getting-set-up-on-wax/" %}
-[Getting Set Up on WAX](education/getting-set-up-on-wax/)
-{% endcontent-ref %}
+## 🗺️ Documentation Structure & How to Navigate
 
-{% content-ref url="education/getting-set-up-on-wax/wax-101.md" %}
-[WAX 101 – The Basics](education/getting-set-up-on-wax/wax-101.md)
-{% endcontent-ref %}
+This hub is organized for both new explorers and power users:
 
-{% content-ref url="important-links/ecosystem-discords/" %}
-[Helpful Ecosystem Discords](important-links/ecosystem-discords/)
-{% endcontent-ref %}
+- **Getting Started** — Onboarding checklists, 12-step path, glossary, common pitfalls.
+- **Introduction** — Vision, roadmap, team, Discord roles, ecosystem partners, WAX guides.
+- **Season 1 (WAX)** — Pixal PFPs, PXJ economy, staking/LP rewards, crafting, airdrops, governance (Rock Council), bridging, future seasons.
+- **Education** — Deep WAX + multi-chain ecosystem guides (wallets, DEXes, marketplaces, DeFi, security, developer tools) across Antelope (WAX, XPR, Vaulta), Solana, EVM chains, and more.
+- **PxLabs** — Innovation lab vision: PxLanding, PxLearn (Web3 Academy), PxWallet, PxMarket, PxStaking, PxSwap, PxHot, Px Packages & Portals.
+- **Journey Use Cases** — Tailored guidance for collectors, artists, developers, projects, partners, and you.
+- **Important Links** — Official site, staking portal, leaderboards, Discord, X, blog, collection pages.
 
-{% content-ref url="introduction/wax-ecosystem-guides/" %}
-[Full Wax Ecosystem Guides](introduction/wax-ecosystem-guides/)
-{% endcontent-ref %}
+Use the left sidebar (GitBook) or [SUMMARY.md](SUMMARY.md) for full navigation. Every major section has its own README with context and quick links.
+
+**Pro tip**: Use the search or jump via the embedded links in each guide.
+
+---
+
+## 🛡️ WAX Ecosystem & Safety First
+
+New to WAX or want to deepen your knowledge? We maintain comprehensive, up-to-date (as of 2026) guides covering:
+
+- Wallets (Anchor, Cloud Wallet, Wombat, etc.)
+- Marketplaces (AtomicHub, NFTHive, PxMarket, Neftyblocks, etc.)
+- DEXes & Swapping (Alcor, TacoSwap, etc.)
+- DeFi, yield, staking, and LP rewards
+- NFT creation, drops, crafting, and trading
+- Security best practices, self-custody, and scam avoidance
+- Bridging to Polygon, BASE, ETH, Solana, and beyond
+- Explorers, analytics, governance, and developer tools
+
+**Always prioritize self-custody and verify transactions.** See our dedicated [Security Tips](education/getting-set-up-on-wax/wax-security-tips.md) and ecosystem security sections.
+
+Full WAX guides live under **Education → Antelope Ecosystem Guides → WAX** and **Introduction → Wax Ecosystem Guides**.
+
+---
+
+## 🌟 Key Highlights & Living Resources
+
+- **Pixal PFPs & OG Collection** — Foundational NFT drop and ongoing utility (airdrops, staking, ranks).
+- **PXJ Token Economy** — Staking, LP rewards, redeemables, governance participation.
+- **Crafting & Recycling** — Pixel Ingredients, packs, and creative economy loops.
+- **Multi-Chain Future** — Bridges, Season 2+ vision (Polygon/ETH/BASE/Solana), PixelNet concepts.
+- **PxLabs Innovation** — Modular packages, PxUI, PxVault, achievements, badges, offline resilience, and developer experience standards.
+- **Community & Governance** — Discord roles/LVLs, Rock Council, long-term participation rewards.
+
+These resources evolve with the project. Check the [Roadmap Summary](introduction/roadmap-summary.md) and [What's Next?](season-1/whats-next.md) regularly.
+
+---
+
+## 🤝 Contribute, Feedback & Community
+
+We build in the open and love contributions from the Pixel fam!
+
+- Spot something unclear or have a suggestion? Reach out on [Discord](https://discord.gg/WQ59KEBSMp).
+- Want to contribute content, fixes, or new guides? See our [Contributing guidelines](https://github.com/pixel-journey/pixel-journey-standards/blob/main/CONTRIBUTING.md) and open a PR or discussion.
+- Follow [@PxJourney](https://twitter.com/PxJourney) and join the conversation.
+- Explore the broader [Pixel Journey Standards](https://github.com/pixel-journey/pixel-journey-standards) for engineering, UI/UX, documentation, and quality practices we follow.
+
+This documentation hub is maintained to the [PX Perfection Standard](https://github.com/pixel-journey/pixel-journey-standards) — completeness, clarity, consistency, polish, and educational value.
+
+---
+
+## 📚 Quick Reference Links
+
+- **Official Website**: [pixeljourney.xyz](https://pixeljourney.xyz)
+- **Staking Portal**: [stake.pixeljourney.xyz](https://stake.pixeljourney.xyz/)
+- **Leaderboards**: [lb.pixeljourney.xyz](https://lb.pixeljourney.xyz)
+- **Discord**: [discord.gg/WQ59KEBSMp](https://discord.gg/WQ59KEBSMp)
+- **X / Twitter**: [@PxJourney](https://twitter.com/PxJourney)
+- **Medium / Blog**: [Medium Pixel Journey](important-links/medium-pixel-journey-blog-posts.md)
+- **Collection Pages**: [NFTHive / AtomicHub](important-links/pixel-journey-collection-pages/README.md)
+- **Full Ecosystem Discords**: [Helpful links](important-links/ecosystem-discords/README.md)
+- **Core Standards & Templates**: [pixel-journey-standards](https://github.com/pixel-journey/pixel-journey-standards)
+
+---
+
+## 📝 Changelog & Versioning
+
+This documentation is versioned alongside the project. Significant structural or content changes are tracked here and in commit history.
+
+**Latest major updates**: See [SUMMARY.md](SUMMARY.md) structure and recent PRs for the most current state.
+
+For release notes style changes, refer to the project changelog where applicable.
+
+---
+
+**Thank you for being part of the Pixel Journey.**
+
+We are building something meaningful together — one pixel, one explorer, one long-term participant at a time.
+
+*Explore. Learn. Participate. Enjoy. Thrive.*
+
+— The Pixel Journey Team & Community
+
+---
+
+*This README follows the [PX Perfection Standard](https://github.com/pixel-journey/pixel-journey-standards) and is part of the living Pixel Journey WAX Blueprint.*
