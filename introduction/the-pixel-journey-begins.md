@@ -24,6 +24,16 @@ WAX offered the perfect launchpad: powerful NFT standards (AtomicAssets), thrivi
 
 We believe the best way to learn Web3 is by *doing* it together. Every guide, every mechanic, every drop is designed to teach real skills while being rewarding. From wallet setup to crafting, staking, and governance — you’re not just reading; you’re living the journey. This GitBook, combined with our future standalone PxLearn Portal, will be the most comprehensive, welcoming, and pixel-perfect Web3 educational resource in the space.
 
+### For Developers & Builders
+
+If you’re here to build, integrate, or level up your Web3 skills, we’ve created dedicated pathways just for you:
+
+- **[For Developers](https://docs.pixeljourney.xyz/journey-use-cases/for-developers/)** — The welcoming hub with clear next steps.
+- **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** (inside PxLabs) — 170+ production-grade educational code quests covering WAX fundamentals, modern frontend stacks, verifiable mechanics, wallets, DeFi, NFTs, cross-chain patterns, and our engineering standards. Most repos are in private preview — request access on GitHub or Discord.
+- **Education Developer Guides** — Deep best practices and patterns for [WAX/Antelope](https://docs.pixeljourney.xyz/education/antelope-ecosystem-guides/wax/developer-guides/), [Solana](https://docs.pixeljourney.xyz/education/solana-ecosystem-guides/developer-guides/), and [EVM chains](https://docs.pixeljourney.xyz/education/evm-ecosystem-guides/developer-guides/).
+
+These resources are built from our real 1,050+ day production experience (PxWallet, PxHot, PxPackages, etc.) and are designed to help you move fast while building beautiful, secure, educational experiences.
+
 ### How to Join the Adventure
 
 1. **Start with the Basics** — Set up your WAX wallet (Cloud Wallet or Anchor) using our guides.
@@ -31,6 +41,7 @@ We believe the best way to learn Web3 is by *doing* it together. Every guide, ev
 3. **Participate in the Economy** — Craft, stake, trade, and earn PXJ.
 4. **Engage with the Community** — Join our Discord, follow on X, and contribute ideas.
 5. **Level Up** — Climb the leaderboard, join the Rock Council discussions, and help shape future phases.
+6. **Build & Contribute** (for developers) — Explore the PxDev Examples Vault, follow our standards and templates, and collaborate via Discord.
 
 So — are you ready for an adventure that grows with you? 🚀
 
