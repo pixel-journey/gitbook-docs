@@ -33,6 +33,8 @@ PxLearn is the **educational backbone**:
 - Deeper integration with on-chain progress tracking
 - Expanded voice options and interactive simulators
 
+**For Builders & Advanced Learners**: The **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** (inside PxLabs) contains 170+ production-grade educational code quests that complement PxLearn perfectly. It’s the hands-on companion for anyone wanting to move from learning concepts to building real experiences using the exact patterns, standards, and modularity principles behind our ecosystem. Most repos are in private preview — request access on GitHub or via Discord.
+
 **Feedback is highly valued** — especially on which topics feel missing or unclear. Join the Discord to help shape the academy.
 
 *Educational content only. DYOR. Not financial advice.*
