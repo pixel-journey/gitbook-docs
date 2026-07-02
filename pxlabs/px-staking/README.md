@@ -57,6 +57,8 @@ PxStaking is designed to reward active, meaningful participation in the ecosyste
 - Tighter integration with PxWallet for one-click staking and claiming flows
 - Future expansion of yield opportunities as the ecosystem grows
 
+**For Builders & Developers**: PxStaking involves many production patterns available in the **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** (inside PxLabs). The vault contains 170+ educational code quests covering NFT/FT staking flows, DeFi LP integration, crafting systems, and the exact standards we follow. It’s the ideal hands-on resource if you want to understand or build similar yield and progression mechanics. Most repos are in private preview — request access on GitHub or via Discord.
+
 **We’re actively seeking feedback** on staking flows, crafting UX, farm visibility, and which features would help users optimize their participation most effectively. Join Discord for testing and input.
 
 *Educational content. Mechanics subject to final audits and iteration. DYOR. Not financial advice.*
