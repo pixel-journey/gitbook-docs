@@ -155,6 +155,12 @@ Jump straight into the mechanics you find most interesting in **Season 1**.
 **Option C:**  
 Head to **Education** if you want to understand the "why" behind everything.
 
+**Option D — For Aspiring Builders & Developers:**  
+If you’re excited to build, contribute code, or explore production patterns, jump straight to:
+- **[For Developers Hub](journey-use-cases/for-developers.md)** — Welcoming entry point with clear next steps.
+- **[PxDev Examples Vault](pxlabs/px-dev-examples/README.md)** (inside PxLabs) — 170+ educational code quests covering everything from WAX fundamentals to advanced patterns we use in production (PxWallet, PxHot, PxPackages, etc.). Most repos are in private preview — request access on GitHub or Discord.
+- **Developer Guides** — [WAX](education/antelope-ecosystem-guides/wax/developer-guides/), [Solana](education/solana-ecosystem-guides/developer-guides/), [EVM](education/evm-ecosystem-guides/developer-guides/).
+
 ---
 
 {% hint style="success" %}
