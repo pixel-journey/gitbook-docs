@@ -1,5 +1,8 @@
 # 🛠️ Developer Guides for EVM Chains
 
+> **Hands-on Companion: PxDev Examples Vault**  
+> These guides cover EVM-specific best practices (viem + wagmi, Foundry, account abstraction, multi-chain patterns). Many core lessons from the **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** — especially modern frontend stacks, state management, secure wallet/key architectures, cross-chain derivation examples, i18n/PWA resilience, and our engineering/educational standards — apply directly across EVM, Solana, and Antelope. Future quests will expand with more chain-specific EVM examples. Most repos are in private preview — request access on GitHub or via Discord.
+
 > **⚠️ Important Note for Developers**  
 > The EVM ecosystem evolves quickly. Always use modern, actively maintained libraries and follow current best practices. This guide focuses on safe, performant, and future-proof development across Base, Polygon, Ethereum, BNB Chain, and other EVM networks.
 
@@ -93,7 +96,7 @@ function EVM Dapp() {
         <>
           <p>Connected: {address}</p>
           <button onClick={() => disconnect()}>Disconnect</button>
-        </>
+        </div>
       )}
     </div>
   )
@@ -197,7 +200,7 @@ try {
 2. Explore **viem + wagmi** for wallet and contract interactions.
 3. Build a simple test dApp or smart contract.
 4. Test thoroughly on relevant testnets (Sepolia, Base Sepolia, Polygon Amoy, etc.).
-5. Review how EVM chains can complement WAX-based Pixel Journey activities in a multi-chain strategy.
+5. Review how EVM chains can complement WAX-based Pixel Journey activities in a multi-chain strategy — and explore the **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** for shared patterns that apply across ecosystems.
 
 ## Pixel Journey Relevance
 
