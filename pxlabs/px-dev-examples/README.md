@@ -45,12 +45,22 @@ Every portal, dApp, and example in the vault will import and extend this system 
 
 These templates will encode years of hard-won production wisdom so new builders start at an advanced level.
 
-### 3. pixel-journey-standards
+### 3. pixel-journey-standards (The Living Standards Codex)
 **https://github.com/pixel-journey/pixel-journey-standards**
 
 *Status: Private preview — request access or watch for public release*
 
-**Future Completed Vision**: The definitive engineering rulebook for the entire organization and ecosystem. Coding style guides, security patterns for WAX/Antelope smart contracts and frontends, commit message conventions, documentation standards, testing philosophy, accessibility requirements, and multi-chain best practices. All tuned for the speed, transparency, and playful spirit of Web3 while maintaining professional-grade maintainability.
+**Future Completed Vision**: The official **Pixel Journey Standards Codex** — the single source of truth for what "Px Brand Standards & Levels of Excellence" means across strategy, code quality, documentation, educational value, UI/UX, security, and alignment with our principles.
+
+It is built for **long-term participants** (humans and AI collaborators) who want to create extraordinary, educational, and empowering Web3 experiences. Core architectural principles include:
+
+- **Existing Public Primitives First** — Build excellent UI/UX and client-side systems on top of public WAX/Antelope infrastructure.
+- **Client-Side State & Local-First** — Hyperion + encrypted local storage as source of truth.
+- **On-Chain Entropy** — TX hash + block header derivation for verifiable mechanics (the foundation of PxHot pairing and trustless randomness).
+
+The codex covers UI/UX design pillars, engineering foundations (testing, versioning, documentation, observability, security review), educational blueprints, quality tools (scorecards, checklists, AI self-audit guides), and monorepo standards. It is tightly integrated with the templates repo and these very docs.
+
+Every quest in the PxDev Examples Vault is designed to exemplify and teach these standards in action.
 
 ## The PxDev Examples Vault — Categorized Educational Quests (Future Completed Form)
 
@@ -64,7 +74,7 @@ Below is the high-level map of what the completed vault will offer. This is how 
 **Example Quests (future public repos)**:
 - `px-wax-smart-contract-101` — Complete introduction to eosio.token, actions, tables, and notifications with Pixel Journey flavor.
 - `px-resource-powerup-and-staking-patterns` — Production patterns for CPU/NET/RAM management, power-up flows, and staking integration.
-- `px-verifiable-tx-memo-seeds` — The exact technique behind PxHot pairing and trustless on-chain randomness.
+- `px-verifiable-tx-memo-seeds` — The exact technique behind PxHot pairing and trustless on-chain randomness (On-Chain Entropy principle in action).
 
 **Skills unlocked**: Smart contract reading/writing, resource economics, on-chain verifiability, debugging with Hyperion.
 
@@ -114,7 +124,7 @@ Below is the high-level map of what the completed vault will offer. This is how 
 **Example Quests**:
 - `px-hot-or-not-voting-arena-full` — Complete verifiable pairing, voting, reward splitting, and anti-cheat patterns.
 - `px-xp-streaks-badges-and-leaderboards` — On-chain progression systems with anti-sybil and fair reward distribution.
-- `px-on-chain-randomness-and-game-mechanics` — TX-memo seeds, commit-reveal, and other verifiable randomness techniques.
+- `px-on-chain-randomness-and-game-mechanics` — TX-memo seeds, commit-reveal, and other verifiable randomness techniques (directly embodying our On-Chain Entropy principle).
 
 **Skills unlocked**: Verifiable computation, game design on-chain, fair and transparent mechanics.
 
@@ -134,7 +144,7 @@ Below is the high-level map of what the completed vault will offer. This is how 
 **Example Quests**:
 - `px-hyperion-history-indexing-and-hooks` — Production patterns for rich transaction history and analytics.
 - `px-automation-schedulers-and-resource-monitors` — Safe automation for power-ups, claims, and monitoring.
-- `px-ai-assisted-dev-and-agent-orchestration` — Meta-patterns for how we leverage AI agents while maintaining human oversight and code quality.
+- `px-ai-assisted-dev-and-agent-orchestration` — Meta-patterns for how we leverage AI agents while maintaining human oversight and code quality (aligned with our AI self-audit standards).
 
 **Skills unlocked**: Backend automation, indexing, monitoring, responsible AI-augmented development.
 
@@ -142,11 +152,22 @@ Below is the high-level map of what the completed vault will offer. This is how 
 **Purpose**: The "how we keep everything sane and trustworthy at scale" layer. Every serious builder eventually needs this.
 
 **Example Quests**:
-- `px-security-audit-checklist-for-wax-dapps` — Our internal security review process turned into an educational checklist.
+- `px-security-audit-checklist-for-wax-dapps` — Our internal security review process turned into an educational checklist (directly from the Standards Codex).
 - `px-testing-strategies-unit-integration-e2e` — Practical testing approaches for smart contracts and frontends.
-- `px-documentation-and-knowledge-base-patterns` — How we structure READMEs, guides, and these very docs for maximum clarity.
+- `px-documentation-and-knowledge-base-patterns` — How we structure READMEs, guides, and these very docs for maximum clarity (educational blueprint standards in action).
 
 **Skills unlocked**: Professional engineering practices, security mindset, maintainable codebases.
+
+## Cross-References & Related Resources
+
+The PxDev Examples Vault does not exist in isolation. It is designed to work hand-in-hand with the rest of our documentation ecosystem:
+
+- **[For Developers](https://docs.pixeljourney.xyz/journey-use-cases/for-developers/)** — The welcoming hub page that funnels builders into this vault and the broader resources.
+- **[WAX / Antelope Developer Guides](https://docs.pixeljourney.xyz/education/antelope-ecosystem-guides/wax/developer-guides/)** — Theory, best practices, and WharfKit patterns that pair perfectly with the runnable quests here.
+- **[Solana Developer Guides](https://docs.pixeljourney.xyz/education/solana-ecosystem-guides/developer-guides/)** — Complementary modern patterns; many frontend, state, and architectural lessons from the vault translate directly.
+- **[PxLabs Overview](https://docs.pixeljourney.xyz/pxlabs/)** — The innovation lab home of this vault, Px Packages, and all our experimental platforms.
+- **[Px Packages & Px Portals](https://docs.pixeljourney.xyz/pxlabs/px-packages/)** — The modular foundation and architectural vision that many of these examples support and exemplify.
+- **GitHub Org**: https://github.com/pixel-journey — Star it, request access to private repos, and watch for new public educational releases.
 
 ## How the PxDev Examples Vault Completes Your Web3 Journey
 
@@ -160,7 +181,7 @@ New builders can start with the fundamentals and progressively unlock:
 - Rich NFT and economy systems
 - Real-time interactive experiences
 - Multi-chain thinking and cross-chain derivation
-- Professional engineering standards
+- Professional engineering standards (directly from our Living Standards Codex)
 
 All while staying inside the playful, meme-loving, community-first, educational soul of Pixel Journey.
 
