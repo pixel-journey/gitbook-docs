@@ -46,6 +46,8 @@ PxSwap plays an important supporting role:
 - Enhanced mobile swap experience
 - Tighter integration with PxWallet and PxStaking for seamless position management
 
+**For Builders & Developers**: PxSwap involves many production patterns available in the **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** (inside PxLabs). The vault contains 170+ educational code quests covering smart routing, DeFi integration, liquidity provision, and the exact standards we follow. It’s the ideal hands-on resource if you want to understand or build similar DEX experiences. Most repos are in private preview — request access on GitHub or via Discord.
+
 **We value feedback** on rate quality, mobile usability, slippage experience, and what features would help users optimize their staking and crafting flows most effectively. Join Discord for testing.
 
 *Educational overview. All mechanics subject to final audits and iteration. DYOR. Not financial advice.*
