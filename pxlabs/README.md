@@ -1,4 +1,4 @@
-# 🧪 PxLabs — Pixel Journey Innovation Lab
+# 🧪 PxLabs: Pixel Journey Innovation Lab
 
 **Welcome to PxLabs** — the experimental frontier where the Pixel Journey ecosystem is being built, tested, and expanded into a full suite of interconnected Web3 experiences.
 
@@ -15,7 +15,7 @@ PxLabs houses the next-generation dApps and foundational infrastructure that pow
 - **Composable economy**: Staking, swapping, battling, and learning all feed into the same $PXJ / $KING / NFT loops.
 - **Sustainable Foundations**: Long-term maintainability and modularity are core priorities (see Px Packages & Px Portals).
 
-## 📊 Quick Reference — All PxLabs Platforms
+## 📊 Quick Reference: All PxLabs Platforms
 
 | Platform              | Focus Area                        | Current Stage                          | Best For                          | Key Connection                  |
 |-----------------------|-----------------------------------|----------------------------------------|-----------------------------------|---------------------------------|
@@ -47,13 +47,13 @@ We’ve organized PxLabs in a logical order for new users:
 ## 🔗 Quick Navigation
 
 ### Individual Platforms
-- [PxLanding — The Central Hub](px-landing/README.md)
-- [PxLearn — Web3 Academy](px-learn/README.md)
-- [PxWallet — Institutional Vault](px-wallet/README.md)
-- [PxMarket — NFT & Resource Marketplace](px-market/README.md)
-- [PxStaking — Yield Engine](px-staking/README.md)
-- [PxSwap — Decentralized Exchange](px-swap/README.md)
-- [PxHot — Arena Battles](px-hot/README.md)
+- [PxLanding: The Central Hub](px-landing/README.md)
+- [PxLearn: Web3 Academy](px-learn/README.md)
+- [PxWallet: Institutional Vault](px-wallet/README.md)
+- [PxMarket: NFT & Resource Marketplace](px-market/README.md)
+- [PxStaking: Yield Engine](px-staking/README.md)
+- [PxSwap: Decentralized Exchange](px-swap/README.md)
+- [PxHot: Arena Battles](px-hot/README.md)
 
 ### Foundational Infrastructure (Px Packages)
 - [Px Packages & Px Portals Overview](px-packages/README.md)
@@ -67,11 +67,11 @@ We’ve organized PxLabs in a logical order for new users:
 - [Developer Experience & Modularity](px-packages/developer-experience-and-modularity.md)
 - [Security & Trust Principles](px-packages/security-and-trust-principles.md)
 
-## 🧰 New in PxLabs: PxDev Examples Vault
+## 🧰 Developer Resources: PxDev Examples Vault
 
-We have expanded PxLabs with a brand-new major section: the **PxDev Examples Vault**.
+We have expanded PxLabs with a major new section: the **PxDev Examples Vault**.
 
-This is our massive collection of **170+ educational code repositories** that represent the complete, pixel-perfect map for learning to build Web3 the Pixel Journey way — from WAX fundamentals all the way to advanced multi-chain patterns, secure wallet architectures, verifiable game mechanics, and professional engineering standards.
+This is our collection of **170+ educational code repositories** that represent the complete, pixel-perfect map for learning to build Web3 the Pixel Journey way — from WAX fundamentals all the way to advanced multi-chain patterns, secure wallet architectures, verifiable game mechanics, and professional engineering standards.
 
 In their completed future vision, every repository will be a self-contained, production-grade educational quest with beautiful documentation, runnable examples, deep commentary, and direct connections to our real production systems (PxWallet, PxHot, Pixal tiers, PXJ economy, verifiable TX seeds, etc.).
 
@@ -80,6 +80,8 @@ In their completed future vision, every repository will be a self-contained, pro
 [Explore the full PxDev Examples Vault →](px-dev-examples/README.md)
 
 This addition, together with our existing Px Packages deep-dives and the comprehensive Education section, makes PxLabs the ultimate hub for both using and *building* the future of Pixel Journey.
+
+**Note for builders**: The individual platform deep-dives in this section focus on the user experience and economic role of each platform. For hands-on code patterns, standards, and production examples, head directly to the PxDev Examples Vault.
 
 ## 🤝 Get Involved & Provide Feedback
 
