@@ -36,7 +36,7 @@ Every step is designed to:
 
 ---
 
-## 🟥 STEP 2: Join the Pixel Guild (Discord)
+## 🔴 STEP 2: Join the Pixel Guild (Discord)
 
 **Pixel Journey Lesson:** Pixel Journey is a living community. The Discord is where quests are announced, help is given, trades happen, and the culture lives.
 
@@ -103,7 +103,7 @@ Every step is designed to:
 
 ---
 
-## 🟥 STEP 6: Master Recycling & The Circular Pixel Economy
+## 🔴 STEP 6: Master Recycling & The Circular Pixel Economy
 
 **Pixel Journey Lesson:** Recycling keeps the economy healthy and gives value back to players.
 
@@ -171,7 +171,7 @@ Every step is designed to:
 
 ---
 
-## 🟥 STEP 10: Participate in Governance
+## 🔴 STEP 10: Participate in Governance
 
 **Pixel Journey Lesson:** The Rock Council gives real say to the community. Token holders (especially stakers) vote on direction.
 
@@ -214,10 +214,15 @@ Every step is designed to:
 **Action Items:**
 - Stay active in Discord and governance
 - Help new pioneers (teach what you’ve learned)
-- Contribute ideas, art, moderation, or code
+- Contribute ideas, art, moderation, **or code**
 - Earn the respect of being a true builder
 
 **→ Go here:** [The Rock Council](season-1/the-rock-council.md)
+
+**Builder Bonus:** If you want to go deeper into building, exploring production patterns, or contributing code, check out:
+- **[For Developers Hub](journey-use-cases/for-developers.md)**
+- **[PxDev Examples Vault](pxlabs/px-dev-examples/README.md)** (170+ educational code quests inside PxLabs)
+- **Developer Guides** across WAX, Solana, and EVM chains
 
 ---
 
