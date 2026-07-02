@@ -44,6 +44,8 @@ Security is not an afterthought — it is a core design principle:
 - Tighter integration with Px Portals for future cross-chain portfolio management
 - More intelligent alerts and opportunity notifications
 
+**For Builders & Developers**: PxWallet showcases many of the production patterns available in the **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** (inside PxLabs). The vault contains 170+ educational code quests covering secure wallet architectures, cross-chain derivation, multisig patterns, and the exact standards we follow. It’s the ideal hands-on resource if you want to understand or build similar experiences. Most repos are in private preview — request access on GitHub or via Discord.
+
 **We are actively collecting feedback** on security flows, portfolio visualization, and which features matter most to different types of users. Join the Discord to participate in testing.
 
 *Educational overview. All features subject to final security audits and iteration. DYOR. Not financial advice.*
