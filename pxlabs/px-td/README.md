@@ -26,12 +26,14 @@ PxTD is designed to be a fun but meaningful part of the larger ecosystem:
 
 This mini-game adds strategic variety while reinforcing the core Pixel Journey loops of collection, progression, and economic participation.
 
-## 🚀 Current Development Focus
+## 🔧 Current Development Focus
 
 - Refining core tower defense systems and balance.
 - Designing economic integration models (rewards, upgrades, NFT synergies).
 - Exploring thematic elements and visual direction.
 - Planning progression systems that tie back to the main ecosystem.
+
+**For Builders & Developers**: PxTD will involve production patterns available in the **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** (inside PxLabs). The vault contains 170+ educational code quests covering game mechanics, strategy systems, resource management, and the exact standards we follow. It’s the ideal hands-on resource if you want to understand or build similar game experiences. Most repos are in private preview — request access on GitHub or via Discord.
 
 **We highly value early feedback** on gameplay feel, difficulty curves, and how strongly it should connect to the main economy. Join the Discord to participate in testing and discussions.
 
