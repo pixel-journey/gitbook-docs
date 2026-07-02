@@ -26,12 +26,14 @@ PxDie is designed to add variety and excitement while staying connected:
 
 This mini-game helps round out the experience offering by providing lighter, chance-driven fun alongside the more strategic and real-time elements in other platforms.
 
-## 🚀 Current Development Focus
+## 🔧 Current Development Focus
 
 - Refining core dice mechanics and fair chance systems.
 - Designing balanced risk/reward structures and economic integration.
 - Exploring special events, modes, and NFT synergy opportunities.
 - Planning reward distribution and progression systems.
+
+**For Builders & Developers**: PxDie will involve production patterns available in the **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** (inside PxLabs). The vault contains 170+ educational code quests covering chance mechanics, risk/reward systems, verifiable randomness, and the exact standards we follow. It’s the ideal hands-on resource if you want to understand or build similar game mechanics. Most repos are in private preview — request access on GitHub or via Discord.
 
 **We welcome feedback** on desired risk/reward balance, event ideas, and how strongly it should connect to the main economy. Join the Discord to participate.
 
