@@ -36,14 +36,27 @@ These three repositories form the bedrock upon which the entire 170+ vault is bu
 
 Every portal, dApp, and example in the vault will import and extend this system so builders inherit pixel-perfect consistency without reinventing the wheel.
 
-### 2. pixel-journey-templates
+### 2. pixel-journey-templates (The Official Handbook & AI Collaboration Layer)
 **https://github.com/pixel-journey/pixel-journey-templates**
 
 *Status: Private preview — request access or watch for public release*
 
-**Future Completed Vision**: Production-ready GitHub repository templates and boilerplates that spin up a complete, standards-compliant Pixel Journey project in under two minutes. Pre-configured with Next.js 15 + Turbopack, TypeScript, Zustand + TanStack Query, WharfKit signing, i18n (8+ locales), PWA + offline resilience, Chrome MV3 extension scaffolding, testing setups, and our exact linting/commit/documentation conventions.
+**Future Completed Vision**: The central coordination layer and living handbook for *how we build* everything in the Pixel Journey organization — including how we collaborate with specialized AI agents.
 
-These templates will encode years of hard-won production wisdom so new builders start at an advanced level.
+It defines the standards, recommended patterns, architectural principles, ecosystem overview, and high-quality AI prompt templates that keep every Px project consistent, high-quality, educational, production-ready, and fast to develop.
+
+**7 Foundational Principles** (non-negotiable, detailed in the handbook):
+1. **ZERO Custom Contract Overhead** — Prefer client-side and existing on-chain primitives.
+2. **Client-Side Sovereignty** — Users control their experience and keys.
+3. **On-Chain Entropy for Randomness** — Fair, verifiable randomness.
+4. **WharfKit First** — Session Kit for seamless wallet integration.
+5. **Design System Alignment** — Consistent beautiful UI/UX.
+6. **Educational Excellence** — Every artifact teaches and empowers.
+7. **Config-Driven & Composable** — Flexible, maintainable architectures.
+
+It includes quick-start paths for new humans and AI agents, specialized AI personas (px-core-architect, wallet-security-engineer, educational-documenter, etc.), pattern overviews, educational quality standards, and ready-to-use project scaffolds (Next.js dApp, analytics grids, etc.).
+
+This handbook works hand-in-glove with the Standards Codex and Design System. Every quest in the PxDev Examples Vault is built to exemplify these principles and patterns in production code.
 
 ### 3. pixel-journey-standards (The Living Standards Codex)
 **https://github.com/pixel-journey/pixel-journey-standards**
@@ -144,7 +157,7 @@ Below is the high-level map of what the completed vault will offer. This is how 
 **Example Quests**:
 - `px-hyperion-history-indexing-and-hooks` — Production patterns for rich transaction history and analytics.
 - `px-automation-schedulers-and-resource-monitors` — Safe automation for power-ups, claims, and monitoring.
-- `px-ai-assisted-dev-and-agent-orchestration` — Meta-patterns for how we leverage AI agents while maintaining human oversight and code quality (aligned with our AI self-audit standards).
+- `px-ai-assisted-dev-and-agent-orchestration` — Meta-patterns for how we leverage AI agents while maintaining human oversight and code quality (aligned with our AI self-audit standards and specialized personas in the templates handbook).
 
 **Skills unlocked**: Backend automation, indexing, monitoring, responsible AI-augmented development.
 
@@ -165,6 +178,7 @@ The PxDev Examples Vault does not exist in isolation. It is designed to work han
 - **[For Developers](https://docs.pixeljourney.xyz/journey-use-cases/for-developers/)** — The welcoming hub page that funnels builders into this vault and the broader resources.
 - **[WAX / Antelope Developer Guides](https://docs.pixeljourney.xyz/education/antelope-ecosystem-guides/wax/developer-guides/)** — Theory, best practices, and WharfKit patterns that pair perfectly with the runnable quests here.
 - **[Solana Developer Guides](https://docs.pixeljourney.xyz/education/solana-ecosystem-guides/developer-guides/)** — Complementary modern patterns; many frontend, state, and architectural lessons from the vault translate directly.
+- **[EVM Developer Guides](https://docs.pixeljourney.xyz/education/evm-ecosystem-guides/developer-guides/)** — Mature tooling and cross-chain patterns; shared principles from the vault apply across ecosystems.
 - **[PxLabs Overview](https://docs.pixeljourney.xyz/pxlabs/)** — The innovation lab home of this vault, Px Packages, and all our experimental platforms.
 - **[Px Packages & Px Portals](https://docs.pixeljourney.xyz/pxlabs/px-packages/)** — The modular foundation and architectural vision that many of these examples support and exemplify.
 - **GitHub Org**: https://github.com/pixel-journey — Star it, request access to private repos, and watch for new public educational releases.
@@ -182,6 +196,7 @@ New builders can start with the fundamentals and progressively unlock:
 - Real-time interactive experiences
 - Multi-chain thinking and cross-chain derivation
 - Professional engineering standards (directly from our Living Standards Codex)
+- AI-augmented development workflows (from the templates handbook)
 
 All while staying inside the playful, meme-loving, community-first, educational soul of Pixel Journey.
 
