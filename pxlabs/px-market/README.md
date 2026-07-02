@@ -46,6 +46,8 @@ PxMarket plays a vital role in the overall health and liquidity of the ecosystem
 - Tighter integration with PxWallet for seamless listing and management flows
 - Future support for cross-chain asset trading via Px Portals
 
+**For Builders & Developers**: PxMarket involves many production patterns available in the **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** (inside PxLabs). The vault contains 170+ educational code quests covering NFT/resource marketplace flows, trading mechanics, bulk actions, and the exact standards we follow. It’s the ideal hands-on resource if you want to understand or build similar marketplace experiences. Most repos are in private preview — request access on GitHub or via Discord.
+
 **We’re actively collecting feedback** on search quality, filter usefulness, mobile usability, and which marketplace features traders need most. Join the Discord to participate in testing.
 
 *Educational overview. All mechanics subject to final audits and iteration. DYOR. Not financial advice.*
