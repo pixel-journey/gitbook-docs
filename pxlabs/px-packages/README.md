@@ -73,6 +73,8 @@ This is the kind of architectural foundation that allows a project to thrive acr
 - [Developer Experience & Modularity](developer-experience-and-modularity.md)
 - [Security & Trust Principles](security-and-trust-principles.md)
 
+**Hands-on for Developers**: The **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** (inside PxLabs) contains 170+ educational code quests that exemplify the exact patterns, standards, and modularity principles we’re building into Px Packages. It’s the perfect companion resource for anyone wanting to understand or contribute to this foundational layer.
+
 ## 🔭 Current Focus & Roadmap Outlook
 
 Current high-level priorities include:
@@ -103,6 +105,7 @@ We are at an exciting stage where high-level direction and architectural decisio
 - Participate in early discussions about Px Packages and Px Portals
 - Share ideas on what would make the ecosystem more powerful and sustainable
 - Get early visibility as these systems mature
+- Explore the PxDev Examples Vault and standards/templates repos if you’re interested in contributing code or patterns
 
 Together, we are building something that can last and thrive for years to come.
 
