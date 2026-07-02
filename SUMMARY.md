@@ -7,7 +7,7 @@
 * [🟦 What is Pixel Journey?](introduction/the-pixel-journey-begins.md)
 * [🚀 The Famous 5-Minute Pixel Quest](getting-started/new-here-start-your-pixel-journey.md)
 * [✅ Pixel-Perfect Getting Started Checklist](getting-started/new-here-start-your-pixel-journey.md)
-* [🗺️ Your Pixel Journey — The Legendary 12-Step Progression Path](getting-started/your-pixel-journey-12-step-progression.md)
+* [🗺️ Your Pixel Journey: The Legendary 12-Step Progression Path](getting-started/your-pixel-journey-12-step-progression.md)
 * [🛠️ First Wallet Quest](education/getting-set-up-on-wax/README.md)
 * [🟦 How to Get Your First Pixal](season-1/the-pixal-pfps/README.md)
 
@@ -19,7 +19,7 @@
   * [🧓 Pre-Season & OGs](introduction/discord-roles-lvl-ranks-and-lounges/pre-season-and-ogs.md)
 * [🏆 What is the goal?](introduction/what-is-the-goal.md)
 * [🛸 The PXJourney Team](introduction/the-pxjourney-team.md)
-* [🌌 Our Pixel Journey Ecosystem — PxPortals & PxPackages](introduction/pxportals-and-pxpackages.md)
+* [🌌 Our Pixel Journey Ecosystem: PxPortals & PxPackages](introduction/pxportals-and-pxpackages.md)
 
 ## Season 1
 
@@ -110,8 +110,8 @@
     * [DeFi and Yield](education/antelope/ecosystem-guides/xpr/defi-and-yield/README.md)
       * [XPR Farms](education/antelope/ecosystem-guides/xpr/dexes-and-swapping/xpr-farms.md)
     * [Creator Tools](education/antelope/ecosystem-guides/xpr/creator-tools/README.md)
-    * [Security Tips](education/antelope-ecosystem-guides/xpr/security-tips/README.md)
-    * [Bridges](education/antelope-ecosystem-guides/xpr/bridges/README.md)
+    * [Security Tips](education/antelope/ecosystem-guides/xpr/security-tips/README.md)
+    * [Bridges](education/antelope/ecosystem-guides/xpr/bridges/README.md)
     * [Explorers and Analytics](education/antelope/ecosystem-guides/xpr/explorers-and-analytics/README.md)
     * [Other projects](education/antelope/ecosystem-guides/xpr/other-projects/README.md)
       * [XPR Governance](education/antelope/ecosystem-guides/xpr-governance.md)
@@ -123,7 +123,7 @@
     * [NFT Marketplaces](education/antelope/ecosystem-guides/eos/nft-marketplaces/README.md)
     * [DeFi and Yield](education/antelope/ecosystem-guides/eos/defi-and-yield/README.md)
     * [Creator Tools](education/antelope/ecosystem-guides/eos/creator-tools/README.md)
-    * [Security Tips](education/antelope-ecosystem-guides/eos/security-tips/README.md)
+    * [Security Tips](education/antelope/ecosystem-guides/eos/security-tips/README.md)
     * [Bridges](education/antelope/ecosystem-guides/eos/bridges/README.md)
     * [Explorers and Analytics](education/antelope/ecosystem-guides/eos/explorers-and-analytics/README.md)
     * [Other projects](education/antelope/ecosystem-guides/eos/other-projects/README.md)
@@ -131,11 +131,11 @@
     * [Developer Guides](education/antelope-ecosystem-guides/eos/developer-guides/README.md)
   * Emerging Antelope Chains
     * [Overview](education/antelope-ecosystem-guides/emerging-antelope-chains/README.md)
-    * [Wallets](education/antelope-ecosystem-guides/emerging-antelope-chains/wallets/README.md)
-    * [Security Tips](education/antelope-ecosystem-guides/emerging-antelope-chains/security-tips/README.md)
+    * [Wallets](education/antelope/ecosystem-guides/emerging-antelope-chains/wallets/README.md)
+    * [Security Tips](education/antelope/ecosystem-guides/emerging-antelope-chains/security-tips/README.md)
     * [Creator Tools](education/antelope/ecosystem-guides/emerging-antelope-chains/creator-tools/README.md)
     * [Other projects](education/antelope/ecosystem-guides/emerging-antelope-chains/other-projects/README.md)
-    * [Wire Network](education/antelope/ecosystem-guides/emerging-antelope-chains/wire-network.md)
+      * [Wire Network](education/antelope/ecosystem-guides/emerging-antelope-chains/wire-network.md)
 * [🟣 Solana Ecosystem Guides](education/solana-ecosystem-guides/README.md)
   * [Getting Started](education/solana-ecosystem-guides/getting-started/README.md)
   * [Wallets](education/solana-ecosystem-guides/wallets/README.md)
@@ -151,7 +151,7 @@
 * [⛓️ EVM Ecosystem Guides](education/evm-ecosystem-guides/README.md)
   * [Developer Guides](education/evm/ecosystem-guides/developer-guides/README.md)
   * Base
-    * [Getting Started](education/evm-ecosystem-guides/base/getting-started/README.md)
+    * [Getting Started](education/evm/ecosystem-guides/base/getting-started/README.md)
     * [Wallets](education/evm/ecosystem-guides/base/wallets/README.md)
     * [DEXes and Swapping](education/evm/ecosystem-guides/base/dexes-and-swapping/README.md)
     * [NFT Marketplaces](education/evm/ecosystem-guides/base/nft-marketplaces/README.md)
@@ -197,7 +197,7 @@
   * Other EVM Chains
     * See hub for deep dives on Arbitrum, Optimism, Avalanche, Linea, Scroll, zkSync and more
 * [🧑‍🏫 What are NFTs?](education/what-are-nfts.md)
-* [🏢 WAX Ecosystem Guides — Advanced](education/wax-ecosystem-guides/README.md)
+* [🏢 WAX Ecosystem Guides: Advanced](education/wax-ecosystem-guides/README.md)
 * [📚 Common / Consolidated Guides](education/common-guides/README.md)
   * Wallets
     * [Overview](education/common-guides/wallets/overview.md)
@@ -205,31 +205,31 @@
     * [EVM Chains](education/common-guides/wallets/evm.md)
     * [Solana](education/common-guides/wallets/solana.md)
 
-## 🧪 PxLabs — Innovation Lab
+## 🧪 PxLabs: Innovation Lab
 
 * [PxLabs Overview](pxlabs/README.md)
-  * [PxLanding — The Central Hub](pxlabs/px-landing/README.md)
-  * [PxLearn — Web3 Academy](pxlabs/px-learn/README.md)
-  * [PxWallet — Institutional Vault](pxlabs/px-wallet/README.md)
-  * [PxMarket — NFT & Resource Marketplace](pxlabs/px-market/README.md)
-  * [PxStaking — Yield Engine](pxlabs/px-staking/README.md)
-  * [PxSwap — Decentralized Exchange](pxlabs/px-swap/README.md)
-  * [PxHot — Arena Battles](pxlabs/px-hot/README.md)
+  * [PxLanding: The Central Hub](pxlabs/px-landing/README.md)
+  * [PxLearn: Web3 Academy](pxlabs/px-learn/README.md)
+  * [PxWallet: Institutional Vault](pxlabs/px-wallet/README.md)
+  * [PxMarket: NFT & Resource Marketplace](pxlabs/px-market/README.md)
+  * [PxStaking: Yield Engine](pxlabs/px-staking/README.md)
+  * [PxSwap: Decentralized Exchange](pxlabs/px-swap/README.md)
+  * [PxHot: Arena Battles](pxlabs/px-hot/README.md)
   * [Px Packages & Px Portals](pxlabs/px-packages/README.md)
     * [Cross-Chain & Multi-Chain Vision](pxlabs/px-packages/cross-chain-and-multi-chain-vision.md)
     * [Px Achievements](pxlabs/px-packages/achievements.md)
     * [Px Badges](pxlabs/px-packages/badges.md)
-    * [PxUI — Reusable Components & Theming](pxlabs/px-packages/px-ui.md)
-    * [PxVault — Automation & Ownership Unlocks](pxlabs/px-packages/px-vault.md)
+    * [PxUI: Reusable Components & Theming](pxlabs/px-packages/px-ui.md)
+    * [PxVault: Automation & Ownership Unlocks](pxlabs/px-packages/px-vault.md)
     * [Shared State & Cross-Portal Communication](pxlabs/px-packages/shared-state-and-cross-portal-communication.md)
     * [Offline Resilience & PWA Architecture](pxlabs/px-packages/offline-resilience-and-pwa-architecture.md)
     * [Developer Experience & Modularity](pxlabs/px-packages/developer-experience-and-modularity.md)
     * [Security & Trust Principles](pxlabs/px-packages/security-and-trust-principles.md)
-  * [PxDev Examples Vault — 170+ Pixel-Perfect Educational Code Quests](pxlabs/px-dev-examples/README.md)
+  * [PxDev Examples Vault: 170+ Pixel-Perfect Educational Code Quests](pxlabs/px-dev-examples/README.md)
   * Upcoming Mini-Games
-    * [PxTD — Tower Defense](pxlabs/px-td/README.md)
-    * [PxSim — Simulation & Strategy](pxlabs/px-sim/README.md)
-    * [PxDie — Dice & Chance](pxlabs/px-die/README.md)
+    * [PxTD: Tower Defense](pxlabs/px-td/README.md)
+    * [PxSim: Simulation & Strategy](pxlabs/px-sim/README.md)
+    * [PxDie: Dice & Chance](pxlabs/px-die/README.md)
 
 ## Journey Use Cases
 
