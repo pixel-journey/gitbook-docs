@@ -56,6 +56,8 @@ This design rewards skill, consistency, and active engagement across the ecosyst
 - Enhanced analytics and historical performance insights
 - More sophisticated matchmaking and event types
 
+**For Builders & Developers**: PxHot involves many production patterns available in the **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** (inside PxLabs). The vault contains 170+ educational code quests covering verifiable on-chain mechanics, voting/arena systems, leaderboards, real-time features, and the exact standards we follow. It’s the ideal hands-on resource if you want to understand or build similar interactive experiences. Most repos are in private preview — request access on GitHub or via Discord.
+
 **Stay in the loop on Discord** — alpha and closed beta testing waves are starting soon. Early testers will help calibrate reward curves, battle pacing, and the Arena Power system.
 
 *Educational content only. All mechanics are subject to final smart contract audits and iteration. DYOR. Not financial advice.*
