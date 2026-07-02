@@ -1,5 +1,8 @@
 # 🛠️ Developer Guides for WAX (Antelope)
 
+> **Hands-on Companion: PxDev Examples Vault**  
+> These guides give you the *why* and best-practice theory. For runnable, production-grade code examples with deep commentary, clone quests from the **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** inside PxLabs. It contains 170+ repositories covering WharfKit patterns, AtomicAssets, verifiable mechanics, wallet architectures, DeFi, i18n, PWA, automation, and everything we actually ship in PxWallet, PxHot, and Px Packages. Most repos are in private preview — request access on GitHub or via Discord.
+
 > **⚠️ Important Note for Developers**  
 > The WAX/Antelope ecosystem has evolved significantly. Many older libraries and tools are now deprecated. Always use modern, actively maintained tools and follow current best practices. This guide focuses on safe, future-proof development.
 
@@ -144,7 +147,6 @@ const chains = {
   wax: { id: '...', url: 'https://wax.greymass.com' },
   xpr: { id: '...', url: 'https://xpr.greymass.com' },
   vaulta: { id: '...', url: 'https://vaulta.greymass.com' }
-}
 
 // Switch chain dynamically
 session = new Session({
@@ -279,7 +281,7 @@ Batch transactions improve UX and reduce fees where applicable.
 1. Set up your development environment with the latest tools.
 2. Install and explore **Wharf Kit** for wallet and chain interactions.
 3. Build a simple test dApp or script to familiarize yourself with modern patterns.
-4. Review Pixel Journey's own open-source patterns where available for inspiration.
+4. Review Pixel Journey's own open-source patterns where available for inspiration — especially the **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)**.
 5. Test thoroughly on WAX testnet before moving to mainnet.
 
 ## Pixel Journey Relevance
