@@ -1,5 +1,8 @@
 # 🛠️ Developer Guides for Solana
 
+> **Hands-on Companion: PxDev Examples Vault**  
+> These guides provide Solana-specific theory and best practices. For runnable, production-grade code examples and patterns (many of which translate across chains — Next.js stacks, state management, i18n, PWA resilience, secure architectures, and our engineering standards), explore the **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** in PxLabs. It currently emphasizes WAX/Antelope production patterns from PxWallet, PxHot, PxMarket, and Px Packages, with future quests planned for multi-chain and Solana-aligned examples. Most repos are in private preview — request access on GitHub or via Discord.
+
 > **⚠️ Important Note for Developers**  
 > Solana's ecosystem moves fast. Always use modern, actively maintained libraries and follow current best practices. This guide focuses on safe, performant, and future-proof development.
 
@@ -90,7 +93,7 @@ function SolanaDapp() {
   return (
     <div>
       <WalletMultiButton />
-      {publicKey && <p>Connected: {publicKey.toBase58()}</p>}
+      {publicKey && <p>Connected: {publicKey.toBase58()}</p>
     </div>
   )
 }
@@ -179,7 +182,7 @@ try {
 2. Explore **@solana/wallet-adapter** for wallet connections.
 3. Build a simple test dApp or Anchor program.
 4. Test thoroughly on Solana devnet.
-5. Review how Solana can complement WAX-based Pixel Journey activities in a multi-chain strategy.
+5. Review how Solana can complement WAX-based Pixel Journey activities in a multi-chain strategy — and explore the **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** for shared patterns that apply across ecosystems.
 
 ## Pixel Journey Relevance
 
