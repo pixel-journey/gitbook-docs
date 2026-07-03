@@ -1,4 +1,4 @@
-# 🔄 PxSwap — Decentralized Exchange & Liquidity
+# 🔄 PxSwap: Decentralized Exchange & Liquidity
 
 > **⚠️ DEVELOPMENT STATUS (June 2026)**  
 > PxSwap is in mid-to-late stage development. Core smart routing across major WAX DEXes (Alcor, TacoSwap, Defibox), rate optimization, and basic liquidity tools are functional. Work continues on advanced order types, deeper portfolio integration, and tighter synchronization with PxStaking and PxWallet.  
@@ -8,23 +8,23 @@
 
 ## 💱 Core Experience
 
-- **Smart Routing** — Automatically finds the optimal path across Alcor, TacoSwap, Defibox, and other pools for the best rates and lowest slippage.
-- **Fast, Clean Interface** — Minimalist yet powerful swap experience with live price impact, route visualization, and clear fee estimates.
-- **Liquidity Provision** — Easy tools to add and remove liquidity across supported pools and earn trading fees.
-- **Portfolio-Aware Swapping** — See your balances and quickly swap between positions to support staking or crafting needs.
-- **PWA + Offline Queueing** — Queue swaps even when offline; they execute automatically on reconnect.
-- **Advanced Features (Coming)** — Limit orders, recurring swaps (DCA), and yield-optimized routing suggestions.
+- **Smart Routing**: Automatically finds the optimal path across Alcor, TacoSwap, Defibox, and other pools for the best rates and lowest slippage.
+- **Fast, Clean Interface**: Minimalist yet powerful swap experience with live price impact, route visualization, and clear fee estimates.
+- **Liquidity Provision**: Easy tools to add and remove liquidity across supported pools and earn trading fees.
+- **Portfolio-Aware Swapping**: See your balances and quickly swap between positions to support staking or crafting needs.
+- **PWA + Offline Queueing**: Queue swaps even when offline; they execute automatically on reconnect.
+- **Advanced Features (Coming)**: Limit orders, recurring swaps (DCA), and yield-optimized routing suggestions.
 
 ## 🔗 Pixel Journey Integration
 
 PxSwap is a **key utility layer** that supports the main economic activities:
 
-- **PxStaking Support** — Efficiently move between tokens to enter NFT farms, LP positions, or ingredient development strategies.
-- **Crafting & Ingredients** — Swap into the specific tokens needed for ingredient development and crafting loops.
-- **PxWallet Integration** — All swaps and liquidity positions are visible and manageable from your secure PxWallet.
-- **Portfolio Rebalancing** — Quickly adjust holdings to optimize for current staking opportunities or market conditions.
-- **Ecosystem Health** — Providing liquidity on WAX DEXes directly supports the stability and growth of the $PXJ economy.
-- **Future Px Portals** — Will extend efficient swapping and liquidity tools across multiple chains.
+- **PxStaking Support**: Efficiently move between tokens to enter NFT farms, LP positions, or ingredient development strategies.
+- **Crafting & Ingredients**: Swap into the specific tokens needed for ingredient development and crafting loops.
+- **PxWallet Integration**: All swaps and liquidity positions are visible and manageable from your secure PxWallet.
+- **Portfolio Rebalancing**: Quickly adjust holdings to optimize for current staking opportunities or market conditions.
+- **Ecosystem Health**: Providing liquidity on WAX DEXes directly supports the stability and growth of the $PXJ economy.
+- **Future Px Portals**: Will extend efficient swapping and liquidity tools across multiple chains.
 
 **After setting up your wallet, PxSwap becomes an essential daily tool for active users** who want to optimize their participation in staking, crafting, and DeFi yield.
 
@@ -45,8 +45,6 @@ PxSwap plays an important supporting role:
 - One-click “optimize for yield” routing suggestions based on your current staking positions
 - Enhanced mobile swap experience
 - Tighter integration with PxWallet and PxStaking for seamless position management
-
-**For Builders & Developers**: PxSwap involves many production patterns available in the **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** (inside PxLabs). The vault contains 170+ educational code quests covering smart routing, DeFi integration, liquidity provision, and the exact standards we follow. It’s the ideal hands-on resource if you want to understand or build similar DEX experiences. Most repos are in private preview — request access on GitHub or via Discord.
 
 **We value feedback** on rate quality, mobile usability, slippage experience, and what features would help users optimize their staking and crafting flows most effectively. Join Discord for testing.
 
