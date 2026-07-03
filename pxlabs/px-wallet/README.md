@@ -1,4 +1,4 @@
-# 👛 PxWallet — Institutional-Grade Vault & Portfolio
+# 👛 PxWallet: Institutional-Grade Vault & Portfolio
 
 > **⚠️ DEVELOPMENT STATUS (June 2026)**  
 > PxWallet is in advanced development. Core portfolio management, multisig/offline vault features, and deep WAX integration are functional in current builds. Polish on advanced security flows, cross-dApp state sync, and final UI refinements is ongoing.  
@@ -8,12 +8,12 @@
 
 ## 🔐 Core Experience
 
-- **Advanced Vaults & Multisig** — Create and manage secure multisignature vaults with flexible approval policies.
-- **Offline Signing Support** — Strong emphasis on air-gapped and offline transaction signing for maximum security.
-- **Unified Portfolio View** — See all your tokens, NFTs (Pixals and beyond), resources (CPU/NET/RAM), and staking positions in one clean interface.
-- **Deep WAX Integration** — Native support for Anchor, WharfKit sessions, AtomicAssets, and resource management.
-- **Smart Notifications & Alerts** — Stay informed about important on-chain activity, staking rewards, market opportunities, and security events.
-- **PWA + Strong Offline Support** — Fully installable with robust offline capabilities and queued actions.
+- **Advanced Vaults & Multisig**: Create and manage secure multisignature vaults with flexible approval policies.
+- **Offline Signing Support**: Strong emphasis on air-gapped and offline transaction signing for maximum security.
+- **Unified Portfolio View**: See all your tokens, NFTs (Pixals and beyond), resources (CPU/NET/RAM), and staking positions in one clean interface.
+- **Deep WAX Integration**: Native support for Anchor, WharfKit sessions, AtomicAssets, and resource management.
+- **Smart Notifications & Alerts**: Stay informed about important on-chain activity, staking rewards, market opportunities, and security events.
+- **PWA + Strong Offline Support**: Fully installable with robust offline capabilities and queued actions.
 
 ## 🔗 Pixel Journey Integration
 
@@ -43,8 +43,6 @@ Security is not an afterthought — it is a core design principle:
 - Improved mobile-first experience and gesture support
 - Tighter integration with Px Portals for future cross-chain portfolio management
 - More intelligent alerts and opportunity notifications
-
-**For Builders & Developers**: PxWallet showcases many of the production patterns available in the **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** (inside PxLabs). The vault contains 170+ educational code quests covering secure wallet architectures, cross-chain derivation, multisig patterns, and the exact standards we follow. It’s the ideal hands-on resource if you want to understand or build similar experiences. Most repos are in private preview — request access on GitHub or via Discord.
 
 **We are actively collecting feedback** on security flows, portfolio visualization, and which features matter most to different types of users. Join the Discord to participate in testing.
 
