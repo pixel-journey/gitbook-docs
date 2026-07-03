@@ -1,4 +1,4 @@
-# 🛒 PxMarket — NFT, Resource & Collectible Marketplace
+# 🛒 PxMarket: NFT, Resource & Collectible Marketplace
 
 > **⚠️ DEVELOPMENT STATUS (June 2026)**  
 > PxMarket is in advanced development. Core NFT listing/bidding, resource trading (especially RAM), and integration with crafting/ingredient flows are functional. Polish on bulk actions, advanced filters, mobile experience, and deeper PxWallet/PxStaking synchronization is ongoing.  
@@ -8,23 +8,23 @@
 
 ## 🛍️ Core Experience
 
-- **NFT & Collectible Trading** — List, buy, sell, and make offers on Pixals and crafted Pixel Journey collectibles with a clean, fast interface.
-- **Resource Trading** — Direct marketplace for RAM and other WAX resources with real-time pricing and one-click actions.
-- **Ingredient & Crafting Flow** — Develop ingredients and craft collectibles, then easily list or trade them on the market.
-- **Advanced Search & Filters** — Powerful filtering by collection, traits, price, rarity, and item type.
-- **Bulk Actions** — Efficiently manage multiple assets (list, delist, transfer, etc.).
-- **Watchlists & Notifications** — Track items of interest with price alerts and activity notifications.
-- **PWA + Strong Offline Support** — Browse cached listings and manage your inventory even when offline.
+- **NFT & Collectible Trading**: List, buy, sell, and make offers on Pixals and crafted Pixel Journey collectibles with a clean, fast interface.
+- **Resource Trading**: Direct marketplace for RAM and other WAX resources with real-time pricing and one-click actions.
+- **Ingredient & Crafting Flow**: Develop ingredients and craft collectibles, then easily list or trade them on the market.
+- **Advanced Search & Filters**: Powerful filtering by collection, traits, price, rarity, and item type.
+- **Bulk Actions**: Efficiently manage multiple assets (list, delist, transfer, etc.).
+- **Watchlists & Notifications**: Track items of interest with price alerts and activity notifications.
+- **PWA + Strong Offline Support**: Browse cached listings and manage your inventory even when offline.
 
 ## 🔗 Pixel Journey Integration
 
 PxMarket is a **core economic hub** that connects directly to the main loops of the ecosystem:
 
-- **Crafting & Ingredients** — Items you develop and craft in PxStaking flows can be immediately listed or traded here.
-- **NFT Staking Synergy** — Buy or sell NFTs that you plan to stake in WAXDAO farms or other staking contracts.
-- **PxWallet Centralization** — All your listings, offers, inventory, and trading history are visible and manageable from PxWallet.
-- **PxStaking** — Profits from sales can be redeployed into NFT farms, LP positions, or ingredient development.
-- **Future Px Portals** — Will eventually support cross-chain listing and trading of assets.
+- **Crafting & Ingredients**: Items you develop and craft in PxStaking flows can be immediately listed or traded here.
+- **NFT Staking Synergy**: Buy or sell NFTs that you plan to stake in WAXDAO farms or other staking contracts.
+- **PxWallet Centralization**: All your listings, offers, inventory, and trading history are visible and manageable from PxWallet.
+- **PxStaking**: Profits from sales can be redeployed into NFT farms, LP positions, or ingredient development.
+- **Future Px Portals**: Will eventually support cross-chain listing and trading of assets.
 
 **This is where much of the day-to-day economic activity happens** — buying, selling, and trading the NFTs, collectibles, and resources that power the Pixel Journey economy.
 
@@ -45,8 +45,6 @@ PxMarket plays a vital role in the overall health and liquidity of the ecosystem
 - Improved mobile trading experience
 - Tighter integration with PxWallet for seamless listing and management flows
 - Future support for cross-chain asset trading via Px Portals
-
-**For Builders & Developers**: PxMarket involves many production patterns available in the **[PxDev Examples Vault](https://docs.pixeljourney.xyz/pxlabs/px-dev-examples/)** (inside PxLabs). The vault contains 170+ educational code quests covering NFT/resource marketplace flows, trading mechanics, bulk actions, and the exact standards we follow. It’s the ideal hands-on resource if you want to understand or build similar marketplace experiences. Most repos are in private preview — request access on GitHub or via Discord.
 
 **We’re actively collecting feedback** on search quality, filter usefulness, mobile usability, and which marketplace features traders need most. Join the Discord to participate in testing.
 
